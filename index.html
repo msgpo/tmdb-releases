@@ -187,25 +187,25 @@
             $("#btn_movies").click(function () {
                 $("#movies").html("");
                 document.title = 'Новые релизы: Фильмы';
-                getContent("/releases.json");
+                getContent("/tmdb-releases/releases.json");
             });
 
             $("#btn_serials").click(function () {
                 $("#movies").html("");
                 document.title = 'Новые релизы: Сериалы';
-                getContent("/serials.json");
+                getContent("/tmdb-releases/serials.json");
             });
 
             $("#btn_cartoons").click(function () {
                 $("#movies").html("");
                 document.title = 'Новые релизы: Мультфильмы';
-                getContent("/cartoons.json");
+                getContent("/tmdb-releases/cartoons.json");
             });
 
             $("#btn_legends").click(function () {
                 $("#movies").html("");
                 document.title = 'Новые релизы: Легенды';
-                getContent("/legends.json");
+                getContent("/tmdb-releases/legends.json");
             });
         });
 
