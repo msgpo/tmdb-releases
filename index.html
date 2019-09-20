@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Новые релизы: Фильмы</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function (m, e, t, r, i, k, a) {
+            m[i] = m[i] || function () {
+                (m[i].a = m[i].a || []).push(arguments)
+            };
+            m[i].l = 1 * new Date();
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(54432235, "init", {
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true
+        });
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/54432235" style="position:absolute; left:-9999px;" alt="" /></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+
+    <style>
+        #movies {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(186px, 1fr));
+            justify-items: center;
+        }
+
+        .thumbnail {
+            width: 185px;
+            margin-bottom: 3px;
+            line-height: 1.42857143;
+            background-color: #282828;
+            border: 1px solid #4a4a4a;
+            border-radius: 0;
+            transition: border .2s ease-in-out
+        }
+
+        .thumbnail-mousey .thumbnail {
+            position: relative;
+            overflow: hidden
+        }
+
+        .thumbnail-mousey .thumbnail h3 {
+            position: absolute;
+            bottom: 0;
+            font-family: noto sans, sans-serif;
+            font-weight: 400;
+            font-size: 16px;
+            text-shadow: 2px 2px 4px #000;
+            width: 100%;
+            margin: 0;
+            padding: 4px;
+            background-color: rgba(0, 0, 0, .6)
+        }
+
+        .thumbnail-mousey .thumbnail h3 {
+            text-shadow: -1px 0 #333, 0 1px #333, 1px 0 #333, 0 -1px #333, #000 0 0 5px;
+            color: #fff;
+        }
+
+        .thumbnail-mousey .thumbnail h3 small {
+            text-shadow: -1px 0 #333, 0 1px #333, 1px 0 #333, 0 -1px #333, #000 0 0 5px;
+            color: #ddd;
+        }
+
+        .thumbnail-mousey .thumbnail h3 span {
+            text-shadow: -1px 0 #333, 0 1px #333, 1px 0 #333, 0 -1px #333, #000 0 0 5px;
+            font-size: 84%;
+            color: #ddd;
+        }
+
+        .thumbnail-mousey .thumbnail>img {
+            width: 185px;
+            height: 278px;
+        }
+
+        .wrap {
+            white-space: normal;
+            word-wrap: break-word;
+            word-break: break-all;
+        }
+
+        .content {
+            padding: 20px;
+        }
+
+        .modal-lg {
+            max-width: 90% !important;
+            margin: 20px auto;
+        }
+
+        .leftimg {
+            float: left;
+            margin: 7px 7px 7px 0;
+            max-width: 300px;
+            max-height: 170px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a id="btn_movies" class="nav-link">Фильмы</a>
+                </li>
+                <li class="nav-item">
+                    <a id="btn_serials" class="nav-link">Сериалы</a>
+                </li>
+                <li class="nav-item">
+                    <a id="btn_cartoons" class="nav-link">Мультфильмы</a>
+                </li>
+                <li class="nav-item">
+                    <a id="btn_legends" class="nav-link">Легенды</a>
+                </li>
+            </ul>
+        </nav>
+
+        <div id="movies" class="thumbnail-mousey">
+        </div>
+    </div>
+
+    <div class="modal fade" id="infoModal" role="dialog">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="infoName"></h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <span id="infoNameOrig"></span><br>
+                    <small id="infoOverview"></small>
+                    <div id="infoTorrents"></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">Закрыть</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        function showModal(base64Element) {
+            var el = JSON.parse(b64_to_utf8(base64Element));
+            $('#infoTorrents').empty();
+            $('#infoName').text(el.title + ' (' + el.year + ')');
+            var genres = el.genres.map(function (el) {
+                return capitalize(el.name)
+            }).join(", ");
+            $('#infoNameOrig').text(el.original_title + " " + genres);
+            var img = '<img src="' + el.backdrop_path + '" class="rounded leftimg">';
+            $('#infoOverview').html(img + el.overview);
+            $('#infoModal').modal('show');
+            var torrHtml = '';
+            for (var t in el.torrent) {
+                torrHtml += '<small>' + el.torrent[t].date.substring(0, 10) + ' <a href="' + el.torrent[t].magnet + '">' + el.torrent[t].name + '</a> ' + el.torrent[t].size + ' ⇑' + el.torrent[t].upload + ' ⇓' + el.torrent[t].download + '</small><br>';
+            }
+            $('#infoTorrents').html(torrHtml);
+        }
+
+        (function ($, document, window) {
+            $(document).ready(function () {
+                getContent("/releases.json");
+            })
+        })(jQuery, document, window);
+
+        $(function () {
+            $("#btn_movies").click(function () {
+                $("#movies").html("");
+                document.title = 'Новые релизы: Фильмы';
+                getContent("/releases.json");
+            });
+
+            $("#btn_serials").click(function () {
+                $("#movies").html("");
+                document.title = 'Новые релизы: Сериалы';
+                getContent("/serials.json");
+            });
+
+            $("#btn_cartoons").click(function () {
+                $("#movies").html("");
+                document.title = 'Новые релизы: Мультфильмы';
+                getContent("/cartoons.json");
+            });
+
+            $("#btn_legends").click(function () {
+                $("#movies").html("");
+                document.title = 'Новые релизы: Легенды';
+                getContent("/legends.json");
+            });
+        });
+
+        function getContent(linkJS) {
+            $.getJSON(linkJS, function (data) {
+                var cont = $("#movies");
+                data.Items.forEach(element => {
+                    var b64Elem = utf8_to_b64(JSON.stringify(element));
+                    cont.append(
+                        `<div id="m` + element.id + `" onclick="showModal('` + b64Elem + `')">
+            <div class="thumbnail shadow">
+                <h3>` + element.title + ` (` + element.year + `)<br>
+                    <span>` + element.vote_average.toFixed(2) + `</span><br>
+                    <small>` + element.genres.map(function (el) {
+                            return capitalize(el.name)
+                        }).join(", ") + `</small>
+                </h3>
+                <img class="img-responsive" alt="` + element.title + `" src="` + element.poster_path + `">
+            </div>
+        </div>`
+                    );
+                });
+            });
+        }
+
+        const capitalize = (s) => {
+            if (typeof s !== 'string') return ''
+            return s.charAt(0).toUpperCase() + s.slice(1)
+        }
+
+        function utf8_to_b64(str) {
+            return window.btoa(unescape(encodeURIComponent(str)));
+        }
+
+        function b64_to_utf8(str) {
+            return decodeURIComponent(escape(window.atob(str)));
+        }
+    </script>
+</body>
+
+</html>
