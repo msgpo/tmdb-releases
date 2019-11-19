@@ -177,8 +177,12 @@
             }).join(", ");
 
             $('#infoNameOrig').text(el.original_title + " • " + genres + " • " + countres);
-            var img = '<img src="' + el.backdrop_path + '" class="rounded leftimg">';
-            $('#infoOverview').html(img + el.overview);
+            var img = '<img src="' + el.backdrop_path + '" class="rounded leftimg"> <br>';
+            var youtube =
+                el.videos.results.map(function (trailer) {
+                    return '<iframe class="rounded leftimg" width="300" height="170" src="https://www.youtube.com/embed/' + trailer.key + '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
+                }) + "<br><br>";
+            $('#infoOverview').html(img + youtube + el.overview);
             $('#infoModal').modal('show');
             var torrHtml = '';
             for (var t in el.torrent) {
