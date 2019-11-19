@@ -1,6 +1,6 @@
 {
  "Date": "2019-11-19",
- "Time": "18:12:25",
+ "Time": "20:11:23",
  "Items": [
   {
    "adult": false,
@@ -2998,7 +2998,7 @@
    "title": "Капкан",
    "video": false,
    "vote_average": 6.1,
-   "vote_count": 812,
+   "vote_count": 813,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -3456,7 +3456,7 @@
    "title": "Клаус",
    "video": false,
    "vote_average": 8.8,
-   "vote_count": 115,
+   "vote_count": 119,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -3692,7 +3692,7 @@
    "title": "Форсаж: Хоббс и Шоу",
    "video": false,
    "vote_average": 6.6,
-   "vote_count": 1931,
+   "vote_count": 1930,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -5235,7 +5235,7 @@
    "title": "Люди в чёрном: Интернэшнл",
    "video": false,
    "vote_average": 5.9,
-   "vote_count": 1684,
+   "vote_count": 1685,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -6727,7 +6727,7 @@
    "title": "Мстители: Финал",
    "video": false,
    "vote_average": 8.3,
-   "vote_count": 10233,
+   "vote_count": 10234,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -7653,7 +7653,7 @@
    "title": "Пусть идёт снег",
    "video": false,
    "vote_average": 6.2,
-   "vote_count": 228,
+   "vote_count": 229,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -10221,7 +10221,7 @@
    "title": "Король",
    "video": false,
    "vote_average": 7.2,
-   "vote_count": 517,
+   "vote_count": 520,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -11764,7 +11764,7 @@
    "title": "Человек-паук: Вдали от дома",
    "video": false,
    "vote_average": 7.6,
-   "vote_count": 5053,
+   "vote_count": 5055,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -13103,7 +13103,7 @@
    "title": "Годзилла 2: Король монстров",
    "video": false,
    "vote_average": 6.2,
-   "vote_count": 1746,
+   "vote_count": 1747,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -14447,7 +14447,7 @@
    "title": "Проклятие Аннабель 3",
    "video": false,
    "vote_average": 6,
-   "vote_count": 1016,
+   "vote_count": 1017,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -15541,8 +15541,8 @@
      "source": "rutor.info",
      "size": "3.38 GB",
      "date": "2019-10-12T00:00:00+03:00",
-     "upload": 416,
-     "download": 22
+     "upload": 510,
+     "download": 23
     }
    ]
   },
@@ -20841,7 +20841,7 @@
    "title": "Джон Уик 3",
    "video": false,
    "vote_average": 7.1,
-   "vote_count": 3225,
+   "vote_count": 3226,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -22554,6 +22554,45 @@
       ]
      },
      {
+      "iso_3166_1": "AU",
+      "release_dates": [
+       {
+        "certification": "MA15+",
+        "iso_639_1": "",
+        "release_date": "2019-06-20T00:00:00Z",
+        "type": 3
+       },
+       {
+        "certification": "MA15+",
+        "iso_639_1": "en",
+        "release_date": "2019-09-10T00:00:00Z",
+        "type": 4
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "CA",
+      "release_dates": [
+       {
+        "certification": "18A",
+        "iso_639_1": "",
+        "release_date": "2019-06-21T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "ES",
+      "release_dates": [
+       {
+        "certification": "16",
+        "iso_639_1": "es",
+        "release_date": "2019-06-28T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
       "iso_3166_1": "DK",
       "release_dates": [
        {
@@ -22565,29 +22604,46 @@
       ]
      },
      {
-      "iso_3166_1": "BR",
+      "iso_3166_1": "US",
       "release_dates": [
        {
-        "certification": "16",
+        "certification": "R",
         "iso_639_1": "",
-        "release_date": "2019-08-22T00:00:00Z",
+        "release_date": "2019-06-21T00:00:00Z",
         "type": 3
        },
        {
-        "certification": "16",
-        "iso_639_1": "",
-        "release_date": "2019-11-01T00:00:00Z",
+        "certification": "R",
+        "iso_639_1": "en",
+        "release_date": "2019-09-10T00:00:00Z",
         "type": 4
+       },
+       {
+        "certification": "R",
+        "iso_639_1": "en",
+        "release_date": "2019-09-24T00:00:00Z",
+        "type": 5
        }
       ]
      },
      {
-      "iso_3166_1": "FR",
+      "iso_3166_1": "IE",
       "release_dates": [
        {
-        "certification": "12",
+        "certification": "",
         "iso_639_1": "",
-        "release_date": "2019-06-19T00:00:00Z",
+        "release_date": "2019-06-21T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "CZ",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-07-25T00:00:00Z",
         "type": 3
        }
       ]
@@ -22627,45 +22683,6 @@
         "certification": "15",
         "iso_639_1": "",
         "release_date": "2019-06-21T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "AU",
-      "release_dates": [
-       {
-        "certification": "MA15+",
-        "iso_639_1": "",
-        "release_date": "2019-06-20T00:00:00Z",
-        "type": 3
-       },
-       {
-        "certification": "MA15+",
-        "iso_639_1": "en",
-        "release_date": "2019-09-10T00:00:00Z",
-        "type": 4
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "CA",
-      "release_dates": [
-       {
-        "certification": "18A",
-        "iso_639_1": "",
-        "release_date": "2019-06-21T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "ES",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-06-28T00:00:00Z",
         "type": 3
        }
       ]
@@ -22715,46 +22732,29 @@
       ]
      },
      {
-      "iso_3166_1": "US",
+      "iso_3166_1": "BR",
       "release_dates": [
        {
-        "certification": "R",
+        "certification": "16",
         "iso_639_1": "",
-        "release_date": "2019-06-21T00:00:00Z",
+        "release_date": "2019-08-22T00:00:00Z",
         "type": 3
        },
        {
-        "certification": "R",
-        "iso_639_1": "en",
-        "release_date": "2019-09-10T00:00:00Z",
+        "certification": "16",
+        "iso_639_1": "",
+        "release_date": "2019-11-01T00:00:00Z",
         "type": 4
-       },
-       {
-        "certification": "R",
-        "iso_639_1": "en",
-        "release_date": "2019-09-24T00:00:00Z",
-        "type": 5
        }
       ]
      },
      {
-      "iso_3166_1": "IE",
+      "iso_3166_1": "FR",
       "release_dates": [
        {
-        "certification": "",
+        "certification": "12",
         "iso_639_1": "",
-        "release_date": "2019-06-21T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "CZ",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-07-25T00:00:00Z",
+        "release_date": "2019-06-19T00:00:00Z",
         "type": 3
        }
       ]
