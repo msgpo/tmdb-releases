@@ -1,63 +1,79 @@
 {
  "Date": "2019-11-29",
- "Time": "08:12:10",
+ "Time": "12:16:30",
  "Items": [
   {
    "adult": false,
-   "backdrop_path": "http://image.tmdb.org/t/p/w780/sdjlVjkRwezP9G1a8TKwrnolRxI.jpg",
+   "backdrop_path": "http://image.tmdb.org/t/p/w780/61sbyO47yIpsMFyLhY1MWcqjg1Q.jpg",
    "belongs_to_collection": null,
-   "budget": 0,
+   "budget": 49000000,
    "genre_ids": null,
    "genres": [
     {
-     "id": 28,
-     "name": "боевик"
+     "id": 12,
+     "name": "приключения"
     },
     {
-     "id": 53,
-     "name": "триллер"
+     "id": 35,
+     "name": "комедия"
     },
     {
-     "id": 18,
-     "name": "драма"
+     "id": 10751,
+     "name": "семейный"
     }
    ],
-   "homepage": "https://www.signature-entertainment.co.uk/film/the-courier/",
-   "id": 611914,
-   "imdb_id": "tt9207616",
+   "homepage": "https://www.paramount.com/movies/dora-and-lost-city-gold",
+   "id": 499701,
+   "imdb_id": "tt7547410",
    "original_language": "en",
-   "original_title": "The Courier",
-   "overview": "На первый взгляд, она — всего лишь курьер на черном мотоцикле, стремительно пронзающем ночной Лондон. Но даже в огромном мегаполисе красотке удается ускользнуть от уличных камер, и ее имя невозможно найти ни в одной базе данных. Именно она, дерзкая и неуловимая, бросит вызов могущественному криминальному боссу. И ему лучше не знать, кто на самом деле эта взрывная брюнетка…",
-   "popularity": 29.561,
-   "poster_path": "http://image.tmdb.org/t/p/w500/yPsassSjwGynUCUB0pMwH4iVYkm.jpg",
+   "original_title": "Dora and the Lost City of Gold",
+   "overview": "Практически всё детство Дора провела в джунглях, где работали её родители-исследователи. Но никакие прежние приключения не могли подготовить девушку к опасностям старшей школы — непониманию, соперничеству, зависти. Вдобавок таинственным образом исчезают родители Доры. Но она не была бы собой, если бы опустила руки. Первая любовь, а также старые и новые друзья вдохновляют смелую девушку отправиться на поиски родных. На пути к цели их ждёт масса испытаний, а также леденящая кровь загадка потерянной цивилизации…",
+   "popularity": 44.546,
+   "poster_path": "http://image.tmdb.org/t/p/w500/qVUKgIkVagwdZ8LhVpWXfRXWm4r.jpg",
    "production_companies": [
     {
-     "id": 122033,
-     "logo_path": "http://image.tmdb.org/t/p/w185/hqqDS8Gam52Z0dv9O9VYOYHNIEQ.png",
-     "name": "Rollercoaster Angel Productions",
-     "origin_country": "GB"
+     "id": 2348,
+     "logo_path": "http://image.tmdb.org/t/p/w185/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+     "name": "Nickelodeon Movies",
+     "origin_country": "US"
     },
     {
-     "id": 122034,
-     "logo_path": "",
-     "name": "Signature Films",
-     "origin_country": "GB"
+     "id": 96540,
+     "logo_path": "http://image.tmdb.org/t/p/w185/AgYjTNeIKOh0yvegPLSjq8EOsif.png",
+     "name": "Paramount Players",
+     "origin_country": "US"
+    },
+    {
+     "id": 10221,
+     "logo_path": "http://image.tmdb.org/t/p/w185/99VfWRgKasZoyK9UVB39gnYvFrZ.png",
+     "name": "Walden Media",
+     "origin_country": "US"
+    },
+    {
+     "id": 10950,
+     "logo_path": "http://image.tmdb.org/t/p/w185/6TdE9m9KgV2az7vNI8n95rQiYr3.png",
+     "name": "Screen Queensland",
+     "origin_country": "AU"
     }
    ],
    "production_countries": [
     {
-     "iso_3166_1": "GB",
-     "name": "United Kingdom"
-    },
-    {
      "iso_3166_1": "US",
      "name": "United States of America"
+    },
+    {
+     "iso_3166_1": "AU",
+     "name": "Australia"
     }
    ],
-   "release_date": "22.11.2019",
-   "revenue": 0,
-   "runtime": 97,
+   "release_date": "08.08.2019",
+   "revenue": 116826172,
+   "runtime": 102,
    "spoken_languages": [
+    {
+     "iso_639_1": "es",
+     "name": "Español"
+    },
     {
      "iso_639_1": "en",
      "name": "English"
@@ -65,10 +81,10 @@
    ],
    "status": "Released",
    "tagline": "",
-   "title": "Курьер",
+   "title": "Дора и затерянный город",
    "video": false,
-   "vote_average": 4.5,
-   "vote_count": 8,
+   "vote_average": 6.4,
+   "vote_count": 351,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -88,19 +104,31 @@
    "media_type": "movie",
    "credit_id": "",
    "videos": {
-    "id": 611914,
+    "id": 499701,
     "results": [
      {
-      "id": "5db35728d40d4c0018f82382",
+      "id": "5cad89ae9251417aa100a745",
       "iso_3166_1": "RU",
       "iso_639_1": "ru",
-      "key": "ROS4iK6j9eg",
-      "name": "КУРЬЕР | Трейлер | В кино с 12 декабря",
+      "key": "qzoIy1JSdH0",
+      "name": "Дора и Затерянный город - Официальный трейлер (HD)",
       "site": "YouTube",
       "size": 1080,
       "type": "Trailer",
-      "link": "https://www.youtube.com/watch?v=ROS4iK6j9eg",
-      "poster": "https://img.youtube.com/vi/ROS4iK6j9eg/0.jpg"
+      "link": "https://www.youtube.com/watch?v=qzoIy1JSdH0",
+      "poster": "https://img.youtube.com/vi/qzoIy1JSdH0/0.jpg"
+     },
+     {
+      "id": "5dd56abeb39e3500138e7725",
+      "iso_3166_1": "RU",
+      "iso_639_1": "ru",
+      "key": "_TXO6To4Q5U",
+      "name": "Дора и Затерянный город - Официальный трейлер (HD)",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "link": "https://www.youtube.com/watch?v=_TXO6To4Q5U",
+      "poster": "https://img.youtube.com/vi/_TXO6To4Q5U/0.jpg"
      }
     ]
    },
@@ -108,24 +136,85 @@
     "id": 0,
     "results": [
      {
-      "iso_3166_1": "NL",
+      "iso_3166_1": "FR",
       "release_dates": [
        {
-        "certification": "",
+        "certification": "U",
         "iso_639_1": "",
-        "release_date": "2020-07-30T00:00:00Z",
-        "type": 1
+        "release_date": "2019-08-14T00:00:00Z",
+        "type": 3
        }
       ]
      },
      {
-      "iso_3166_1": "US",
+      "iso_3166_1": "SG",
       "release_dates": [
        {
-        "certification": "R",
+        "certification": "PG",
         "iso_639_1": "",
-        "release_date": "2019-11-22T00:00:00Z",
-        "type": 2
+        "release_date": "2019-08-29T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "HK",
+      "release_dates": [
+       {
+        "certification": "I",
+        "iso_639_1": "",
+        "release_date": "2019-08-22T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "SE",
+      "release_dates": [
+       {
+        "certification": "7",
+        "iso_639_1": "",
+        "release_date": "2019-09-27T00:00:00Z",
+        "type": 3
+       },
+       {
+        "certification": "7",
+        "iso_639_1": "",
+        "release_date": "2020-02-10T00:00:00Z",
+        "type": 5
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "9",
+        "iso_639_1": "",
+        "release_date": "2019-08-08T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "RU",
+      "release_dates": [
+       {
+        "certification": "6+",
+        "iso_639_1": "",
+        "release_date": "2019-08-08T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "DE",
+      "release_dates": [
+       {
+        "certification": "6",
+        "iso_639_1": "",
+        "release_date": "2019-10-10T00:00:00Z",
+        "type": 3
        }
       ]
      },
@@ -134,31 +223,64 @@
       "release_dates": [
        {
         "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-12-20T00:00:00Z",
-        "type": 2
-       },
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2020-02-03T00:00:00Z",
+        "iso_639_1": "en",
+        "release_date": "2019-12-09T00:00:00Z",
         "type": 5
        },
        {
-        "certification": "",
+        "certification": "PG",
         "iso_639_1": "",
-        "release_date": "2019-12-20T00:00:00Z",
+        "release_date": "2019-08-16T00:00:00Z",
+        "type": 3
+       },
+       {
+        "certification": "PG",
+        "iso_639_1": "",
+        "release_date": "2019-12-09T00:00:00Z",
         "type": 4
        }
       ]
      },
      {
-      "iso_3166_1": "RU",
+      "iso_3166_1": "AU",
       "release_dates": [
        {
-        "certification": "18+",
+        "certification": "PG",
         "iso_639_1": "",
-        "release_date": "2019-12-12T00:00:00Z",
+        "release_date": "2019-09-19T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "ES",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-08-30T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "DK",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-09-19T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "IT",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-09-26T00:00:00Z",
         "type": 3
        }
       ]
@@ -169,7 +291,118 @@
        {
         "certification": "",
         "iso_639_1": "",
-        "release_date": "2019-12-12T00:00:00Z",
+        "release_date": "2019-08-15T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "US",
+      "release_dates": [
+       {
+        "certification": "PG",
+        "iso_639_1": "",
+        "release_date": "2019-08-09T00:00:00Z",
+        "type": 3
+       },
+       {
+        "certification": "PG",
+        "iso_639_1": "",
+        "release_date": "2019-11-05T00:00:00Z",
+        "type": 4
+       },
+       {
+        "certification": "PG",
+        "iso_639_1": "",
+        "release_date": "2019-11-19T00:00:00Z",
+        "type": 5
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "IE",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-08-16T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "SK",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-08-22T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "NO",
+      "release_dates": [
+       {
+        "certification": "6",
+        "iso_639_1": "",
+        "release_date": "2019-09-20T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "PT",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-08-08T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "FI",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-09-20T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "HU",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-08-08T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "AR",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-08-29T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "TH",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-08-08T00:00:00Z",
         "type": 3
        }
       ]
@@ -178,13 +411,31 @@
    },
    "torrent": [
     {
-     "name": "Курьер / The Courier (2019) WEB-DL 1080p | L2",
-     "magnet": "magnet:?xt=urn:btih:6801e11ca27c38590e10fc1e3a076b439c41859d\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "name": "Дора и Затерянный город / Dora and the Lost City of Gold (2019) BDRip 1080p от HELLYWOOD | iTunes",
+     "magnet": "magnet:?xt=urn:btih:64e56d5db40e10112e836c576ab71c7a1934fc92\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
      "source": "rutor.info",
-     "size": "5.80 GB",
+     "size": "7.57 GB",
      "date": "2019-11-29T00:00:00+03:00",
-     "upload": 28,
-     "download": 27
+     "upload": 1,
+     "download": 2
+    },
+    {
+     "name": "Дора и Затерянный город / Dora and the Lost City of Gold (2019) BDRemux 1080p от селезень | iTunes",
+     "magnet": "magnet:?xt=urn:btih:7e268b92bcb21a1c8bee6034b405b5289b3d7241\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "24.15 GB",
+     "date": "2019-11-27T00:00:00+03:00",
+     "upload": 14,
+     "download": 4
+    },
+    {
+     "name": "Дора и Затерянный город / Dora and the Lost City of Gold (2019) BDRip 1080p от селезень | iTunes",
+     "magnet": "magnet:?xt=urn:btih:c95c2bf5c57cba0730f140e69e84ddaa056f84dc\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "13.26 GB",
+     "date": "2019-11-27T00:00:00+03:00",
+     "upload": 42,
+     "download": 14
     }
    ]
   },
@@ -268,7 +519,7 @@
    "title": "Ирландец",
    "video": false,
    "vote_average": 8.3,
-   "vote_count": 374,
+   "vote_count": 386,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -655,13 +906,22 @@
    },
    "torrent": [
     {
+     "name": "Ирландец / The Irishman (2019) UHD WEB-DL 2160p от селезень | 4K | HDR | D",
+     "magnet": "magnet:?xt=urn:btih:45f33ec145b74822108e1d397aa819c3025699e3\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "27.19 GB",
+     "date": "2019-11-29T00:00:00+03:00",
+     "upload": 1,
+     "download": 3
+    },
+    {
      "name": "Ирландец / The Irishman (2019) WEB-DL 1080p от Scarabey | Пифагор",
      "magnet": "magnet:?xt=urn:btih:c766452808d664b9fae335221b7f9a218b1f9db3\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
      "source": "rutor.info",
      "size": "10.60 GB",
      "date": "2019-11-28T00:00:00+03:00",
-     "upload": 137,
-     "download": 48
+     "upload": 130,
+     "download": 49
     },
     {
      "name": "Ирландец / The Irishman (2019) WEB-DL-HEVC 1080p от селезень | HDR | D",
@@ -669,8 +929,8 @@
      "source": "rutor.info",
      "size": "10.23 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 374,
-     "download": 48
+     "upload": 356,
+     "download": 42
     },
     {
      "name": "Ирландец / The Irishman (2019) WEB-DL-HEVC 1080p от селезень | D",
@@ -678,8 +938,8 @@
      "source": "rutor.info",
      "size": "10.21 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 153,
-     "download": 25
+     "upload": 155,
+     "download": 23
     },
     {
      "name": "Ирландец / The Irishman (2019) WEB-DL 1080p | Пифагор",
@@ -687,8 +947,592 @@
      "source": "rutor.info",
      "size": "12.01 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 2164,
-     "download": 301
+     "upload": 2001,
+     "download": 265
+    }
+   ]
+  },
+  {
+   "adult": false,
+   "backdrop_path": "http://image.tmdb.org/t/p/w780/sdjlVjkRwezP9G1a8TKwrnolRxI.jpg",
+   "belongs_to_collection": null,
+   "budget": 0,
+   "genre_ids": null,
+   "genres": [
+    {
+     "id": 28,
+     "name": "боевик"
+    },
+    {
+     "id": 53,
+     "name": "триллер"
+    },
+    {
+     "id": 18,
+     "name": "драма"
+    }
+   ],
+   "homepage": "https://www.signature-entertainment.co.uk/film/the-courier/",
+   "id": 611914,
+   "imdb_id": "tt9207616",
+   "original_language": "en",
+   "original_title": "The Courier",
+   "overview": "На первый взгляд, она — всего лишь курьер на черном мотоцикле, стремительно пронзающем ночной Лондон. Но даже в огромном мегаполисе красотке удается ускользнуть от уличных камер, и ее имя невозможно найти ни в одной базе данных. Именно она, дерзкая и неуловимая, бросит вызов могущественному криминальному боссу. И ему лучше не знать, кто на самом деле эта взрывная брюнетка…",
+   "popularity": 29.561,
+   "poster_path": "http://image.tmdb.org/t/p/w500/yPsassSjwGynUCUB0pMwH4iVYkm.jpg",
+   "production_companies": [
+    {
+     "id": 122033,
+     "logo_path": "http://image.tmdb.org/t/p/w185/hqqDS8Gam52Z0dv9O9VYOYHNIEQ.png",
+     "name": "Rollercoaster Angel Productions",
+     "origin_country": "GB"
+    },
+    {
+     "id": 122034,
+     "logo_path": "",
+     "name": "Signature Films",
+     "origin_country": "GB"
+    }
+   ],
+   "production_countries": [
+    {
+     "iso_3166_1": "GB",
+     "name": "United Kingdom"
+    },
+    {
+     "iso_3166_1": "US",
+     "name": "United States of America"
+    }
+   ],
+   "release_date": "22.11.2019",
+   "revenue": 0,
+   "runtime": 97,
+   "spoken_languages": [
+    {
+     "iso_639_1": "en",
+     "name": "English"
+    }
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Курьер",
+   "video": false,
+   "vote_average": 4.5,
+   "vote_count": 8,
+   "created_by": null,
+   "episode_run_time": null,
+   "first_air_date": "",
+   "in_production": false,
+   "languages": null,
+   "last_air_date": "",
+   "name": "",
+   "networks": null,
+   "number_of_episodes": 0,
+   "number_of_seasons": 0,
+   "origin_country": null,
+   "original_name": "",
+   "seasons": null,
+   "type": "",
+   "year": "2019",
+   "character": "",
+   "media_type": "movie",
+   "credit_id": "",
+   "videos": {
+    "id": 611914,
+    "results": [
+     {
+      "id": "5db35728d40d4c0018f82382",
+      "iso_3166_1": "RU",
+      "iso_639_1": "ru",
+      "key": "ROS4iK6j9eg",
+      "name": "КУРЬЕР | Трейлер | В кино с 12 декабря",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "link": "https://www.youtube.com/watch?v=ROS4iK6j9eg",
+      "poster": "https://img.youtube.com/vi/ROS4iK6j9eg/0.jpg"
+     }
+    ]
+   },
+   "release_dates": {
+    "id": 0,
+    "results": [
+     {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-07-30T00:00:00Z",
+        "type": 1
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "US",
+      "release_dates": [
+       {
+        "certification": "R",
+        "iso_639_1": "",
+        "release_date": "2019-11-22T00:00:00Z",
+        "type": 2
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "GB",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-12-20T00:00:00Z",
+        "type": 2
+       },
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-02-03T00:00:00Z",
+        "type": 5
+       },
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-12-20T00:00:00Z",
+        "type": 4
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "RU",
+      "release_dates": [
+       {
+        "certification": "18+",
+        "iso_639_1": "",
+        "release_date": "2019-12-12T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "UA",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-12-12T00:00:00Z",
+        "type": 3
+       }
+      ]
+     }
+    ]
+   },
+   "torrent": [
+    {
+     "name": "Курьер / The Courier (2019) WEB-DL 1080p | L2",
+     "magnet": "magnet:?xt=urn:btih:6801e11ca27c38590e10fc1e3a076b439c41859d\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "5.80 GB",
+     "date": "2019-11-29T00:00:00+03:00",
+     "upload": 52,
+     "download": 31
+    }
+   ]
+  },
+  {
+   "adult": false,
+   "backdrop_path": "http://image.tmdb.org/t/p/w780/mBBJ3N3an8FLkp0ZpGgIJwHKhBP.jpg",
+   "belongs_to_collection": null,
+   "budget": 20000000,
+   "genre_ids": null,
+   "genres": [
+    {
+     "id": 35,
+     "name": "комедия"
+    },
+    {
+     "id": 80,
+     "name": "криминал"
+    },
+    {
+     "id": 18,
+     "name": "драма"
+    }
+   ],
+   "homepage": "https://www.hustlers.movie/",
+   "id": 540901,
+   "imdb_id": "tt5503686",
+   "original_language": "en",
+   "original_title": "Hustlers",
+   "overview": "Они — яркие, сексуальные и амбициозные. Они — танцовщицы элитного стриптиз-клуба, клиенты которого — известные финансисты с Уолл-Стрит. Но когда банковский кризис в одночасье превращает накопления девушек в пыль, они разрабатывают план по возврату потерянных денег, чтобы снова иметь возможность вести роскошную жизнь и заодно наказать финансистов, оставивших их без гроша.",
+   "popularity": 156.277,
+   "poster_path": "http://image.tmdb.org/t/p/w500/lqNfHZ1wlAwoIbvzsEF7My9v57V.jpg",
+   "production_companies": [
+    {
+     "id": 13184,
+     "logo_path": "http://image.tmdb.org/t/p/w185/pfUB1a62jSMIqp4Xmaq6z2cgW0B.png",
+     "name": "Annapurna Pictures",
+     "origin_country": "US"
+    },
+    {
+     "id": 77152,
+     "logo_path": "http://image.tmdb.org/t/p/w185/dKwI9lYFR9tHRHnut7P52gIl3Sb.png",
+     "name": "Gloria Sanchez Productions",
+     "origin_country": "US"
+    },
+    {
+     "id": 47729,
+     "logo_path": "http://image.tmdb.org/t/p/w185/5NRpQ7xxmODXAjt2pRWUFMLVzvP.png",
+     "name": "STX Entertainment",
+     "origin_country": "US"
+    }
+   ],
+   "production_countries": [
+    {
+     "iso_3166_1": "US",
+     "name": "United States of America"
+    }
+   ],
+   "release_date": "06.09.2019",
+   "revenue": 0,
+   "runtime": 109,
+   "spoken_languages": [
+    {
+     "iso_639_1": "en",
+     "name": "English"
+    },
+    {
+     "iso_639_1": "ru",
+     "name": "Pусский"
+    },
+    {
+     "iso_639_1": "es",
+     "name": "Español"
+    }
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Стриптизёрши",
+   "video": false,
+   "vote_average": 6.2,
+   "vote_count": 495,
+   "created_by": null,
+   "episode_run_time": null,
+   "first_air_date": "",
+   "in_production": false,
+   "languages": null,
+   "last_air_date": "",
+   "name": "",
+   "networks": null,
+   "number_of_episodes": 0,
+   "number_of_seasons": 0,
+   "origin_country": null,
+   "original_name": "",
+   "seasons": null,
+   "type": "",
+   "year": "2019",
+   "character": "",
+   "media_type": "movie",
+   "credit_id": "",
+   "videos": {
+    "id": 540901,
+    "results": [
+     {
+      "id": "5d6691739c24fc0015fac474",
+      "iso_3166_1": "RU",
+      "iso_639_1": "ru",
+      "key": "oc1WN7KFp-I",
+      "name": "Стриптизерши. Официальный трейлер. 16+",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "link": "https://www.youtube.com/watch?v=oc1WN7KFp-I",
+      "poster": "https://img.youtube.com/vi/oc1WN7KFp-I/0.jpg"
+     },
+     {
+      "id": "5d7008c4e2bca81e2aac80b7",
+      "iso_3166_1": "RU",
+      "iso_639_1": "ru",
+      "key": "8PwcqT4C36k",
+      "name": "Стриптизерши. Дублированный трейлер. HD. 18+",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "link": "https://www.youtube.com/watch?v=8PwcqT4C36k",
+      "poster": "https://img.youtube.com/vi/8PwcqT4C36k/0.jpg"
+     },
+     {
+      "id": "5d7e374f3c43440010a1c7bf",
+      "iso_3166_1": "RU",
+      "iso_639_1": "ru",
+      "key": "n606lKVHcMs",
+      "name": "Стриптизерши. ТВ-спот. В кино с 12 сентября",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Teaser",
+      "link": "https://www.youtube.com/watch?v=n606lKVHcMs",
+      "poster": "https://img.youtube.com/vi/n606lKVHcMs/0.jpg"
+     }
+    ]
+   },
+   "release_dates": {
+    "id": 0,
+    "results": [
+     {
+      "iso_3166_1": "SG",
+      "release_dates": [
+       {
+        "certification": "M18 (edited)",
+        "iso_639_1": "",
+        "release_date": "2019-09-12T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "KR",
+      "release_dates": [
+       {
+        "certification": "청소년 관람불가 ",
+        "iso_639_1": "",
+        "release_date": "2019-11-27T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "DE",
+      "release_dates": [
+       {
+        "certification": "16",
+        "iso_639_1": "",
+        "release_date": "2019-11-28T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "RU",
+      "release_dates": [
+       {
+        "certification": "18+",
+        "iso_639_1": "",
+        "release_date": "2019-09-12T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "16",
+        "iso_639_1": "",
+        "release_date": "2019-09-12T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "DK",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-09-26T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "US",
+      "release_dates": [
+       {
+        "certification": "R",
+        "iso_639_1": "",
+        "release_date": "2019-09-13T00:00:00Z",
+        "type": 3
+       },
+       {
+        "certification": "R",
+        "iso_639_1": "",
+        "release_date": "2019-11-26T00:00:00Z",
+        "type": 4
+       },
+       {
+        "certification": "R",
+        "iso_639_1": "",
+        "release_date": "2019-12-10T00:00:00Z",
+        "type": 5
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "IE",
+      "release_dates": [
+       {
+        "certification": "16",
+        "iso_639_1": "",
+        "release_date": "2019-09-13T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "CZ",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-09-12T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "AU",
+      "release_dates": [
+       {
+        "certification": "MA15+",
+        "iso_639_1": "",
+        "release_date": "2019-10-10T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "ES",
+      "release_dates": [
+       {
+        "certification": "18",
+        "iso_639_1": "",
+        "release_date": "2019-11-08T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "CA",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-09-06T00:00:00Z",
+        "type": 1
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "SK",
+      "release_dates": [
+       {
+        "certification": "15",
+        "iso_639_1": "",
+        "release_date": "2019-10-10T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "BE",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-10-16T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "FR",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-10-16T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "BR",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "pt",
+        "release_date": "2019-12-05T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "IT",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "it",
+        "release_date": "2019-11-07T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "SE",
+      "release_dates": [
+       {
+        "certification": "11",
+        "iso_639_1": "",
+        "release_date": "2019-10-04T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "GB",
+      "release_dates": [
+       {
+        "certification": "15",
+        "iso_639_1": "",
+        "release_date": "2020-01-20T00:00:00Z",
+        "type": 4
+       },
+       {
+        "certification": "15",
+        "iso_639_1": "en",
+        "release_date": "2020-01-20T00:00:00Z",
+        "type": 5
+       }
+      ]
+     }
+    ]
+   },
+   "torrent": [
+    {
+     "name": "Стриптизёрши / Hustlers (2019) BDRip 1080p от селезень | iTunes",
+     "magnet": "magnet:?xt=urn:btih:2eec3f9bbac5b942b4c264ff5ec9f2e979425b3d\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "11.98 GB",
+     "date": "2019-11-29T00:00:00+03:00",
+     "upload": 1,
+     "download": 35
+    },
+    {
+     "name": "Стриптизёрши / Hustlers (2019) WEB-DL 1080p | iTunes",
+     "magnet": "magnet:?xt=urn:btih:c14970986c5c34a6aeb65b18615316540c8b235c\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "7.54 GB",
+     "date": "2019-11-26T00:00:00+03:00",
+     "upload": 342,
+     "download": 26
+    },
+    {
+     "name": "Стриптизёрши / Hustlers (2019) WEB-DL 1080p | iTunes",
+     "magnet": "magnet:?xt=urn:btih:3d7dc46c251c22a6cc551ab53b27b264d7c9e44d\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "3.79 GB",
+     "date": "2019-11-25T00:00:00+03:00",
+     "upload": 1298,
+     "download": 103
     }
    ]
   },
@@ -1352,7 +2196,7 @@
      "source": "rutor.info",
      "size": "11.54 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 17,
+     "upload": 19,
      "download": 4
     },
     {
@@ -1361,8 +2205,8 @@
      "source": "rutor.info",
      "size": "7.75 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 18,
-     "download": 1
+     "upload": 21,
+     "download": 2
     },
     {
      "name": "Король Лев / The Lion King (2019) BDRip 1080p от селезень | 3D-Video | HSBS | Лицензия",
@@ -1370,8 +2214,8 @@
      "source": "rutor.info",
      "size": "13.45 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 10,
-     "download": 3
+     "upload": 11,
+     "download": 5
     },
     {
      "name": "Король Лев / The Lion King (2019) BDRip-HEVC 1080p от селезень | Лицензия",
@@ -1379,8 +2223,8 @@
      "source": "rutor.info",
      "size": "7.01 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 20,
-     "download": 3
+     "upload": 22,
+     "download": 6
     },
     {
      "name": "Король Лев / The Lion King (2019) BDRemux 1080p от селезень | 3D-Video | Лицензия",
@@ -1389,7 +2233,7 @@
      "size": "40.63 GB",
      "date": "2019-11-27T00:00:00+03:00",
      "upload": 8,
-     "download": 4
+     "download": 3
     },
     {
      "name": "Король Лев / The Lion King (2019) UHD BDRemux 2160p от селезень | 4K | HDR | Лицензия",
@@ -1397,8 +2241,8 @@
      "source": "rutor.info",
      "size": "50.03 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 31,
-     "download": 19
+     "upload": 37,
+     "download": 15
     },
     {
      "name": "Король Лев / The Lion King (2019) BDRemux 1080p от селезень | Лицензия",
@@ -1406,8 +2250,8 @@
      "source": "rutor.info",
      "size": "27.51 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 14,
-     "download": 1
+     "upload": 15,
+     "download": 4
     },
     {
      "name": "Король Лев / The Lion King (2019) BDRip 1080p от селезень | Лицензия",
@@ -1415,8 +2259,8 @@
      "source": "rutor.info",
      "size": "15.83 GB",
      "date": "2019-11-26T00:00:00+03:00",
-     "upload": 89,
-     "download": 18
+     "upload": 90,
+     "download": 21
     }
    ]
   },
@@ -1492,7 +2336,7 @@
    "title": "Я иду искать",
    "video": false,
    "vote_average": 6.8,
-   "vote_count": 411,
+   "vote_count": 412,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -1794,8 +2638,8 @@
      "source": "rutor.info",
      "size": "24.06 GB",
      "date": "2019-11-28T00:00:00+03:00",
-     "upload": 42,
-     "download": 42
+     "upload": 59,
+     "download": 58
     },
     {
      "name": "Я иду искать / Ready or Not (2019) BDRip 1080p от селезень | iTunes",
@@ -1803,445 +2647,8 @@
      "source": "rutor.info",
      "size": "11.35 GB",
      "date": "2019-11-28T00:00:00+03:00",
-     "upload": 174,
-     "download": 87
-    }
-   ]
-  },
-  {
-   "adult": false,
-   "backdrop_path": "http://image.tmdb.org/t/p/w780/61sbyO47yIpsMFyLhY1MWcqjg1Q.jpg",
-   "belongs_to_collection": null,
-   "budget": 49000000,
-   "genre_ids": null,
-   "genres": [
-    {
-     "id": 12,
-     "name": "приключения"
-    },
-    {
-     "id": 35,
-     "name": "комедия"
-    },
-    {
-     "id": 10751,
-     "name": "семейный"
-    }
-   ],
-   "homepage": "https://www.paramount.com/movies/dora-and-lost-city-gold",
-   "id": 499701,
-   "imdb_id": "tt7547410",
-   "original_language": "en",
-   "original_title": "Dora and the Lost City of Gold",
-   "overview": "Практически всё детство Дора провела в джунглях, где работали её родители-исследователи. Но никакие прежние приключения не могли подготовить девушку к опасностям старшей школы — непониманию, соперничеству, зависти. Вдобавок таинственным образом исчезают родители Доры. Но она не была бы собой, если бы опустила руки. Первая любовь, а также старые и новые друзья вдохновляют смелую девушку отправиться на поиски родных. На пути к цели их ждёт масса испытаний, а также леденящая кровь загадка потерянной цивилизации…",
-   "popularity": 44.546,
-   "poster_path": "http://image.tmdb.org/t/p/w500/qVUKgIkVagwdZ8LhVpWXfRXWm4r.jpg",
-   "production_companies": [
-    {
-     "id": 2348,
-     "logo_path": "http://image.tmdb.org/t/p/w185/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
-     "name": "Nickelodeon Movies",
-     "origin_country": "US"
-    },
-    {
-     "id": 96540,
-     "logo_path": "http://image.tmdb.org/t/p/w185/AgYjTNeIKOh0yvegPLSjq8EOsif.png",
-     "name": "Paramount Players",
-     "origin_country": "US"
-    },
-    {
-     "id": 10221,
-     "logo_path": "http://image.tmdb.org/t/p/w185/99VfWRgKasZoyK9UVB39gnYvFrZ.png",
-     "name": "Walden Media",
-     "origin_country": "US"
-    },
-    {
-     "id": 10950,
-     "logo_path": "http://image.tmdb.org/t/p/w185/6TdE9m9KgV2az7vNI8n95rQiYr3.png",
-     "name": "Screen Queensland",
-     "origin_country": "AU"
-    }
-   ],
-   "production_countries": [
-    {
-     "iso_3166_1": "US",
-     "name": "United States of America"
-    },
-    {
-     "iso_3166_1": "AU",
-     "name": "Australia"
-    }
-   ],
-   "release_date": "08.08.2019",
-   "revenue": 116826172,
-   "runtime": 102,
-   "spoken_languages": [
-    {
-     "iso_639_1": "es",
-     "name": "Español"
-    },
-    {
-     "iso_639_1": "en",
-     "name": "English"
-    }
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Дора и затерянный город",
-   "video": false,
-   "vote_average": 6.4,
-   "vote_count": 351,
-   "created_by": null,
-   "episode_run_time": null,
-   "first_air_date": "",
-   "in_production": false,
-   "languages": null,
-   "last_air_date": "",
-   "name": "",
-   "networks": null,
-   "number_of_episodes": 0,
-   "number_of_seasons": 0,
-   "origin_country": null,
-   "original_name": "",
-   "seasons": null,
-   "type": "",
-   "year": "2019",
-   "character": "",
-   "media_type": "movie",
-   "credit_id": "",
-   "videos": {
-    "id": 499701,
-    "results": [
-     {
-      "id": "5cad89ae9251417aa100a745",
-      "iso_3166_1": "RU",
-      "iso_639_1": "ru",
-      "key": "qzoIy1JSdH0",
-      "name": "Дора и Затерянный город - Официальный трейлер (HD)",
-      "site": "YouTube",
-      "size": 1080,
-      "type": "Trailer",
-      "link": "https://www.youtube.com/watch?v=qzoIy1JSdH0",
-      "poster": "https://img.youtube.com/vi/qzoIy1JSdH0/0.jpg"
-     },
-     {
-      "id": "5dd56abeb39e3500138e7725",
-      "iso_3166_1": "RU",
-      "iso_639_1": "ru",
-      "key": "_TXO6To4Q5U",
-      "name": "Дора и Затерянный город - Официальный трейлер (HD)",
-      "site": "YouTube",
-      "size": 1080,
-      "type": "Trailer",
-      "link": "https://www.youtube.com/watch?v=_TXO6To4Q5U",
-      "poster": "https://img.youtube.com/vi/_TXO6To4Q5U/0.jpg"
-     }
-    ]
-   },
-   "release_dates": {
-    "id": 0,
-    "results": [
-     {
-      "iso_3166_1": "FR",
-      "release_dates": [
-       {
-        "certification": "U",
-        "iso_639_1": "",
-        "release_date": "2019-08-14T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "SG",
-      "release_dates": [
-       {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-08-29T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "HK",
-      "release_dates": [
-       {
-        "certification": "I",
-        "iso_639_1": "",
-        "release_date": "2019-08-22T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "SE",
-      "release_dates": [
-       {
-        "certification": "7",
-        "iso_639_1": "",
-        "release_date": "2019-09-27T00:00:00Z",
-        "type": 3
-       },
-       {
-        "certification": "7",
-        "iso_639_1": "",
-        "release_date": "2020-02-10T00:00:00Z",
-        "type": 5
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "NL",
-      "release_dates": [
-       {
-        "certification": "9",
-        "iso_639_1": "",
-        "release_date": "2019-08-08T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "RU",
-      "release_dates": [
-       {
-        "certification": "6+",
-        "iso_639_1": "",
-        "release_date": "2019-08-08T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "DE",
-      "release_dates": [
-       {
-        "certification": "6",
-        "iso_639_1": "",
-        "release_date": "2019-10-10T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "GB",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "en",
-        "release_date": "2019-12-09T00:00:00Z",
-        "type": 5
-       },
-       {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-08-16T00:00:00Z",
-        "type": 3
-       },
-       {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-12-09T00:00:00Z",
-        "type": 4
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "AU",
-      "release_dates": [
-       {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-09-19T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "ES",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-08-30T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "DK",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-09-19T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "IT",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-09-26T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "UA",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-08-15T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "US",
-      "release_dates": [
-       {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-08-09T00:00:00Z",
-        "type": 3
-       },
-       {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-11-05T00:00:00Z",
-        "type": 4
-       },
-       {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-11-19T00:00:00Z",
-        "type": 5
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "IE",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-08-16T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "SK",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-08-22T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "NO",
-      "release_dates": [
-       {
-        "certification": "6",
-        "iso_639_1": "",
-        "release_date": "2019-09-20T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "PT",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-08-08T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "FI",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-09-20T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "HU",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-08-08T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "AR",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-08-29T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "TH",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-08-08T00:00:00Z",
-        "type": 3
-       }
-      ]
-     }
-    ]
-   },
-   "torrent": [
-    {
-     "name": "Дора и Затерянный город / Dora and the Lost City of Gold (2019) BDRemux 1080p от селезень | iTunes",
-     "magnet": "magnet:?xt=urn:btih:7e268b92bcb21a1c8bee6034b405b5289b3d7241\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
-     "source": "rutor.info",
-     "size": "24.15 GB",
-     "date": "2019-11-27T00:00:00+03:00",
-     "upload": 18,
-     "download": 6
-    },
-    {
-     "name": "Дора и Затерянный город / Dora and the Lost City of Gold (2019) BDRip 1080p от селезень | iTunes",
-     "magnet": "magnet:?xt=urn:btih:c95c2bf5c57cba0730f140e69e84ddaa056f84dc\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
-     "source": "rutor.info",
-     "size": "13.26 GB",
-     "date": "2019-11-27T00:00:00+03:00",
-     "upload": 43,
-     "download": 13
-    },
-    {
-     "name": "Дора и Затерянный город / Dora and the Lost City of Gold (2019) BDRip 1080p от HELLYWOOD | iTunes",
-     "magnet": "magnet:?xt=urn:btih:a12668d8dd15e658c17ea7bcce5c6f40ad366949\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
-     "source": "rutor.info",
-     "size": "7.43 GB",
-     "date": "2019-11-21T00:00:00+03:00",
-     "upload": 228,
-     "download": 14
+     "upload": 198,
+     "download": 161
     }
    ]
   },
@@ -2785,8 +3192,8 @@
      "source": "rutor.info",
      "size": "4.42 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 9,
-     "download": 4
+     "upload": 16,
+     "download": 5
     },
     {
      "name": "Тайная жизнь домашних животных 2 / The Secret Life of Pets 2 (2019) BDRip 1080p от Ash61 | 3D-Video | halfOU | Лицензия",
@@ -2794,7 +3201,7 @@
      "source": "rutor.info",
      "size": "6.78 GB",
      "date": "2019-10-10T00:00:00+03:00",
-     "upload": 19,
+     "upload": 22,
      "download": 1
     },
     {
@@ -2803,8 +3210,8 @@
      "source": "rutor.info",
      "size": "22.21 GB",
      "date": "2019-10-09T00:00:00+03:00",
-     "upload": 12,
-     "download": 4
+     "upload": 18,
+     "download": 3
     },
     {
      "name": "Тайная жизнь домашних животных 2 / The Secret Life of Pets 2 (2019) UHD BDRemux 2160p от селезень | 4K | HDR | Лицензия",
@@ -2813,7 +3220,7 @@
      "size": "38.53 GB",
      "date": "2019-10-09T00:00:00+03:00",
      "upload": 9,
-     "download": 5
+     "download": 3
     },
     {
      "name": "Тайная жизнь домашних животных 2 / The Secret Life of Pets 2 (2019) BDRip 1080p от селезень | D, P | Лицензия",
@@ -2821,8 +3228,8 @@
      "source": "rutor.info",
      "size": "8.81 GB",
      "date": "2019-10-09T00:00:00+03:00",
-     "upload": 132,
-     "download": 3
+     "upload": 158,
+     "download": 5
     },
     {
      "name": "Тайная жизнь домашних животных 2 / The Secret Life of Pets 2 (2019) BDRemux 1080p от селезень | 3D-Video | iTunes",
@@ -2830,8 +3237,8 @@
      "source": "rutor.info",
      "size": "26.16 GB",
      "date": "2019-10-01T00:00:00+03:00",
-     "upload": 1,
-     "download": 2
+     "upload": 2,
+     "download": 1
     },
     {
      "name": "Тайная жизнь домашних животных 2 / The Secret Life of Pets 2 (2019) UHD BDRip-HEVC 2160p | 4K | HDR | D, P, | iTunes",
@@ -2839,7 +3246,7 @@
      "source": "rutor.info",
      "size": "8.31 GB",
      "date": "2019-09-09T00:00:00+03:00",
-     "upload": 21,
+     "upload": 29,
      "download": 2
     },
     {
@@ -2857,8 +3264,8 @@
      "source": "rutor.info",
      "size": "7.25 GB",
      "date": "2019-09-07T00:00:00+03:00",
-     "upload": 46,
-     "download": 6
+     "upload": 54,
+     "download": 5
     },
     {
      "name": "Тайная жизнь домашних животных 2 / The Secret Life of Pets 2 (2019) BDRip 1080p от qqss44 \u0026 MegaPeer | iTunes",
@@ -2866,8 +3273,8 @@
      "source": "rutor.info",
      "size": "5.57 GB",
      "date": "2019-09-03T00:00:00+03:00",
-     "upload": 358,
-     "download": 14
+     "upload": 368,
+     "download": 12
     }
    ]
   },
@@ -3300,7 +3707,7 @@
      "source": "rutor.info",
      "size": "29.74 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 63,
+     "upload": 64,
      "download": 11
     },
     {
@@ -3309,8 +3716,8 @@
      "source": "rutor.info",
      "size": "18.05 GB",
      "date": "2019-11-26T00:00:00+03:00",
-     "upload": 153,
-     "download": 23
+     "upload": 152,
+     "download": 29
     }
    ]
   },
@@ -3390,7 +3797,7 @@
    "title": "Эверест",
    "video": false,
    "vote_average": 7.1,
-   "vote_count": 187,
+   "vote_count": 188,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -3704,397 +4111,8 @@
      "source": "rutor.info",
      "size": "3.73 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 1142,
-     "download": 167
-    }
-   ]
-  },
-  {
-   "adult": false,
-   "backdrop_path": "http://image.tmdb.org/t/p/w780/mBBJ3N3an8FLkp0ZpGgIJwHKhBP.jpg",
-   "belongs_to_collection": null,
-   "budget": 20000000,
-   "genre_ids": null,
-   "genres": [
-    {
-     "id": 35,
-     "name": "комедия"
-    },
-    {
-     "id": 80,
-     "name": "криминал"
-    },
-    {
-     "id": 18,
-     "name": "драма"
-    }
-   ],
-   "homepage": "https://www.hustlers.movie/",
-   "id": 540901,
-   "imdb_id": "tt5503686",
-   "original_language": "en",
-   "original_title": "Hustlers",
-   "overview": "Они — яркие, сексуальные и амбициозные. Они — танцовщицы элитного стриптиз-клуба, клиенты которого — известные финансисты с Уолл-Стрит. Но когда банковский кризис в одночасье превращает накопления девушек в пыль, они разрабатывают план по возврату потерянных денег, чтобы снова иметь возможность вести роскошную жизнь и заодно наказать финансистов, оставивших их без гроша.",
-   "popularity": 156.277,
-   "poster_path": "http://image.tmdb.org/t/p/w500/lqNfHZ1wlAwoIbvzsEF7My9v57V.jpg",
-   "production_companies": [
-    {
-     "id": 13184,
-     "logo_path": "http://image.tmdb.org/t/p/w185/pfUB1a62jSMIqp4Xmaq6z2cgW0B.png",
-     "name": "Annapurna Pictures",
-     "origin_country": "US"
-    },
-    {
-     "id": 77152,
-     "logo_path": "http://image.tmdb.org/t/p/w185/dKwI9lYFR9tHRHnut7P52gIl3Sb.png",
-     "name": "Gloria Sanchez Productions",
-     "origin_country": "US"
-    },
-    {
-     "id": 47729,
-     "logo_path": "http://image.tmdb.org/t/p/w185/5NRpQ7xxmODXAjt2pRWUFMLVzvP.png",
-     "name": "STX Entertainment",
-     "origin_country": "US"
-    }
-   ],
-   "production_countries": [
-    {
-     "iso_3166_1": "US",
-     "name": "United States of America"
-    }
-   ],
-   "release_date": "06.09.2019",
-   "revenue": 0,
-   "runtime": 109,
-   "spoken_languages": [
-    {
-     "iso_639_1": "en",
-     "name": "English"
-    },
-    {
-     "iso_639_1": "ru",
-     "name": "Pусский"
-    },
-    {
-     "iso_639_1": "es",
-     "name": "Español"
-    }
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Стриптизёрши",
-   "video": false,
-   "vote_average": 6.2,
-   "vote_count": 495,
-   "created_by": null,
-   "episode_run_time": null,
-   "first_air_date": "",
-   "in_production": false,
-   "languages": null,
-   "last_air_date": "",
-   "name": "",
-   "networks": null,
-   "number_of_episodes": 0,
-   "number_of_seasons": 0,
-   "origin_country": null,
-   "original_name": "",
-   "seasons": null,
-   "type": "",
-   "year": "2019",
-   "character": "",
-   "media_type": "movie",
-   "credit_id": "",
-   "videos": {
-    "id": 540901,
-    "results": [
-     {
-      "id": "5d6691739c24fc0015fac474",
-      "iso_3166_1": "RU",
-      "iso_639_1": "ru",
-      "key": "oc1WN7KFp-I",
-      "name": "Стриптизерши. Официальный трейлер. 16+",
-      "site": "YouTube",
-      "size": 1080,
-      "type": "Trailer",
-      "link": "https://www.youtube.com/watch?v=oc1WN7KFp-I",
-      "poster": "https://img.youtube.com/vi/oc1WN7KFp-I/0.jpg"
-     },
-     {
-      "id": "5d7008c4e2bca81e2aac80b7",
-      "iso_3166_1": "RU",
-      "iso_639_1": "ru",
-      "key": "8PwcqT4C36k",
-      "name": "Стриптизерши. Дублированный трейлер. HD. 18+",
-      "site": "YouTube",
-      "size": 1080,
-      "type": "Trailer",
-      "link": "https://www.youtube.com/watch?v=8PwcqT4C36k",
-      "poster": "https://img.youtube.com/vi/8PwcqT4C36k/0.jpg"
-     },
-     {
-      "id": "5d7e374f3c43440010a1c7bf",
-      "iso_3166_1": "RU",
-      "iso_639_1": "ru",
-      "key": "n606lKVHcMs",
-      "name": "Стриптизерши. ТВ-спот. В кино с 12 сентября",
-      "site": "YouTube",
-      "size": 1080,
-      "type": "Teaser",
-      "link": "https://www.youtube.com/watch?v=n606lKVHcMs",
-      "poster": "https://img.youtube.com/vi/n606lKVHcMs/0.jpg"
-     }
-    ]
-   },
-   "release_dates": {
-    "id": 0,
-    "results": [
-     {
-      "iso_3166_1": "SG",
-      "release_dates": [
-       {
-        "certification": "M18 (edited)",
-        "iso_639_1": "",
-        "release_date": "2019-09-12T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "KR",
-      "release_dates": [
-       {
-        "certification": "청소년 관람불가 ",
-        "iso_639_1": "",
-        "release_date": "2019-11-27T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "DE",
-      "release_dates": [
-       {
-        "certification": "16",
-        "iso_639_1": "",
-        "release_date": "2019-11-28T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "RU",
-      "release_dates": [
-       {
-        "certification": "18+",
-        "iso_639_1": "",
-        "release_date": "2019-09-12T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "NL",
-      "release_dates": [
-       {
-        "certification": "16",
-        "iso_639_1": "",
-        "release_date": "2019-09-12T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "DK",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-09-26T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "US",
-      "release_dates": [
-       {
-        "certification": "R",
-        "iso_639_1": "",
-        "release_date": "2019-09-13T00:00:00Z",
-        "type": 3
-       },
-       {
-        "certification": "R",
-        "iso_639_1": "",
-        "release_date": "2019-11-26T00:00:00Z",
-        "type": 4
-       },
-       {
-        "certification": "R",
-        "iso_639_1": "",
-        "release_date": "2019-12-10T00:00:00Z",
-        "type": 5
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "IE",
-      "release_dates": [
-       {
-        "certification": "16",
-        "iso_639_1": "",
-        "release_date": "2019-09-13T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "CZ",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-09-12T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "AU",
-      "release_dates": [
-       {
-        "certification": "MA15+",
-        "iso_639_1": "",
-        "release_date": "2019-10-10T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "ES",
-      "release_dates": [
-       {
-        "certification": "18",
-        "iso_639_1": "",
-        "release_date": "2019-11-08T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "CA",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-09-06T00:00:00Z",
-        "type": 1
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "SK",
-      "release_dates": [
-       {
-        "certification": "15",
-        "iso_639_1": "",
-        "release_date": "2019-10-10T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "BE",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-10-16T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "FR",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-10-16T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "BR",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "pt",
-        "release_date": "2019-12-05T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "IT",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "it",
-        "release_date": "2019-11-07T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "SE",
-      "release_dates": [
-       {
-        "certification": "11",
-        "iso_639_1": "",
-        "release_date": "2019-10-04T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "GB",
-      "release_dates": [
-       {
-        "certification": "15",
-        "iso_639_1": "",
-        "release_date": "2020-01-20T00:00:00Z",
-        "type": 4
-       },
-       {
-        "certification": "15",
-        "iso_639_1": "en",
-        "release_date": "2020-01-20T00:00:00Z",
-        "type": 5
-       }
-      ]
-     }
-    ]
-   },
-   "torrent": [
-    {
-     "name": "Стриптизёрши / Hustlers (2019) WEB-DL 1080p | iTunes",
-     "magnet": "magnet:?xt=urn:btih:c14970986c5c34a6aeb65b18615316540c8b235c\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
-     "source": "rutor.info",
-     "size": "7.54 GB",
-     "date": "2019-11-26T00:00:00+03:00",
-     "upload": 328,
-     "download": 33
-    },
-    {
-     "name": "Стриптизёрши / Hustlers (2019) WEB-DL 1080p | iTunes",
-     "magnet": "magnet:?xt=urn:btih:3d7dc46c251c22a6cc551ab53b27b264d7c9e44d\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
-     "source": "rutor.info",
-     "size": "3.79 GB",
-     "date": "2019-11-25T00:00:00+03:00",
-     "upload": 1199,
-     "download": 100
+     "upload": 1154,
+     "download": 189
     }
    ]
   },
@@ -4264,8 +4282,8 @@
      "source": "rutor.info",
      "size": "5.14 GB",
      "date": "2019-11-25T00:00:00+03:00",
-     "upload": 192,
-     "download": 11
+     "upload": 189,
+     "download": 20
     },
     {
      "name": "Добыча / Prey (2019) WEB-DL 1080p | L1",
@@ -4273,8 +4291,8 @@
      "source": "rutor.info",
      "size": "5.06 GB",
      "date": "2019-11-02T00:00:00+03:00",
-     "upload": 41,
-     "download": 3
+     "upload": 50,
+     "download": 2
     }
    ]
   },
@@ -4443,8 +4461,8 @@
      "source": "rutor.info",
      "size": "4.40 GB",
      "date": "2019-11-25T00:00:00+03:00",
-     "upload": 52,
-     "download": 0
+     "upload": 44,
+     "download": 2
     }
    ]
   },
@@ -4524,7 +4542,7 @@
    "title": "Форсаж: Хоббс и Шоу",
    "video": false,
    "vote_average": 6.6,
-   "vote_count": 2023,
+   "vote_count": 2024,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -4603,13 +4621,13 @@
        },
        {
         "certification": "PG-13",
-        "iso_639_1": "en",
+        "iso_639_1": "",
         "release_date": "2019-10-15T00:00:00Z",
         "type": 4
        },
        {
         "certification": "PG-13",
-        "iso_639_1": "en",
+        "iso_639_1": "",
         "release_date": "2019-11-05T00:00:00Z",
         "type": 5
        }
@@ -4814,7 +4832,7 @@
        },
        {
         "certification": "14",
-        "iso_639_1": "pt",
+        "iso_639_1": "",
         "release_date": "2019-11-05T00:00:00Z",
         "type": 5
        }
@@ -4858,7 +4876,7 @@
       "release_dates": [
        {
         "certification": "12",
-        "iso_639_1": "en",
+        "iso_639_1": "",
         "release_date": "2019-12-02T00:00:00Z",
         "type": 5
        },
@@ -4956,8 +4974,8 @@
      "source": "rutor.info",
      "size": "15.37 GB",
      "date": "2019-11-25T00:00:00+03:00",
-     "upload": 13,
-     "download": 2
+     "upload": 11,
+     "download": 3
     },
     {
      "name": "Форсаж: Хоббс и Шоу / Fast \u0026 Furious Presents: Hobbs \u0026 Shaw (2019) UHD BDRemux 2160p от селезень | 4K | HDR | Dolby Vision TV | Лицензия",
@@ -4965,8 +4983,8 @@
      "source": "rutor.info",
      "size": "62.83 GB",
      "date": "2019-11-24T00:00:00+03:00",
-     "upload": 3,
-     "download": 4
+     "upload": 4,
+     "download": 3
     },
     {
      "name": "Форсаж: Хоббс и Шоу / Fast \u0026 Furious Presents: Hobbs \u0026 Shaw (2019) BDRip 1080p от Ash61 | 3D-Video | halfOU | Лицензия",
@@ -4974,7 +4992,7 @@
      "source": "rutor.info",
      "size": "12.67 GB",
      "date": "2019-11-23T00:00:00+03:00",
-     "upload": 12,
+     "upload": 15,
      "download": 6
     },
     {
@@ -4983,8 +5001,8 @@
      "source": "rutor.info",
      "size": "6.08 GB",
      "date": "2019-11-23T00:00:00+03:00",
-     "upload": 28,
-     "download": 3
+     "upload": 34,
+     "download": 4
     },
     {
      "name": "Форсаж: Хоббс и Шоу / Fast \u0026 Furious Presents: Hobbs \u0026 Shaw (2019) BDRemux 1080p от селезень | 3D-Video | Лицензия",
@@ -4992,8 +5010,8 @@
      "source": "rutor.info",
      "size": "38.98 GB",
      "date": "2019-11-23T00:00:00+03:00",
-     "upload": 3,
-     "download": 3
+     "upload": 4,
+     "download": 1
     },
     {
      "name": "Форсаж: Хоббс и Шоу / Fast \u0026 Furious Presents: Hobbs \u0026 Shaw (2019) BDRemux 1080p от селезень | Лицензия",
@@ -5001,8 +5019,8 @@
      "source": "rutor.info",
      "size": "31.47 GB",
      "date": "2019-11-22T00:00:00+03:00",
-     "upload": 20,
-     "download": 4
+     "upload": 21,
+     "download": 1
     },
     {
      "name": "Форсаж: Хоббс и Шоу / Fast \u0026 Furious Presents: Hobbs \u0026 Shaw (2019) UHD BDRemux 2160p от селезень | 4K | HDR | Лицензия",
@@ -5010,8 +5028,8 @@
      "source": "rutor.info",
      "size": "64.95 GB",
      "date": "2019-11-22T00:00:00+03:00",
-     "upload": 20,
-     "download": 13
+     "upload": 23,
+     "download": 11
     },
     {
      "name": "Форсаж: Хоббс и Шоу / Fast \u0026 Furious Presents: Hobbs \u0026 Shaw (2019) BDRip 1080p от селезень | Лицензия",
@@ -5019,8 +5037,8 @@
      "source": "rutor.info",
      "size": "14.66 GB",
      "date": "2019-11-22T00:00:00+03:00",
-     "upload": 87,
-     "download": 16
+     "upload": 105,
+     "download": 17
     },
     {
      "name": "Форсаж: Хоббс и Шоу / Fast \u0026 Furious Presents: Hobbs \u0026 Shaw (2019) BDRip 1080p | D",
@@ -5028,8 +5046,8 @@
      "source": "rutor.info",
      "size": "9.52 GB",
      "date": "2019-11-19T00:00:00+03:00",
-     "upload": 6,
-     "download": 1
+     "upload": 7,
+     "download": 2
     },
     {
      "name": "Форсаж: Хоббс и Шоу / Fast \u0026 Furious Presents: Hobbs \u0026 Shaw (2019) UHD BDRip-HEVC 2160p | 4K | SDR | iTunes",
@@ -5037,8 +5055,8 @@
      "source": "rutor.info",
      "size": "35.38 GB",
      "date": "2019-10-28T00:00:00+03:00",
-     "upload": 14,
-     "download": 2
+     "upload": 12,
+     "download": 1
     }
    ]
   },
@@ -5212,8 +5230,8 @@
      "source": "rutor.info",
      "size": "7.21 GB",
      "date": "2019-11-23T00:00:00+03:00",
-     "upload": 16,
-     "download": 1
+     "upload": 28,
+     "download": 2
     },
     {
      "name": "Бестии / The Furies (2019) WEB-DL 1080p | L1",
@@ -5221,8 +5239,8 @@
      "source": "rutor.info",
      "size": "2.95 GB",
      "date": "2019-11-04T00:00:00+03:00",
-     "upload": 68,
-     "download": 3
+     "upload": 85,
+     "download": 5
     }
    ]
   },
@@ -5351,8 +5369,8 @@
      "source": "rutor.info",
      "size": "3.42 GB",
      "date": "2019-11-22T00:00:00+03:00",
-     "upload": 252,
-     "download": 27
+     "upload": 284,
+     "download": 23
     }
    ]
   },
@@ -5485,7 +5503,7 @@
      "source": "rutor.info",
      "size": "5.69 GB",
      "date": "2019-11-22T00:00:00+03:00",
-     "upload": 108,
+     "upload": 104,
      "download": 8
     }
    ]
@@ -5927,8 +5945,8 @@
      "source": "rutor.info",
      "size": "6.07 GB",
      "date": "2019-11-21T00:00:00+03:00",
-     "upload": 43,
-     "download": 4
+     "upload": 47,
+     "download": 2
     },
     {
      "name": "Капкан / Crawl (2019) BDRip 1080p от k.e.n \u0026 MegaPeer | Лицензия",
@@ -5936,7 +5954,7 @@
      "source": "rutor.info",
      "size": "7.76 GB",
      "date": "2019-11-15T00:00:00+03:00",
-     "upload": 81,
+     "upload": 83,
      "download": 2
     },
     {
@@ -5945,8 +5963,8 @@
      "source": "rutor.info",
      "size": "21.08 GB",
      "date": "2019-11-14T00:00:00+03:00",
-     "upload": 42,
-     "download": 4
+     "upload": 47,
+     "download": 3
     },
     {
      "name": "Капкан / Crawl (2019) BDRip 1080p от селезень | Лицензия",
@@ -5954,8 +5972,8 @@
      "source": "rutor.info",
      "size": "9.63 GB",
      "date": "2019-11-14T00:00:00+03:00",
-     "upload": 260,
-     "download": 23
+     "upload": 319,
+     "download": 25
     },
     {
      "name": "Капкан / Crawl (2019) BDRip 1080p от k.e.n \u0026 MegaPeer | L1",
@@ -5963,7 +5981,7 @@
      "source": "rutor.info",
      "size": "7.52 GB",
      "date": "2019-11-10T00:00:00+03:00",
-     "upload": 15,
+     "upload": 19,
      "download": 1
     },
     {
@@ -5972,8 +5990,8 @@
      "source": "rutor.info",
      "size": "10.41 GB",
      "date": "2019-10-24T00:00:00+03:00",
-     "upload": 59,
-     "download": 1
+     "upload": 69,
+     "download": 3
     }
    ]
   },
@@ -6106,8 +6124,8 @@
      "source": "rutor.info",
      "size": "3.11 GB",
      "date": "2019-11-21T00:00:00+03:00",
-     "upload": 27,
-     "download": 4
+     "upload": 33,
+     "download": 3
     }
    ]
   },
@@ -6661,7 +6679,7 @@
      "size": "3.24 GB",
      "date": "2019-11-20T00:00:00+03:00",
      "upload": 7,
-     "download": 5
+     "download": 2
     },
     {
      "name": "История игрушек 4 / Toy Story 4 (2019) BDRip 1080p от Scarabey | Лицензия",
@@ -6669,8 +6687,8 @@
      "source": "rutor.info",
      "size": "8.52 GB",
      "date": "2019-10-20T00:00:00+03:00",
-     "upload": 69,
-     "download": 4
+     "upload": 80,
+     "download": 2
     },
     {
      "name": "История игрушек 4 / Toy Story 4 (2019) BDRip-HEVC 1080p | Лицензия",
@@ -6678,7 +6696,7 @@
      "source": "rutor.info",
      "size": "3.88 GB",
      "date": "2019-10-20T00:00:00+03:00",
-     "upload": 40,
+     "upload": 46,
      "download": 3
     },
     {
@@ -6687,8 +6705,8 @@
      "source": "rutor.info",
      "size": "9.38 GB",
      "date": "2019-10-19T00:00:00+03:00",
-     "upload": 20,
-     "download": 2
+     "upload": 17,
+     "download": 1
     },
     {
      "name": "История игрушек 4 / Toy Story 4 (2019) BDRip 1080p | D, P | Лицензия",
@@ -6696,7 +6714,7 @@
      "source": "rutor.info",
      "size": "13.79 GB",
      "date": "2019-10-18T00:00:00+03:00",
-     "upload": 24,
+     "upload": 23,
      "download": 1
     },
     {
@@ -6705,8 +6723,8 @@
      "source": "rutor.info",
      "size": "32.25 GB",
      "date": "2019-10-18T00:00:00+03:00",
-     "upload": 13,
-     "download": 2
+     "upload": 15,
+     "download": 1
     },
     {
      "name": "История игрушек 4 / Toy Story 4 (2019) BDRemux 1080p от селезень | D, P | 3D-Video | Лицензия",
@@ -6714,7 +6732,7 @@
      "source": "rutor.info",
      "size": "23.79 GB",
      "date": "2019-10-18T00:00:00+03:00",
-     "upload": 4,
+     "upload": 2,
      "download": 0
     },
     {
@@ -6723,8 +6741,8 @@
      "source": "rutor.info",
      "size": "19.89 GB",
      "date": "2019-10-18T00:00:00+03:00",
-     "upload": 11,
-     "download": 1
+     "upload": 12,
+     "download": 2
     },
     {
      "name": "История игрушек 4 / Toy Story 4 (2019) BDRip 1080p от селезень | D, P | Лицензия",
@@ -6732,8 +6750,8 @@
      "source": "rutor.info",
      "size": "10.66 GB",
      "date": "2019-10-18T00:00:00+03:00",
-     "upload": 106,
-     "download": 8
+     "upload": 101,
+     "download": 6
     }
    ]
   },
@@ -6901,7 +6919,7 @@
      "size": "5.79 GB",
      "date": "2019-09-11T00:00:00+03:00",
      "upload": 18,
-     "download": 1
+     "download": 2
     },
     {
      "name": "Плюс один / Plus One (2019) BDRip 1080p от OlLanDGroup | HDRezka Studio",
@@ -6909,8 +6927,8 @@
      "source": "rutor.info",
      "size": "6.58 GB",
      "date": "2019-08-22T00:00:00+03:00",
-     "upload": 6,
-     "download": 1
+     "upload": 7,
+     "download": 3
     }
    ]
   },
@@ -7151,8 +7169,8 @@
      "source": "rutor.info",
      "size": "4.18 GB",
      "date": "2019-11-20T00:00:00+03:00",
-     "upload": 7,
-     "download": 1
+     "upload": 6,
+     "download": 3
     }
    ]
   },
@@ -7598,8 +7616,8 @@
      "source": "rutor.info",
      "size": "14.32 GB",
      "date": "2019-11-19T00:00:00+03:00",
-     "upload": 11,
-     "download": 1
+     "upload": 10,
+     "download": 5
     },
     {
      "name": "Angry Birds 2 в кино / The Angry Birds Movie 2 (2019) UHD BDRip-HEVC 2160p | 4K | HDR | iTunes",
@@ -7608,7 +7626,7 @@
      "size": "9.87 GB",
      "date": "2019-11-16T00:00:00+03:00",
      "upload": 18,
-     "download": 3
+     "download": 1
     },
     {
      "name": "Angry Birds 2 в кино / The Angry Birds Movie 2 (2019) UHD BDRemux 2160p от селезень | 4K | HDR | iTunes",
@@ -7616,8 +7634,8 @@
      "source": "rutor.info",
      "size": "37.60 GB",
      "date": "2019-11-13T00:00:00+03:00",
-     "upload": 29,
-     "download": 5
+     "upload": 27,
+     "download": 3
     },
     {
      "name": "Angry Birds 2 в кино / The Angry Birds Movie 2 (2019) BDRip-HEVC 1080p | iTunes",
@@ -7625,8 +7643,8 @@
      "source": "rutor.info",
      "size": "4.64 GB",
      "date": "2019-11-08T00:00:00+03:00",
-     "upload": 69,
-     "download": 4
+     "upload": 81,
+     "download": 3
     },
     {
      "name": "Angry Birds 2 в кино / The Angry Birds Movie 2 (2019) BDRip-HEVC 1080p от xdemon | iTunes",
@@ -7634,8 +7652,8 @@
      "source": "rutor.info",
      "size": "3.28 GB",
      "date": "2019-11-04T00:00:00+03:00",
-     "upload": 107,
-     "download": 7
+     "upload": 121,
+     "download": 6
     },
     {
      "name": "Angry Birds 2 в кино / The Angry Birds Movie 2 (2019) BDRemux 1080p от селезень | iTunes",
@@ -7643,8 +7661,8 @@
      "source": "rutor.info",
      "size": "17.27 GB",
      "date": "2019-11-01T00:00:00+03:00",
-     "upload": 41,
-     "download": 1
+     "upload": 45,
+     "download": 2
     },
     {
      "name": "Angry Birds 2 в кино / The Angry Birds Movie 2 (2019) BDRip 1080p от селезень | iTunes",
@@ -7652,8 +7670,8 @@
      "source": "rutor.info",
      "size": "8.38 GB",
      "date": "2019-10-30T00:00:00+03:00",
-     "upload": 496,
-     "download": 22
+     "upload": 521,
+     "download": 28
     }
    ]
   },
@@ -7742,7 +7760,7 @@
    "title": "Оно 2",
    "video": false,
    "vote_average": 6.8,
-   "vote_count": 2176,
+   "vote_count": 2177,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -8251,7 +8269,7 @@
      "source": "rutor.info",
      "size": "10.57 GB",
      "date": "2019-11-19T00:00:00+03:00",
-     "upload": 336,
+     "upload": 343,
      "download": 14
     },
     {
@@ -8260,8 +8278,8 @@
      "source": "rutor.info",
      "size": "7.21 GB",
      "date": "2019-11-19T00:00:00+03:00",
-     "upload": 482,
-     "download": 20
+     "upload": 545,
+     "download": 21
     }
    ]
   },
@@ -8449,7 +8467,7 @@
      "source": "rutor.info",
      "size": "5.98 GB",
      "date": "2019-11-18T00:00:00+03:00",
-     "upload": 319,
+     "upload": 366,
      "download": 15
     },
     {
@@ -8878,8 +8896,8 @@
      "source": "rutor.info",
      "size": "11.14 GB",
      "date": "2019-11-18T00:00:00+03:00",
-     "upload": 73,
-     "download": 8
+     "upload": 71,
+     "download": 5
     },
     {
      "name": "Падение ангела / Angel Has Fallen (2019) UHD BDRemux 2160p от селезень | 4K | HDR | Dolby Vision TV | iTunes",
@@ -8887,8 +8905,8 @@
      "source": "rutor.info",
      "size": "63.46 GB",
      "date": "2019-11-18T00:00:00+03:00",
-     "upload": 32,
-     "download": 15
+     "upload": 28,
+     "download": 11
     },
     {
      "name": "Падение ангела / Angel Has Fallen (2019) UHD BDRip-HEVC 2160p | 4K | HDR | iTunes",
@@ -8896,8 +8914,8 @@
      "source": "rutor.info",
      "size": "18.74 GB",
      "date": "2019-11-17T00:00:00+03:00",
-     "upload": 19,
-     "download": 9
+     "upload": 23,
+     "download": 4
     },
     {
      "name": "Падение ангела / Angel Has Fallen (2019) BDRemux 1080p от селезень | iTunes",
@@ -8905,7 +8923,7 @@
      "source": "rutor.info",
      "size": "30.01 GB",
      "date": "2019-11-17T00:00:00+03:00",
-     "upload": 23,
+     "upload": 24,
      "download": 5
     },
     {
@@ -8914,8 +8932,8 @@
      "source": "rutor.info",
      "size": "8.81 GB",
      "date": "2019-11-16T00:00:00+03:00",
-     "upload": 172,
-     "download": 16
+     "upload": 186,
+     "download": 14
     },
     {
      "name": "Падение ангела / Angel Has Fallen (2019) UHD BDRemux 2160p от селезень | 4K | HDR | iTunes",
@@ -8923,7 +8941,7 @@
      "source": "rutor.info",
      "size": "59.83 GB",
      "date": "2019-11-15T00:00:00+03:00",
-     "upload": 42,
+     "upload": 44,
      "download": 7
     },
     {
@@ -8932,8 +8950,8 @@
      "source": "rutor.info",
      "size": "16.84 GB",
      "date": "2019-11-15T00:00:00+03:00",
-     "upload": 274,
-     "download": 13
+     "upload": 303,
+     "download": 14
     }
    ]
   },
@@ -9404,8 +9422,8 @@
      "source": "rutor.info",
      "size": "8.96 GB",
      "date": "2019-10-15T00:00:00+03:00",
-     "upload": 30,
-     "download": 0
+     "upload": 31,
+     "download": 2
     },
     {
      "name": "Солнцестояние / Midsommar (2019) BDRemux 1080p от селезень | iTunes",
@@ -9413,7 +9431,7 @@
      "source": "rutor.info",
      "size": "37.20 GB",
      "date": "2019-10-02T00:00:00+03:00",
-     "upload": 9,
+     "upload": 10,
      "download": 0
     },
     {
@@ -9422,8 +9440,8 @@
      "source": "rutor.info",
      "size": "12.66 GB",
      "date": "2019-10-02T00:00:00+03:00",
-     "upload": 76,
-     "download": 3
+     "upload": 82,
+     "download": 5
     }
    ]
   },
@@ -9737,8 +9755,8 @@
      "source": "rutor.info",
      "size": "11.58 GB",
      "date": "2019-11-16T00:00:00+03:00",
-     "upload": 100,
-     "download": 6
+     "upload": 110,
+     "download": 5
     }
    ]
   },
@@ -9949,7 +9967,7 @@
      "source": "rutor.info",
      "size": "7.08 GB",
      "date": "2019-11-16T00:00:00+03:00",
-     "upload": 18,
+     "upload": 20,
      "download": 1
     },
     {
@@ -9958,8 +9976,8 @@
      "source": "rutor.info",
      "size": "14.64 GB",
      "date": "2019-11-16T00:00:00+03:00",
-     "upload": 14,
-     "download": 4
+     "upload": 16,
+     "download": 2
     },
     {
      "name": "Проклятие «Мэри» / Mary (2019) WEB-DL 1080p | iTunes",
@@ -9967,8 +9985,8 @@
      "source": "rutor.info",
      "size": "2.91 GB",
      "date": "2019-11-11T00:00:00+03:00",
-     "upload": 91,
-     "download": 7
+     "upload": 106,
+     "download": 4
     }
    ]
   },
@@ -10091,8 +10109,8 @@
      "source": "rutor.info",
      "size": "24.29 GB",
      "date": "2019-11-15T00:00:00+03:00",
-     "upload": 26,
-     "download": 8
+     "upload": 28,
+     "download": 6
     }
    ]
   },
@@ -10162,7 +10180,7 @@
    "title": "Клаус",
    "video": false,
    "vote_average": 8.4,
-   "vote_count": 285,
+   "vote_count": 286,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -10328,8 +10346,8 @@
      "source": "rutor.info",
      "size": "3.63 GB",
      "date": "2019-11-15T00:00:00+03:00",
-     "upload": 665,
-     "download": 25
+     "upload": 670,
+     "download": 20
     }
    ]
   },
@@ -10774,8 +10792,8 @@
      "source": "rutor.info",
      "size": "7.75 GB",
      "date": "2019-11-13T00:00:00+03:00",
-     "upload": 38,
-     "download": 4
+     "upload": 49,
+     "download": 3
     },
     {
      "name": "Анна / Anna (2019) BDRemux 1080p | FRA Transfer | iTunes",
@@ -10783,8 +10801,8 @@
      "source": "rutor.info",
      "size": "26.98 GB",
      "date": "2019-11-13T00:00:00+03:00",
-     "upload": 9,
-     "download": 1
+     "upload": 12,
+     "download": 3
     },
     {
      "name": "Анна / Anna (2019) UHD BDRip-HEVC 2160p | 4K | SDR |  iTunes",
@@ -10792,8 +10810,8 @@
      "source": "rutor.info",
      "size": "23.50 GB",
      "date": "2019-09-20T00:00:00+03:00",
-     "upload": 18,
-     "download": 0
+     "upload": 21,
+     "download": 2
     },
     {
      "name": "Анна / Anna (2019) UHD BDRemux 2160p от селезень | 4K | HDR | D, P | iTunes",
@@ -10801,7 +10819,7 @@
      "source": "rutor.info",
      "size": "59.20 GB",
      "date": "2019-09-20T00:00:00+03:00",
-     "upload": 15,
+     "upload": 13,
      "download": 3
     },
     {
@@ -10819,8 +10837,8 @@
      "source": "rutor.info",
      "size": "9.50 GB",
      "date": "2019-09-20T00:00:00+03:00",
-     "upload": 172,
-     "download": 9
+     "upload": 195,
+     "download": 8
     },
     {
      "name": "Анна / Anna (2019) UHD BDRip-HEVC 2160p | 4K | SDR | HDRezka Studio",
@@ -10828,8 +10846,8 @@
      "source": "rutor.info",
      "size": "23.18 GB",
      "date": "2019-09-18T00:00:00+03:00",
-     "upload": 3,
-     "download": 1
+     "upload": 2,
+     "download": 2
     },
     {
      "name": "Анна / Anna (2019) WEB-DL-HEVC 2160p | 4K | HDR | HDRezka Studio",
@@ -10837,7 +10855,7 @@
      "source": "rutor.info",
      "size": "16.74 GB",
      "date": "2019-09-16T00:00:00+03:00",
-     "upload": 6,
+     "upload": 5,
      "download": 1
     },
     {
@@ -10846,8 +10864,8 @@
      "source": "rutor.info",
      "size": "10.66 GB",
      "date": "2019-09-15T00:00:00+03:00",
-     "upload": 36,
-     "download": 5
+     "upload": 33,
+     "download": 2
     },
     {
      "name": "Анна / Anna (2019) WEB-DL 1080p от OlLanDGroup | P",
@@ -10855,7 +10873,7 @@
      "source": "rutor.info",
      "size": "4.25 GB",
      "date": "2019-09-14T00:00:00+03:00",
-     "upload": 62,
+     "upload": 67,
      "download": 6
     }
    ]
@@ -11036,7 +11054,7 @@
      "source": "rutor.info",
      "size": "7.73 GB",
      "date": "2019-11-13T00:00:00+03:00",
-     "upload": 26,
+     "upload": 29,
      "download": 3
     },
     {
@@ -11045,8 +11063,8 @@
      "source": "rutor.info",
      "size": "19.31 GB",
      "date": "2019-11-13T00:00:00+03:00",
-     "upload": 9,
-     "download": 1
+     "upload": 10,
+     "download": 3
     }
    ]
   },
@@ -11183,7 +11201,7 @@
      "source": "rutor.info",
      "size": "2.84 GB",
      "date": "2019-11-12T00:00:00+03:00",
-     "upload": 523,
+     "upload": 559,
      "download": 31
     }
    ]
@@ -11305,7 +11323,7 @@
      "size": "23.97 GB",
      "date": "2019-11-12T00:00:00+03:00",
      "upload": 12,
-     "download": 2
+     "download": 1
     }
    ]
   },
@@ -11771,8 +11789,8 @@
      "source": "rutor.info",
      "size": "8.83 GB",
      "date": "2019-11-10T00:00:00+03:00",
-     "upload": 17,
-     "download": 1
+     "upload": 10,
+     "download": 2
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) BDRip-HEVC 1080p от HEVC-CLUB | Лицензия",
@@ -11780,8 +11798,8 @@
      "source": "rutor.info",
      "size": "6.39 GB",
      "date": "2019-10-27T00:00:00+03:00",
-     "upload": 32,
-     "download": 3
+     "upload": 39,
+     "download": 1
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) BDRemux 1080p | D, P | Лицензия",
@@ -11798,8 +11816,8 @@
      "source": "rutor.info",
      "size": "7.74 GB",
      "date": "2019-10-01T00:00:00+03:00",
-     "upload": 122,
-     "download": 8
+     "upload": 141,
+     "download": 11
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) UHD BDRemux 2160p от селезень | 4K | HDR | Лицензия",
@@ -11807,8 +11825,8 @@
      "source": "rutor.info",
      "size": "40.65 GB",
      "date": "2019-10-01T00:00:00+03:00",
-     "upload": 19,
-     "download": 4
+     "upload": 20,
+     "download": 3
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) BDRemux 1080p от селезень | Лицензия",
@@ -11816,8 +11834,8 @@
      "source": "rutor.info",
      "size": "23.03 GB",
      "date": "2019-10-01T00:00:00+03:00",
-     "upload": 15,
-     "download": 0
+     "upload": 13,
+     "download": 1
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) BDRip 1080p от селезень | Лицензия",
@@ -11825,8 +11843,8 @@
      "source": "rutor.info",
      "size": "11.80 GB",
      "date": "2019-10-01T00:00:00+03:00",
-     "upload": 44,
-     "download": 4
+     "upload": 50,
+     "download": 3
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) UHD BDRip-HEVC 2160p | 4K | HDR | D, P | iTunes",
@@ -11834,8 +11852,8 @@
      "source": "rutor.info",
      "size": "13.94 GB",
      "date": "2019-08-26T00:00:00+03:00",
-     "upload": 30,
-     "download": 1
+     "upload": 29,
+     "download": 2
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) BDRip 1080p от OlLanDGroup | D, P | iTunes",
@@ -11843,8 +11861,8 @@
      "source": "rutor.info",
      "size": "13.02 GB",
      "date": "2019-08-24T00:00:00+03:00",
-     "upload": 69,
-     "download": 3
+     "upload": 66,
+     "download": 2
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) WEB-DL-HEVC 2160p | 4K | SDR | HDRezka Studio",
@@ -11861,8 +11879,8 @@
      "source": "rutor.info",
      "size": "7.16 GB",
      "date": "2019-08-21T00:00:00+03:00",
-     "upload": 13,
-     "download": 1
+     "upload": 16,
+     "download": 2
     }
    ]
   },
@@ -12066,8 +12084,8 @@
      "source": "rutor.info",
      "size": "7.36 GB",
      "date": "2019-11-08T00:00:00+03:00",
-     "upload": 136,
-     "download": 5
+     "upload": 150,
+     "download": 8
     },
     {
      "name": "Молчание / The Silence (2019) BDRemux 1080p | D",
@@ -12075,7 +12093,7 @@
      "source": "rutor.info",
      "size": "23.08 GB",
      "date": "2019-11-08T00:00:00+03:00",
-     "upload": 13,
+     "upload": 16,
      "download": 4
     }
    ]
@@ -12897,8 +12915,8 @@
      "source": "rutor.info",
      "size": "3.44 GB",
      "date": "2019-11-08T00:00:00+03:00",
-     "upload": 9,
-     "download": 2
+     "upload": 11,
+     "download": 1
     },
     {
      "name": "Мстители: Финал / Avengers: Endgame (2019) UHD BDRip-HEVC 2160p | D | 4K | HDR",
@@ -12907,7 +12925,7 @@
      "size": "26.64 GB",
      "date": "2019-11-05T00:00:00+03:00",
      "upload": 12,
-     "download": 7
+     "download": 3
     },
     {
      "name": "Мстители: Финал / Avengers: Endgame (2019) BDRip-HEVC 1080p от Scarabey | iTunes",
@@ -12915,7 +12933,7 @@
      "source": "rutor.info",
      "size": "9.57 GB",
      "date": "2019-10-17T00:00:00+03:00",
-     "upload": 36,
+     "upload": 39,
      "download": 2
     },
     {
@@ -12924,7 +12942,7 @@
      "source": "rutor.info",
      "size": "18.20 GB",
      "date": "2019-10-13T00:00:00+03:00",
-     "upload": 17,
+     "upload": 18,
      "download": 3
     },
     {
@@ -12933,8 +12951,8 @@
      "source": "rutor.info",
      "size": "17.30 GB",
      "date": "2019-08-23T00:00:00+03:00",
-     "upload": 41,
-     "download": 3
+     "upload": 53,
+     "download": 6
     },
     {
      "name": "Мстители: Финал / Avengers: Endgame (2019) BDRip-HEVC 1080p от HANNIBAL | iTunes",
@@ -12942,8 +12960,8 @@
      "source": "rutor.info",
      "size": "8.02 GB",
      "date": "2019-08-07T00:00:00+03:00",
-     "upload": 31,
-     "download": 2
+     "upload": 36,
+     "download": 1
     },
     {
      "name": "Мстители: Финал / Avengers: Endgame (2019) BDRip 1080p от qqss44 \u0026 MegaPeer | iTunes",
@@ -12951,7 +12969,7 @@
      "source": "rutor.info",
      "size": "9.63 GB",
      "date": "2019-08-06T00:00:00+03:00",
-     "upload": 54,
+     "upload": 65,
      "download": 1
     },
     {
@@ -12960,8 +12978,8 @@
      "source": "rutor.info",
      "size": "11.88 GB",
      "date": "2019-08-06T00:00:00+03:00",
-     "upload": 159,
-     "download": 4
+     "upload": 180,
+     "download": 8
     },
     {
      "name": "Мстители: Финал / Avengers: Endgame (2019) BDRip-HEVC 1080p | iTunes",
@@ -12969,8 +12987,8 @@
      "source": "rutor.info",
      "size": "4.49 GB",
      "date": "2019-08-04T00:00:00+03:00",
-     "upload": 176,
-     "download": 4
+     "upload": 197,
+     "download": 3
     },
     {
      "name": "Мстители: Финал / Avengers: Endgame (2019) BDRemux 1080p от селезень | D, P | iTunes",
@@ -12978,8 +12996,8 @@
      "source": "rutor.info",
      "size": "36.52 GB",
      "date": "2019-08-03T00:00:00+03:00",
-     "upload": 49,
-     "download": 2
+     "upload": 44,
+     "download": 1
     },
     {
      "name": "Мстители: Финал / Avengers: Endgame (2019) UHD BDRemux 2160p от селезень | 4K | HDR | D, P | iTunes",
@@ -12987,8 +13005,8 @@
      "source": "rutor.info",
      "size": "53.32 GB",
      "date": "2019-08-02T00:00:00+03:00",
-     "upload": 80,
-     "download": 7
+     "upload": 84,
+     "download": 8
     },
     {
      "name": "Мстители: Финал / Avengers: Endgame (2019) UHD BDRip 2160p от селезень | 4K | HDR | D, P | iTunes",
@@ -12996,8 +13014,8 @@
      "source": "rutor.info",
      "size": "11.33 GB",
      "date": "2019-08-01T00:00:00+03:00",
-     "upload": 50,
-     "download": 5
+     "upload": 57,
+     "download": 3
     },
     {
      "name": "Мстители: Финал / Avengers: Endgame (2019) BDRip 1080p от селезень | D, P | iTunes",
@@ -13005,8 +13023,8 @@
      "source": "rutor.info",
      "size": "17.52 GB",
      "date": "2019-08-01T00:00:00+03:00",
-     "upload": 324,
-     "download": 11
+     "upload": 328,
+     "download": 14
     },
     {
      "name": "Мстители: Финал / Avengers: Endgame (2019) WEB-DL 1080p от ExKinoRay | P",
@@ -13014,8 +13032,8 @@
      "source": "rutor.info",
      "size": "6.80 GB",
      "date": "2019-07-31T00:00:00+03:00",
-     "upload": 65,
-     "download": 3
+     "upload": 66,
+     "download": 4
     }
    ]
   },
@@ -13207,8 +13225,8 @@
      "source": "rutor.info",
      "size": "3.19 GB",
      "date": "2019-11-08T00:00:00+03:00",
-     "upload": 142,
-     "download": 2
+     "upload": 140,
+     "download": 4
     }
    ]
   },
@@ -13335,7 +13353,7 @@
      "source": "rutor.info",
      "size": "4.02 GB",
      "date": "2019-11-07T00:00:00+03:00",
-     "upload": 278,
+     "upload": 281,
      "download": 16
     }
    ]
@@ -13563,8 +13581,8 @@
      "source": "rutor.info",
      "size": "3.05 GB",
      "date": "2019-11-07T00:00:00+03:00",
-     "upload": 183,
-     "download": 14
+     "upload": 190,
+     "download": 11
     }
    ]
   },
@@ -13709,8 +13727,8 @@
      "source": "rutor.info",
      "size": "2.90 GB",
      "date": "2019-11-06T00:00:00+03:00",
-     "upload": 62,
-     "download": 0
+     "upload": 63,
+     "download": 1
     }
    ]
   },
@@ -13882,8 +13900,8 @@
      "source": "rutor.info",
      "size": "3.17 GB",
      "date": "2019-11-05T00:00:00+03:00",
-     "upload": 1115,
-     "download": 28
+     "upload": 1166,
+     "download": 38
     }
    ]
   },
@@ -13983,7 +14001,7 @@
    "title": "Страшные истории для рассказа в темноте",
    "video": false,
    "vote_average": 6.3,
-   "vote_count": 649,
+   "vote_count": 650,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -14309,7 +14327,7 @@
      "size": "4.83 GB",
      "date": "2019-11-05T00:00:00+03:00",
      "upload": 17,
-     "download": 1
+     "download": 2
     },
     {
      "name": "Страшные истории для рассказа в темноте / Scary Stories to Tell in the Dark (2019) BDRip 1080p от селезень | iTunes",
@@ -14317,7 +14335,7 @@
      "source": "rutor.info",
      "size": "7.33 GB",
      "date": "2019-10-27T00:00:00+03:00",
-     "upload": 30,
+     "upload": 35,
      "download": 1
     },
     {
@@ -14326,8 +14344,8 @@
      "source": "rutor.info",
      "size": "28.61 GB",
      "date": "2019-10-27T00:00:00+03:00",
-     "upload": 6,
-     "download": 2
+     "upload": 7,
+     "download": 0
     },
     {
      "name": "Страшные истории для рассказа в темноте / Scary Stories to Tell in the Dark (2019) UHD BDRip 1080p от селезень | iTunes",
@@ -14335,7 +14353,7 @@
      "source": "rutor.info",
      "size": "9.81 GB",
      "date": "2019-10-27T00:00:00+03:00",
-     "upload": 57,
+     "upload": 58,
      "download": 4
     },
     {
@@ -14345,7 +14363,7 @@
      "size": "50.53 GB",
      "date": "2019-10-26T00:00:00+03:00",
      "upload": 17,
-     "download": 3
+     "download": 2
     }
    ]
   },
@@ -14472,8 +14490,8 @@
      "source": "rutor.info",
      "size": "3.19 GB",
      "date": "2019-11-04T00:00:00+03:00",
-     "upload": 84,
-     "download": 4
+     "upload": 82,
+     "download": 2
     }
    ]
   },
@@ -14542,7 +14560,7 @@
    "title": "Синяя бездна 2",
    "video": false,
    "vote_average": 4.7,
-   "vote_count": 279,
+   "vote_count": 280,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -14747,8 +14765,8 @@
      "source": "rutor.info",
      "size": "7.90 GB",
      "date": "2019-11-04T00:00:00+03:00",
-     "upload": 31,
-     "download": 1
+     "upload": 34,
+     "download": 4
     },
     {
      "name": "Синяя бездна 2 / 47 Meters Down: Uncaged (2019) BDRip 1080p от селезень | iTunes",
@@ -14756,8 +14774,8 @@
      "source": "rutor.info",
      "size": "7.30 GB",
      "date": "2019-11-03T00:00:00+03:00",
-     "upload": 60,
-     "download": 9
+     "upload": 88,
+     "download": 6
     },
     {
      "name": "Синяя бездна 2 / 47 Meters Down: Uncaged (2019) BDRemux 1080p от селезень | iTunes",
@@ -14765,8 +14783,8 @@
      "source": "rutor.info",
      "size": "18.00 GB",
      "date": "2019-11-03T00:00:00+03:00",
-     "upload": 24,
-     "download": 2
+     "upload": 25,
+     "download": 4
     }
    ]
   },
@@ -14939,7 +14957,7 @@
      "source": "rutor.info",
      "size": "3.49 GB",
      "date": "2019-11-03T00:00:00+03:00",
-     "upload": 214,
+     "upload": 221,
      "download": 10
     }
    ]
@@ -15190,7 +15208,7 @@
      "source": "rutor.info",
      "size": "5.09 GB",
      "date": "2019-11-02T00:00:00+03:00",
-     "upload": 9,
+     "upload": 8,
      "download": 1
     },
     {
@@ -15208,7 +15226,7 @@
      "source": "rutor.info",
      "size": "26.57 GB",
      "date": "2019-09-19T00:00:00+03:00",
-     "upload": 11,
+     "upload": 12,
      "download": 1
     },
     {
@@ -15217,8 +15235,8 @@
      "source": "rutor.info",
      "size": "8.95 GB",
      "date": "2019-09-19T00:00:00+03:00",
-     "upload": 33,
-     "download": 2
+     "upload": 37,
+     "download": 3
     },
     {
      "name": "Шафт / Shaft (2019) WEB-DL-HEVC 2160p | 4K | HDR | D, A",
@@ -15226,8 +15244,8 @@
      "source": "rutor.info",
      "size": "20.38 GB",
      "date": "2019-09-11T00:00:00+03:00",
-     "upload": 6,
-     "download": 2
+     "upload": 7,
+     "download": 1
     },
     {
      "name": "Шафт / Shaft (2019) WEB-DL-HEVC 1080p | D",
@@ -15235,8 +15253,8 @@
      "source": "rutor.info",
      "size": "2.67 GB",
      "date": "2019-06-29T00:00:00+03:00",
-     "upload": 38,
-     "download": 2
+     "upload": 49,
+     "download": 1
     }
    ]
   },
@@ -15548,8 +15566,8 @@
      "source": "rutor.info",
      "size": "6.80 GB",
      "date": "2019-11-01T00:00:00+03:00",
-     "upload": 875,
-     "download": 35
+     "upload": 842,
+     "download": 40
     }
    ]
   },
@@ -15850,8 +15868,8 @@
      "source": "rutor.info",
      "size": "26.77 GB",
      "date": "2019-11-01T00:00:00+03:00",
-     "upload": 53,
-     "download": 3
+     "upload": 46,
+     "download": 4
     },
     {
      "name": "Невероятный мир глазами Энцо / The Art of Racing in the Rain (2019) BDRip 1080p от селезень | iTunes",
@@ -15860,7 +15878,7 @@
      "size": "13.20 GB",
      "date": "2019-10-31T00:00:00+03:00",
      "upload": 212,
-     "download": 16
+     "download": 18
     }
    ]
   },
@@ -16015,8 +16033,8 @@
      "source": "rutor.info",
      "size": "7.92 GB",
      "date": "2019-10-30T00:00:00+03:00",
-     "upload": 77,
-     "download": 5
+     "upload": 89,
+     "download": 7
     },
     {
      "name": "Искусство обмана / Lying and Stealing (2019) BDRemux 1080p от селезень | D, P | iTunes",
@@ -16024,7 +16042,7 @@
      "source": "rutor.info",
      "size": "23.17 GB",
      "date": "2019-10-30T00:00:00+03:00",
-     "upload": 17,
+     "upload": 16,
      "download": 1
     },
     {
@@ -16033,7 +16051,7 @@
      "source": "rutor.info",
      "size": "3.34 GB",
      "date": "2019-07-24T00:00:00+03:00",
-     "upload": 25,
+     "upload": 38,
      "download": 1
     },
     {
@@ -16042,7 +16060,7 @@
      "source": "rutor.info",
      "size": "5.24 GB",
      "date": "2019-07-24T00:00:00+03:00",
-     "upload": 53,
+     "upload": 54,
      "download": 2
     }
    ]
@@ -16195,8 +16213,8 @@
      "source": "rutor.info",
      "size": "3.96 GB",
      "date": "2019-10-28T00:00:00+03:00",
-     "upload": 1176,
-     "download": 73
+     "upload": 1260,
+     "download": 77
     }
    ]
   },
@@ -16367,7 +16385,7 @@
      "size": "8.92 GB",
      "date": "2019-10-24T00:00:00+03:00",
      "upload": 27,
-     "download": 1
+     "download": 2
     }
    ]
   },
@@ -16493,8 +16511,8 @@
      "source": "rutor.info",
      "size": "3.71 GB",
      "date": "2019-10-24T00:00:00+03:00",
-     "upload": 79,
-     "download": 4
+     "upload": 87,
+     "download": 1
     }
    ]
   },
@@ -16648,8 +16666,8 @@
      "source": "rutor.info",
      "size": "3.20 GB",
      "date": "2019-10-24T00:00:00+03:00",
-     "upload": 116,
-     "download": 5
+     "upload": 107,
+     "download": 4
     }
    ]
   },
@@ -16777,8 +16795,8 @@
      "source": "rutor.info",
      "size": "5.66 GB",
      "date": "2019-10-24T00:00:00+03:00",
-     "upload": 20,
-     "download": 2
+     "upload": 26,
+     "download": 1
     }
    ]
   },
@@ -17342,7 +17360,7 @@
      "source": "rutor.info",
      "size": "12.04 GB",
      "date": "2019-10-24T00:00:00+03:00",
-     "upload": 22,
+     "upload": 25,
      "download": 2
     },
     {
@@ -17351,8 +17369,8 @@
      "source": "rutor.info",
      "size": "10.54 GB",
      "date": "2019-10-23T00:00:00+03:00",
-     "upload": 14,
-     "download": 5
+     "upload": 16,
+     "download": 4
     },
     {
      "name": "Человек-паук: Вдали от дома / Spider-Man: Far from Home (2019) BDRemux 1080p от селезень | 3D-Video | Лицензия",
@@ -17361,7 +17379,7 @@
      "size": "36.13 GB",
      "date": "2019-10-23T00:00:00+03:00",
      "upload": 4,
-     "download": 0
+     "download": 1
     },
     {
      "name": "Человек-паук: Вдали от дома / Spider-Man: Far from Home (2019) BDRip-HEVC 1080p от HEVC-CLUB | Лицензия",
@@ -17378,8 +17396,8 @@
      "source": "rutor.info",
      "size": "52.82 GB",
      "date": "2019-10-23T00:00:00+03:00",
-     "upload": 17,
-     "download": 5
+     "upload": 14,
+     "download": 3
     },
     {
      "name": "Человек-паук: Вдали от дома / Spider-Man: Far from Home (2019) BDRip 1080p от селезень | D, P | Лицензия",
@@ -17387,7 +17405,7 @@
      "source": "rutor.info",
      "size": "8.25 GB",
      "date": "2019-10-23T00:00:00+03:00",
-     "upload": 112,
+     "upload": 133,
      "download": 15
     },
     {
@@ -17405,7 +17423,7 @@
      "source": "rutor.info",
      "size": "57.85 GB",
      "date": "2019-09-26T00:00:00+03:00",
-     "upload": 10,
+     "upload": 9,
      "download": 2
     },
     {
@@ -17414,8 +17432,8 @@
      "source": "rutor.info",
      "size": "7.52 GB",
      "date": "2019-09-25T00:00:00+03:00",
-     "upload": 324,
-     "download": 14
+     "upload": 310,
+     "download": 15
     },
     {
      "name": "Человек-паук: Вдали от дома / Spider-Man: Far from Home (2019) WEB-DL-HEVC 2160p | 4K | HDR | HDRezka Studio",
@@ -17423,8 +17441,8 @@
      "source": "rutor.info",
      "size": "22.61 GB",
      "date": "2019-09-20T00:00:00+03:00",
-     "upload": 6,
-     "download": 1
+     "upload": 5,
+     "download": 2
     },
     {
      "name": "Человек-паук: Вдали от дома / Spider-Man: Far from Home (2019) UHD BDRemux 2160p от селезень | 4K | HDR | HDRezka Studio",
@@ -17432,8 +17450,8 @@
      "source": "rutor.info",
      "size": "52.09 GB",
      "date": "2019-09-20T00:00:00+03:00",
-     "upload": 12,
-     "download": 3
+     "upload": 13,
+     "download": 1
     },
     {
      "name": "Человек-паук: Вдали от дома / Spider-Man: Far from Home (2019) WEB-DL-HEVC 2160p | 4K | SDR | HDRezka Studio",
@@ -17441,8 +17459,8 @@
      "source": "rutor.info",
      "size": "22.75 GB",
      "date": "2019-09-17T00:00:00+03:00",
-     "upload": 10,
-     "download": 0
+     "upload": 13,
+     "download": 1
     }
    ]
   },
@@ -18009,8 +18027,8 @@
      "source": "rutor.info",
      "size": "14.43 GB",
      "date": "2019-10-04T00:00:00+03:00",
-     "upload": 14,
-     "download": 4
+     "upload": 20,
+     "download": 3
     },
     {
      "name": "Аладдин / Aladdin (2019) BDRip 1080p от Ash61 | 3D-Video | halfOU | Лицензия",
@@ -18018,7 +18036,7 @@
      "source": "rutor.info",
      "size": "13.34 GB",
      "date": "2019-10-03T00:00:00+03:00",
-     "upload": 28,
+     "upload": 26,
      "download": 2
     },
     {
@@ -18027,7 +18045,7 @@
      "source": "rutor.info",
      "size": "13.03 GB",
      "date": "2019-10-03T00:00:00+03:00",
-     "upload": 32,
+     "upload": 37,
      "download": 1
     },
     {
@@ -18037,7 +18055,7 @@
      "size": "49.36 GB",
      "date": "2019-10-03T00:00:00+03:00",
      "upload": 35,
-     "download": 5
+     "download": 4
     },
     {
      "name": "Аладдин / Aladdin (2019) BDRemux 1080p от селезень | Лицензия",
@@ -18045,8 +18063,8 @@
      "source": "rutor.info",
      "size": "27.53 GB",
      "date": "2019-10-03T00:00:00+03:00",
-     "upload": 19,
-     "download": 1
+     "upload": 20,
+     "download": 2
     },
     {
      "name": "Аладдин / Aladdin (2019) BDRip 1080p от селезень | Лицензия",
@@ -18054,8 +18072,8 @@
      "source": "rutor.info",
      "size": "13.02 GB",
      "date": "2019-10-03T00:00:00+03:00",
-     "upload": 157,
-     "download": 10
+     "upload": 164,
+     "download": 14
     },
     {
      "name": "Аладдин / Aladdin (2019) UHD BDRip-HEVC 2160p | 4K | SDR | D, P, | iTunes",
@@ -18063,8 +18081,8 @@
      "source": "rutor.info",
      "size": "26.90 GB",
      "date": "2019-09-05T00:00:00+03:00",
-     "upload": 17,
-     "download": 1
+     "upload": 19,
+     "download": 2
     },
     {
      "name": "Аладдин / Aladdin (2019) UHD BDRip-HEVC 2160p | 4K | HDR | D, P, | iTunes",
@@ -18072,8 +18090,8 @@
      "source": "rutor.info",
      "size": "13.84 GB",
      "date": "2019-09-05T00:00:00+03:00",
-     "upload": 36,
-     "download": 1
+     "upload": 41,
+     "download": 2
     },
     {
      "name": "Аладдин / Aladdin (2019) BDRip-HEVC 1080p от HEVC-CLUB | D | iTunes",
@@ -18081,7 +18099,7 @@
      "source": "rutor.info",
      "size": "6.87 GB",
      "date": "2019-09-02T00:00:00+03:00",
-     "upload": 41,
+     "upload": 47,
      "download": 2
     },
     {
@@ -18090,8 +18108,8 @@
      "source": "rutor.info",
      "size": "7.52 GB",
      "date": "2019-08-31T00:00:00+03:00",
-     "upload": 109,
-     "download": 3
+     "upload": 129,
+     "download": 2
     },
     {
      "name": "Аладдин / Aladdin (2019) BDRip 1080p от HELLYWOOD | iTunes",
@@ -18099,7 +18117,7 @@
      "source": "rutor.info",
      "size": "9.47 GB",
      "date": "2019-08-31T00:00:00+03:00",
-     "upload": 44,
+     "upload": 37,
      "download": 2
     },
     {
@@ -18108,8 +18126,8 @@
      "source": "rutor.info",
      "size": "27.47 GB",
      "date": "2019-08-30T00:00:00+03:00",
-     "upload": 15,
-     "download": 3
+     "upload": 16,
+     "download": 1
     },
     {
      "name": "Аладдин / Aladdin (2019) BDRip 1080p от OlLanDGroup | iTunes",
@@ -18117,8 +18135,8 @@
      "source": "rutor.info",
      "size": "15.10 GB",
      "date": "2019-08-30T00:00:00+03:00",
-     "upload": 245,
-     "download": 12
+     "upload": 266,
+     "download": 13
     }
    ]
   },
@@ -18636,7 +18654,7 @@
      "source": "rutor.info",
      "size": "24.89 GB",
      "date": "2019-10-23T00:00:00+03:00",
-     "upload": 12,
+     "upload": 16,
      "download": 3
     },
     {
@@ -18654,7 +18672,7 @@
      "source": "rutor.info",
      "size": "54.68 GB",
      "date": "2019-10-10T00:00:00+03:00",
-     "upload": 5,
+     "upload": 6,
      "download": 1
     },
     {
@@ -18663,8 +18681,8 @@
      "source": "rutor.info",
      "size": "21.50 GB",
      "date": "2019-09-19T00:00:00+03:00",
-     "upload": 9,
-     "download": 2
+     "upload": 11,
+     "download": 1
     },
     {
      "name": "Годзилла 2: Король монстров / Godzilla: King of the Monsters (2019) UHD BDRip-HEVC 2160p | 4K | SDR | D, P, | Лицензия",
@@ -18672,8 +18690,8 @@
      "source": "rutor.info",
      "size": "38.89 GB",
      "date": "2019-09-05T00:00:00+03:00",
-     "upload": 3,
-     "download": 2
+     "upload": 1,
+     "download": 1
     },
     {
      "name": "Годзилла 2: Король монстров / Godzilla: King of the Monsters (2019) BDRip-HEVC 1080p от HANNIBAL | Лицензия",
@@ -18681,8 +18699,8 @@
      "source": "rutor.info",
      "size": "10.61 GB",
      "date": "2019-09-04T00:00:00+03:00",
-     "upload": 8,
-     "download": 1
+     "upload": 9,
+     "download": 2
     },
     {
      "name": "Годзилла 2: Король монстров / Godzilla: King of the Monsters (2019) BDRip 1080p от Ash61 | 3D-Video | halfOU | Лицензия",
@@ -18690,7 +18708,7 @@
      "source": "rutor.info",
      "size": "14.06 GB",
      "date": "2019-09-04T00:00:00+03:00",
-     "upload": 16,
+     "upload": 14,
      "download": 3
     },
     {
@@ -18699,7 +18717,7 @@
      "source": "rutor.info",
      "size": "7.58 GB",
      "date": "2019-09-03T00:00:00+03:00",
-     "upload": 119,
+     "upload": 136,
      "download": 7
     },
     {
@@ -18708,8 +18726,8 @@
      "source": "rutor.info",
      "size": "13.29 GB",
      "date": "2019-09-03T00:00:00+03:00",
-     "upload": 16,
-     "download": 0
+     "upload": 18,
+     "download": 2
     },
     {
      "name": "Годзилла 2: Король монстров / Godzilla: King of the Monsters (2019) BDRip 1080p | 3D-Video | HSBS | iTunes",
@@ -18726,8 +18744,8 @@
      "source": "rutor.info",
      "size": "56.56 GB",
      "date": "2019-08-18T00:00:00+03:00",
-     "upload": 12,
-     "download": 1
+     "upload": 10,
+     "download": 2
     }
    ]
   },
@@ -18862,8 +18880,8 @@
      "source": "rutor.info",
      "size": "3.66 GB",
      "date": "2019-10-20T00:00:00+03:00",
-     "upload": 753,
-     "download": 26
+     "upload": 849,
+     "download": 31
     }
    ]
   },
@@ -19345,8 +19363,8 @@
      "source": "rutor.info",
      "size": "6.68 GB",
      "date": "2019-10-18T00:00:00+03:00",
-     "upload": 21,
-     "download": 1
+     "upload": 23,
+     "download": 2
     },
     {
      "name": "Проклятие Аннабель 3 / Annabelle Comes Home (2019) BDRemux 1080p от селезень | D, P | Лицензия",
@@ -19363,8 +19381,8 @@
      "source": "rutor.info",
      "size": "12.47 GB",
      "date": "2019-10-13T00:00:00+03:00",
-     "upload": 40,
-     "download": 2
+     "upload": 41,
+     "download": 1
     }
    ]
   },
@@ -19523,8 +19541,8 @@
      "source": "rutor.info",
      "size": "7.83 GB",
      "date": "2019-10-17T00:00:00+03:00",
-     "upload": 25,
-     "download": 2
+     "upload": 28,
+     "download": 1
     },
     {
      "name": "Doom: Аннигиляция / Doom: Annihilation (2019) BDRip 1080p | L",
@@ -19532,7 +19550,7 @@
      "source": "rutor.info",
      "size": "7.07 GB",
      "date": "2019-10-06T00:00:00+03:00",
-     "upload": 46,
+     "upload": 54,
      "download": 1
     }
    ]
@@ -19672,8 +19690,8 @@
      "source": "rutor.info",
      "size": "3.21 GB",
      "date": "2019-10-17T00:00:00+03:00",
-     "upload": 33,
-     "download": 1
+     "upload": 36,
+     "download": 2
     }
    ]
   },
@@ -19801,8 +19819,8 @@
      "source": "rutor.info",
      "size": "3.39 GB",
      "date": "2019-10-17T00:00:00+03:00",
-     "upload": 63,
-     "download": 4
+     "upload": 64,
+     "download": 3
     }
    ]
   },
@@ -19935,8 +19953,8 @@
      "source": "rutor.info",
      "size": "3.38 GB",
      "date": "2019-10-12T00:00:00+03:00",
-     "upload": 176,
-     "download": 8
+     "upload": 221,
+     "download": 9
     }
    ]
   },
@@ -20034,8 +20052,8 @@
      "source": "rutor.info",
      "size": "3.38 GB",
      "date": "2019-10-12T00:00:00+03:00",
-     "upload": 221,
-     "download": 9
+     "upload": 285,
+     "download": 18
     }
    ]
   },
@@ -20121,8 +20139,8 @@
      "source": "rutor.info",
      "size": "3.38 GB",
      "date": "2019-10-12T00:00:00+03:00",
-     "upload": 176,
-     "download": 8
+     "upload": 221,
+     "download": 9
     }
    ]
   },
@@ -20522,7 +20540,7 @@
      "source": "rutor.info",
      "size": "16.83 GB",
      "date": "2019-10-12T00:00:00+03:00",
-     "upload": 8,
+     "upload": 9,
      "download": 1
     },
     {
@@ -20532,7 +20550,7 @@
      "size": "14.52 GB",
      "date": "2019-10-10T00:00:00+03:00",
      "upload": 15,
-     "download": 0
+     "download": 1
     },
     {
      "name": "Толкин / Tolkien (2019) BDRemux 1080p от селезень | Лицензия",
@@ -20540,7 +20558,7 @@
      "source": "rutor.info",
      "size": "28.43 GB",
      "date": "2019-10-10T00:00:00+03:00",
-     "upload": 5,
+     "upload": 4,
      "download": 0
     },
     {
@@ -20549,8 +20567,8 @@
      "source": "rutor.info",
      "size": "7.02 GB",
      "date": "2019-08-10T00:00:00+03:00",
-     "upload": 15,
-     "download": 0
+     "upload": 16,
+     "download": 1
     },
     {
      "name": "Толкин / Tolkien (2019) BDRemux 1080p | P",
@@ -20567,7 +20585,7 @@
      "source": "rutor.info",
      "size": "4.00 GB",
      "date": "2019-07-30T00:00:00+03:00",
-     "upload": 31,
+     "upload": 35,
      "download": 1
     }
    ]
@@ -20789,8 +20807,8 @@
      "source": "rutor.info",
      "size": "2.11 GB",
      "date": "2019-10-11T00:00:00+03:00",
-     "upload": 78,
-     "download": 1
+     "upload": 79,
+     "download": 3
     }
    ]
   },
@@ -20907,8 +20925,8 @@
      "source": "rutor.info",
      "size": "2.94 GB",
      "date": "2019-10-10T00:00:00+03:00",
-     "upload": 67,
-     "download": 7
+     "upload": 77,
+     "download": 8
     }
    ]
   },
@@ -21043,7 +21061,7 @@
      "source": "rutor.info",
      "size": "3.12 GB",
      "date": "2019-10-10T00:00:00+03:00",
-     "upload": 26,
+     "upload": 28,
      "download": 0
     }
    ]
@@ -21263,8 +21281,8 @@
      "source": "rutor.info",
      "size": "23.41 GB",
      "date": "2019-10-09T00:00:00+03:00",
-     "upload": 7,
-     "download": 3
+     "upload": 8,
+     "download": 2
     },
     {
      "name": "Ангел мой / Angel of Mine (2019) BDRip 1080p от селезень | iTunes",
@@ -21272,7 +21290,7 @@
      "source": "rutor.info",
      "size": "8.19 GB",
      "date": "2019-10-09T00:00:00+03:00",
-     "upload": 38,
+     "upload": 41,
      "download": 5
     }
    ]
@@ -21869,7 +21887,7 @@
      "size": "25.02 GB",
      "date": "2019-10-07T00:00:00+03:00",
      "upload": 0,
-     "download": 6
+     "download": 7
     },
     {
      "name": "Хеллбой / Hellboy (2019) BDRip-HEVC 1080p | D, P | Лицензия",
@@ -21877,7 +21895,7 @@
      "source": "rutor.info",
      "size": "7.01 GB",
      "date": "2019-10-05T00:00:00+03:00",
-     "upload": 11,
+     "upload": 18,
      "download": 1
     },
     {
@@ -21887,7 +21905,7 @@
      "size": "65.34 GB",
      "date": "2019-10-05T00:00:00+03:00",
      "upload": 4,
-     "download": 3
+     "download": 6
     },
     {
      "name": "Хеллбой / Hellboy (2019) BDRemux 1080p от селезень | D, P | US Transfer | Лицензия",
@@ -21895,7 +21913,7 @@
      "source": "rutor.info",
      "size": "33.52 GB",
      "date": "2019-10-05T00:00:00+03:00",
-     "upload": 6,
+     "upload": 9,
      "download": 0
     },
     {
@@ -21904,7 +21922,7 @@
      "source": "rutor.info",
      "size": "9.60 GB",
      "date": "2019-10-05T00:00:00+03:00",
-     "upload": 6,
+     "upload": 9,
      "download": 1
     },
     {
@@ -21913,7 +21931,7 @@
      "source": "rutor.info",
      "size": "12.77 GB",
      "date": "2019-10-05T00:00:00+03:00",
-     "upload": 42,
+     "upload": 51,
      "download": 3
     },
     {
@@ -21922,7 +21940,7 @@
      "source": "rutor.info",
      "size": "7.53 GB",
      "date": "2019-07-30T00:00:00+03:00",
-     "upload": 55,
+     "upload": 59,
      "download": 3
     },
     {
@@ -21940,7 +21958,7 @@
      "source": "rutor.info",
      "size": "72.00 GB",
      "date": "2019-07-20T00:00:00+03:00",
-     "upload": 2,
+     "upload": 3,
      "download": 0
     },
     {
@@ -21967,8 +21985,8 @@
      "source": "rutor.info",
      "size": "4.64 GB",
      "date": "2019-07-08T00:00:00+03:00",
-     "upload": 127,
-     "download": 1
+     "upload": 138,
+     "download": 0
     }
    ]
   },
@@ -22383,7 +22401,7 @@
      "source": "rutor.info",
      "size": "40.17 GB",
      "date": "2019-10-06T00:00:00+03:00",
-     "upload": 7,
+     "upload": 8,
      "download": 2
     },
     {
@@ -22392,7 +22410,7 @@
      "source": "rutor.info",
      "size": "9.77 GB",
      "date": "2019-10-06T00:00:00+03:00",
-     "upload": 29,
+     "upload": 31,
      "download": 2
     },
     {
@@ -22401,7 +22419,7 @@
      "source": "rutor.info",
      "size": "19.73 GB",
      "date": "2019-10-06T00:00:00+03:00",
-     "upload": 10,
+     "upload": 7,
      "download": 0
     },
     {
@@ -22410,7 +22428,7 @@
      "source": "rutor.info",
      "size": "5.39 GB",
      "date": "2019-08-28T00:00:00+03:00",
-     "upload": 22,
+     "upload": 23,
      "download": 1
     },
     {
@@ -22419,8 +22437,8 @@
      "source": "rutor.info",
      "size": "16.15 GB",
      "date": "2019-08-10T00:00:00+03:00",
-     "upload": 8,
-     "download": 0
+     "upload": 11,
+     "download": 1
     },
     {
      "name": "Гори, гори ясно / Brightburn (2019) WEB-DL-HEVC 2160p | 4K | SDR | D, P",
@@ -22428,7 +22446,7 @@
      "source": "rutor.info",
      "size": "16.24 GB",
      "date": "2019-08-10T00:00:00+03:00",
-     "upload": 7,
+     "upload": 5,
      "download": 0
     }
    ]
@@ -22667,8 +22685,8 @@
      "source": "rutor.info",
      "size": "5.89 GB",
      "date": "2019-10-04T00:00:00+03:00",
-     "upload": 43,
-     "download": 3
+     "upload": 49,
+     "download": 1
     }
    ]
   },
@@ -23079,8 +23097,8 @@
      "source": "rutor.info",
      "size": "26.44 GB",
      "date": "2019-10-03T00:00:00+03:00",
-     "upload": 5,
-     "download": 1
+     "upload": 4,
+     "download": 0
     },
     {
      "name": "Ма / Ma (2019) BDRip 1080p от селезень | Лицензия",
@@ -23088,8 +23106,8 @@
      "source": "rutor.info",
      "size": "12.27 GB",
      "date": "2019-10-03T00:00:00+03:00",
-     "upload": 6,
-     "download": 2
+     "upload": 7,
+     "download": 1
     },
     {
      "name": "Ма / Ma (2019) BDRip-HEVC 1080p | iTunes",
@@ -23097,7 +23115,7 @@
      "source": "rutor.info",
      "size": "5.42 GB",
      "date": "2019-08-26T00:00:00+03:00",
-     "upload": 4,
+     "upload": 5,
      "download": 0
     },
     {
@@ -23106,7 +23124,7 @@
      "source": "rutor.info",
      "size": "8.95 GB",
      "date": "2019-08-26T00:00:00+03:00",
-     "upload": 13,
+     "upload": 11,
      "download": 1
     }
    ]
@@ -23309,7 +23327,7 @@
      "source": "rutor.info",
      "size": "33.85 GB",
      "date": "2019-10-03T00:00:00+03:00",
-     "upload": 6,
+     "upload": 8,
      "download": 1
     },
     {
@@ -23318,7 +23336,7 @@
      "source": "rutor.info",
      "size": "15.42 GB",
      "date": "2019-10-03T00:00:00+03:00",
-     "upload": 48,
+     "upload": 49,
      "download": 3
     }
    ]
@@ -23490,8 +23508,8 @@
      "source": "rutor.info",
      "size": "3.64 GB",
      "date": "2019-10-03T00:00:00+03:00",
-     "upload": 229,
-     "download": 7
+     "upload": 260,
+     "download": 6
     }
    ]
   },
@@ -23618,8 +23636,8 @@
      "source": "rutor.info",
      "size": "3.10 GB",
      "date": "2019-10-02T00:00:00+03:00",
-     "upload": 106,
-     "download": 5
+     "upload": 121,
+     "download": 3
     }
    ]
   },
@@ -23750,8 +23768,8 @@
      "source": "rutor.info",
      "size": "3.33 GB",
      "date": "2019-09-30T00:00:00+03:00",
-     "upload": 63,
-     "download": 2
+     "upload": 61,
+     "download": 3
     }
    ]
   },
@@ -23872,7 +23890,7 @@
      "source": "rutor.info",
      "size": "3.03 GB",
      "date": "2019-09-27T00:00:00+03:00",
-     "upload": 15,
+     "upload": 11,
      "download": 1
     }
    ]
@@ -24012,8 +24030,8 @@
      "source": "rutor.info",
      "size": "3.33 GB",
      "date": "2019-09-27T00:00:00+03:00",
-     "upload": 12,
-     "download": 2
+     "upload": 15,
+     "download": 1
     }
    ]
   },
@@ -24217,8 +24235,8 @@
      "source": "rutor.info",
      "size": "3.61 GB",
      "date": "2019-09-27T00:00:00+03:00",
-     "upload": 24,
-     "download": 1
+     "upload": 25,
+     "download": 0
     }
    ]
   },
@@ -24620,7 +24638,7 @@
      "source": "rutor.info",
      "size": "9.63 GB",
      "date": "2019-09-25T00:00:00+03:00",
-     "upload": 32,
+     "upload": 29,
      "download": 1
     }
    ]
@@ -25162,8 +25180,8 @@
      "source": "rutor.info",
      "size": "7.51 GB",
      "date": "2019-09-20T00:00:00+03:00",
-     "upload": 176,
-     "download": 14
+     "upload": 175,
+     "download": 13
     },
     {
      "name": "Джон Уик 3 / John Wick: Chapter 3 - Parabellum (2019) BDRip-HEVC 1080p от HEVC-CLUB | iTunes",
@@ -25171,8 +25189,8 @@
      "source": "rutor.info",
      "size": "7.72 GB",
      "date": "2019-09-16T00:00:00+03:00",
-     "upload": 42,
-     "download": 2
+     "upload": 55,
+     "download": 1
     },
     {
      "name": "Джон Уик 3 / John Wick: Chapter 3 - Parabellum (2019) BDRip 1080p от ExKinoRay | iTunes, P, A",
@@ -25180,7 +25198,7 @@
      "source": "rutor.info",
      "size": "13.66 GB",
      "date": "2019-09-07T00:00:00+03:00",
-     "upload": 26,
+     "upload": 31,
      "download": 1
     },
     {
@@ -25199,7 +25217,7 @@
      "size": "63.11 GB",
      "date": "2019-09-05T00:00:00+03:00",
      "upload": 19,
-     "download": 1
+     "download": 2
     },
     {
      "name": "Джон Уик 3 / John Wick: Chapter 3 - Parabellum (2019) BDRemux 1080p | D, P, A | US Transfer",
@@ -25207,7 +25225,7 @@
      "source": "rutor.info",
      "size": "29.41 GB",
      "date": "2019-09-05T00:00:00+03:00",
-     "upload": 2,
+     "upload": 4,
      "download": 0
     },
     {
@@ -25216,8 +25234,8 @@
      "source": "rutor.info",
      "size": "27.66 GB",
      "date": "2019-09-05T00:00:00+03:00",
-     "upload": 5,
-     "download": 1
+     "upload": 6,
+     "download": 0
     },
     {
      "name": "Джон Уик 3 / John Wick: Chapter 3 - Parabellum (2019) UHD BDRip-HEVC 2160p | D, P, A | iTunes",
@@ -25225,8 +25243,8 @@
      "source": "rutor.info",
      "size": "19.41 GB",
      "date": "2019-09-03T00:00:00+03:00",
-     "upload": 14,
-     "download": 2
+     "upload": 16,
+     "download": 3
     },
     {
      "name": "Джон Уик 3 / John Wick: Chapter 3 - Parabellum (2019) BDRip 1080p | D, P, A | iTunes",
@@ -25235,7 +25253,7 @@
      "size": "15.22 GB",
      "date": "2019-09-02T00:00:00+03:00",
      "upload": 11,
-     "download": 0
+     "download": 1
     },
     {
      "name": "Джон Уик 3 / John Wick: Chapter 3 - Parabellum (2019) BDRip-HEVC 1080p | D, P, A | iTunes",
@@ -25243,7 +25261,7 @@
      "source": "rutor.info",
      "size": "8.08 GB",
      "date": "2019-08-26T00:00:00+03:00",
-     "upload": 62,
+     "upload": 75,
      "download": 2
     },
     {
@@ -25252,8 +25270,8 @@
      "source": "rutor.info",
      "size": "10.56 GB",
      "date": "2019-08-25T00:00:00+03:00",
-     "upload": 110,
-     "download": 4
+     "upload": 128,
+     "download": 7
     },
     {
      "name": "Джон Уик 3 / John Wick: Chapter 3 - Parabellum (2019) WEB-DL-HEVC 2160p | 4K | SDR | HDRezka Studio",
@@ -25262,7 +25280,7 @@
      "size": "12.94 GB",
      "date": "2019-08-24T00:00:00+03:00",
      "upload": 5,
-     "download": 0
+     "download": 3
     },
     {
      "name": "Джон Уик 3 / John Wick: Chapter 3 - Parabellum (2019) WEB-DL-HEVC 2160p | 4K | HDR | HDRezka Studio",
@@ -25377,8 +25395,8 @@
      "source": "rutor.info",
      "size": "3.58 GB",
      "date": "2019-09-19T00:00:00+03:00",
-     "upload": 30,
-     "download": 0
+     "upload": 31,
+     "download": 1
     }
    ]
   },
@@ -25506,8 +25524,8 @@
      "source": "rutor.info",
      "size": "3.43 GB",
      "date": "2019-09-18T00:00:00+03:00",
-     "upload": 212,
-     "download": 18
+     "upload": 220,
+     "download": 23
     }
    ]
   },
@@ -25680,8 +25698,8 @@
      "source": "rutor.info",
      "size": "7.84 GB",
      "date": "2019-09-17T00:00:00+03:00",
-     "upload": 45,
-     "download": 4
+     "upload": 42,
+     "download": 6
     }
    ]
   },
@@ -26050,7 +26068,7 @@
      "source": "rutor.info",
      "size": "15.24 GB",
      "date": "2019-09-16T00:00:00+03:00",
-     "upload": 22,
+     "upload": 23,
      "download": 0
     }
    ]
@@ -26129,7 +26147,7 @@
    "title": "Детские игры",
    "video": false,
    "vote_average": 6,
-   "vote_count": 647,
+   "vote_count": 648,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -26473,8 +26491,8 @@
      "source": "rutor.info",
      "size": "8.46 GB",
      "date": "2019-09-15T00:00:00+03:00",
-     "upload": 23,
-     "download": 5
+     "upload": 36,
+     "download": 9
     },
     {
      "name": "Детские игры / Child's Play (2019) BDRemux 1080p от селезень | iTunes",
@@ -26482,8 +26500,8 @@
      "source": "rutor.info",
      "size": "21.96 GB",
      "date": "2019-09-15T00:00:00+03:00",
-     "upload": 1,
-     "download": 3
+     "upload": 2,
+     "download": 2
     }
    ]
   },
@@ -26618,8 +26636,8 @@
      "source": "rutor.info",
      "size": "40.56 GB",
      "date": "2019-09-14T00:00:00+03:00",
-     "upload": 4,
-     "download": 3
+     "upload": 6,
+     "download": 1
     },
     {
      "name": "Тайная одержимость / Secret Obsession (2019) WEB-DL 1080p | D",
@@ -26627,8 +26645,8 @@
      "source": "rutor.info",
      "size": "4.25 GB",
      "date": "2019-07-18T00:00:00+03:00",
-     "upload": 32,
-     "download": 2
+     "upload": 34,
+     "download": 1
     }
    ]
   },
@@ -27007,8 +27025,8 @@
      "source": "rutor.info",
      "size": "22.09 GB",
      "date": "2019-09-12T00:00:00+03:00",
-     "upload": 9,
-     "download": 0
+     "upload": 7,
+     "download": 1
     },
     {
      "name": "Отпетые мошенницы / The Hustle (2019) BDRip 1080p от селезень | Лицензия",
@@ -27016,8 +27034,8 @@
      "source": "rutor.info",
      "size": "8.91 GB",
      "date": "2019-09-11T00:00:00+03:00",
-     "upload": 140,
-     "download": 7
+     "upload": 156,
+     "download": 8
     },
     {
      "name": "Отпетые мошенницы / The Hustle (2019) BDRip 1080p от ExKinoRay | iTunes",
@@ -27025,8 +27043,8 @@
      "source": "rutor.info",
      "size": "9.46 GB",
      "date": "2019-09-03T00:00:00+03:00",
-     "upload": 77,
-     "download": 2
+     "upload": 87,
+     "download": 6
     },
     {
      "name": "Отпетые мошенницы / The Hustle (2019) BDRip-HEVC 1080p |  iTunes",
@@ -27034,7 +27052,7 @@
      "source": "rutor.info",
      "size": "4.87 GB",
      "date": "2019-09-03T00:00:00+03:00",
-     "upload": 98,
+     "upload": 105,
      "download": 4
     },
     {
@@ -27044,7 +27062,7 @@
      "size": "24.47 GB",
      "date": "2019-09-03T00:00:00+03:00",
      "upload": 9,
-     "download": 1
+     "download": 3
     }
    ]
   },
@@ -27303,7 +27321,7 @@
      "source": "rutor.info",
      "size": "9.22 GB",
      "date": "2019-09-10T00:00:00+03:00",
-     "upload": 35,
+     "upload": 39,
      "download": 1
     },
     {
@@ -27312,8 +27330,8 @@
      "source": "rutor.info",
      "size": "24.67 GB",
      "date": "2019-09-09T00:00:00+03:00",
-     "upload": 3,
-     "download": 1
+     "upload": 4,
+     "download": 2
     },
     {
      "name": "План побега 3 / Escape Plan: The Extractors (2019) BDRip 1080p от селезень | СВ Студия",
@@ -27321,7 +27339,7 @@
      "source": "rutor.info",
      "size": "7.11 GB",
      "date": "2019-07-03T00:00:00+03:00",
-     "upload": 13,
+     "upload": 17,
      "download": 1
     },
     {
@@ -27330,8 +27348,8 @@
      "source": "rutor.info",
      "size": "18.46 GB",
      "date": "2019-07-03T00:00:00+03:00",
-     "upload": 8,
-     "download": 2
+     "upload": 4,
+     "download": 1
     }
    ]
   },
@@ -27695,8 +27713,8 @@
      "source": "rutor.info",
      "size": "7.79 GB",
      "date": "2019-09-09T00:00:00+03:00",
-     "upload": 43,
-     "download": 4
+     "upload": 40,
+     "download": 3
     },
     {
      "name": "Мертвые не умирают / The Dead Don't Die (2019) WEB-DL-HEVC 2160p | 4K | SDR | iTunes",
@@ -27704,8 +27722,8 @@
      "source": "rutor.info",
      "size": "18.35 GB",
      "date": "2019-09-05T00:00:00+03:00",
-     "upload": 10,
-     "download": 1
+     "upload": 11,
+     "download": 3
     },
     {
      "name": "Мертвые не умирают / The Dead Don't Die (2019) BDRemux 1080p |  iTunes",
@@ -27722,8 +27740,8 @@
      "source": "rutor.info",
      "size": "2.96 GB",
      "date": "2019-09-05T00:00:00+03:00",
-     "upload": 42,
-     "download": 2
+     "upload": 38,
+     "download": 1
     },
     {
      "name": "Мертвые не умирают / The Dead Don't Die (2019) WEB-DL-HEVC 2160p | 4K | HDR | iTunes",
@@ -27731,8 +27749,8 @@
      "source": "rutor.info",
      "size": "17.34 GB",
      "date": "2019-09-04T00:00:00+03:00",
-     "upload": 8,
-     "download": 1
+     "upload": 10,
+     "download": 3
     },
     {
      "name": "Мертвые не умирают / The Dead Don't Die (2019) BDRip 1080p | iTunes",
@@ -27740,8 +27758,8 @@
      "source": "rutor.info",
      "size": "6.43 GB",
      "date": "2019-09-04T00:00:00+03:00",
-     "upload": 143,
-     "download": 6
+     "upload": 152,
+     "download": 7
     }
    ]
   },
@@ -27836,7 +27854,7 @@
    "title": "Люди Икс: Тёмный Феникс",
    "video": false,
    "vote_average": 6.1,
-   "vote_count": 2479,
+   "vote_count": 2481,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -28359,8 +28377,8 @@
      "source": "rutor.info",
      "size": "44.89 GB",
      "date": "2019-09-07T00:00:00+03:00",
-     "upload": 37,
-     "download": 5
+     "upload": 36,
+     "download": 9
     },
     {
      "name": "Люди Икс: Тёмный Феникс / Dark Phoenix (2019) WEB-DL 2160p | 4K | SDR | Лицензия",
@@ -28368,8 +28386,8 @@
      "source": "rutor.info",
      "size": "21.16 GB",
      "date": "2019-09-05T00:00:00+03:00",
-     "upload": 10,
-     "download": 1
+     "upload": 9,
+     "download": 3
     },
     {
      "name": "Люди Икс: Тёмный Феникс / Dark Phoenix (2019) BDRip 1080p от ExKinoRay | Лицензия",
@@ -28377,8 +28395,8 @@
      "source": "rutor.info",
      "size": "10.94 GB",
      "date": "2019-09-03T00:00:00+03:00",
-     "upload": 87,
-     "download": 7
+     "upload": 97,
+     "download": 5
     },
     {
      "name": "Люди Икс: Тёмный Феникс / Dark Phoenix (2019) BDRip-HEVC 1080p |  Лицензия",
@@ -28386,8 +28404,8 @@
      "source": "rutor.info",
      "size": "4.61 GB",
      "date": "2019-09-02T00:00:00+03:00",
-     "upload": 88,
-     "download": 4
+     "upload": 84,
+     "download": 5
     },
     {
      "name": "Люди Икс: Тёмный Феникс / Dark Phoenix (2019) BDRip 1080p от qqss44 \u0026 MegaPeer | Лицензия",
@@ -28395,8 +28413,8 @@
      "source": "rutor.info",
      "size": "6.93 GB",
      "date": "2019-09-02T00:00:00+03:00",
-     "upload": 309,
-     "download": 15
+     "upload": 337,
+     "download": 12
     },
     {
      "name": "Люди Икс: Тёмный Феникс / Dark Phoenix (2019) BDRip 1080p от HELLYWOOD | Лицензия",
@@ -28404,8 +28422,8 @@
      "source": "rutor.info",
      "size": "7.74 GB",
      "date": "2019-09-02T00:00:00+03:00",
-     "upload": 101,
-     "download": 4
+     "upload": 94,
+     "download": 2
     },
     {
      "name": "Люди Икс: Тёмный Феникс / Dark Phoenix (2019) BDRemux 1080р | Лицензия",
@@ -28413,8 +28431,8 @@
      "source": "rutor.info",
      "size": "24.96 GB",
      "date": "2019-09-01T00:00:00+03:00",
-     "upload": 36,
-     "download": 3
+     "upload": 44,
+     "download": 5
     }
    ]
   },
@@ -28590,8 +28608,8 @@
      "source": "rutor.info",
      "size": "8.29 GB",
      "date": "2019-09-01T00:00:00+03:00",
-     "upload": 30,
-     "download": 1
+     "upload": 28,
+     "download": 3
     },
     {
      "name": "Клуб анонимных киллеров / Killers Anonymous (2019) WEB-DL 1080p | D, P | iTunes",
@@ -28600,7 +28618,7 @@
      "size": "6.66 GB",
      "date": "2019-08-29T00:00:00+03:00",
      "upload": 18,
-     "download": 1
+     "download": 3
     },
     {
      "name": "Клуб анонимных киллеров / Killers Anonymous (2019) WEB-DL 1080p от селезень | СВ Студия",
@@ -28608,8 +28626,8 @@
      "source": "rutor.info",
      "size": "6.41 GB",
      "date": "2019-07-01T00:00:00+03:00",
-     "upload": 35,
-     "download": 3
+     "upload": 37,
+     "download": 1
     }
    ]
   },
@@ -29008,7 +29026,7 @@
      "source": "rutor.info",
      "size": "4.21 GB",
      "date": "2019-08-31T00:00:00+03:00",
-     "upload": 90,
+     "upload": 91,
      "download": 2
     }
    ]
@@ -29493,8 +29511,8 @@
      "source": "rutor.info",
      "size": "7.76 GB",
      "date": "2019-08-24T00:00:00+03:00",
-     "upload": 57,
-     "download": 4
+     "upload": 49,
+     "download": 2
     },
     {
      "name": "Рокетмен / Rocketman (2019) BDRip-HEVC 1080p | Лицензия",
@@ -29502,8 +29520,8 @@
      "source": "rutor.info",
      "size": "4.89 GB",
      "date": "2019-08-22T00:00:00+03:00",
-     "upload": 24,
-     "download": 1
+     "upload": 23,
+     "download": 2
     },
     {
      "name": "Рокетмен / Rocketman (2019) UHD BDRemux 2160p от селезень | 4K | HDR | Лицензия",
@@ -29520,7 +29538,7 @@
      "source": "rutor.info",
      "size": "29.41 GB",
      "date": "2019-08-18T00:00:00+03:00",
-     "upload": 7,
+     "upload": 6,
      "download": 1
     },
     {
@@ -29529,8 +29547,8 @@
      "source": "rutor.info",
      "size": "8.72 GB",
      "date": "2019-08-18T00:00:00+03:00",
-     "upload": 78,
-     "download": 5
+     "upload": 87,
+     "download": 4
     },
     {
      "name": "Рокетмен / Rocketman (2019) BDRip 1080p | HDRezka Studio",
@@ -29538,8 +29556,8 @@
      "source": "rutor.info",
      "size": "11.24 GB",
      "date": "2019-08-18T00:00:00+03:00",
-     "upload": 6,
-     "download": 0
+     "upload": 5,
+     "download": 2
     },
     {
      "name": "Рокетмен / Rocketman (2019) WEB-DL 1080p | HDRezka Studio",
@@ -29547,8 +29565,8 @@
      "source": "rutor.info",
      "size": "4.31 GB",
      "date": "2019-08-06T00:00:00+03:00",
-     "upload": 20,
-     "download": 1
+     "upload": 25,
+     "download": 2
     },
     {
      "name": "Рокетмен / Rocketman (2019) WEB-DL 1080p | HDRezka Studio",
@@ -29556,7 +29574,7 @@
      "source": "rutor.info",
      "size": "6.25 GB",
      "date": "2019-08-06T00:00:00+03:00",
-     "upload": 12,
+     "upload": 10,
      "download": 2
     }
    ]
@@ -29703,8 +29721,8 @@
      "source": "rutor.info",
      "size": "4.01 GB",
      "date": "2019-08-22T00:00:00+03:00",
-     "upload": 11,
-     "download": 1
+     "upload": 16,
+     "download": 4
     }
    ]
   },
@@ -29861,8 +29879,8 @@
      "source": "rutor.info",
      "size": "3.86 GB",
      "date": "2019-08-21T00:00:00+03:00",
-     "upload": 65,
-     "download": 0
+     "upload": 79,
+     "download": 1
     }
    ]
   },
@@ -30284,8 +30302,8 @@
      "source": "rutor.info",
      "size": "5.71 GB",
      "date": "2019-08-21T00:00:00+03:00",
-     "upload": 336,
-     "download": 6
+     "upload": 367,
+     "download": 9
     }
    ]
   },
@@ -30399,7 +30417,7 @@
      "source": "rutor.info",
      "size": "19.78 GB",
      "date": "2019-08-20T00:00:00+03:00",
-     "upload": 7,
+     "upload": 5,
      "download": 0
     },
     {
@@ -30408,7 +30426,7 @@
      "source": "rutor.info",
      "size": "4.65 GB",
      "date": "2019-08-20T00:00:00+03:00",
-     "upload": 10,
+     "upload": 7,
      "download": 0
     },
     {
@@ -30544,8 +30562,8 @@
      "source": "rutor.info",
      "size": "3.18 GB",
      "date": "2019-08-19T00:00:00+03:00",
-     "upload": 94,
-     "download": 5
+     "upload": 92,
+     "download": 2
     }
    ]
   },
@@ -30752,7 +30770,7 @@
      "size": "14.82 GB",
      "date": "2019-08-18T00:00:00+03:00",
      "upload": 3,
-     "download": 2
+     "download": 1
     },
     {
      "name": "Незваный гость / The Intruder (2019) BDRip 1080p от селезень | Лицензия",
@@ -30760,8 +30778,8 @@
      "source": "rutor.info",
      "size": "8.03 GB",
      "date": "2019-07-21T00:00:00+03:00",
-     "upload": 16,
-     "download": 2
+     "upload": 17,
+     "download": 1
     },
     {
      "name": "Незваный гость / The Intruder (2019) BDRemux 1080p от селезень | Лицензия",
@@ -30770,7 +30788,7 @@
      "size": "19.78 GB",
      "date": "2019-07-20T00:00:00+03:00",
      "upload": 4,
-     "download": 0
+     "download": 1
     }
    ]
   },
@@ -31065,7 +31083,7 @@
      "source": "rutor.info",
      "size": "8.43 GB",
      "date": "2019-08-17T00:00:00+03:00",
-     "upload": 2,
+     "upload": 4,
      "download": 1
     },
     {
@@ -31074,7 +31092,7 @@
      "source": "rutor.info",
      "size": "7.34 GB",
      "date": "2019-07-30T00:00:00+03:00",
-     "upload": 12,
+     "upload": 13,
      "download": 1
     },
     {
@@ -31083,8 +31101,8 @@
      "source": "rutor.info",
      "size": "6.05 GB",
      "date": "2019-06-06T00:00:00+03:00",
-     "upload": 13,
-     "download": 1
+     "upload": 11,
+     "download": 2
     }
    ]
   },
@@ -31896,7 +31914,7 @@
      "source": "rutor.info",
      "size": "9.85 GB",
      "date": "2019-08-17T00:00:00+03:00",
-     "upload": 41,
+     "upload": 42,
      "download": 1
     },
     {
@@ -31905,8 +31923,8 @@
      "source": "rutor.info",
      "size": "9.69 GB",
      "date": "2019-08-07T00:00:00+03:00",
-     "upload": 9,
-     "download": 2
+     "upload": 16,
+     "download": 1
     },
     {
      "name": "Покемон. Детектив Пикачу / Pokémon Detective Pikachu (2019) BDRip-HEVC 1080p | 60 fps | D, P | Лицензия",
@@ -31914,8 +31932,8 @@
      "source": "rutor.info",
      "size": "5.86 GB",
      "date": "2019-07-27T00:00:00+03:00",
-     "upload": 74,
-     "download": 3
+     "upload": 75,
+     "download": 2
     },
     {
      "name": "Покемон. Детектив Пикачу / Pokémon Detective Pikachu (2019) BDRemux 1080p от селезень | D, P | Лицензия",
@@ -31923,7 +31941,7 @@
      "source": "rutor.info",
      "size": "19.47 GB",
      "date": "2019-07-24T00:00:00+03:00",
-     "upload": 17,
+     "upload": 13,
      "download": 1
     },
     {
@@ -31932,7 +31950,7 @@
      "source": "rutor.info",
      "size": "49.99 GB",
      "date": "2019-07-24T00:00:00+03:00",
-     "upload": 25,
+     "upload": 26,
      "download": 2
     },
     {
@@ -31941,8 +31959,8 @@
      "source": "rutor.info",
      "size": "8.37 GB",
      "date": "2019-07-24T00:00:00+03:00",
-     "upload": 187,
-     "download": 10
+     "upload": 228,
+     "download": 8
     },
     {
      "name": "Покемон. Детектив Пикачу / Pokemon Detective Pikachu (2019) BDRemux 1080p | P",
@@ -31951,7 +31969,7 @@
      "size": "20.83 GB",
      "date": "2019-07-23T00:00:00+03:00",
      "upload": 0,
-     "download": 0
+     "download": 1
     }
    ]
   },
@@ -32067,8 +32085,8 @@
      "source": "rutor.info",
      "size": "6.51 GB",
      "date": "2019-06-20T00:00:00+03:00",
-     "upload": 23,
-     "download": 0
+     "upload": 20,
+     "download": 1
     }
    ]
   },
@@ -32204,8 +32222,8 @@
      "source": "rutor.info",
      "size": "3.57 GB",
      "date": "2019-08-15T00:00:00+03:00",
-     "upload": 24,
-     "download": 1
+     "upload": 31,
+     "download": 2
     }
    ]
   },
@@ -32317,8 +32335,8 @@
      "source": "rutor.info",
      "size": "3.60 GB",
      "date": "2019-08-14T00:00:00+03:00",
-     "upload": 27,
-     "download": 0
+     "upload": 33,
+     "download": 2
     }
    ]
   },
@@ -32526,7 +32544,7 @@
      "source": "rutor.info",
      "size": "4.93 GB",
      "date": "2019-08-11T00:00:00+03:00",
-     "upload": 29,
+     "upload": 30,
      "download": 3
     }
    ]
@@ -32683,8 +32701,8 @@
      "source": "rutor.info",
      "size": "3.46 GB",
      "date": "2019-08-07T00:00:00+03:00",
-     "upload": 52,
-     "download": 1
+     "upload": 53,
+     "download": 2
     }
    ]
   },
@@ -32814,8 +32832,8 @@
      "source": "rutor.info",
      "size": "35.78 GB",
      "date": "2019-08-06T00:00:00+03:00",
-     "upload": 1,
-     "download": 1
+     "upload": 0,
+     "download": 3
     },
     {
      "name": "Лучшие враги / The Best of Enemies (2019) BDRip 1080p от селезень | iTunes",
@@ -32823,8 +32841,8 @@
      "source": "rutor.info",
      "size": "15.70 GB",
      "date": "2019-08-06T00:00:00+03:00",
-     "upload": 8,
-     "download": 0
+     "upload": 7,
+     "download": 1
     },
     {
      "name": "Лучшие враги / The Best of Enemies (2019) WEB-DL 1080p от ExKinoRay | P",
@@ -32833,7 +32851,7 @@
      "size": "4.81 GB",
      "date": "2019-06-25T00:00:00+03:00",
      "upload": 11,
-     "download": 1
+     "download": 3
     }
    ]
   },
@@ -33096,7 +33114,7 @@
      "source": "rutor.info",
      "size": "2.94 GB",
      "date": "2019-08-06T00:00:00+03:00",
-     "upload": 109,
+     "upload": 107,
      "download": 3
     }
    ]
@@ -33252,8 +33270,8 @@
      "source": "rutor.info",
      "size": "53.66 GB",
      "date": "2019-08-05T00:00:00+03:00",
-     "upload": 5,
-     "download": 1
+     "upload": 4,
+     "download": 3
     },
     {
      "name": "Бэтмен: Тихо! / Batman: Hush (2019) WEB-DL 1080p |  ZM-SHOW",
@@ -33262,7 +33280,7 @@
      "size": "2.92 GB",
      "date": "2019-08-04T00:00:00+03:00",
      "upload": 7,
-     "download": 2
+     "download": 1
     },
     {
      "name": "Бэтмен: Тихо! / Batman: Hush (2019) WEB-DL 1080p | Flarrow Films",
@@ -33270,8 +33288,8 @@
      "source": "rutor.info",
      "size": "3.03 GB",
      "date": "2019-07-30T00:00:00+03:00",
-     "upload": 15,
-     "download": 1
+     "upload": 11,
+     "download": 2
     }
    ]
   },
@@ -33417,8 +33435,8 @@
      "source": "rutor.info",
      "size": "5.33 GB",
      "date": "2019-08-04T00:00:00+03:00",
-     "upload": 8,
-     "download": 1
+     "upload": 7,
+     "download": 0
     },
     {
      "name": "Ассимиляция / Assimilate (2019) BDRemux 1080p от ExKinoRay | P, A",
@@ -33435,8 +33453,8 @@
      "source": "rutor.info",
      "size": "4.39 GB",
      "date": "2019-06-17T00:00:00+03:00",
-     "upload": 27,
-     "download": 1
+     "upload": 26,
+     "download": 2
     }
    ]
   },
@@ -33577,7 +33595,7 @@
      "source": "rutor.info",
      "size": "3.40 GB",
      "date": "2019-08-02T00:00:00+03:00",
-     "upload": 7,
+     "upload": 5,
      "download": 1
     }
    ]
@@ -33945,8 +33963,8 @@
      "source": "rutor.info",
      "size": "8.58 GB",
      "date": "2019-07-31T00:00:00+03:00",
-     "upload": 18,
-     "download": 2
+     "upload": 20,
+     "download": 1
     },
     {
      "name": "Потерянное звено / Missing Link (2019) BDRip 1080p от OlLanDGroup | P",
@@ -33954,8 +33972,8 @@
      "source": "rutor.info",
      "size": "5.51 GB",
      "date": "2019-07-21T00:00:00+03:00",
-     "upload": 26,
-     "download": 0
+     "upload": 29,
+     "download": 1
     }
    ]
   },
@@ -34072,8 +34090,8 @@
      "source": "rutor.info",
      "size": "4.30 GB",
      "date": "2019-07-29T00:00:00+03:00",
-     "upload": 20,
-     "download": 1
+     "upload": 18,
+     "download": 2
     }
    ]
   },
@@ -34288,7 +34306,7 @@
      "source": "rutor.info",
      "size": "26.45 GB",
      "date": "2019-07-27T00:00:00+03:00",
-     "upload": 1,
+     "upload": 0,
      "download": 0
     },
     {
@@ -34297,8 +34315,8 @@
      "source": "rutor.info",
      "size": "49.69 GB",
      "date": "2019-07-16T00:00:00+03:00",
-     "upload": 4,
-     "download": 3
+     "upload": 5,
+     "download": 4
     },
     {
      "name": "Прорыв / Breakthrough (2019) BDRip 1080p от селезень | iTunes",
@@ -34307,7 +34325,7 @@
      "size": "9.20 GB",
      "date": "2019-07-11T00:00:00+03:00",
      "upload": 3,
-     "download": 0
+     "download": 1
     }
    ]
   },
@@ -34411,7 +34429,7 @@
      "source": "rutor.info",
      "size": "2.89 GB",
      "date": "2019-07-25T00:00:00+03:00",
-     "upload": 55,
+     "upload": 45,
      "download": 0
     }
    ]
@@ -34583,7 +34601,7 @@
      "source": "rutor.info",
      "size": "25.81 GB",
      "date": "2019-07-25T00:00:00+03:00",
-     "upload": 3,
+     "upload": 4,
      "download": 0
     },
     {
@@ -34592,8 +34610,8 @@
      "source": "rutor.info",
      "size": "23.36 GB",
      "date": "2019-07-25T00:00:00+03:00",
-     "upload": 1,
-     "download": 1
+     "upload": 0,
+     "download": 0
     },
     {
      "name": "Ядовитая роза / The Poison Rose (2019) BDRip 1080p от селезень | iTunes",
@@ -34601,7 +34619,7 @@
      "source": "rutor.info",
      "size": "14.52 GB",
      "date": "2019-07-25T00:00:00+03:00",
-     "upload": 17,
+     "upload": 20,
      "download": 1
     },
     {
@@ -34610,8 +34628,8 @@
      "source": "rutor.info",
      "size": "9.53 GB",
      "date": "2019-06-09T00:00:00+03:00",
-     "upload": 14,
-     "download": 2
+     "upload": 12,
+     "download": 3
     }
    ]
   },
@@ -34771,7 +34789,7 @@
      "source": "rutor.info",
      "size": "8.33 GB",
      "date": "2019-07-24T00:00:00+03:00",
-     "upload": 8,
+     "upload": 6,
      "download": 0
     }
    ]
@@ -34921,7 +34939,7 @@
      "size": "7.28 GB",
      "date": "2019-07-21T00:00:00+03:00",
      "upload": 6,
-     "download": 2
+     "download": 1
     }
    ]
   },
@@ -35046,7 +35064,7 @@
      "source": "rutor.info",
      "size": "2.88 GB",
      "date": "2019-07-20T00:00:00+03:00",
-     "upload": 27,
+     "upload": 30,
      "download": 2
     }
    ]
@@ -35204,8 +35222,8 @@
      "source": "rutor.info",
      "size": "3.13 GB",
      "date": "2019-07-12T00:00:00+03:00",
-     "upload": 151,
-     "download": 10
+     "upload": 153,
+     "download": 6
     }
    ]
   },
@@ -35342,8 +35360,8 @@
      "source": "rutor.info",
      "size": "2.70 GB",
      "date": "2019-07-12T00:00:00+03:00",
-     "upload": 9,
-     "download": 1
+     "upload": 10,
+     "download": 0
     }
    ]
   },
@@ -35734,7 +35752,7 @@
      "size": "26.24 GB",
      "date": "2019-07-04T00:00:00+03:00",
      "upload": 3,
-     "download": 0
+     "download": 2
     },
     {
      "name": "После / After (2019) BDRip 1080p от селезень | iTunes",
@@ -35881,8 +35899,8 @@
      "source": "rutor.info",
      "size": "3.34 GB",
      "date": "2019-06-30T00:00:00+03:00",
-     "upload": 275,
-     "download": 8
+     "upload": 283,
+     "download": 7
     }
    ]
   },
@@ -36092,8 +36110,8 @@
      "source": "rutor.info",
      "size": "2.77 GB",
      "date": "2019-06-26T00:00:00+03:00",
-     "upload": 114,
-     "download": 9
+     "upload": 141,
+     "download": 11
     }
    ]
   },
@@ -36218,8 +36236,8 @@
      "source": "rutor.info",
      "size": "4.45 GB",
      "date": "2019-06-24T00:00:00+03:00",
-     "upload": 131,
-     "download": 0
+     "upload": 139,
+     "download": 1
     }
    ]
   },
@@ -36327,7 +36345,7 @@
      "source": "rutor.info",
      "size": "2.91 GB",
      "date": "2019-06-21T00:00:00+03:00",
-     "upload": 30,
+     "upload": 41,
      "download": 0
     }
    ]
@@ -36436,7 +36454,7 @@
      "source": "rutor.info",
      "size": "4.11 GB",
      "date": "2019-06-19T00:00:00+03:00",
-     "upload": 15,
+     "upload": 14,
      "download": 0
     }
    ]
@@ -36562,8 +36580,8 @@
      "source": "rutor.info",
      "size": "5.19 GB",
      "date": "2019-06-17T00:00:00+03:00",
-     "upload": 9,
-     "download": 2
+     "upload": 10,
+     "download": 1
     }
    ]
   },
@@ -36661,7 +36679,7 @@
      "source": "rutor.info",
      "size": "8.49 GB",
      "date": "2019-06-17T00:00:00+03:00",
-     "upload": 1,
+     "upload": 0,
      "download": 0
     }
    ]
@@ -36910,8 +36928,8 @@
      "source": "rutor.info",
      "size": "14.57 GB",
      "date": "2019-06-16T00:00:00+03:00",
-     "upload": 61,
-     "download": 5
+     "upload": 59,
+     "download": 4
     },
     {
      "name": "Загадочное убийство / Murder Mystery (2019) WEB-DL-HEVC 1080p | HDR | Пифагор",
@@ -36919,8 +36937,8 @@
      "source": "rutor.info",
      "size": "4.51 GB",
      "date": "2019-06-15T00:00:00+03:00",
-     "upload": 147,
-     "download": 5
+     "upload": 150,
+     "download": 3
     },
     {
      "name": "Загадочное убийство / Murder Mystery (2019) WEB-DL 1080p | Пифагор",
@@ -36928,8 +36946,8 @@
      "source": "rutor.info",
      "size": "3.68 GB",
      "date": "2019-06-15T00:00:00+03:00",
-     "upload": 484,
-     "download": 26
+     "upload": 519,
+     "download": 27
     }
    ]
   },
@@ -37067,7 +37085,7 @@
      "source": "rutor.info",
      "size": "11.03 GB",
      "date": "2019-06-14T00:00:00+03:00",
-     "upload": 10,
+     "upload": 9,
      "download": 0
     }
    ]
@@ -37176,8 +37194,8 @@
      "source": "rutor.info",
      "size": "4.86 GB",
      "date": "2019-06-05T00:00:00+03:00",
-     "upload": 41,
-     "download": 0
+     "upload": 47,
+     "download": 2
     }
    ]
   },
@@ -37321,8 +37339,8 @@
      "source": "rutor.info",
      "size": "5.42 GB",
      "date": "2019-05-31T00:00:00+03:00",
-     "upload": 62,
-     "download": 4
+     "upload": 64,
+     "download": 3
     },
     {
      "name": "Отмщение / Avengement (2019) WEB-DL 1080p от OlLanDGroup | P",
@@ -37330,8 +37348,8 @@
      "source": "rutor.info",
      "size": "3.13 GB",
      "date": "2019-05-31T00:00:00+03:00",
-     "upload": 95,
-     "download": 11
+     "upload": 99,
+     "download": 14
     }
    ]
   },
@@ -37559,7 +37577,7 @@
      "source": "rutor.info",
      "size": "8.09 GB",
      "date": "2019-05-28T00:00:00+03:00",
-     "upload": 55,
+     "upload": 59,
      "download": 1
     }
    ]
@@ -37838,7 +37856,7 @@
      "source": "rutor.info",
      "size": "3.62 GB",
      "date": "2019-05-20T00:00:00+03:00",
-     "upload": 8,
+     "upload": 10,
      "download": 1
     },
     {
@@ -37967,8 +37985,8 @@
      "source": "rutor.info",
      "size": "3.54 GB",
      "date": "2019-05-20T00:00:00+03:00",
-     "upload": 214,
-     "download": 14
+     "upload": 258,
+     "download": 19
     }
    ]
   },
@@ -38120,7 +38138,7 @@
      "source": "rutor.info",
      "size": "3.52 GB",
      "date": "2019-05-17T00:00:00+03:00",
-     "upload": 7,
+     "upload": 5,
      "download": 1
     }
    ]
@@ -38226,8 +38244,8 @@
      "source": "rutor.info",
      "size": "3.93 GB",
      "date": "2019-05-16T00:00:00+03:00",
-     "upload": 31,
-     "download": 2
+     "upload": 35,
+     "download": 1
     }
    ]
   },
@@ -38340,8 +38358,8 @@
      "source": "rutor.info",
      "size": "4.15 GB",
      "date": "2019-05-05T00:00:00+03:00",
-     "upload": 10,
-     "download": 3
+     "upload": 9,
+     "download": 1
     }
    ]
   },
@@ -38506,8 +38524,8 @@
      "source": "rutor.info",
      "size": "4.06 GB",
      "date": "2019-05-04T00:00:00+03:00",
-     "upload": 15,
-     "download": 1
+     "upload": 20,
+     "download": 2
     }
    ]
   },
@@ -38791,7 +38809,7 @@
      "source": "rutor.info",
      "size": "5.95 GB",
      "date": "2019-05-02T00:00:00+03:00",
-     "upload": 7,
+     "upload": 5,
      "download": 1
     }
    ]
@@ -38944,7 +38962,7 @@
      "source": "rutor.info",
      "size": "2.54 GB",
      "date": "2019-04-13T00:00:00+03:00",
-     "upload": 49,
+     "upload": 55,
      "download": 1
     }
    ]
