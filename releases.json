@@ -1,6 +1,6 @@
 {
- "Date": "2019-12-15",
- "Time": "22:38:38",
+ "Date": "2019-12-16",
+ "Time": "04:35:05",
  "Items": [
   {
    "adult": false,
@@ -20,7 +20,7 @@
    "original_language": "en",
    "original_title": "Marriage Story",
    "overview": "Сюжет фильма вращается вокруг распадающейся супружеской пары.",
-   "popularity": 151.216,
+   "popularity": 151.286,
    "poster_path": "http://image.tmdb.org/t/p/w500/bm6zKJjKYKrIy3dcnOLk0kF85cl.jpg",
    "production_companies": [
     {
@@ -46,11 +46,11 @@
     }
    ],
    "status": "Released",
-   "tagline": "",
+   "tagline": "Where there's a love, there's a way.",
    "title": "Брачная история",
    "video": false,
    "vote_average": 8.2,
-   "vote_count": 603,
+   "vote_count": 638,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -284,7 +284,7 @@
   },
   {
    "adult": false,
-   "backdrop_path": "http://image.tmdb.org/t/p/w780/raspMdRYIj0cCF6SQH8NQ1lLLMB.jpg",
+   "backdrop_path": "http://image.tmdb.org/t/p/w780/wlnDNMQlnwl5ETlVY6n9CEtR5s0.jpg",
    "belongs_to_collection": null,
    "budget": 0,
    "genre_ids": null,
@@ -383,8 +383,8 @@
    "tagline": "",
    "title": "Код 8",
    "video": false,
-   "vote_average": 7.7,
-   "vote_count": 23,
+   "vote_average": 7.4,
+   "vote_count": 24,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -549,7 +549,7 @@
    "original_language": "en",
    "original_title": "It Chapter Two",
    "overview": "Проходит 27 лет после первой встречи ребят с демоническим Пеннивайзом. Они уже выросли, и у каждого своя жизнь. Но неожиданно их спокойное существование нарушает странный телефонный звонок, который заставляет их вновь собраться вместе.",
-   "popularity": 104.441,
+   "popularity": 108.492,
    "poster_path": "http://image.tmdb.org/t/p/w500/riiuA3qXOPqD1SbOV7CbALKCB00.jpg",
    "production_companies": [
     {
@@ -607,7 +607,7 @@
    "title": "Оно 2",
    "video": false,
    "vote_average": 6.8,
-   "vote_count": 2454,
+   "vote_count": 2463,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -1689,7 +1689,7 @@
    "original_language": "en",
    "original_title": "Overcomer",
    "overview": "Главный герой картины — тренер школьной баскетбольной команды Джон Харрисон. Он привык к победе, но в один день, из-за закрытия завода в городе и массовых переездов, тренер теряет всех игроков. Харрисон переживает кризис веры, но всё же берётся подготовить девочку-подростка к соревнованиям по бегу по пересеченной местности.",
-   "popularity": 18.268,
+   "popularity": 16.466,
    "poster_path": "http://image.tmdb.org/t/p/w500/A786IMiilNt2UnH0T8qniHFI26c.jpg",
    "production_companies": [
     {
@@ -3162,7 +3162,7 @@
    "title": "К звёздам",
    "video": false,
    "vote_average": 6.1,
-   "vote_count": 1259,
+   "vote_count": 1255,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -4851,12 +4851,23 @@
       ]
      },
      {
-      "iso_3166_1": "GR",
+      "iso_3166_1": "KR",
       "release_dates": [
        {
-        "certification": "",
+        "certification": "전체관람가",
         "iso_639_1": "",
-        "release_date": "2019-05-16T00:00:00Z",
+        "release_date": "2019-09-05T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "DE",
+      "release_dates": [
+       {
+        "certification": "0",
+        "iso_639_1": "",
+        "release_date": "2019-06-13T00:00:00Z",
         "type": 3
        }
       ]
@@ -4879,46 +4890,12 @@
       ]
      },
      {
-      "iso_3166_1": "US",
-      "release_dates": [
-       {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-05-17T00:00:00Z",
-        "type": 3
-       },
-       {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-08-20T00:00:00Z",
-        "type": 5
-       },
-       {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-08-06T00:00:00Z",
-        "type": 4
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "CZ",
-      "release_dates": [
-       {
-        "certification": "6+",
-        "iso_639_1": "",
-        "release_date": "2019-06-06T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "IE",
+      "iso_3166_1": "GR",
       "release_dates": [
        {
         "certification": "",
         "iso_639_1": "",
-        "release_date": "2019-05-03T00:00:00Z",
+        "release_date": "2019-05-16T00:00:00Z",
         "type": 3
        }
       ]
@@ -4969,23 +4946,46 @@
       ]
      },
      {
-      "iso_3166_1": "KR",
+      "iso_3166_1": "US",
       "release_dates": [
        {
-        "certification": "전체관람가",
+        "certification": "PG",
         "iso_639_1": "",
-        "release_date": "2019-09-05T00:00:00Z",
+        "release_date": "2019-05-17T00:00:00Z",
+        "type": 3
+       },
+       {
+        "certification": "PG",
+        "iso_639_1": "",
+        "release_date": "2019-08-20T00:00:00Z",
+        "type": 5
+       },
+       {
+        "certification": "PG",
+        "iso_639_1": "",
+        "release_date": "2019-08-06T00:00:00Z",
+        "type": 4
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "CZ",
+      "release_dates": [
+       {
+        "certification": "6+",
+        "iso_639_1": "",
+        "release_date": "2019-06-06T00:00:00Z",
         "type": 3
        }
       ]
      },
      {
-      "iso_3166_1": "DE",
+      "iso_3166_1": "IE",
       "release_dates": [
        {
-        "certification": "0",
+        "certification": "",
         "iso_639_1": "",
-        "release_date": "2019-06-13T00:00:00Z",
+        "release_date": "2019-05-03T00:00:00Z",
         "type": 3
        }
       ]
@@ -5036,17 +5036,6 @@
       ]
      },
      {
-      "iso_3166_1": "FR",
-      "release_dates": [
-       {
-        "certification": "U",
-        "iso_639_1": "",
-        "release_date": "2019-08-21T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
       "iso_3166_1": "BR",
       "release_dates": [
        {
@@ -5060,6 +5049,17 @@
         "iso_639_1": "",
         "release_date": "2019-08-18T00:00:00Z",
         "type": 4
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "FR",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-08-21T00:00:00Z",
+        "type": 3
        }
       ]
      },
@@ -6837,7 +6837,7 @@
    "original_language": "en",
    "original_title": "A Christmas Prince: The Royal Baby",
    "overview": "Рождество несет особый подарок для королевства Алдовии — наследника. Но сперва королева Амбер должна помочь своей семье найти пропавший мирный договор.",
-   "popularity": 29.416,
+   "popularity": 26.063,
    "poster_path": "http://image.tmdb.org/t/p/w500/8NF0YG30eCDQJ5bRTNauF48C9Bu.jpg",
    "production_companies": [
     {
@@ -6862,7 +6862,7 @@
    "title": "Принц на Рождество: Королевское дитя",
    "video": false,
    "vote_average": 6.4,
-   "vote_count": 112,
+   "vote_count": 115,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -7045,8 +7045,8 @@
    "tagline": "«Поверь в волшебство»",
    "title": "Эверест",
    "video": false,
-   "vote_average": 6.8,
-   "vote_count": 291,
+   "vote_average": 6.9,
+   "vote_count": 290,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -7485,7 +7485,7 @@
    "title": "Аладдин",
    "video": false,
    "vote_average": 7,
-   "vote_count": 4329,
+   "vote_count": 4328,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -8663,11 +8663,11 @@
     }
    ],
    "status": "Released",
-   "tagline": "It’s time to step up.",
+   "tagline": "",
    "title": "Человек-паук: Вдали от дома",
    "video": false,
    "vote_average": 7.6,
-   "vote_count": 5343,
+   "vote_count": 5341,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -10203,7 +10203,7 @@
    "title": "Форсаж: Хоббс и Шоу",
    "video": false,
    "vote_average": 6.5,
-   "vote_count": 2167,
+   "vote_count": 2165,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -11046,7 +11046,7 @@
    "title": "Я иду искать",
    "video": false,
    "vote_average": 6.8,
-   "vote_count": 576,
+   "vote_count": 574,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -11657,7 +11657,7 @@
    "original_language": "en",
    "original_title": "The Courier",
    "overview": "На первый взгляд, она — всего лишь курьер на черном мотоцикле, стремительно пронзающем ночной Лондон. Но даже в огромном мегаполисе красотке удается ускользнуть от уличных камер, и ее имя невозможно найти ни в одной базе данных. Именно она, дерзкая и неуловимая, бросит вызов могущественному криминальному боссу. И ему лучше не знать, кто на самом деле эта взрывная брюнетка…",
-   "popularity": 16.472,
+   "popularity": 10.828,
    "poster_path": "http://image.tmdb.org/t/p/w500/yPsassSjwGynUCUB0pMwH4iVYkm.jpg",
    "production_companies": [
     {
@@ -12008,7 +12008,7 @@
    "title": "Тайная жизнь домашних животных 2",
    "video": false,
    "vote_average": 6.6,
-   "vote_count": 886,
+   "vote_count": 887,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -13548,7 +13548,7 @@
    "title": "История игрушек 4",
    "video": false,
    "vote_average": 7.6,
-   "vote_count": 3186,
+   "vote_count": 3184,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -14852,7 +14852,7 @@
    "title": "Они",
    "video": false,
    "vote_average": 6.4,
-   "vote_count": 128,
+   "vote_count": 127,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -15727,7 +15727,7 @@
    "title": "Клаус",
    "video": false,
    "vote_average": 8.3,
-   "vote_count": 553,
+   "vote_count": 550,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -17531,7 +17531,7 @@
    "title": "Мстители: Финал",
    "video": false,
    "vote_average": 8.3,
-   "vote_count": 10478,
+   "vote_count": 10476,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -18457,7 +18457,7 @@
    "title": "Пусть идёт снег",
    "video": false,
    "vote_average": 6.2,
-   "vote_count": 408,
+   "vote_count": 407,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -23760,8 +23760,8 @@
      "source": "rutor.info",
      "size": "3.38 GB",
      "date": "2019-10-12T00:00:00+03:00",
-     "upload": 413,
-     "download": 28
+     "upload": 145,
+     "download": 7
     }
    ]
   },
@@ -24451,7 +24451,7 @@
    "original_language": "ru",
    "original_title": "Битва",
    "overview": "Стрит дансер Антон делает стремительную карьеру — его команда побеждает на всех баттлах, он признанный хореограф и все его будущее связано с танцем. Однако несчастный случай рушит все планы — Антон лишается слуха, а с ним и всех надежд. Оказавшись в непривычном мире тишины, Антон постепенно понимает, что это не конец. Страсть к танцу, воля к победе и любовь к жизни подсказывают ему новый путь к заветной мечте. И его главная битва еще впереди.",
-   "popularity": 0.787,
+   "popularity": 0.814,
    "poster_path": "http://image.tmdb.org/t/p/w500/vAkJmg2CjohDoLxvSvxoOQuwKIc.jpg",
    "production_companies": [
     {
@@ -26075,7 +26075,7 @@
    "original_language": "ru",
    "original_title": "Эбигейл",
    "overview": "Молодая девушка Эбигейл живет в городе, границы которого закрыли много лет назад из-за эпидемии загадочной болезни. Отец Эбби был одним из заболевших — и его забрали, когда ей было шесть лет. Пойдя наперекор властям, чтобы разыскать отца, Эбби узнает о том, что ее город на самом деле полон магии. И в ней самой пробуждаются необыкновенные магические способности…",
-   "popularity": 2.835,
+   "popularity": 2.291,
    "poster_path": "http://image.tmdb.org/t/p/w500/SDT33EvYrhuJo0kOHR5SAipKBI.jpg",
    "production_companies": [
     {
@@ -29240,7 +29240,7 @@
    "title": "Отпетые мошенницы",
    "video": false,
    "vote_average": 6.1,
-   "vote_count": 833,
+   "vote_count": 832,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -30378,7 +30378,7 @@
    "title": "Люди Икс: Тёмный Феникс",
    "video": false,
    "vote_average": 6.1,
-   "vote_count": 2550,
+   "vote_count": 2548,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -32612,7 +32612,7 @@
    "title": "Покемон: Детектив Пикачу",
    "video": false,
    "vote_average": 6.9,
-   "vote_count": 2871,
+   "vote_count": 2870,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -35236,7 +35236,7 @@
    "original_language": "en",
    "original_title": "Point Blank",
    "overview": "Беременную жену Пола, медбрата из отделения неотложной помощи, похищают и удерживают в качестве залога, так что ему придется вызволить из госпиталя тяжело раненного пациента, подозреваемого в многочисленных преступлениях. Вместе они попадут между молотом и наковальней, преследуемые, с одной стороны, противоборствующими группировками, а с другой — коррумпированными полицейскими.",
-   "popularity": 11.38,
+   "popularity": 9.822,
    "poster_path": "http://image.tmdb.org/t/p/w500/weAvkxl0dnPevIKD8fwHjiOi6tc.jpg",
    "production_companies": [
     {
@@ -35266,7 +35266,7 @@
    "title": "В упор",
    "video": false,
    "vote_average": 6,
-   "vote_count": 210,
+   "vote_count": 211,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -35390,7 +35390,7 @@
    "original_language": "de",
    "original_title": "Kidnapping Stella",
    "overview": "Двое преступников тщательно планируют похищение человека с целью последующего получения выкупа. Их выбор падает на молодую девушку Стеллу - она единственный ребёнок в обеспеченной семье, так что её ценность кажется неоспоримой. Когда все детали замысла сходятся воедино, мужчины похищают Стеллу прямо с улицы, отвозят в уединённое место и приковывают к постели, а после обращаются по электронной почте к её отцу с требованием о выкупе.",
-   "popularity": 10.295,
+   "popularity": 9.9,
    "poster_path": "http://image.tmdb.org/t/p/w500/pJ15KHpOOD4moAg8LgE6kG40EJY.jpg",
    "production_companies": [
     {
@@ -35512,145 +35512,6 @@
   },
   {
    "adult": false,
-   "backdrop_path": "http://image.tmdb.org/t/p/w780/j2L6YYKf4s5eFLREkKLiTr01VLh.jpg",
-   "belongs_to_collection": null,
-   "budget": 0,
-   "genre_ids": null,
-   "genres": [
-    {
-     "id": 35,
-     "name": "комедия"
-    },
-    {
-     "id": 28,
-     "name": "боевик"
-    }
-   ],
-   "homepage": "",
-   "id": 567801,
-   "imdb_id": "tt10214842",
-   "original_language": "ru",
-   "original_title": "Миллиард",
-   "overview": "Влиятельный банкир делает всё возможное, чтобы не делиться имуществом со своими незаконнорожденными сыновьями. Но когда его лишают всех денег, выясняется, что помочь Матвею могут только они… Чтобы вернуть себе состояние, миллиардер будет вынужден пойти на ограбление собственного банка в Монте-Карло. А для этого ему придётся выполнить ещё более сложную задачу: вернуть доверие выросших без отца детей…",
-   "popularity": 2.52,
-   "poster_path": "http://image.tmdb.org/t/p/w500/wQMD770rataowz3W142NxVim70M.jpg",
-   "production_companies": [
-    {
-     "id": 52295,
-     "logo_path": "",
-     "name": "RSS Production",
-     "origin_country": "RU"
-    }
-   ],
-   "production_countries": [
-    {
-     "iso_3166_1": "RU",
-     "name": "Russia"
-    }
-   ],
-   "release_date": "18.04.2019",
-   "revenue": 0,
-   "runtime": 101,
-   "spoken_languages": [
-    {
-     "iso_639_1": "ru",
-     "name": "Pусский"
-    }
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Миллиард",
-   "video": false,
-   "vote_average": 4.9,
-   "vote_count": 8,
-   "created_by": null,
-   "episode_run_time": null,
-   "first_air_date": "",
-   "in_production": false,
-   "languages": null,
-   "last_air_date": "",
-   "name": "",
-   "networks": null,
-   "number_of_episodes": 0,
-   "number_of_seasons": 0,
-   "origin_country": null,
-   "original_name": "",
-   "seasons": null,
-   "type": "",
-   "year": "2019",
-   "character": "",
-   "media_type": "movie",
-   "credit_id": "",
-   "videos": {
-    "id": 567801,
-    "results": [
-     {
-      "id": "5c0fb9370e0a2638cc0e2e84",
-      "iso_3166_1": "RU",
-      "iso_639_1": "ru",
-      "key": "iymI_Lfptwc",
-      "name": "Миллиард — Тизер-трейлер (2019)",
-      "site": "YouTube",
-      "size": 1080,
-      "type": "Trailer",
-      "link": "https://www.youtube.com/watch?v=iymI_Lfptwc",
-      "poster": "https://img.youtube.com/vi/iymI_Lfptwc/0.jpg"
-     },
-     {
-      "id": "5c87c9fb0e0a2618885f71e1",
-      "iso_3166_1": "RU",
-      "iso_639_1": "ru",
-      "key": "8a16n_U7LN8",
-      "name": "Миллиард — Трейлер (2019)",
-      "site": "YouTube",
-      "size": 1080,
-      "type": "Trailer",
-      "link": "https://www.youtube.com/watch?v=8a16n_U7LN8",
-      "poster": "https://img.youtube.com/vi/8a16n_U7LN8/0.jpg"
-     }
-    ]
-   },
-   "release_dates": {
-    "id": 0,
-    "results": [
-     {
-      "iso_3166_1": "RU",
-      "release_dates": [
-       {
-        "certification": "12+",
-        "iso_639_1": "ru",
-        "release_date": "2019-04-18T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "GB",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "ru",
-        "release_date": "2019-05-05T00:00:00Z",
-        "type": 3
-       }
-      ]
-     }
-    ]
-   },
-   "torrent": [
-    {
-     "name": "Миллиард (2019) WEB-DL 1080p | iTunes",
-     "magnet": "magnet:?xt=urn:btih:d854c9f409409cc769aa892a374277797c13dab6\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
-     "source": "rutor.info",
-     "size": "3.34 GB",
-     "date": "2019-06-30T00:00:00+03:00",
-     "upload": 689,
-     "download": 23
-    }
-   ]
-  },
-  {
-   "adult": false,
    "backdrop_path": "http://image.tmdb.org/t/p/w780/2hFglgvKIW8nj52PW9YMQZSMHYn.jpg",
    "belongs_to_collection": null,
    "budget": 0,
@@ -35679,7 +35540,7 @@
    "original_language": "ru",
    "original_title": "Большое путешествие",
    "overview": "Однажды, Бестолковый Аист из центра доставки детей перепутал адреса и вместо Семьи Панд принес Малыша Панду медведю по имени Мик-Мик. Мик-Мик во всем любит порядок и решает доставить Малыша Панду его родителям в Южный Китай. В путешествие с ним увязывается непутевый сосед Заяц Оскар. По дороге они встречают хвастливого Пеликана Дюка, трусливого Волка Януса и романтичного Тигра Амура.",
-   "popularity": 4.646,
+   "popularity": 4.174,
    "poster_path": "http://image.tmdb.org/t/p/w500/dTr9SvHrQIL6vBfY3unbovgBT0n.jpg",
    "production_companies": [
     {
@@ -35882,7 +35743,7 @@
    "original_language": "ru",
    "original_title": "Братство",
    "overview": "1988 год. Афганская война заканчивается, но путь наших солдат домой лежит через опасные территории, которые контролируют моджахеды. Молодой лейтенант Василий Железняков по прозвищу Грек отважен и находчив и сразу привлекает к себе внимание службы разведки. Теперь от него зависит безопасный проход через перевал, который контролирует один из самых жестоких бандитов. Чтобы дивизия вернулась на родину с наименьшими потерями, Греку придется самому остаться у него в заложниках. Цена любой его ошибки — жизнь. Фильм основан на реальных событиях.",
-   "popularity": 0.972,
+   "popularity": 1.4,
    "poster_path": "http://image.tmdb.org/t/p/w500/luYROTGVSzPfn88Vo7ke9umhJWE.jpg",
    "production_companies": [
     {
@@ -36117,7 +35978,7 @@
    "original_language": "ru",
    "original_title": "Варавва",
    "overview": "Всем знакома библейская история о смерти и воскресении Христа. Но как выглядели события с точки зрения Вараввы, убийцы, отпущенного толпой вместо Иисуса? Чем обернулось ему это помилование? Варавва оказывается неожиданным образом связан с Иудой, который не смог заглушить в себе голос совести после предательства Христа и не нашел в себе силы покаяться. Варавва пытается понять, кто же тот человек, который вместо него распят, и разобраться, действительно ли он — Сын Божий? В поисках истины Варавва получает ответы на вопросы, которые заставляют его пересмотреть взгляды на всю свою жизнь.",
-   "popularity": 1.762,
+   "popularity": 2.34,
    "poster_path": "http://image.tmdb.org/t/p/w500/r8cu4iXoOsoWP6Mg3woyhctxlst.jpg",
    "production_companies": [],
    "production_countries": [
@@ -36226,7 +36087,7 @@
    "original_language": "en",
    "original_title": "Daughter of the Wolf",
    "overview": "Клэр возвращается домой из поездки по Ближнему Востоку и узнает о том, что ее 13-лений сын похищен местными бандитами во главе с неким мужчиной, известным как Отец.",
-   "popularity": 15.187,
+   "popularity": 12.965,
    "poster_path": "http://image.tmdb.org/t/p/w500/ghoNQkJX9Hk1m8GxTsBg4Xez1gn.jpg",
    "production_companies": [
     {
@@ -36348,7 +36209,7 @@
    "original_language": "en",
    "original_title": "Hallowed Ground",
    "overview": "Семейная пара, пытаясь восстановить отношения после измены, отправляется в домик в глухом лесу, чтобы побыть только вдвоем. Но неожиданно они сталкиваются с кровной враждой между коренными американцами и соседним кланом, который одержим защитой своих земель и наказанием каждого, кто нарушит их границы.",
-   "popularity": 2.79,
+   "popularity": 3.906,
    "poster_path": "http://image.tmdb.org/t/p/w500/ix95IOWDsbWEhYpZQEDy2eajdZe.jpg",
    "production_companies": [
     {
@@ -36459,7 +36320,7 @@
    "original_language": "en",
    "original_title": "Murder Mystery",
    "overview": "После посещения яхты миллиардера во время европейских каникул полицейский из Нью-Йорка и его жена становятся главными подозреваемыми в убийстве богача.",
-   "popularity": 14.502,
+   "popularity": 13.712,
    "poster_path": "http://image.tmdb.org/t/p/w500/bSMSO9xupd4R4vwTPqigHn2quLN.jpg",
    "production_companies": [
     {
@@ -36513,7 +36374,7 @@
    "title": "Загадочное убийство",
    "video": false,
    "vote_average": 6.3,
-   "vote_count": 1677,
+   "vote_count": 1678,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -36718,7 +36579,7 @@
    "original_language": "ru",
    "original_title": "Коридор бессмертия",
    "overview": "Вчерашняя ленинградская школьница Маша Яблочкина после лютой блокадной зимы 1941-1942 года приходит на железнодорожные курсы в надежде выжить и набраться сил. Оттуда девушку отправляют на строительство Шлиссельбургской магистрали, соединяющей город с Большой землей и находящейся в прямой видимости немецкой артиллерии. Так героиня попадает в 48-ю паровозную колонну особого резерва НКПС, которой ценой смертельного риска предстоит доставить в Ленинград 75% всех грузов и военного снаряжения.",
-   "popularity": 0.701,
+   "popularity": 1.4,
    "poster_path": "http://image.tmdb.org/t/p/w500/gc0BD0Cn4MmEQOaM4kV27Gm9HLz.jpg",
    "production_companies": [],
    "production_countries": [
@@ -36823,7 +36684,7 @@
    "original_language": "en",
    "original_title": "Avengement",
    "overview": "Преступнику дают в тюрьме отгул, во время которого он сбегает из-под наблюдения и начинает мстить людям, которые сделали его хладнокровным убийцей.",
-   "popularity": 9.126,
+   "popularity": 10.276,
    "poster_path": "http://image.tmdb.org/t/p/w500/ha9nnN4jm1S5xlndFCngZfEGvZE.jpg",
    "production_companies": [
     {
@@ -36981,7 +36842,7 @@
    "original_language": "en",
    "original_title": "Bolden",
    "overview": "Повествование о жизни легендарного Чарльза «Бадди» Болдена, афроамериканского корнет-короля Нового Орлеана и создателя стиля «джаз».",
-   "popularity": 3.791,
+   "popularity": 2.608,
    "poster_path": "http://image.tmdb.org/t/p/w500/wRoCXrMlOP0PnftcPRvynpUy6Kw.jpg",
    "production_companies": [],
    "production_countries": [],
@@ -37068,7 +36929,7 @@
    "original_language": "en",
    "original_title": "Game of Thrones: The Last Watch",
    "overview": "Монументальный документальный фильм, максимально полно раскрывающий особенности создания главного сериала планеты «Игра престолов». Режиссер Джини Финлэй получила беспрецедентный доступ к закулисью фэнтези-саги. «Последний дозор» — остроумный, веселый и трогательный рассказ о группе людей, которые своими руками создали невероятный вымышленный мир, захвативший человечество. В этой истории есть все: пот и слезы, грязь и кровь, а также достижение, казалось бы, немыслимых высот. Картина получилась подробным и искренним отчетом о трудностях производства, с которыми столкнулась съемочная группа, выстоявшая в битве с экстремальными погодными условиями, горящими дедлайнами и страстным желанием фанатов выведать спойлеры финального сезона.",
-   "popularity": 11.368,
+   "popularity": 11.743,
    "poster_path": "http://image.tmdb.org/t/p/w500/tVyKpOYDtKzs4SOYCbZn4YNFWHI.jpg",
    "production_companies": [
     {
@@ -37210,7 +37071,7 @@
    "original_language": "en",
    "original_title": "Good Sam",
    "overview": "Таинственный незнакомец оставляет по всему Нью-Йорку сумки с деньгами. Телерепортёр Кейт Брэдли пытается выйти на след этого доброго самаритянина.",
-   "popularity": 7.168,
+   "popularity": 9.659,
    "poster_path": "http://image.tmdb.org/t/p/w500/8HYTN6cCfqUwBEGAlKcXhEjiSEd.jpg",
    "production_companies": [
     {
@@ -37359,7 +37220,7 @@
    "original_language": "en",
    "original_title": "Once Upon a Time in London",
    "overview": "Сюжет описывает жестокое правление Билли Хилла и Джека Комера и рассказывает о легендарном взлете и падении общенациональной преступной империи, которая появилась в середине пятидесятых в результате действий близнецов Край.",
-   "popularity": 4.903,
+   "popularity": 3.919,
    "poster_path": "http://image.tmdb.org/t/p/w500/ppKZpaQmajcP7xmAZ1Hg5oPApw5.jpg",
    "production_companies": [
     {
@@ -37469,7 +37330,7 @@
    "original_language": "en",
    "original_title": "The Last Summer",
    "overview": "Группа школьников собирается вместе, чтобы провести последнее совместное лето перед переездом и поступление в колледж. Ребята стараются взять от этих дней все: нагуляться с друзьями, найти общий язык с родителями и признаться в любви тому самому человеку. Все это поможет найти себя перед ключевыми переменами в жизни.",
-   "popularity": 11.469,
+   "popularity": 10.249,
    "poster_path": "http://image.tmdb.org/t/p/w500/nAn3MRAUwbjVApN3qYkvsTEOAvx.jpg",
    "production_companies": [
     {
@@ -37635,7 +37496,7 @@
    "original_language": "en",
    "original_title": "Someone Great",
    "overview": "Музыкальный журналист получает работу мечты в Сан-Франциско, но ее возлюбленный заявляет, что не готов покинуть Нью-Йорк. Чтобы перед отъездом залечить раны от расставания, она решает провести незабываемый прощальный вечер со своими подругами.",
-   "popularity": 9.861,
+   "popularity": 9.553,
    "poster_path": "http://image.tmdb.org/t/p/w500/h0nz5lIBXeUZChBNfwL08bLWQaU.jpg",
    "production_companies": [
     {
