@@ -1,6 +1,6 @@
 {
- "Date": "2020-02-01",
- "Time": "22:17:42",
+ "Date": "2020-02-02",
+ "Time": "04:16:08",
  "Items": [
   {
    "adult": false,
@@ -24,7 +24,7 @@
    "original_language": "en",
    "original_title": "Ford v Ferrari",
    "overview": "Сюжет повествует о группе американских инженеров и дизайнеров. В 1960-х под руководством конструктора Кэрролла Шелби и при поддержке британского гонщика Кена Майлса они должны были с нуля сделать абсолютно новый спорткар, способный опередить Феррари — непобедимого чемпиона 24-часовой гонки на выносливость Ле-Ман.",
-   "popularity": 213.634,
+   "popularity": 228.719,
    "poster_path": "http://image.tmdb.org/t/p/w500/a3xUGMB8F9s98fGXOpBKlIg0ikm.jpg",
    "production_companies": [
     {
@@ -76,7 +76,7 @@
    "title": "Ford против Ferrari",
    "video": false,
    "vote_average": 7.8,
-   "vote_count": 1116,
+   "vote_count": 1124,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -212,7 +212,7 @@
       ]
      },
      {
-      "iso_3166_1": "HU",
+      "iso_3166_1": "BR",
       "release_dates": [
        {
         "certification": "12",
@@ -356,17 +356,6 @@
         "certification": "",
         "iso_639_1": "",
         "release_date": "2019-11-13T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "BR",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-11-14T00:00:00Z",
         "type": 3
        }
       ]
@@ -527,6 +516,17 @@
         "type": 3
        }
       ]
+     },
+     {
+      "iso_3166_1": "HU",
+      "release_dates": [
+       {
+        "certification": "12",
+        "iso_639_1": "",
+        "release_date": "2019-11-14T00:00:00Z",
+        "type": 3
+       }
+      ]
      }
     ]
    },
@@ -600,7 +600,7 @@
    "original_language": "en",
    "original_title": "Gemini Man",
    "overview": "Генри Броган, первоклассный киллер, становится мишенью таинственного оперативника, который, кажется, знает каждый его шаг наперед…",
-   "popularity": 59.723,
+   "popularity": 83.605,
    "poster_path": "http://image.tmdb.org/t/p/w500/jd8miNNIhandkdOYk5CuuXxDcBD.jpg",
    "production_companies": [
     {
@@ -664,7 +664,7 @@
    "title": "Гемини",
    "video": false,
    "vote_average": 5.8,
-   "vote_count": 1263,
+   "vote_count": 1274,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -1192,7 +1192,7 @@
    "original_language": "en",
    "original_title": "Doctor Sleep",
    "overview": "Прошло много лет с тех пор, как мальчик-ясновидец Дэнни Торранс пережил кошмарный сезон в отеле «Оверлук», где стал свидетелем безумия и гибели своего отца. Повзрослев, но не оправившись от детской травмы, Дэнни ведёт жизнь маргинала-алкоголика. С ним устанавливает связь другая «сияющая» девочка, Абра. Ей потребуется помощь Дэнни, чтобы не стать жертвой так называемого «Истинного Узла» — группы охотников за одарёнными детьми.",
-   "popularity": 103.586,
+   "popularity": 111.429,
    "poster_path": "http://image.tmdb.org/t/p/w500/yg0J8HxfMRPSqanWOEzaNr7WHaZ.jpg",
    "production_companies": [
     {
@@ -1234,7 +1234,7 @@
    "title": "Доктор Сон",
    "video": false,
    "vote_average": 7.1,
-   "vote_count": 867,
+   "vote_count": 874,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -1665,6 +1665,160 @@
   },
   {
    "adult": false,
+   "backdrop_path": "http://image.tmdb.org/t/p/w780/fyeWMg5xHptugAXsdfMXlUbYBpO.jpg",
+   "belongs_to_collection": null,
+   "budget": 0,
+   "genre_ids": null,
+   "genres": [
+    {
+     "id": 18,
+     "name": "драма"
+    }
+   ],
+   "homepage": "http://www.focusfeatures.com/the-mustang",
+   "id": 500860,
+   "imdb_id": "tt5952594",
+   "original_language": "en",
+   "original_title": "The Mustang",
+   "overview": "Пребывающий в тюремном заключении преступник направляется на реабилитационный курс, в течение которого ему придется тренировать диких мустангов.",
+   "popularity": 7.127,
+   "poster_path": "http://image.tmdb.org/t/p/w500/sXQzQcjNAYYosymYPVaXh1nYKaJ.jpg",
+   "production_companies": [
+    {
+     "id": 19037,
+     "logo_path": "http://image.tmdb.org/t/p/w185/xhAYgpFmJfcCVLV5NMD8QKvqqHc.png",
+     "name": "Umedia",
+     "origin_country": "BE"
+    },
+    {
+     "id": 22997,
+     "logo_path": "",
+     "name": "Légende Films",
+     "origin_country": "FR"
+    },
+    {
+     "id": 591,
+     "logo_path": "http://image.tmdb.org/t/p/w185/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+     "name": "France 3 Cinéma",
+     "origin_country": "FR"
+    }
+   ],
+   "production_countries": [
+    {
+     "iso_3166_1": "BE",
+     "name": "Belgium"
+    },
+    {
+     "iso_3166_1": "FR",
+     "name": "France"
+    }
+   ],
+   "release_date": "31.01.2019",
+   "revenue": 1144575,
+   "runtime": 96,
+   "spoken_languages": [
+    {
+     "iso_639_1": "en",
+     "name": "English"
+    }
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Мустанг",
+   "video": false,
+   "vote_average": 7.1,
+   "vote_count": 129,
+   "created_by": null,
+   "episode_run_time": null,
+   "first_air_date": "",
+   "in_production": false,
+   "languages": null,
+   "last_air_date": "",
+   "name": "",
+   "networks": null,
+   "number_of_episodes": 0,
+   "number_of_seasons": 0,
+   "origin_country": null,
+   "original_name": "",
+   "seasons": null,
+   "type": "",
+   "year": "2019",
+   "character": "",
+   "media_type": "movie",
+   "credit_id": "",
+   "videos": {
+    "id": 500860,
+    "results": []
+   },
+   "release_dates": {
+    "id": 0,
+    "results": [
+     {
+      "iso_3166_1": "FR",
+      "release_dates": [
+       {
+        "certification": "U",
+        "iso_639_1": "fr",
+        "release_date": "2019-06-19T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "IE",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-08-30T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "GB",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "en",
+        "release_date": "2019-08-30T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "US",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-03-15T00:00:00Z",
+        "type": 3
+       },
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-01-31T00:00:00Z",
+        "type": 1
+       }
+      ]
+     }
+    ]
+   },
+   "torrent": [
+    {
+     "name": "Мустанг / The Mustang (2019) BDRip 1080p | P",
+     "magnet": "magnet:?xt=urn:btih:0a72217e8fad1c91e63e05ace5e345f62b634400\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "9.69 GB",
+     "date": "2020-02-01T00:00:00+03:00",
+     "upload": 79,
+     "download": 43
+    }
+   ]
+  },
+  {
+   "adult": false,
    "backdrop_path": "http://image.tmdb.org/t/p/w780/uzvT6tYrU5SxfHe1ieimIGAqyFm.jpg",
    "belongs_to_collection": null,
    "budget": 0,
@@ -1681,10 +1835,6 @@
     {
      "id": 18,
      "name": "драма"
-    },
-    {
-     "id": 9648,
-     "name": "детектив"
     }
    ],
    "homepage": "https://a24films.com/films/uncut-gems",
@@ -1693,7 +1843,7 @@
    "original_language": "en",
    "original_title": "Uncut Gems",
    "overview": "В центре сюжета Говард Ратнер — владелец ювелирного магазина в Нью-Йорке и дилер для богатых и знаменитых. Однажды он попадает в серьезные неприятности. Пока не стало поздно, он должен предпринять жесткие меры.",
-   "popularity": 35.091,
+   "popularity": 49.127,
    "poster_path": "http://image.tmdb.org/t/p/w500/7gOozJufKJ9WjcIs38KEs08Iq3D.jpg",
    "production_companies": [
     {
@@ -1715,10 +1865,10 @@
      "origin_country": "US"
     },
     {
-     "id": 41077,
-     "logo_path": "http://image.tmdb.org/t/p/w185/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
-     "name": "A24",
-     "origin_country": "US"
+     "id": 93105,
+     "logo_path": "",
+     "name": "IAC Films",
+     "origin_country": ""
     }
    ],
    "production_countries": [
@@ -1734,10 +1884,6 @@
     {
      "iso_639_1": "en",
      "name": "English"
-    },
-    {
-     "iso_639_1": "he",
-     "name": "עִבְרִית"
     }
    ],
    "status": "Released",
@@ -1745,7 +1891,7 @@
    "title": "Неограненные драгоценности",
    "video": false,
    "vote_average": 7.6,
-   "vote_count": 326,
+   "vote_count": 360,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -1970,7 +2116,7 @@
    "original_language": "en",
    "original_title": "Terminator: Dark Fate",
    "overview": "Сара Коннор превратилась в настоящую охотницу за терминаторами и теперь занимается уничтожением роботов-убийц из будущего. Она считала, что главное — это не дать им добраться до Джона, но теперь появилась Дани Рамос, от выживания которой также зависит судьба человечества. Вместе с ней в бой вступает и загадочная Грейс, смесь человека и машины.",
-   "popularity": 141.75,
+   "popularity": 155.991,
    "poster_path": "http://image.tmdb.org/t/p/w500/d2lVpxBRboVPL49n6fsUAWX8aUc.jpg",
    "production_companies": [
     {
@@ -2038,7 +2184,7 @@
    "title": "Терминатор: Тёмные судьбы",
    "video": false,
    "vote_average": 6.2,
-   "vote_count": 1237,
+   "vote_count": 1251,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -2594,7 +2740,7 @@
    "original_language": "en",
    "original_title": "Little Joe",
    "overview": "Мать-одиночка Элис, сотрудница отдела по выведению новых видов растений, создаёт необычный цветок — если за ним правильно ухаживать, он делает своего владельца счастливым. Но всё не так просто, и оказывается, что за счастье, даже сиюминутное, придётся заплатить, а цена может оказаться слишком высокой.",
-   "popularity": 8.382,
+   "popularity": 8.231,
    "poster_path": "http://image.tmdb.org/t/p/w500/8urtLs7FFGG0IjuhmppFGu4bKZo.jpg",
    "production_companies": [
     {
@@ -2812,8 +2958,8 @@
      "source": "rutor.info",
      "size": "6.34 GB",
      "date": "2020-01-31T00:00:00+03:00",
-     "upload": 375,
-     "download": 183
+     "upload": 441,
+     "download": 157
     }
    ]
   },
@@ -2843,7 +2989,7 @@
    "original_language": "en",
    "original_title": "The Good Liar",
    "overview": "Профессиональный мошенник Рой Кортни едва верит своей удаче, когда знакомится в сети с богатой вдовой Бетти Маклиш. Очаровав вдову и получив доступ ко всем ее ресурсам, Рой ловит себя на том, что она ему небезразлична.",
-   "popularity": 49.412,
+   "popularity": 51.323,
    "poster_path": "http://image.tmdb.org/t/p/w500/798YlUncshZ1pwQ7PKMeyuD1AlW.jpg",
    "production_companies": [
     {
@@ -2893,7 +3039,7 @@
    "title": "Хороший лжец",
    "video": false,
    "vote_average": 6.6,
-   "vote_count": 124,
+   "vote_count": 127,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -3241,7 +3387,7 @@
    "original_language": "en",
    "original_title": "Jay and Silent Bob Reboot",
    "overview": "Неугомонные приятели Джей и молчаливый Боб отправляются в Голливуд, когда узнают, что студия готовит новую экранизацию комикса о Пыхаре и Хронике, прототипами которых стали они сами.",
-   "popularity": 22.714,
+   "popularity": 23.922,
    "poster_path": "http://image.tmdb.org/t/p/w500/3hLTjzInrHgbcaedjnWNEPOinDi.jpg",
    "production_companies": [
     {
@@ -3290,8 +3436,8 @@
    "tagline": "",
    "title": "Джей и молчаливый Боб: Перезагрузка",
    "video": false,
-   "vote_average": 6,
-   "vote_count": 74,
+   "vote_average": 6.1,
+   "vote_count": 75,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -3474,7 +3620,7 @@
    "title": "Ночь в осаде",
    "video": false,
    "vote_average": 4.8,
-   "vote_count": 41,
+   "vote_count": 42,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -3608,7 +3754,7 @@
    "original_language": "en",
    "original_title": "The Addams Family",
    "overview": "Папа любит долгие прогулки в ненастную погоду. Мама считает, что чёрный цвет самый яркий. У детей кладбище — любимая площадка для игр. Бабушка выпивает пару капель яда перед сном. Вы всё ещё думаете, что ваши родственники странные? Знакомьтесь — семейка Аддамс.",
-   "popularity": 34.808,
+   "popularity": 35.329,
    "poster_path": "http://image.tmdb.org/t/p/w500/5VedqwpMlZHyYtn5OHnFH3Gv1B3.jpg",
    "production_companies": [
     {
@@ -3664,7 +3810,7 @@
    "title": "Семейка Аддамс",
    "video": false,
    "vote_average": 6.1,
-   "vote_count": 482,
+   "vote_count": 483,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -4049,7 +4195,7 @@
    "original_language": "en",
    "original_title": "Harriet",
    "overview": "История бывшей рабыни Гарриет Табмен, которая, став свободной, помогла сбежать трем сотням рабов с Юга.",
-   "popularity": 25.028,
+   "popularity": 29.399,
    "poster_path": "http://image.tmdb.org/t/p/w500/4M6hxvrWol8R6NjNAFWtMx1Pr6v.jpg",
    "production_companies": [
     {
@@ -4078,8 +4224,8 @@
    "tagline": "",
    "title": "Гарриет",
    "video": false,
-   "vote_average": 6.9,
-   "vote_count": 103,
+   "vote_average": 6.8,
+   "vote_count": 107,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -4238,7 +4384,7 @@
    "original_language": "en",
    "original_title": "Last Christmas",
    "overview": "Кейт которая работает в магазине рождественских товаров, злоупотребляет выпивкой и давно бросила переживать из-за собственной жизни. Но всё меняется после знакомства с милым и очаровательным Томом.",
-   "popularity": 65.584,
+   "popularity": 71.197,
    "poster_path": "http://image.tmdb.org/t/p/w500/roKNRGo1yBh9JIGRorA950VZWOB.jpg",
    "production_companies": [
     {
@@ -4277,8 +4423,8 @@
    "tagline": "",
    "title": "Рождество на двоих",
    "video": false,
-   "vote_average": 7.1,
-   "vote_count": 435,
+   "vote_average": 7,
+   "vote_count": 438,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -4632,7 +4778,7 @@
    "original_language": "en",
    "original_title": "Good Boys",
    "overview": "История троих друзей-шестиклассников, планирующих посетить крутую вечеринку. Но прежде они должны хорошенько подготовиться, чтобы не ударить в грязь лицом. Так начинается безумное путешествие по долине Сан-Фернандо, в котором надо вернуть наркотики, украсть пиво и починить сломанного дрона — все это нужно сделать, пока родители не вернулись домой.",
-   "popularity": 27.439,
+   "popularity": 32.021,
    "poster_path": "http://image.tmdb.org/t/p/w500/tximyCXMEnWIIyOy9STkOduUprG.jpg",
    "production_companies": [
     {
@@ -4668,7 +4814,7 @@
    "title": "Хорошие мальчики",
    "video": false,
    "vote_average": 6.5,
-   "vote_count": 609,
+   "vote_count": 610,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -4930,8 +5076,8 @@
      "source": "rutor.info",
      "size": "22.60 GB",
      "date": "2020-01-29T00:00:00+03:00",
-     "upload": 23,
-     "download": 8
+     "upload": 20,
+     "download": 9
     },
     {
      "name": "Хорошие мальчики / Good Boys (2019) BDRip 1080p от селезень | Лицензия",
@@ -4939,8 +5085,8 @@
      "source": "rutor.info",
      "size": "10.24 GB",
      "date": "2020-01-29T00:00:00+03:00",
-     "upload": 78,
-     "download": 19
+     "upload": 109,
+     "download": 21
     }
    ]
   },
@@ -4971,7 +5117,7 @@
    "original_language": "en",
    "original_title": "Angel Has Fallen",
    "overview": "На президента США совершено покушение, главный обвиняемый — верный ангел-хранитель главы государства и агент секретной службы Майк Бэннинг. Скрываясь от ФБР, он должен найти тех, кто его подставил, и спасти страну и ее лидера от смертельной угрозы.",
-   "popularity": 39.356,
+   "popularity": 50.862,
    "poster_path": "http://image.tmdb.org/t/p/w500/vL6BoFBdoLPljphZCj4MAWJEgJk.jpg",
    "production_companies": [
     {
@@ -5019,7 +5165,7 @@
    "title": "Падение ангела",
    "video": false,
    "vote_average": 6,
-   "vote_count": 1105,
+   "vote_count": 1106,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -5494,7 +5640,7 @@
    "original_language": "en",
    "original_title": "Fast \u0026 Furious Presents: Hobbs \u0026 Shaw",
    "overview": "Превосходный спецагент, боец и стрелок Люк Хоббс вынужден объединиться со своим старым врагом, опаснейшим преступником Деккардом Шоу, чтобы противостоять общему противнику.",
-   "popularity": 40.306,
+   "popularity": 50.443,
    "poster_path": "http://image.tmdb.org/t/p/w500/uotPtvanf2AOhAOPdvPnJVvDB1a.jpg",
    "production_companies": [
     {
@@ -5544,7 +5690,7 @@
    "title": "Форсаж: Хоббс и Шоу",
    "video": false,
    "vote_average": 6.6,
-   "vote_count": 2455,
+   "vote_count": 2460,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -6102,7 +6248,7 @@
    "original_language": "en",
    "original_title": "Little Italy",
    "overview": "Родители Лео, как и родители Никки, приехали в Америку из Италии и открыли здесь свою пиццерию. Между двумя ресторанами и двумя семьями устанавливается ожесточенная конкуренция. Тем временем между Лео и Никки, вопреки всему, завязывается роман.",
-   "popularity": 7.429,
+   "popularity": 8.847,
    "poster_path": "http://image.tmdb.org/t/p/w500/gw8wIimdtY56av5NXgfRO8DvNAw.jpg",
    "production_companies": [
     {
@@ -6273,8 +6419,8 @@
      "source": "rutor.info",
      "size": "17.69 GB",
      "date": "2020-01-26T00:00:00+03:00",
-     "upload": 10,
-     "download": 6
+     "upload": 7,
+     "download": 3
     },
     {
      "name": "Маленькая Италия / Little Italy (2018) BDRip 1080p от селезень | iTunes",
@@ -6283,7 +6429,7 @@
      "size": "9.44 GB",
      "date": "2019-12-24T00:00:00+03:00",
      "upload": 33,
-     "download": 2
+     "download": 5
     },
     {
      "name": "Маленькая Италия / Little Italy (2018) WEB-DL 1080p от OlLanDGroup | HDRezka Studio",
@@ -6291,7 +6437,7 @@
      "source": "rutor.info",
      "size": "3.65 GB",
      "date": "2018-10-03T00:00:00+03:00",
-     "upload": 23,
+     "upload": 25,
      "download": 2
     }
    ]
@@ -6326,7 +6472,7 @@
    "original_language": "en",
    "original_title": "The Lighthouse",
    "overview": "1890-е годы. Молодой Ифраим Уинслоу приезжает на отдалённый остров работать новым ассистентом смотрителя маяка. Его начальник — хромоногий и бородатый Томас Уэйк. Он обращается с помощником как с личным рабом и запрещает ему подниматься на сам маяк и управлять светом. Ифраиму предстоит провести в компании Уэйка четыре тяжёлые недели, в течение которых спокойный парень изменится навсегда.",
-   "popularity": 37.65,
+   "popularity": 41.617,
    "poster_path": "http://image.tmdb.org/t/p/w500/v9TwxZ8hBYTDxFNwO6AIQuZu59M.jpg",
    "production_companies": [
     {
@@ -6380,7 +6526,7 @@
    "title": "Маяк",
    "video": false,
    "vote_average": 7.7,
-   "vote_count": 673,
+   "vote_count": 682,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -6628,7 +6774,7 @@
      "source": "rutor.info",
      "size": "14.25 GB",
      "date": "2020-01-23T00:00:00+03:00",
-     "upload": 79,
+     "upload": 99,
      "download": 17
     },
     {
@@ -6637,8 +6783,8 @@
      "source": "rutor.info",
      "size": "32.95 GB",
      "date": "2020-01-22T00:00:00+03:00",
-     "upload": 16,
-     "download": 5
+     "upload": 21,
+     "download": 4
     },
     {
      "name": "Маяк / The Lighthouse (2019) BDRip 1080p | P",
@@ -6646,8 +6792,8 @@
      "source": "rutor.info",
      "size": "13.08 GB",
      "date": "2020-01-07T00:00:00+03:00",
-     "upload": 76,
-     "download": 7
+     "upload": 82,
+     "download": 8
     },
     {
      "name": "Маяк / The Lighthouse (2019) BDRemux 1080p | P",
@@ -6655,8 +6801,8 @@
      "source": "rutor.info",
      "size": "29.70 GB",
      "date": "2020-01-05T00:00:00+03:00",
-     "upload": 18,
-     "download": 5
+     "upload": 26,
+     "download": 8
     },
     {
      "name": "Маяк / The Lighthouse (2019) WEB-DL 1080p | P | HDRezka Studio",
@@ -6664,8 +6810,8 @@
      "source": "rutor.info",
      "size": "4.15 GB",
      "date": "2019-12-23T00:00:00+03:00",
-     "upload": 133,
-     "download": 27
+     "upload": 158,
+     "download": 23
     },
     {
      "name": "Маяк / The Lighthouse (2019) WEB-DL 1080p | HDRezka Studio",
@@ -6673,8 +6819,8 @@
      "source": "rutor.info",
      "size": "6.95 GB",
      "date": "2019-12-23T00:00:00+03:00",
-     "upload": 247,
-     "download": 13
+     "upload": 291,
+     "download": 18
     }
    ]
   },
@@ -6700,7 +6846,7 @@
    "original_language": "en",
    "original_title": "Downton Abbey",
    "overview": "Главное событие в жизни каждого аристократа — прием правящего монарха в родовом гнезде. Однако в череде изысканных раутов и светских церемоний кто-то из обитателей роскошного особняка готовит покушение на короля.",
-   "popularity": 28.179,
+   "popularity": 30.203,
    "poster_path": "http://image.tmdb.org/t/p/w500/v4Eb2KZ3K6dOqgwTwGQYLTCfMPM.jpg",
    "production_companies": [
     {
@@ -6742,7 +6888,7 @@
    "title": "Аббатство Даунтон",
    "video": false,
    "vote_average": 7.1,
-   "vote_count": 372,
+   "vote_count": 373,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -7131,7 +7277,7 @@
    "original_language": "fr",
    "original_title": "Zombi Child",
    "overview": "История Клервиуса Нарцисса, самого знаменитого в мире зомби, оживает в рассказе его внучки, которая переезжает в Париж, и, желая произвести впечатление на новых одноклассниц, невольно навлекает силы гаитянской вуду.",
-   "popularity": 4.687,
+   "popularity": 5.349,
    "poster_path": "http://image.tmdb.org/t/p/w500/4HZVNPDigiUX3wS6LAGBZTAkU6j.jpg",
    "production_companies": [
     {
@@ -7358,8 +7504,8 @@
      "source": "rutor.info",
      "size": "5.70 GB",
      "date": "2020-01-22T00:00:00+03:00",
-     "upload": 66,
-     "download": 2
+     "upload": 50,
+     "download": 1
     }
    ]
   },
@@ -7456,7 +7602,7 @@
    "title": "Рэмбо: Последняя кровь",
    "video": false,
    "vote_average": 5.9,
-   "vote_count": 1142,
+   "vote_count": 1144,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -7951,7 +8097,7 @@
    "original_language": "de",
    "original_title": "Der Fall Collini",
    "overview": "Каспару Лайнену предстоит расследовать запутанное дело непримечательного механика, итальянца Фабрицио Коллини, который на первый взгляд безо всяких мотивов убил немецкого бизнесмена Ханса Майера, после чего сам сдался полиции. Положение вещей осложняется не только молчанием Коллини и более опытным адвокатом, претендующим на пост главного героя, но и его личным причастием к делу: внучка жертвы Йоханна была его юношеской любовью. Однако Лайнену случайно удаётся найти зацепку, благодаря которой он понимает, что столкнулся с крупнейшим судебным скандалом Германии.",
-   "popularity": 5.468,
+   "popularity": 5.392,
    "poster_path": "http://image.tmdb.org/t/p/w500/5kIYizYxHRAa4V7tTxB6orbcEaG.jpg",
    "production_companies": [
     {
@@ -8069,8 +8215,8 @@
      "source": "rutor.info",
      "size": "10.12 GB",
      "date": "2020-01-20T00:00:00+03:00",
-     "upload": 753,
-     "download": 79
+     "upload": 793,
+     "download": 69
     },
     {
      "name": "Дело Коллини / Der Fall Collini (2019) BDRemux 1080p от селезень | iTunes",
@@ -8078,8 +8224,8 @@
      "source": "rutor.info",
      "size": "27.56 GB",
      "date": "2020-01-19T00:00:00+03:00",
-     "upload": 86,
-     "download": 17
+     "upload": 98,
+     "download": 15
     }
    ]
   },
@@ -8114,7 +8260,7 @@
    "original_language": "en",
    "original_title": "Bernie the Dolphin 2",
    "overview": "Дети очень рады, что Берни вернулся. Но вместе с Берни появился и коварный Уинстон, который хочет похитить талантливого дельфина. Кевин и Холли должны спасти морского друга, пока ещё не поздно.",
-   "popularity": 5.554,
+   "popularity": 6.53,
    "poster_path": "http://image.tmdb.org/t/p/w500/e5JIXRo3SUSWBFUljOxC69M5gWB.jpg",
    "production_companies": [],
    "production_countries": [
@@ -8238,7 +8384,7 @@
    "original_language": "en",
    "original_title": "A Fall From Grace",
    "overview": "Законопослушной женщине предъявляют обвинение в убийстве мужа. Ее адвокат вскоре понимает, что за случившимся может стоять заговор большего масштаба.",
-   "popularity": 38.163,
+   "popularity": 43.112,
    "poster_path": "http://image.tmdb.org/t/p/w500/uQqmFcKOSg7RVtaIKOTtv1vWQPx.jpg",
    "production_companies": [
     {
@@ -8267,8 +8413,8 @@
    "tagline": "",
    "title": "Грехопадение",
    "video": false,
-   "vote_average": 6.9,
-   "vote_count": 169,
+   "vote_average": 7,
+   "vote_count": 181,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -8363,7 +8509,7 @@
    "original_language": "en",
    "original_title": "American Woman",
    "overview": "Фильм рассказывает о молодой бабушке из небольшого города в Пенсильвании, которая растит свою внучку и пытается найти дочь, которая внезапно куда-то исчезла.",
-   "popularity": 6.055,
+   "popularity": 5.495,
    "poster_path": "http://image.tmdb.org/t/p/w500/6ryd7QtK10HNy3XeNvMzABfU7lL.jpg",
    "production_companies": [
     {
@@ -8478,8 +8624,8 @@
      "source": "rutor.info",
      "size": "12.42 GB",
      "date": "2020-01-19T00:00:00+03:00",
-     "upload": 37,
-     "download": 6
+     "upload": 44,
+     "download": 4
     }
    ]
   },
@@ -8626,7 +8772,7 @@
    "original_language": "en",
    "original_title": "Motherless Brooklyn",
    "overview": "Лайонел Эссрог, одинокий частный детектив с синдромом Туретта, решается начать расследование убийства своего наставника и единственного друга Фрэнка Минны. У него есть лишь несколько зацепок и сила разума, одержимого поставленной целью, чтобы распутать клубок тщательно скрываемых тайн, которые сохраняют баланс сил в самом Нью-Йорке. Расследование заводит его в джазовые клубы Гарлема, где рекой течет джин, опасные трущобы Бруклина и, наконец, позолоченные залы политической элиты мегаполиса. Он бросает вызов гангстерам, коррупции и самому опасному человеку в городе, чтобы очистить имя своего друга и спасти женщину, которая может спасти его самого.",
-   "popularity": 50.395,
+   "popularity": 59.402,
    "poster_path": "http://image.tmdb.org/t/p/w500/28FN5TYput7AbckAMYEB80zpQ2X.jpg",
    "production_companies": [
     {
@@ -8668,7 +8814,7 @@
    "title": "Сиротский Бруклин",
    "video": false,
    "vote_average": 7,
-   "vote_count": 244,
+   "vote_count": 251,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -8991,7 +9137,7 @@
    "original_language": "en",
    "original_title": "Blood Fest",
    "overview": "Группа фанатов хорроров приезжает на фестиваль, посвященный знаменитым картинам жанра. Но ведущий фестиваля придумал свой дьявольский план праздника, и теперь любители фильмов ужасов сами окажутся в эпицентре событий кровавого хоррора.",
-   "popularity": 7.278,
+   "popularity": 6.675,
    "poster_path": "http://image.tmdb.org/t/p/w500/4lrEmu3XjaOXoeNueVlKDmBZdfg.jpg",
    "production_companies": [
     {
@@ -9114,8 +9260,8 @@
      "source": "rutor.info",
      "size": "14.23 GB",
      "date": "2020-01-18T00:00:00+03:00",
-     "upload": 8,
-     "download": 1
+     "upload": 9,
+     "download": 0
     }
    ]
   },
@@ -9141,7 +9287,7 @@
    "original_language": "en",
    "original_title": "The Witch in the Window",
    "overview": "Отец с 12-летним сыном приезжают в сельский штат Вермонт, чтобы восстановить старый дом. Там они сталкиваются со злым духом прежней владелицы дома. Чем дальше продвигается ремонт, тем сильнее становится злобный призрак.",
-   "popularity": 4.892,
+   "popularity": 4.235,
    "poster_path": "http://image.tmdb.org/t/p/w500/PnidGi4PRCFzUMGcpMis5eNZyS.jpg",
    "production_companies": [
     {
@@ -9261,8 +9407,8 @@
      "source": "rutor.info",
      "size": "2.28 GB",
      "date": "2020-01-18T00:00:00+03:00",
-     "upload": 241,
-     "download": 8
+     "upload": 261,
+     "download": 9
     },
     {
      "name": "Проклятый дом / The Witch in the Window (2018) WEB-DL 1080p | HDRezka Studio",
@@ -9270,7 +9416,7 @@
      "source": "rutor.info",
      "size": "2.20 GB",
      "date": "2019-04-18T00:00:00+03:00",
-     "upload": 25,
+     "upload": 27,
      "download": 3
     }
    ]
@@ -9297,7 +9443,7 @@
    "original_language": "en",
    "original_title": "Disturbing the Peace",
    "overview": "Маршал из маленького городка, который не брал оружия в руки с тех пор, как он покинул «Техасских рейнджеров» после трагической стрельбы, должен снова вооружиться пистолетом и сражаться с бандой байкеров-преступников, которая вторглась в их город, чтобы осуществить наглый и жестокий грабеж.",
-   "popularity": 13.154,
+   "popularity": 13.191,
    "poster_path": "http://image.tmdb.org/t/p/w500/aISj5Sfdnnlh12HK21bJ2Legp7z.jpg",
    "production_companies": [],
    "production_countries": [
@@ -9423,7 +9569,7 @@
    "original_language": "fr",
    "original_title": "Portrait de la jeune fille en feu",
    "overview": "Бретань, 1770. Художница Марианна приезжает в имение на побережье Франции, чтобы написать портрет дочери его владелицы — Элоизы. Картина нужна, чтобы отправить потенциальному жениху Элоизы в Милан. В знак протеста против замужества девушка отказалась позировать, и гостью представляют как компаньонку для прогулок. Проводя все больше времени вместе, девушки начинают чувствовать взаимное притяжение…",
-   "popularity": 25.525,
+   "popularity": 23.957,
    "poster_path": "http://image.tmdb.org/t/p/w500/2XzJlHHdMZtZYMuCLwgH83Tijn.jpg",
    "production_companies": [
     {
@@ -9505,7 +9651,7 @@
    "title": "Портрет девушки в огне",
    "video": false,
    "vote_average": 8.3,
-   "vote_count": 245,
+   "vote_count": 247,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -9809,8 +9955,8 @@
      "source": "rutor.info",
      "size": "4.40 GB",
      "date": "2020-01-16T00:00:00+03:00",
-     "upload": 204,
-     "download": 10
+     "upload": 201,
+     "download": 20
     }
    ]
   },
@@ -9836,7 +9982,7 @@
    "original_language": "en",
    "original_title": "A Vigilante",
    "overview": "Сади помогает жертвам домашнего насилия сбегать от мучителей — она берёт правосудие в свои руки и начинает методично разбираться с негодяями. Но работа карательницы не так проста, а старые шрамы и раны того и гляди дадут о себе знать.",
-   "popularity": 12.755,
+   "popularity": 10.721,
    "poster_path": "http://image.tmdb.org/t/p/w500/bnmbMhMvJXRVbjrhTc7zQGcJpUW.jpg",
    "production_companies": [
     {
@@ -10110,8 +10256,8 @@
      "source": "rutor.info",
      "size": "17.49 GB",
      "date": "2020-01-15T00:00:00+03:00",
-     "upload": 15,
-     "download": 3
+     "upload": 21,
+     "download": 5
     },
     {
      "name": "Карательница / A Vigilante (2018) BDRip 1080p от селезень | D, P | iTunes",
@@ -10119,8 +10265,8 @@
      "source": "rutor.info",
      "size": "10.81 GB",
      "date": "2020-01-15T00:00:00+03:00",
-     "upload": 51,
-     "download": 2
+     "upload": 53,
+     "download": 3
     },
     {
      "name": "Карательница / A Vigilante (2018) WEB-DL 1080p | HDRezka Studio",
@@ -10129,7 +10275,7 @@
      "size": "3.71 GB",
      "date": "2019-04-12T00:00:00+03:00",
      "upload": 22,
-     "download": 1
+     "download": 0
     },
     {
      "name": "Карательница / A Vigilante (2018) WEB-DL 1080p | BadBajo",
@@ -10137,7 +10283,7 @@
      "source": "rutor.info",
      "size": "3.83 GB",
      "date": "2019-03-30T00:00:00+03:00",
-     "upload": 7,
+     "upload": 8,
      "download": 0
     }
    ]
@@ -10168,7 +10314,7 @@
    "original_language": "en",
    "original_title": "The Courier",
    "overview": "На первый взгляд, она — всего лишь курьер на черном мотоцикле, стремительно пронзающем ночной Лондон. Но даже в огромном мегаполисе красотке удается ускользнуть от уличных камер, и ее имя невозможно найти ни в одной базе данных. Именно она, дерзкая и неуловимая, бросит вызов могущественному криминальному боссу. И ему лучше не знать, кто на самом деле эта взрывная брюнетка…",
-   "popularity": 14.514,
+   "popularity": 13.279,
    "poster_path": "http://image.tmdb.org/t/p/w500/ypEiGZjd9X2aOvu5BGMdDTFTuBC.jpg",
    "production_companies": [
     {
@@ -10208,7 +10354,7 @@
    "title": "Курьер",
    "video": false,
    "vote_average": 5.4,
-   "vote_count": 39,
+   "vote_count": 40,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -10386,7 +10532,7 @@
    "original_language": "en",
    "original_title": "Countdown",
    "overview": "В наш век гаджетов и высоких технологий для всего есть мобильное приложение. Хочешь узнать, сколько тебе осталось жить? Пожалуйста! Девушка видит на экране телефона неумолимый вердикт — ее жизнь оборвется через 3 дня. Сможет ли она избежать смерти, если обратный отсчет уже начался?",
-   "popularity": 40.525,
+   "popularity": 42.709,
    "poster_path": "http://image.tmdb.org/t/p/w500/8WDRLl6f1U5aIikQVw2NSSO5tx7.jpg",
    "production_companies": [
     {
@@ -10416,7 +10562,7 @@
    "title": "Обратный отсчет",
    "video": false,
    "vote_average": 6.4,
-   "vote_count": 244,
+   "vote_count": 247,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -10708,7 +10854,7 @@
    "original_language": "en",
    "original_title": "Midsommar",
    "overview": "День летнего солнцестояния — древний праздник, который во всех культурах окутан мистическим ореолом. В отрезанном от цивилизованного мира шведском поселении раз в 90 лет в этот день проводится уникальный обряд. Именно туда отправляется группа молодых американских антропологов. Однако вскоре после прибытия там начинает происходить нечто необъяснимое, и под светом солнца исследователям открывается настоящая тьма.",
-   "popularity": 37.982,
+   "popularity": 42.681,
    "poster_path": "http://image.tmdb.org/t/p/w500/6AEThrHaW6Rxu5XQKP6QiBKbZIs.jpg",
    "production_companies": [
     {
@@ -10764,7 +10910,7 @@
    "title": "Солнцестояние",
    "video": false,
    "vote_average": 7.1,
-   "vote_count": 1494,
+   "vote_count": 1497,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -11147,7 +11293,7 @@
      "source": "rutor.info",
      "size": "42.72 GB",
      "date": "2020-01-14T00:00:00+03:00",
-     "upload": 5,
+     "upload": 7,
      "download": 4
     },
     {
@@ -11156,8 +11302,8 @@
      "source": "rutor.info",
      "size": "12.75 GB",
      "date": "2020-01-10T00:00:00+03:00",
-     "upload": 82,
-     "download": 5
+     "upload": 113,
+     "download": 8
     },
     {
      "name": "Солнцестояние / Midsommar (2019) BDRip 1080p | P | Directors Cut",
@@ -11165,8 +11311,8 @@
      "source": "rutor.info",
      "size": "12.26 GB",
      "date": "2019-12-12T00:00:00+03:00",
-     "upload": 29,
-     "download": 3
+     "upload": 30,
+     "download": 5
     },
     {
      "name": "Солнцестояние / Midsommar (2019) UHD BDRemux 2160p от селезень | 4K | HDR | iTunes",
@@ -11174,8 +11320,8 @@
      "source": "rutor.info",
      "size": "85.45 GB",
      "date": "2019-11-17T00:00:00+03:00",
-     "upload": 14,
-     "download": 1
+     "upload": 16,
+     "download": 3
     },
     {
      "name": "Солнцестояние / Midsommar (2019) BDRip-HEVC 1080p от HEVC-CLUB | iTunes",
@@ -11183,8 +11329,8 @@
      "source": "rutor.info",
      "size": "8.96 GB",
      "date": "2019-10-15T00:00:00+03:00",
-     "upload": 40,
-     "download": 3
+     "upload": 46,
+     "download": 2
     },
     {
      "name": "Солнцестояние / Midsommar (2019) BDRemux 1080p от селезень | iTunes",
@@ -11192,7 +11338,7 @@
      "source": "rutor.info",
      "size": "37.20 GB",
      "date": "2019-10-02T00:00:00+03:00",
-     "upload": 9,
+     "upload": 13,
      "download": 2
     },
     {
@@ -11201,7 +11347,7 @@
      "source": "rutor.info",
      "size": "12.66 GB",
      "date": "2019-10-02T00:00:00+03:00",
-     "upload": 95,
+     "upload": 93,
      "download": 4
     }
    ]
@@ -11228,7 +11374,7 @@
    "original_language": "en",
    "original_title": "Corporate Animals",
    "overview": "Люси — глава крупнейшей корпорации Америки по производству съедобной посуды, но за ее красивыми словами об экологии и заботе о людях стоят лишь расчет и жажда наживы. Ей плевать на своих сотрудников, людей вообще и экологию тем более. Она — настоящий корпоративный хищник. Останется ли она им, когда вместе с сотрудниками окажется запертой в пещере и отрезанной от мира? Или ее участь — быть в самом низу пищевой цепочки?",
-   "popularity": 5.213,
+   "popularity": 5.236,
    "poster_path": "http://image.tmdb.org/t/p/w500/dlq6SGybafKqSEiSfVM8XAN8Wsz.jpg",
    "production_companies": [
     {
@@ -11357,8 +11503,8 @@
      "source": "rutor.info",
      "size": "6.61 GB",
      "date": "2020-01-13T00:00:00+03:00",
-     "upload": 69,
-     "download": 11
+     "upload": 74,
+     "download": 6
     },
     {
      "name": "Корпоративные животные / Corporate Animals (2019) WEB-DL 1080p | iTunes",
@@ -11366,7 +11512,7 @@
      "source": "rutor.info",
      "size": "3.89 GB",
      "date": "2019-12-26T00:00:00+03:00",
-     "upload": 77,
+     "upload": 70,
      "download": 2
     }
    ]
@@ -11393,7 +11539,7 @@
    "original_language": "en",
    "original_title": "The Shed",
    "overview": "Стэн, рано лишившийся родителей и живущий с грубоватым дедом, коротает время, скучая на занятиях, встречаясь со своей девушкой и периодически участвуя в стычках с компанией школьных хулиганов, достающих и его девушку, и его лучшего друга. Так продолжается до поры пока он случайно не обнаруживает в собственном дворовом сарае злобного демона, исполненного кровожадных планов. И с этого момента герою становится не до скуки…",
-   "popularity": 5.519,
+   "popularity": 7.727,
    "poster_path": "http://image.tmdb.org/t/p/w500/oZmwj90ARpFmOqqIu6P8Tw0Hgt2.jpg",
    "production_companies": [
     {
@@ -11584,7 +11730,7 @@
    "original_language": "hi",
    "original_title": "War",
    "overview": "Еще вчера они были друзьями, напарниками и воевали на одной стороне, а сегодня агент Халид получает приказ уничтожить своего бывшего наставника Кабира, перешедшего на сторону врага. Они знают сильные и слабые стороны друг друга и безошибочно бьют в цель. Цена в их схватке — сама жизнь.",
-   "popularity": 6.366,
+   "popularity": 5.232,
    "poster_path": "http://image.tmdb.org/t/p/w500/7JeHrXR1FU57Y6b90YDpFJMhmVO.jpg",
    "production_companies": [
     {
@@ -11727,7 +11873,7 @@
    "original_language": "fr",
    "original_title": "Une Intime conviction",
    "overview": "Фильм рассказывает о судебном процессе над Жаком Вигье, обвинявшимся в убийстве своей жены, Сюзанны, в 2010 году. В то время как абсолютно все убеждены в том, что Жак виновен, его знакомая Нора пытается идти против толпы и ведет свое собственное расследование.",
-   "popularity": 6.664,
+   "popularity": 5.519,
    "poster_path": "http://image.tmdb.org/t/p/w500/tIQsiF976why9QrJIw6ALCr5nQ6.jpg",
    "production_companies": [
     {
@@ -11858,8 +12004,8 @@
      "source": "rutor.info",
      "size": "7.71 GB",
      "date": "2020-01-12T00:00:00+03:00",
-     "upload": 51,
-     "download": 3
+     "upload": 57,
+     "download": 1
     }
    ]
   },
@@ -11881,7 +12027,7 @@
    "original_language": "en",
    "original_title": "Ride Like a Girl",
    "overview": "Только раз году в сердце Австралии проходит самый престижный конный турнир — Кубок Мельбурна. Это роскошный праздник, где красота дамских шляпок уступает лишь великолепию самих гонок. Для всех она — выскочка, девочка из глубинки, которой не место в спорте королей. И за право участвовать в Кубке ей придется рискнуть всем, даже своей жизнью.",
-   "popularity": 9.997,
+   "popularity": 7.47,
    "poster_path": "http://image.tmdb.org/t/p/w500/hk37AQFSekS9gAJ1Sly1ypFxCf0.jpg",
    "production_companies": [
     {
@@ -12044,7 +12190,7 @@
    "original_language": "ru",
    "original_title": "Новогодний ремонт",
    "overview": "Пришли как-то русский еврей и армянин к Маргарите с ремонтом помочь. Но тут, сюрпризом приехал американец. И не просто приехал, а с предложением жениться. И не просто американец, а афроамериканец. Русский депутат, учитель-еврей и армянин-владелец ресторана - все четко решают: Маргариту в США отпускать нельзя! Пусть это будет не просто, но русские ведь просто так не сдаются.",
-   "popularity": 0.981,
+   "popularity": 1.4,
    "poster_path": "http://image.tmdb.org/t/p/w500/e9XREkITTorTVVz62rBD61ZXX8L.jpg",
    "production_companies": [],
    "production_countries": [
@@ -12168,7 +12314,7 @@
    "original_language": "en",
    "original_title": "Zombieland: Double Tap",
    "overview": "Беспощадная и бесстрашная четверка охотников на зомби продолжает свое путешествие в глубь страны. На этот раз им предстоит сразиться не только с новыми видами живых мертвецов, но и вступить в схватку с другими выжившими, которые настроены совсем не дружелюбно. Кроме того, в собственных рядах охотников намечается серьезный разлад.",
-   "popularity": 44.026,
+   "popularity": 43.31,
    "poster_path": "http://image.tmdb.org/t/p/w500/1csnOnuch5AsT6ZS0ZXthRCLxvf.jpg",
    "production_companies": [
     {
@@ -12210,7 +12356,7 @@
    "title": "Zомбилэнд: Контрольный выстрел",
    "video": false,
    "vote_average": 7,
-   "vote_count": 1296,
+   "vote_count": 1300,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -12644,7 +12790,7 @@
    "original_language": "en",
    "original_title": "Running with the Devil",
    "overview": "Груз кокаина следует из Мексики через США в Канаду. Когда партия не достигает цели, лидер картеля Босс посылает своих верных помощников — Повара и Мужика — разобраться, как работает сеть поставщиков.",
-   "popularity": 9.81,
+   "popularity": 7.717,
    "poster_path": "http://image.tmdb.org/t/p/w500/vn1g8V2X2Rj32zyw7PYF7jBKciD.jpg",
    "production_companies": [
     {
@@ -12856,7 +13002,7 @@
    "original_language": "en",
    "original_title": "Jexi",
    "overview": "Лекси знает о вас все. Она видела все ваши неприличные фотки, знает, о чем вы шепчетесь во время секса, что едите по ночам и как называете своего начальника в секретных чатах. Она — виртуальный помощник из вашего мобильника, и сегодня у нее очень плохое настроение.",
-   "popularity": 19.913,
+   "popularity": 18.005,
    "poster_path": "http://image.tmdb.org/t/p/w500/nv69bRe1wKf0mdZn93n8ioRik7u.jpg",
    "production_companies": [
     {
@@ -13077,7 +13223,7 @@
    "original_language": "en",
    "original_title": "Final Score",
    "overview": "Во время террористической атаки племянница Майка затерялась где-то на футбольном стадионе, где они смотрели текущий матч. Ему придётся вспомнить все свои старые навыки, чтобы спасти девочку и предотвратить катастрофу.",
-   "popularity": 7.815,
+   "popularity": 8.706,
    "poster_path": "http://image.tmdb.org/t/p/w500/cpRfVV8c15HOsEcqNY438roobYU.jpg",
    "production_companies": [
     {
@@ -13260,8 +13406,8 @@
      "source": "rutor.info",
      "size": "19.53 GB",
      "date": "2020-01-10T00:00:00+03:00",
-     "upload": 24,
-     "download": 4
+     "upload": 18,
+     "download": 1
     },
     {
      "name": "Окончательный счёт / Final Score (2018) BDRip 1080p от селезень | D, P | iTunes",
@@ -13269,8 +13415,8 @@
      "source": "rutor.info",
      "size": "9.56 GB",
      "date": "2020-01-10T00:00:00+03:00",
-     "upload": 56,
-     "download": 5
+     "upload": 55,
+     "download": 6
     },
     {
      "name": "Окончательный счёт / Final Score (2018) BDRip 1080p от селезень | HDRezka Studio",
@@ -13278,8 +13424,8 @@
      "source": "rutor.info",
      "size": "9.28 GB",
      "date": "2018-11-07T00:00:00+03:00",
-     "upload": 10,
-     "download": 0
+     "upload": 8,
+     "download": 1
     },
     {
      "name": "Окончательный счёт / Final Score (2018) BDRemux 1080p от селезень | HDRezka Studio",
@@ -13322,7 +13468,7 @@
    "original_language": "en",
    "original_title": "Harmony",
    "overview": "У этой девушки есть невероятный дар — она может забирать у людей тревогу и страх очищая их души. Но у каждого дара есть цена.",
-   "popularity": 3.232,
+   "popularity": 4.525,
    "poster_path": "http://image.tmdb.org/t/p/w500/elES96HesSzoG1OGISEN9tKHEtE.jpg",
    "production_companies": [
     {
@@ -13456,7 +13602,7 @@
      "source": "rutor.info",
      "size": "7.88 GB",
      "date": "2020-01-09T00:00:00+03:00",
-     "upload": 72,
+     "upload": 71,
      "download": 6
     },
     {
@@ -13465,8 +13611,8 @@
      "source": "rutor.info",
      "size": "20.03 GB",
      "date": "2020-01-09T00:00:00+03:00",
-     "upload": 11,
-     "download": 2
+     "upload": 14,
+     "download": 4
     }
    ]
   },
@@ -13497,7 +13643,7 @@
    "original_language": "en",
    "original_title": "Men in Black: International",
    "overview": "Фильм рассказывает о новом агенте, которая вступает в ряды секретной организации по взаимодействию с инопланетянами. Неопытной Эм предстоит стать напарницей агента Эйч и найти шпиона, проникшего в самое сердце тайного бюро.",
-   "popularity": 24.793,
+   "popularity": 27.395,
    "poster_path": "http://image.tmdb.org/t/p/w500/zSpaTBgxiP2HXq34OMwjxm3lp9D.jpg",
    "production_companies": [
     {
@@ -13555,7 +13701,7 @@
    "title": "Люди в чёрном: Интернэшнл",
    "video": false,
    "vote_average": 5.9,
-   "vote_count": 1991,
+   "vote_count": 1994,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -13950,8 +14096,8 @@
      "source": "rutor.info",
      "size": "14.19 GB",
      "date": "2020-01-09T00:00:00+03:00",
-     "upload": 27,
-     "download": 9
+     "upload": 28,
+     "download": 4
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) BDRip 1080p от HELLYWOOD | Лицензия",
@@ -13959,8 +14105,8 @@
      "source": "rutor.info",
      "size": "8.83 GB",
      "date": "2019-11-10T00:00:00+03:00",
-     "upload": 56,
-     "download": 2
+     "upload": 66,
+     "download": 3
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) BDRip-HEVC 1080p от HEVC-CLUB | Лицензия",
@@ -13968,8 +14114,8 @@
      "source": "rutor.info",
      "size": "6.39 GB",
      "date": "2019-10-27T00:00:00+03:00",
-     "upload": 102,
-     "download": 7
+     "upload": 106,
+     "download": 13
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) BDRemux 1080p | D, P | Лицензия",
@@ -13977,7 +14123,7 @@
      "source": "rutor.info",
      "size": "23.70 GB",
      "date": "2019-10-07T00:00:00+03:00",
-     "upload": 19,
+     "upload": 17,
      "download": 0
     },
     {
@@ -13986,8 +14132,8 @@
      "source": "rutor.info",
      "size": "7.74 GB",
      "date": "2019-10-01T00:00:00+03:00",
-     "upload": 174,
-     "download": 22
+     "upload": 203,
+     "download": 20
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) UHD BDRemux 2160p от селезень | 4K | HDR | Лицензия",
@@ -13995,8 +14141,8 @@
      "source": "rutor.info",
      "size": "40.65 GB",
      "date": "2019-10-01T00:00:00+03:00",
-     "upload": 15,
-     "download": 2
+     "upload": 22,
+     "download": 5
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) BDRemux 1080p от селезень | Лицензия",
@@ -14004,8 +14150,8 @@
      "source": "rutor.info",
      "size": "23.03 GB",
      "date": "2019-10-01T00:00:00+03:00",
-     "upload": 20,
-     "download": 2
+     "upload": 17,
+     "download": 1
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) BDRip 1080p от селезень | Лицензия",
@@ -14013,8 +14159,8 @@
      "source": "rutor.info",
      "size": "11.80 GB",
      "date": "2019-10-01T00:00:00+03:00",
-     "upload": 74,
-     "download": 15
+     "upload": 85,
+     "download": 22
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) UHD BDRip-HEVC 2160p | 4K | HDR | D, P | iTunes",
@@ -14022,8 +14168,8 @@
      "source": "rutor.info",
      "size": "13.94 GB",
      "date": "2019-08-26T00:00:00+03:00",
-     "upload": 34,
-     "download": 4
+     "upload": 35,
+     "download": 2
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) BDRip 1080p от OlLanDGroup | D, P | iTunes",
@@ -14031,7 +14177,7 @@
      "source": "rutor.info",
      "size": "13.02 GB",
      "date": "2019-08-24T00:00:00+03:00",
-     "upload": 78,
+     "upload": 92,
      "download": 3
     },
     {
@@ -14040,8 +14186,8 @@
      "source": "rutor.info",
      "size": "20.32 GB",
      "date": "2019-08-22T00:00:00+03:00",
-     "upload": 3,
-     "download": 0
+     "upload": 6,
+     "download": 1
     },
     {
      "name": "Люди в черном: Интернэшнл / Men in Black International (2019) WEB-DL 1080p | P",
@@ -14049,8 +14195,8 @@
      "source": "rutor.info",
      "size": "7.16 GB",
      "date": "2019-08-21T00:00:00+03:00",
-     "upload": 27,
-     "download": 0
+     "upload": 23,
+     "download": 1
     }
    ]
   },
@@ -14067,7 +14213,7 @@
    "original_language": "ru",
    "original_title": "Исходник",
    "overview": "Герой фильма набивает на спор жуткую татуировку, и теперь загадочный человек с рисунка преследует его во снах и в реальности. В попытках избавиться от наваждения, герой, сам того не подозревая, отправляется туда, где самые страшные кошмары могут обернуться реальностью.",
-   "popularity": 2.359,
+   "popularity": 1.834,
    "poster_path": "http://image.tmdb.org/t/p/w500/tCnP57SpvKoed11G8s9twaMrmyu.jpg",
    "production_companies": [],
    "production_countries": [],
@@ -14167,7 +14313,7 @@
    "original_language": "fr",
    "original_title": "Just a Gigolo",
    "overview": "Встречайте мужчину мечты! Он знает секреты обольщения и вовсю этим пользуется, чтобы жить в свое удовольствие. Возможно, опытный мачо уже немного растерял обаяние, но отказываться от роскошной жизни не входит в его планы. Применяя весь свой арсенал, он вновь готов вернуться в игру.",
-   "popularity": 4.668,
+   "popularity": 3.941,
    "poster_path": "http://image.tmdb.org/t/p/w500/vkfFcTQMT3EX9PNAP0Tf7xuJMql.jpg",
    "production_companies": [
     {
@@ -14209,7 +14355,7 @@
    "title": "Красавчик со стажем",
    "video": false,
    "vote_average": 5.2,
-   "vote_count": 40,
+   "vote_count": 41,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -14318,7 +14464,7 @@
      "source": "rutor.info",
      "size": "7.90 GB",
      "date": "2020-01-08T00:00:00+03:00",
-     "upload": 42,
+     "upload": 44,
      "download": 8
     },
     {
@@ -14327,8 +14473,8 @@
      "source": "rutor.info",
      "size": "3.49 GB",
      "date": "2019-11-03T00:00:00+03:00",
-     "upload": 154,
-     "download": 4
+     "upload": 176,
+     "download": 7
     }
    ]
   },
@@ -14354,7 +14500,7 @@
    "original_language": "ru",
    "original_title": "Француз",
    "overview": "В 1957 году Пьер Дюран, выпускник Эколь Нормаль, приезжает в Москву на стажировку в университете. Здесь он знакомится c балериной Большого театра Кирой Галкиной и фотографом Валерой Успенским. Благодаря этому знакомству Пьер погружается в культурную жизнь Москвы, не только официальную, но и подпольную. У него начинается роман с Кирой. Но стажировка и знакомство с жизнью в СССР — не единственная цель Пьера. Он ищет своего отца, белого офицера Татищева, который был арестован в конце 1930-х. Их встреча — кульминация фильма. За год в Москве Пьер проживает целую жизнь, совершенно непохожую на все, что он знал. Когда Пьер улетает обратно в Париж, он надеется, что когда-нибудь еще сможет увидеть Киру. В кармане его пиджака лежит пленка с номером подпольного журнала «Грамотей».",
-   "popularity": 5.446,
+   "popularity": 5.07,
    "poster_path": "http://image.tmdb.org/t/p/w500/dEgWJz0vx3HENgj6V3BujhC3PmE.jpg",
    "production_companies": [
     {
@@ -14495,7 +14641,7 @@
    "original_language": "no",
    "original_title": "Askeladden - I Soria Moria slott",
    "overview": "Король и королева отравлены. Единственный шанс на спасение — живая вода, спрятанная на краю света в стенах таинственного Золотого замка. Эспен с принцессой Кристин отправляются в путешествие, полное опасностей и приключений.",
-   "popularity": 3.898,
+   "popularity": 4.286,
    "poster_path": "http://image.tmdb.org/t/p/w500/wzpGkd1d58FUTPRbedZME8FTY7V.jpg",
    "production_companies": [
     {
@@ -14670,7 +14816,7 @@
    "original_language": "en",
    "original_title": "Maleficent: Mistress of Evil",
    "overview": "Действие происходит через несколько лет после того, как Малефисента наложила злые чары на принцессу Аврору. Фильм рассказывает про сложную взаимосвязь между тёмной феей и будущей королевой, о новых союзниках и противниках в деле защиты волшебного леса и магических существах, которые в нем обитают.",
-   "popularity": 74.733,
+   "popularity": 76.926,
    "poster_path": "http://image.tmdb.org/t/p/w500/7hq56ZgSnDRMJSCroAml17EmGmI.jpg",
    "production_companies": [
     {
@@ -14706,7 +14852,7 @@
    "title": "Малефисента: Владычица тьмы",
    "video": false,
    "vote_average": 7.2,
-   "vote_count": 1663,
+   "vote_count": 1668,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -14848,21 +14994,10 @@
       ]
      },
      {
-      "iso_3166_1": "HK",
-      "release_dates": [
-       {
-        "certification": "IIA",
-        "iso_639_1": "",
-        "release_date": "2019-10-17T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
       "iso_3166_1": "PT",
       "release_dates": [
        {
-        "certification": "",
+        "certification": "M/12",
         "iso_639_1": "",
         "release_date": "2019-10-16T00:00:00Z",
         "type": 3
@@ -14870,21 +15005,10 @@
       ]
      },
      {
-      "iso_3166_1": "SG",
+      "iso_3166_1": "HK",
       "release_dates": [
        {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-10-17T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "GR",
-      "release_dates": [
-       {
-        "certification": "",
+        "certification": "IIA",
         "iso_639_1": "",
         "release_date": "2019-10-17T00:00:00Z",
         "type": 3
@@ -14926,34 +15050,6 @@
         "certification": "",
         "iso_639_1": "",
         "release_date": "2019-10-17T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "ES",
-      "release_dates": [
-       {
-        "certification": "7",
-        "iso_639_1": "",
-        "release_date": "2019-10-18T00:00:00Z",
-        "type": 3
-       },
-       {
-        "certification": "7",
-        "iso_639_1": "es",
-        "release_date": "2020-02-19T00:00:00Z",
-        "type": 5
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "FI",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-10-16T00:00:00Z",
         "type": 3
        }
       ]
@@ -15025,12 +15121,23 @@
       ]
      },
      {
-      "iso_3166_1": "PL",
+      "iso_3166_1": "SG",
+      "release_dates": [
+       {
+        "certification": "PG",
+        "iso_639_1": "",
+        "release_date": "2019-10-17T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "GR",
       "release_dates": [
        {
         "certification": "",
         "iso_639_1": "",
-        "release_date": "2019-10-18T00:00:00Z",
+        "release_date": "2019-10-17T00:00:00Z",
         "type": 3
        }
       ]
@@ -15049,6 +15156,17 @@
         "iso_639_1": "",
         "release_date": "2020-01-09T00:00:00Z",
         "type": 4
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "PL",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-10-18T00:00:00Z",
+        "type": 3
        }
       ]
      },
@@ -15139,6 +15257,34 @@
         "type": 3
        }
       ]
+     },
+     {
+      "iso_3166_1": "FI",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-10-16T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "ES",
+      "release_dates": [
+       {
+        "certification": "7",
+        "iso_639_1": "",
+        "release_date": "2019-10-18T00:00:00Z",
+        "type": 3
+       },
+       {
+        "certification": "7",
+        "iso_639_1": "es",
+        "release_date": "2020-02-19T00:00:00Z",
+        "type": 5
+       }
+      ]
      }
     ]
    },
@@ -15216,7 +15362,7 @@
    "original_language": "fr",
    "original_title": "Roubaix, une lumière",
    "overview": "В центре сюжета — шериф полиции и выпускник академии. Они пытаются раскрыть жестокое убийство пожилой женщины.",
-   "popularity": 5.466,
+   "popularity": 7.652,
    "poster_path": "http://image.tmdb.org/t/p/w500/qPDTltvin2VgdhRt8AgWFdp77JZ.jpg",
    "production_companies": [
     {
@@ -15406,7 +15552,7 @@
      "size": "14.58 GB",
      "date": "2020-01-05T00:00:00+03:00",
      "upload": 7,
-     "download": 1
+     "download": 3
     },
     {
      "name": "Боже мой! / Roubaix, une lumière (2019) BDRemux 1080p от селезень | iTunes",
@@ -15414,8 +15560,8 @@
      "source": "rutor.info",
      "size": "30.13 GB",
      "date": "2020-01-05T00:00:00+03:00",
-     "upload": 3,
-     "download": 0
+     "upload": 4,
+     "download": 1
     }
    ]
   },
@@ -15445,7 +15591,7 @@
    "original_language": "es",
    "original_title": "H0us3",
    "overview": "Рафа и Люсия приглашают компанию своих бывших однокурсников провести уикенд в их загородном доме. Тишина и шикарные виды, вино, веселые воспоминания… Во время ужина Рафа, еще в студенчестве заслуживший звание компьютерного гения, признается, что нашел в интернете и расшифровал архив с суперсекретной программой. И теперь, установив эту программу на обычный смартфон, можно заглянуть в будущее — пока всего на 30 секунд. А почему бы и нет — решают друзья, не предполагая, что втягиваются в опасную игру, которая может изменить всю историю человечества… и их собственные жизни.",
-   "popularity": 1.757,
+   "popularity": 2.46,
    "poster_path": "http://image.tmdb.org/t/p/w500/omJlquiGjQ1ui2q56t62jJqVGas.jpg",
    "production_companies": [
     {
@@ -15557,8 +15703,8 @@
      "source": "rutor.info",
      "size": "3.55 GB",
      "date": "2020-01-05T00:00:00+03:00",
-     "upload": 1111,
-     "download": 39
+     "upload": 1222,
+     "download": 33
     }
    ]
   },
@@ -15580,7 +15726,7 @@
    "original_language": "en",
    "original_title": "Strange But True",
    "overview": "Спустя пять лет после гибели старшеклассника Ронни Чейза, который разбился на машине в выпускной вечер, к его матери и брату приходит его школьная подруга Мелисса. Она уверяет, что ждёт ребенка от Ронни. Недоверчивые родственники пытаются выяснить правду, которая оказывается страшнее всех предположений.",
-   "popularity": 9.098,
+   "popularity": 7.853,
    "poster_path": "http://image.tmdb.org/t/p/w500/hKx8KuzJUk48B8j95f96jOk2YzL.jpg",
    "production_companies": [
     {
@@ -15739,7 +15885,7 @@
    "original_language": "en",
    "original_title": "Little Monsters",
    "overview": "Воспитательница везёт группу дошколят за город на экскурсию, когда на местности происходит вспышка зомби-вируса. Чтобы спастись и не травмировать хрупкую детскую психику, женщина убеждает малышей, что все эти зомби, кровь, кишки — ненастоящие, а всё происходящее — просто игра. Странная, но весёлая. И вот тот дядя корчится не от боли, а от радости. И не корчится, а смеётся.",
-   "popularity": 10.163,
+   "popularity": 11.989,
    "poster_path": "http://image.tmdb.org/t/p/w500/c9JeDIynxkfYuk4VKg9OHvLbg9i.jpg",
    "production_companies": [
     {
@@ -15921,7 +16067,7 @@
      "source": "rutor.info",
      "size": "24.32 GB",
      "date": "2020-01-04T00:00:00+03:00",
-     "upload": 19,
+     "upload": 13,
      "download": 3
     },
     {
@@ -15930,7 +16076,7 @@
      "source": "rutor.info",
      "size": "8.72 GB",
      "date": "2019-12-30T00:00:00+03:00",
-     "upload": 73,
+     "upload": 72,
      "download": 2
     },
     {
@@ -15939,8 +16085,8 @@
      "source": "rutor.info",
      "size": "3.50 GB",
      "date": "2019-11-11T00:00:00+03:00",
-     "upload": 133,
-     "download": 8
+     "upload": 147,
+     "download": 12
     }
    ]
   },
@@ -15962,7 +16108,7 @@
    "original_language": "en",
    "original_title": "Kill Chain",
    "overview": "Трём незнакомцам приходится разрешать конфликт, к которому жизнь их не готовила.",
-   "popularity": 9.39,
+   "popularity": 9.008,
    "poster_path": "http://image.tmdb.org/t/p/w500/wy0Xs5mGtD92PyKvsl0lxzbzscG.jpg",
    "production_companies": [
     {
@@ -16102,7 +16248,7 @@
    "original_language": "ru",
    "original_title": "Большая поэзия",
    "overview": "Фильм «Большая поэзия» рассказывает о двух парнях, живущих на окраине Москвы и работающих инкассаторами. Они молоды, одиноки, у них нет никого, кроме друг друга. Всю жизнь они перевозят чужие деньги. Мечтают, ходят в поэтический кружок в Доме культуры и на петушиные бои в местное общежитие гастарбайтеров. Попытки найти поэтическое настроение в окружающем их прозаическом мире приводят героев к выводу, что единственное подлинно поэтическое действие — ограбление банка. Но фильм не о словах и не о рифмах. А о дружбе, предательстве, о порочном и чуждом мире, в котором каждый, кто пытается быть честным и последовательным, в конце концов выглядит наивным и жестоким. О той всегдашней и непонятной силе, которая до сих пор наперекор всему делает нашу жизнь такой неистовой, странной и одинокой.",
-   "popularity": 2.595,
+   "popularity": 3.633,
    "poster_path": "http://image.tmdb.org/t/p/w500/96N7t5DDe3Kj8XgDvULECj7uYgV.jpg",
    "production_companies": [
     {
@@ -16252,7 +16398,7 @@
    "original_language": "en",
    "original_title": "A Rainy Day in New York",
    "overview": "Он — из состоятельной семьи Нью-Йорка, она — из небольшого городка в Аризоне. Выросший на Манхэттене юноша мечтает показать ей свой любимый город. Судьба дает ему шанс, когда девушку отправляют взять интервью у известного режиссера. Однако этот дождливый день изменит их жизнь навсегда. В проливной суете мегаполиса он встретит свою давнюю подругу, а девушку затянет в мир звездной богемы…",
-   "popularity": 14.549,
+   "popularity": 15.676,
    "poster_path": "http://image.tmdb.org/t/p/w500/wXWYJ7tKvUlryi6cCYYhk8ETuZV.jpg",
    "production_companies": [
     {
@@ -16535,8 +16681,8 @@
      "source": "rutor.info",
      "size": "7.90 GB",
      "date": "2020-01-02T00:00:00+03:00",
-     "upload": 184,
-     "download": 9
+     "upload": 195,
+     "download": 11
     },
     {
      "name": "Дождливый день в Нью-Йорке / A Rainy Day in New York (2019) BDRemux 1080p | iTunes",
@@ -16544,8 +16690,8 @@
      "source": "rutor.info",
      "size": "19.56 GB",
      "date": "2020-01-01T00:00:00+03:00",
-     "upload": 62,
-     "download": 10
+     "upload": 65,
+     "download": 13
     }
    ]
   },
@@ -16571,7 +16717,7 @@
    "original_language": "en",
    "original_title": "Cosmos",
    "overview": "Три астронома случайно перехватывают сигнал, который они принимают за сигнал далекой инопланетной цивилизации, но истина еще более невероятна, чем любой из них может себе представить.",
-   "popularity": 4.488,
+   "popularity": 3.374,
    "poster_path": "http://image.tmdb.org/t/p/w500/mQsu2hr3798YAFxTJycPTJMal1M.jpg",
    "production_companies": [
     {
@@ -16696,7 +16842,7 @@
    "original_language": "ru",
    "original_title": "Решала: Нулевые",
    "overview": "2008 год. Старинные друзья Костя и Завгар придумывают не совсем легальные схемы заработка. Деньги приходят легко и так же легко уходят. Кажется, что этот успех будет вечен. Но на каждого найдется свой капкан, особенно если хочется еще больше денег. Костя затевает большую игру, которая может стоить и ему, и Завгару свободы, дружбы и даже самой жизни.",
-   "popularity": 2.188,
+   "popularity": 2.636,
    "poster_path": "http://image.tmdb.org/t/p/w500/47sGRcOiJ21W3A9sY3CDsNss3pu.jpg",
    "production_companies": [],
    "production_countries": [
@@ -16801,7 +16947,7 @@
    "original_language": "fi",
    "original_title": "Koirat eivät käytä housuja",
    "overview": "Мужчина становится вдовцом. Долгое время после этого он не может найти связь с окружающими, пока однажды он не знакомится с доминатрикс.",
-   "popularity": 3.697,
+   "popularity": 3.9,
    "poster_path": "http://image.tmdb.org/t/p/w500/zaHg73T7nVwaIm9FSeMqU2JO4BV.jpg",
    "production_companies": [
     {
@@ -16982,7 +17128,7 @@
      "source": "rutor.info",
      "size": "3.51 GB",
      "date": "2020-01-02T00:00:00+03:00",
-     "upload": 106,
+     "upload": 102,
      "download": 5
     }
    ]
@@ -17017,7 +17163,7 @@
    "original_language": "ru",
    "original_title": "Девятая",
    "overview": "Петербург конца XIX века охвачен массовым увлечением оккультными науками и эзотерикой. Британка-медиум Оливия Рид приезжает в столицу Российской империи с гастролями и собирает на своих публичных спиритических сеансах толпы людей. В это время в городе происходит серия ритуальных загадочных убийств. На улицах похищают девушек, их изувеченные тела находят в самых разных концах города. Расследованием занимаются молодой полицейский офицер Ростов и его помощник Ганин. С каждой новой жертвой дело становится все запутаннее. Подозрение приводит Ростова к Оливии, и он решает обратиться к ней в надежде, что ее подлинная или мнимая способность вызывать духов погибших может помочь выйти на след убийцы.",
-   "popularity": 3.008,
+   "popularity": 3.54,
    "poster_path": "http://image.tmdb.org/t/p/w500/pIBRl8bewLhztXk6W5xdzwhKrBh.jpg",
    "production_companies": [
     {
@@ -17050,8 +17196,8 @@
    "tagline": "«Открой тайну её числа»",
    "title": "Девятая",
    "video": false,
-   "vote_average": 7.2,
-   "vote_count": 5,
+   "vote_average": 6.3,
+   "vote_count": 6,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -17139,7 +17285,7 @@
    "original_language": "ru",
    "original_title": "Лев Яшин. Вратарь моей мечты",
    "overview": "«Чёрный паук», «Чёрная пантера» и даже «Чёрный осьминог» — такими прозвищами награждали Льва Яшина за гибкость, молниеносное перемещение и гениальное видение поля. Он, неизменно в чёрном свитере с буквой «Д», был полноправным хозяином в своей штрафной. После поражения на Чемпионате Мира в Чили ему придётся уйти, чтобы позже с триумфом вернуться и снова стать лучшим не только в стране, но и во всём мире — единственным вратарём за всю историю футбола, получившим Золотой мяч. Лучшим, по мнению FIFA, вратарём ХХ века.",
-   "popularity": 2.39,
+   "popularity": 1.434,
    "poster_path": "http://image.tmdb.org/t/p/w500/dVgXMNJeoILxW64SY8Qx4NoWXuJ.jpg",
    "production_companies": [
     {
@@ -17285,7 +17431,7 @@
    "original_language": "ru",
    "original_title": "Мысленный волк",
    "overview": "Фильм представляет собой притчу о страхе, это рассказ о лишенных любви отношениях матери и дочери, которые на время обретают взаимопонимание, сплоченные страхом перед выдуманной матерью историей о волке-людоеде. На философском уровне это размышление об утерянной чистоте помыслов, которая является главным условием гармонии человеческого существования, и еще одна иллюстрация к пословице «Сон разума рождает чудовищ».",
-   "popularity": 0.632,
+   "popularity": 1.055,
    "poster_path": "http://image.tmdb.org/t/p/w500/alFL3JMx7vR9HxgcUnZ69vOnds2.jpg",
    "production_companies": [
     {
@@ -17417,7 +17563,7 @@
    "original_language": "en",
    "original_title": "Togo",
    "overview": "Пёс по кличке Того в 1928 году помог предотвратить эпидемию дифтерии в городе Ном, Аляска. В упряжке с другими ездовыми собаками Того, несмотря на страшные погодные условия, смог доставить в город посылку с антитоксином, остановившим распространение болезни. Основано на реальных событиях.",
-   "popularity": 17.595,
+   "popularity": 20.753,
    "poster_path": "http://image.tmdb.org/t/p/w500/wK3EZropn0xc3ajQW4jxvMD1Vs7.jpg",
    "production_companies": [
     {
@@ -17552,7 +17698,7 @@
    "original_language": "en",
    "original_title": "Gloria Bell",
    "overview": "Фильм рассказывает о свободолюбивой женщине, которая в 50 с лишним лет ищет свою любовь в танцевальных клубах Лос-Анджелеса.",
-   "popularity": 8.207,
+   "popularity": 10.235,
    "poster_path": "http://image.tmdb.org/t/p/w500/7SVPdOJiWfo5sKx8eg1VaTnJ403.jpg",
    "production_companies": [
     {
@@ -17592,7 +17738,7 @@
    "title": "Глория Белл",
    "video": false,
    "vote_average": 5.9,
-   "vote_count": 122,
+   "vote_count": 123,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -17849,7 +17995,7 @@
      "source": "rutor.info",
      "size": "10.80 GB",
      "date": "2019-12-31T00:00:00+03:00",
-     "upload": 10,
+     "upload": 14,
      "download": 3
     }
    ]
@@ -17872,7 +18018,7 @@
    "original_language": "en",
    "original_title": "Judy",
    "overview": "Фильм рассказывает о последних концертах голливудской звезды Джуди Гарлэнд в Лондоне в 1968 году. Звезда «Волшебника страны Оз» готовится к шоу, ссорится с руководством, очаровывает музыкантов. Это хрупкая женщина, которую истощили годы тяжелой работы и тоска по детям.",
-   "popularity": 26.021,
+   "popularity": 23.144,
    "poster_path": "http://image.tmdb.org/t/p/w500/1zIa2RMRUEIg6IwVT8bVRWhzQUG.jpg",
    "production_companies": [
     {
@@ -17914,7 +18060,7 @@
    "title": "Джуди",
    "video": false,
    "vote_average": 6.8,
-   "vote_count": 173,
+   "vote_count": 177,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -18215,7 +18361,7 @@
    "original_language": "en",
    "original_title": "The Informer",
    "overview": "Три секунды — время полета пули, выпущенной из снайперской винтовки с расстояния 1 500 метров. Именно столько времени остается, чтобы принять решение информатору Федерального Бюро Расследований, оказавшемуся в смертельной ловушке между мафией, полицией и ФБР. На кону — его семья, свобода, жизнь.",
-   "popularity": 14.475,
+   "popularity": 16.217,
    "poster_path": "http://image.tmdb.org/t/p/w500/fokiAMsHXL0ijhceEIorAwMPIaO.jpg",
    "production_companies": [
     {
@@ -18538,7 +18684,7 @@
    "original_language": "en",
    "original_title": "The Goldfinch",
    "overview": "История юного Теодора Деккера, потерявшего мать во время теракта в Метрополитен-музее. Чудом оставшись в живых после взрыва, Тео получает от умирающего старика редкую картину кисти Карела Фабрициуса и кольцо. С этого момента начинается его погружение в подпольный мир искусства.",
-   "popularity": 15.074,
+   "popularity": 15.737,
    "poster_path": "http://image.tmdb.org/t/p/w500/nAAXv546lLgHKBLZZGChZmDrmqS.jpg",
    "production_companies": [
     {
@@ -19023,7 +19169,7 @@
    "original_language": "en",
    "original_title": "The Lion King",
    "overview": "История об отважном львенке по имени Симба. Знакомые с детства герои взрослеют, влюбляются, познают себя и окружающий мир, совершают ошибки и делают правильный выбор.",
-   "popularity": 45.072,
+   "popularity": 45.749,
    "poster_path": "http://image.tmdb.org/t/p/w500/9NAGr8Z2OVURC4kjq31TIuNar4L.jpg",
    "production_companies": [
     {
@@ -19059,7 +19205,7 @@
    "title": "Король Лев",
    "video": false,
    "vote_average": 7.1,
-   "vote_count": 4347,
+   "vote_count": 4352,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -19658,7 +19804,7 @@
      "source": "rutor.info",
      "size": "7.75 GB",
      "date": "2019-12-30T00:00:00+03:00",
-     "upload": 437,
+     "upload": 454,
      "download": 61
     },
     {
@@ -19667,8 +19813,8 @@
      "source": "rutor.info",
      "size": "11.54 GB",
      "date": "2019-12-09T00:00:00+03:00",
-     "upload": 39,
-     "download": 13
+     "upload": 42,
+     "download": 4
     },
     {
      "name": "Король Лев / The Lion King (2019) BDRip 1080p | Дополнительные материалы | Sub",
@@ -19676,8 +19822,8 @@
      "source": "rutor.info",
      "size": "4.39 GB",
      "date": "2019-11-28T00:00:00+03:00",
-     "upload": 14,
-     "download": 2
+     "upload": 10,
+     "download": 0
     },
     {
      "name": "Король Лев / The Lion King (2019) BDRip-HEVC 1080p от HEVC-CLUB | Лицензия",
@@ -19685,8 +19831,8 @@
      "source": "rutor.info",
      "size": "7.75 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 108,
-     "download": 11
+     "upload": 118,
+     "download": 9
     },
     {
      "name": "Король Лев / The Lion King (2019) BDRip 1080p от селезень | 3D-Video | HSBS | Лицензия",
@@ -19694,8 +19840,8 @@
      "source": "rutor.info",
      "size": "13.45 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 28,
-     "download": 6
+     "upload": 24,
+     "download": 5
     },
     {
      "name": "Король Лев / The Lion King (2019) BDRemux 1080p от селезень | 3D-Video | Лицензия",
@@ -19703,8 +19849,8 @@
      "source": "rutor.info",
      "size": "40.63 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 6,
-     "download": 2
+     "upload": 4,
+     "download": 4
     },
     {
      "name": "Король Лев / The Lion King (2019) UHD BDRemux 2160p от селезень | 4K | HDR | Лицензия",
@@ -19712,8 +19858,8 @@
      "source": "rutor.info",
      "size": "50.03 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 49,
-     "download": 19
+     "upload": 50,
+     "download": 21
     },
     {
      "name": "Король Лев / The Lion King (2019) BDRemux 1080p от селезень | Лицензия",
@@ -19721,8 +19867,8 @@
      "source": "rutor.info",
      "size": "27.51 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 20,
-     "download": 6
+     "upload": 17,
+     "download": 3
     },
     {
      "name": "Король Лев / The Lion King (2019) BDRip 1080p от селезень | Лицензия",
@@ -19730,8 +19876,8 @@
      "source": "rutor.info",
      "size": "15.83 GB",
      "date": "2019-11-26T00:00:00+03:00",
-     "upload": 303,
-     "download": 12
+     "upload": 290,
+     "download": 16
     }
    ]
   },
@@ -19761,7 +19907,7 @@
    "original_language": "en",
    "original_title": "Joker",
    "overview": "Готэм, начало 1980-х годов. Комик Артур Флек живет с больной матерью, которая с детства учит его «ходить с улыбкой». Пытаясь нести в мир хорошее и дарить людям радость, Артур сталкивается с человеческой жестокостью и постепенно приходит к выводу, что этот мир получит от него не добрую улыбку, а ухмылку злодея Джокера.",
-   "popularity": 151.753,
+   "popularity": 151.66,
    "poster_path": "http://image.tmdb.org/t/p/w500/498AdCguRoD1mpizIeKi8nDTOQO.jpg",
    "production_companies": [
     {
@@ -19837,7 +19983,7 @@
    "title": "Джокер",
    "video": false,
    "vote_average": 8.3,
-   "vote_count": 8542,
+   "vote_count": 8563,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -20654,7 +20800,7 @@
    "original_language": "en",
    "original_title": "It Chapter Two",
    "overview": "Проходит 27 лет после первой встречи ребят с демоническим Пеннивайзом. Они уже выросли, и у каждого своя жизнь. Но неожиданно их спокойное существование нарушает странный телефонный звонок, который заставляет их вновь собраться вместе.",
-   "popularity": 46.823,
+   "popularity": 55.293,
    "poster_path": "http://image.tmdb.org/t/p/w500/rjM13nwgzt80xAUKXVp9mzRYyHp.jpg",
    "production_companies": [
     {
@@ -20712,7 +20858,7 @@
    "title": "Оно 2",
    "video": false,
    "vote_average": 6.8,
-   "vote_count": 3022,
+   "vote_count": 3028,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -21316,7 +21462,7 @@
    "original_language": "fr",
    "original_title": "Mon Inconnue",
    "overview": "Однажды утром он и она меняются местами. Он просыпается не успешным писателем в лучах славы, а простым учителем с непомерно завышенным эго. Его девушка, наоборот, теперь известная пианистка, которую зовет замуж крутой музыкальный продюсер. Он знает про нее все, а она — не помнит про него ничего. Чтобы разобраться в происходящем и вернуть свою прежнюю жизнь, ему нужно вновь завоевать ее сердце.",
-   "popularity": 8.344,
+   "popularity": 10.96,
    "poster_path": "http://image.tmdb.org/t/p/w500/9n9Ix9ozfoRcvi0J6aXLvfzKCBq.jpg",
    "production_companies": [
     {
@@ -21384,7 +21530,7 @@
    "title": "Поменяться местами",
    "video": false,
    "vote_average": 7.2,
-   "vote_count": 235,
+   "vote_count": 236,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -21538,8 +21684,8 @@
      "source": "rutor.info",
      "size": "4.22 GB",
      "date": "2019-12-27T00:00:00+03:00",
-     "upload": 117,
-     "download": 6
+     "upload": 142,
+     "download": 4
     }
    ]
   },
@@ -21561,7 +21707,7 @@
    "original_language": "en",
    "original_title": "Primal",
    "overview": "Грузовое судно, под завязку наполненное разными экзотическими животными, отплывает из Амазонии в США. На корабле находится не менее дикий в своих нравах профессиональный охотник, который лично поймал редчайшего белого ягуара для одного из зоопарков. Однако экспедиция осложняется тем, что на судне также конвоируют опасного террориста, который ускользает из камеры и открывает все вольеры…",
-   "popularity": 7.839,
+   "popularity": 10.975,
    "poster_path": "http://image.tmdb.org/t/p/w500/lzTMCDOZr1aoUxd2Sdo34n1R4OW.jpg",
    "production_companies": [
     {
@@ -21754,7 +21900,7 @@
    "original_language": "ru",
    "original_title": "Конец сезона",
    "overview": "Три сестры волею обстоятельств оказались за пределами России и живут в маленьком прибалтийском городке. Они, как и героини знаменитой пьесы Антона Павловича Чехова, живут мечтой о возвращении в Москву и ищут любовь, однако у судьбы на них свои планы. Одну никак не оставляет прошлое, другая ищет простого женского счастья, а у третьей — кризис семейной жизни. Тем временем, на тихом побережье появляется опасный убийца… Светлая меланхолия сменяется взрывами человеческих эмоций и нешуточной борьбой за жизнь.",
-   "popularity": 0.717,
+   "popularity": 1.166,
    "poster_path": "http://image.tmdb.org/t/p/w500/564g6grDNZFeW92rumW4YXV36Mp.jpg",
    "production_companies": [
     {
@@ -21900,7 +22046,7 @@
    "original_language": "es",
    "original_title": "Día de Muertos",
    "overview": "Сельма выросла в любящей приемной семье, но вот уже 16 лет она мечтает встретить своих настоящих родителей. Неожиданно её старшие братья находят древнюю книгу заклинаний, открывающую путь в другие миры. Втроем они отправятся в путешествие в удивительный Город Призраков, чтобы отыскать ключ к прошлому девушки.",
-   "popularity": 2.491,
+   "popularity": 3.487,
    "poster_path": "http://image.tmdb.org/t/p/w500/gbofjJbAfnSplfX61dbD24NOquQ.jpg",
    "production_companies": [
     {
@@ -22072,8 +22218,8 @@
      "source": "rutor.info",
      "size": "3.03 GB",
      "date": "2019-12-26T00:00:00+03:00",
-     "upload": 199,
-     "download": 9
+     "upload": 189,
+     "download": 7
     }
    ]
   },
@@ -22095,7 +22241,7 @@
    "original_language": "en",
    "original_title": "Overcomer",
    "overview": "Главный герой картины — тренер школьной баскетбольной команды Джон Харрисон. Он привык к победе, но в один день, из-за закрытия завода в городе и массовых переездов, тренер теряет всех игроков. Харрисон переживает кризис веры, но всё же берётся подготовить девочку-подростка к соревнованиям по бегу по пересеченной местности.",
-   "popularity": 10.641,
+   "popularity": 9.916,
    "poster_path": "http://image.tmdb.org/t/p/w500/A786IMiilNt2UnH0T8qniHFI26c.jpg",
    "production_companies": [
     {
@@ -22303,7 +22449,7 @@
    "original_language": "en",
    "original_title": "Code 8",
    "overview": "В недалеком будущем существует небольшой процент населения Земли, обладающего сверхспособностями. Власти пытаются контролировать особенных людей, а остальные боятся их и презирают. Добродушный парень, обладающий способностью генерировать в себе энергию огромной мощности, отчаянно пытается перестать быть изгоем и встроиться в общество.",
-   "popularity": 23.719,
+   "popularity": 31.372,
    "poster_path": "http://image.tmdb.org/t/p/w500/vFQ5ooC8xBC6suV32VWudzcL6Kq.jpg",
    "production_companies": [
     {
@@ -22371,7 +22517,7 @@
    "title": "Код 8",
    "video": false,
    "vote_average": 6.1,
-   "vote_count": 253,
+   "vote_count": 255,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -22565,7 +22711,7 @@
    "original_language": "en",
    "original_title": "The Aeronauts",
    "overview": "Лондон. 1862 год. Она — очаровательная богатая молодая женщина, увлеченная управлением воздушных шаров. Он — исследователь метеоролог, готовый на все, чтобы совершить научный прорыв. Самой судьбой им было предназначено взлететь выше, чем кто-либо в истории. Вдвоем они отправятся в отчаянное путешествие на аэростате, через бури и грозы на край неизведанного мира, где воздух разряжен, а шансы на выживание невелики…",
-   "popularity": 14.822,
+   "popularity": 16.075,
    "poster_path": "http://image.tmdb.org/t/p/w500/xVokuND6RMIP50ALHUxwzONW9AK.jpg",
    "production_companies": [
     {
@@ -22868,7 +23014,7 @@
    "original_language": "sv",
    "original_title": "Koko-di Koko-da",
    "overview": "Молодая пара отправляется в путешествие по живописным местам. В лесу они встречают артистов цирка, которые устраивают им забавные игры, терроризируя супругов. Снова и снова они вынуждены проживать этот день, чтобы найти выход и разорвать порочный круг.",
-   "popularity": 3.124,
+   "popularity": 4.374,
    "poster_path": "http://image.tmdb.org/t/p/w500/dbepGfMVV8teOrQwnuGHq090hW.jpg",
    "production_companies": [
     {
@@ -23127,8 +23273,8 @@
      "source": "rutor.info",
      "size": "3.39 GB",
      "date": "2019-12-22T00:00:00+03:00",
-     "upload": 60,
-     "download": 0
+     "upload": 68,
+     "download": 4
     }
    ]
   },
@@ -23166,7 +23312,7 @@
    "original_language": "en",
    "original_title": "Kim Possible",
    "overview": "Ким совмещает школьную жизнь со шпионским делом.",
-   "popularity": 8.337,
+   "popularity": 8.001,
    "poster_path": "http://image.tmdb.org/t/p/w500/kzHFpgimHxWZtThGjzKpESw00ZW.jpg",
    "production_companies": [
     {
@@ -23275,8 +23421,8 @@
      "source": "rutor.info",
      "size": "6.61 GB",
      "date": "2019-12-21T00:00:00+03:00",
-     "upload": 34,
-     "download": 5
+     "upload": 35,
+     "download": 6
     },
     {
      "name": "Ким Пять-с-плюсом / Kim Possible (2019) WEB-DL 1080p | HDrezka Studio",
@@ -23284,7 +23430,7 @@
      "source": "rutor.info",
      "size": "6.50 GB",
      "date": "2019-03-13T00:00:00+03:00",
-     "upload": 2,
+     "upload": 3,
      "download": 0
     }
    ]
@@ -23324,7 +23470,7 @@
    "original_language": "en",
    "original_title": "Descendants 3",
    "overview": "Самая известная группа детей злодеев Диснея возвращается на Затерянный Остров, чтобы найти новых союзников и защитить свою школу.",
-   "popularity": 26.18,
+   "popularity": 26.379,
    "poster_path": "http://image.tmdb.org/t/p/w500/yjaZg6zgHRghOonyMBhUMCTz032.jpg",
    "production_companies": [
     {
@@ -23354,7 +23500,7 @@
    "title": "Наследники 3",
    "video": false,
    "vote_average": 7.8,
-   "vote_count": 494,
+   "vote_count": 496,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -23460,7 +23606,7 @@
    "original_language": "en",
    "original_title": "Paradise Hills",
    "overview": "Добро пожаловать в дивный новый мир. Здесь создан высокотехнологичный остров, имя которому «Райские холмы». Богатые семьи отправляют сюда «несовершенных» дочерей, чтобы преобразить их по своему подобию. Ведь если ты принадлежишь к высшему обществу, даже в далеком будущем брак по любви — непозволительная роскошь. Красота, покорность и непорочность — вот путь к новой жизни. И тебя ждет прекрасное будущее, но только если ты готова подчиняться правилам…",
-   "popularity": 17.829,
+   "popularity": 21.219,
    "poster_path": "http://image.tmdb.org/t/p/w500/pt1kTZ3BzgkDjFeTlymzgRk2MIr.jpg",
    "production_companies": [
     {
@@ -23644,8 +23790,8 @@
      "source": "rutor.info",
      "size": "8.13 GB",
      "date": "2019-12-21T00:00:00+03:00",
-     "upload": 42,
-     "download": 3
+     "upload": 46,
+     "download": 7
     },
     {
      "name": "Райские холмы / Paradise Hills (2019) BDRemux 1080p от селезень | iTunes",
@@ -23653,8 +23799,8 @@
      "source": "rutor.info",
      "size": "20.37 GB",
      "date": "2019-12-21T00:00:00+03:00",
-     "upload": 8,
-     "download": 2
+     "upload": 7,
+     "download": 4
     }
    ]
   },
@@ -23684,7 +23830,7 @@
    "original_language": "en",
    "original_title": "The Two Popes",
    "overview": "Фильм исследует отношения и противоположные взгляды двух наиболее влиятельных лидеров католической церкви, которые должны решить свои собственные проблемы и найти подход к современному миру, чтобы вновь сделать церковь популярной.",
-   "popularity": 26.623,
+   "popularity": 26.414,
    "poster_path": "http://image.tmdb.org/t/p/w500/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg",
    "production_companies": [
     {
@@ -23709,12 +23855,12 @@
      "name": "Deutsch"
     },
     {
-     "iso_639_1": "la",
-     "name": "Latin"
-    },
-    {
      "iso_639_1": "es",
      "name": "Español"
+    },
+    {
+     "iso_639_1": "fr",
+     "name": "Français"
     },
     {
      "iso_639_1": "en",
@@ -23725,12 +23871,12 @@
      "name": "Italiano"
     },
     {
-     "iso_639_1": "pt",
-     "name": "Português"
+     "iso_639_1": "la",
+     "name": "Latin"
     },
     {
-     "iso_639_1": "fr",
-     "name": "Français"
+     "iso_639_1": "pt",
+     "name": "Português"
     }
    ],
    "status": "Released",
@@ -23738,7 +23884,7 @@
    "title": "Два Папы",
    "video": false,
    "vote_average": 7.7,
-   "vote_count": 935,
+   "vote_count": 945,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -24026,7 +24172,7 @@
    "original_language": "en",
    "original_title": "The Fare",
    "overview": "Очаровавшая водителя такси пассажирка внезапно исчезает с заднего сидения автомобиля, не оставив ни следа. С этого момента герои оказываются в ловушке бесконечной поездки, которая изменит их жизни навсегда.",
-   "popularity": 2.247,
+   "popularity": 3.146,
    "poster_path": "http://image.tmdb.org/t/p/w500/3irjyxIHDefBzjOupOvsZnKv4CL.jpg",
    "production_companies": [
     {
@@ -24131,8 +24277,8 @@
      "source": "rutor.info",
      "size": "2.84 GB",
      "date": "2019-12-19T00:00:00+03:00",
-     "upload": 441,
-     "download": 32
+     "upload": 457,
+     "download": 24
     }
    ]
   },
@@ -24154,7 +24300,7 @@
    "original_language": "ru",
    "original_title": "Простой карандаш",
    "overview": "В размеренную жизнь провинциального городка врывается Антонина — гордая, красивая, смелая. Она художник-график из Санкт-Петербурга, а ее главное оружие — это простой карандаш и доброе сердце. Но русская глубинка может оказаться очень жестокой — и теперь либо она ее победит, либо наоборот.",
-   "popularity": 1.4,
+   "popularity": 0.84,
    "poster_path": "http://image.tmdb.org/t/p/w500/nFdIAxq3pab0sSdQOKBwpyi1U8Z.jpg",
    "production_companies": [
     {
@@ -24296,7 +24442,7 @@
    "original_language": "fr",
    "original_title": "Gueule d'ange",
    "overview": "Мать-одиночка Марлин живёт с 8-летней дочкой Элли в небольшом городке близ Лазурного Берега. Однажды она решает оставить ребенка ради мужчины, с которым познакомилась во время очередного загула по клубам. Теперь Элли должна вернуть себе мать и заставить её разобраться с собственными внутренними демонами.",
-   "popularity": 5.02,
+   "popularity": 5.131,
    "poster_path": "http://image.tmdb.org/t/p/w500/qT0qpxa17A9z96ppEmu4hC8IbJ.jpg",
    "production_companies": [
     {
@@ -24332,7 +24478,7 @@
    "title": "Ангельское личико",
    "video": false,
    "vote_average": 6.4,
-   "vote_count": 79,
+   "vote_count": 80,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -24428,8 +24574,8 @@
      "source": "rutor.info",
      "size": "27.76 GB",
      "date": "2019-12-18T00:00:00+03:00",
-     "upload": 1,
-     "download": 1
+     "upload": 2,
+     "download": 0
     },
     {
      "name": "Ангельское личико / Gueule d'ange (2018) BDRip 1080p от селезень | iTunes",
@@ -24437,7 +24583,7 @@
      "source": "rutor.info",
      "size": "10.44 GB",
      "date": "2019-12-18T00:00:00+03:00",
-     "upload": 10,
+     "upload": 9,
      "download": 1
     }
    ]
@@ -24464,7 +24610,7 @@
    "original_language": "en",
    "original_title": "Madness in the Method",
    "overview": "В альтернативной реальности кинозвезда Кевин Смит раскрывает своему приятелю Джейсону Мьюзу секрет успеха в Голливуде, чтобы тот избавился от вечного амплуа комедианта. Проблемы начинаются, когда Джейсон слишком рьяно следует его методике и начинает играть слишком хорошо, доводя себя до безумия.",
-   "popularity": 2.54,
+   "popularity": 3.556,
    "poster_path": "http://image.tmdb.org/t/p/w500/kvxwospLmJceWRxdbhSkcOamohS.jpg",
    "production_companies": [
     {
@@ -24600,7 +24746,7 @@
    "original_language": "ru",
    "original_title": "Текст",
    "overview": "Главный герой — 27-летний Илья Горюнов, семь лет отсидевший в тюрьме по ложному обвинению в распространении наркотиков. Когда Илья выходит на свободу, он понимает, что прежняя жизнь, по которой он тосковал, разрушена, и вернуться к ней он больше не сможет. Хотя он не собирался мстить человеку, который отправил его в тюрьму, другого выхода теперь нет. Встретившись лицом к лицу со своим обидчиком, Илья совершает необдуманный поступок, после которого главный герой получает доступ к смартфону Петра, а с ним и к жизни молодого человека — его фотографиям и видео, перепискам с родителями и девушкой Ниной, к странным, полным недомолвок и угроз переговорам с коллегами. На время Илья становится для всех Петром — через текст на экране телефона.",
-   "popularity": 3.077,
+   "popularity": 2.982,
    "poster_path": "http://image.tmdb.org/t/p/w500/eUHmJz3WLbSVLsHActZTWOhE2Uy.jpg",
    "production_companies": [
     {
@@ -24753,7 +24899,7 @@
    "original_language": "en",
    "original_title": "Abominable",
    "overview": "Путешествие на самую высокую точку мира? Что может быть круче! Так решает Лу, когда случайно находит огромное, но очень милое чудовище посреди шумного мегаполиса. Пусть их преследуют учёные из сверхсекретной лаборатории, зато её новый друг умеет смешить и творить чудеса. Лу уверена, что поможет дружелюбному йети вернуться домой — на Эверест.",
-   "popularity": 51.012,
+   "popularity": 62.785,
    "poster_path": "http://image.tmdb.org/t/p/w500/2tHCLXq7BbH2i9YjLNDMvohxpj3.jpg",
    "production_companies": [
     {
@@ -24799,7 +24945,7 @@
    "title": "Эверест",
    "video": false,
    "vote_average": 7,
-   "vote_count": 430,
+   "vote_count": 433,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -24850,23 +24996,23 @@
       ]
      },
      {
-      "iso_3166_1": "IE",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-10-11T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
       "iso_3166_1": "CZ",
       "release_dates": [
        {
         "certification": "",
         "iso_639_1": "",
         "release_date": "2019-10-24T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "IE",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-10-11T00:00:00Z",
         "type": 3
        }
       ]
@@ -25015,8 +25161,8 @@
       "iso_3166_1": "ES",
       "release_dates": [
        {
-        "certification": "",
-        "iso_639_1": "",
+        "certification": "APTA",
+        "iso_639_1": "es",
         "release_date": "2019-10-11T00:00:00Z",
         "type": 3
        },
@@ -25231,7 +25377,7 @@
    "original_language": "nn",
    "original_title": "Mordene i Kongo",
    "overview": "Сюжет фильма основан на реальных событиях. Весной 2009 года Френч и Моланд отправились в Конго. Это путешествие стало для них фатальным, явившись отправной точкой в цепочке необратимых событий. По пути они были арестованы властями по обвинению в убийстве своего водителя. Что же на самом деле случилось в тот роковой день, который изменил всю их жизнь? Были ли они обычными путешественниками или перед нами хладнокровные убийцы, которые связаны с большой шпионской игрой? Это предстоит выяснить следствию и вынести обвиняемым приговор…",
-   "popularity": 1.923,
+   "popularity": 2.692,
    "poster_path": "http://image.tmdb.org/t/p/w500/5YMbfsrwAy87SkP6LIQplB7Vyuk.jpg",
    "production_companies": [
     {
@@ -25368,8 +25514,8 @@
      "source": "rutor.info",
      "size": "9.08 GB",
      "date": "2019-12-17T00:00:00+03:00",
-     "upload": 23,
-     "download": 2
+     "upload": 16,
+     "download": 4
     }
    ]
   },
@@ -25412,7 +25558,7 @@
    "original_language": "en",
    "original_title": "Toy Story 4",
    "overview": "Космический рейнджер Баз Лайтер, ковбой Вуди, собака Спиралька, тиранозавр Рекс и вся команда игрушек снова вместе, и они как никогда готовы к приключениям. С тех пор как Энди поступил в колледж, игрушки поселились в доме своей новой хозяйки Бонни. В свой первый день в школе Бонни смастерила себе из отходов новую игрушку Вилкинса, что положит начало череде событий, в которой найдётся место и путешествиям с погонями, и знакомству с новыми игрушками, и встречам с некоторыми из старых друзей, и даже романтической истории.",
-   "popularity": 32.668,
+   "popularity": 35.879,
    "poster_path": "http://image.tmdb.org/t/p/w500/lQBF6jzW2gsk3Kr7dMdqrkGaukV.jpg",
    "production_companies": [
     {
@@ -25448,7 +25594,7 @@
    "title": "История игрушек 4",
    "video": false,
    "vote_average": 7.6,
-   "vote_count": 3570,
+   "vote_count": 3572,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -25922,7 +26068,7 @@
      "source": "rutor.info",
      "size": "5.76 GB",
      "date": "2019-12-16T00:00:00+03:00",
-     "upload": 122,
+     "upload": 142,
      "download": 10
     },
     {
@@ -25931,8 +26077,8 @@
      "source": "rutor.info",
      "size": "3.24 GB",
      "date": "2019-11-20T00:00:00+03:00",
-     "upload": 9,
-     "download": 1
+     "upload": 8,
+     "download": 2
     },
     {
      "name": "История игрушек 4 / Toy Story 4 (2019) BDRip 1080p от Scarabey | Лицензия",
@@ -25940,8 +26086,8 @@
      "source": "rutor.info",
      "size": "8.52 GB",
      "date": "2019-10-20T00:00:00+03:00",
-     "upload": 81,
-     "download": 6
+     "upload": 83,
+     "download": 4
     },
     {
      "name": "История игрушек 4 / Toy Story 4 (2019) BDRip 1080p от Ash61 | 3D-Video | halfOU | Лицензия",
@@ -25949,8 +26095,8 @@
      "source": "rutor.info",
      "size": "9.38 GB",
      "date": "2019-10-19T00:00:00+03:00",
-     "upload": 20,
-     "download": 2
+     "upload": 24,
+     "download": 3
     },
     {
      "name": "История игрушек 4 / Toy Story 4 (2019) BDRip 1080p | D, P | Лицензия",
@@ -25958,8 +26104,8 @@
      "source": "rutor.info",
      "size": "13.79 GB",
      "date": "2019-10-18T00:00:00+03:00",
-     "upload": 26,
-     "download": 1
+     "upload": 35,
+     "download": 0
     },
     {
      "name": "История игрушек 4 / Toy Story 4 (2019) UHD BDRemux 2160p от селезень | 4K | HDR | D, P | Лицензия",
@@ -25967,8 +26113,8 @@
      "source": "rutor.info",
      "size": "32.25 GB",
      "date": "2019-10-18T00:00:00+03:00",
-     "upload": 23,
-     "download": 2
+     "upload": 24,
+     "download": 1
     },
     {
      "name": "История игрушек 4 / Toy Story 4 (2019) BDRemux 1080p от селезень | D, P | 3D-Video | Лицензия",
@@ -25976,8 +26122,8 @@
      "source": "rutor.info",
      "size": "23.79 GB",
      "date": "2019-10-18T00:00:00+03:00",
-     "upload": 5,
-     "download": 2
+     "upload": 4,
+     "download": 0
     },
     {
      "name": "История игрушек 4 / Toy Story 4 (2019) BDRemux 1080p от селезень | D, P | Лицензия",
@@ -25985,7 +26131,7 @@
      "source": "rutor.info",
      "size": "19.89 GB",
      "date": "2019-10-18T00:00:00+03:00",
-     "upload": 21,
+     "upload": 22,
      "download": 1
     },
     {
@@ -25994,8 +26140,8 @@
      "source": "rutor.info",
      "size": "10.66 GB",
      "date": "2019-10-18T00:00:00+03:00",
-     "upload": 196,
-     "download": 14
+     "upload": 222,
+     "download": 17
     }
    ]
   },
@@ -26017,7 +26163,7 @@
    "original_language": "en",
    "original_title": "Marriage Story",
    "overview": "Сюжет фильма вращается вокруг распадающейся супружеской пары.",
-   "popularity": 34.738,
+   "popularity": 42.167,
    "poster_path": "http://image.tmdb.org/t/p/w500/bm6zKJjKYKrIy3dcnOLk0kF85cl.jpg",
    "production_companies": [
     {
@@ -26047,7 +26193,7 @@
    "title": "Брачная история",
    "video": false,
    "vote_average": 8,
-   "vote_count": 2149,
+   "vote_count": 2163,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -26327,7 +26473,7 @@
    "original_language": "en",
    "original_title": "Trouble",
    "overview": "Наследник миллионного состояния и кучки неблагодарных родственников, его псиятельство Принц вышел из зоны комфорта и оказался на улице. Теперь он мечтает вернуться домой. Для этого ему нужно найти новых друзей, избавиться от назойливых белок и сбросить с хвоста матерого охотника. Королевские каникулы начинаются.",
-   "popularity": 4.079,
+   "popularity": 5.368,
    "poster_path": "http://image.tmdb.org/t/p/w500/fpzzBYsuXa1AuHuiHx1Yax5hyHk.jpg",
    "production_companies": [
     {
@@ -26594,8 +26740,8 @@
      "source": "rutor.info",
      "size": "3.36 GB",
      "date": "2019-12-15T00:00:00+03:00",
-     "upload": 551,
-     "download": 63
+     "upload": 578,
+     "download": 73
     }
    ]
   },
@@ -26625,7 +26771,7 @@
    "original_language": "en",
    "original_title": "Hustlers",
    "overview": "Они — яркие, сексуальные и амбициозные. Они — танцовщицы элитного стриптиз-клуба, клиенты которого — известные финансисты с Уолл-Стрит. Но когда банковский кризис в одночасье превращает накопления девушек в пыль, они разрабатывают план по возврату потерянных денег, чтобы снова иметь возможность вести роскошную жизнь и заодно наказать финансистов, оставивших их без гроша.",
-   "popularity": 28.139,
+   "popularity": 27.447,
    "poster_path": "http://image.tmdb.org/t/p/w500/lqNfHZ1wlAwoIbvzsEF7My9v57V.jpg",
    "production_companies": [
     {
@@ -26681,7 +26827,7 @@
    "title": "Стриптизёрши",
    "video": false,
    "vote_average": 6.3,
-   "vote_count": 964,
+   "vote_count": 965,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -27074,7 +27220,7 @@
    "original_language": "en",
    "original_title": "Ad Astra",
    "overview": "Инженер армейского корпуса путешествует по Галактике в поисках отца, который отправился на поиски внеземной цивилизации 20 лет назад и исчез.",
-   "popularity": 332.845,
+   "popularity": 455.208,
    "poster_path": "http://image.tmdb.org/t/p/w500/dcbPgUymJt6tbUbs7U6L2Jc0wXD.jpg",
    "production_companies": [
     {
@@ -27152,7 +27298,7 @@
    "title": "К звёздам",
    "video": false,
    "vote_average": 6,
-   "vote_count": 2154,
+   "vote_count": 2166,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -27755,7 +27901,7 @@
    "original_language": "ru",
    "original_title": "Робо",
    "overview": "12-летний Митя Привалов мечтает рисовать комиксы о супергероях. Но родители мальчика, инженеры-робототехники, хотят, чтобы он пошел по их стопам. Понимание и поддержку Митя находит там, где не ждал: у созданного родителями робота-спасателя А-112 или просто Робо. Их ждут невероятные приключения, в ходе которых Митя научит нового друга верить в себя и свои мечты, а Робо станет для мальчика примером мужества и ответственности.",
-   "popularity": 0.615,
+   "popularity": 1.315,
    "poster_path": "http://image.tmdb.org/t/p/w500/zFS9rYCgar7oymgIxFuF1dc0h5o.jpg",
    "production_companies": [
     {
@@ -27936,7 +28082,7 @@
    "original_language": "en",
    "original_title": "In a Relationship",
    "overview": "Оуэн и Хэлли очень давно в отношениях, из которых со временем исчезла романтика и спонтанность. Они устали друг от друга и от рутины, в которую превратилась их любовь. Тем временем на глазах пары развивается яркий роман между лучшим другом Оэуна Мэттом и кузиной Хэлли Уиллой. Глядя на то, как Мэтт и Уилла радуются каждой встрече друг с другом, Хэлли и Оуэн решают изменить что-нибудь в своих отношениях. И внезапно расстаются.",
-   "popularity": 4.227,
+   "popularity": 4.883,
    "poster_path": "http://image.tmdb.org/t/p/w500/vrPPQzm4HTZKKcQ3zuljDSfUdQX.jpg",
    "production_companies": [
     {
@@ -28051,8 +28197,8 @@
      "source": "rutor.info",
      "size": "6.65 GB",
      "date": "2019-12-12T00:00:00+03:00",
-     "upload": 19,
-     "download": 5
+     "upload": 17,
+     "download": 4
     }
    ]
   },
@@ -28086,7 +28232,7 @@
    "original_language": "en",
    "original_title": "The Room",
    "overview": "Влюбленная пара решает переехать в уединенный особняк. Занимаясь ремонтом старинного дома, они обнаруживают замурованную комнату, исполняющую любое их желание. Миллионы долларов, подлинник Ван Гога и самые роскошные наряды — чего бы они ни захотели, моментально материализуется. Однако, наигравшись вдоволь, молодая женщина осмеливается пожелать себе долгожданного ребенка, даже не подозревая, какую сделку совершает…",
-   "popularity": 5.86,
+   "popularity": 8.204,
    "poster_path": "http://image.tmdb.org/t/p/w500/de2V6MaJzGRclg1pQaSG2v3i0yW.jpg",
    "production_companies": [
     {
@@ -28303,7 +28449,7 @@
    "original_language": "en",
    "original_title": "A Dog's Journey",
    "overview": "Старый пес Бадди прожил несколько жизней, прежде чем воссоединиться со своим первым хозяином. Но на этом цепь его перерождений не оборвалась. Он возвращается в теле щенка, получает кличку Молли и выполняет новую миссию – принести счастье проблемной девочке-подростку СиДжей.",
-   "popularity": 11.21,
+   "popularity": 12.947,
    "poster_path": "http://image.tmdb.org/t/p/w500/nTIYb1c3JcqFRo9V1RIzflsJTmj.jpg",
    "production_companies": [
     {
@@ -28696,8 +28842,8 @@
      "source": "rutor.info",
      "size": "5.90 GB",
      "date": "2019-12-11T00:00:00+03:00",
-     "upload": 37,
-     "download": 4
+     "upload": 50,
+     "download": 3
     },
     {
      "name": "Собачья жизнь 2 / A Dog's Journey (2019) BDRemux 1080p от селезень | Лицензия",
@@ -28706,7 +28852,7 @@
      "size": "28.76 GB",
      "date": "2019-12-10T00:00:00+03:00",
      "upload": 6,
-     "download": 1
+     "download": 2
     },
     {
      "name": "Собачья жизнь 2 / A Dog's Journey (2019) BDRip 1080p от селезень | Лицензия",
@@ -28714,7 +28860,7 @@
      "source": "rutor.info",
      "size": "12.14 GB",
      "date": "2019-12-10T00:00:00+03:00",
-     "upload": 69,
+     "upload": 76,
      "download": 11
     }
    ]
@@ -28745,7 +28891,7 @@
    "original_language": "en",
    "original_title": "Dora and the Lost City of Gold",
    "overview": "Практически всё детство Дора провела в джунглях, где работали её родители-исследователи. Но никакие прежние приключения не могли подготовить девушку к опасностям старшей школы — непониманию, соперничеству, зависти. Вдобавок таинственным образом исчезают родители Доры. Но она не была бы собой, если бы опустила руки. Первая любовь, а также старые и новые друзья вдохновляют смелую девушку отправиться на поиски родных. На пути к цели их ждёт масса испытаний, а также леденящая кровь загадка потерянной цивилизации…",
-   "popularity": 19.881,
+   "popularity": 23.333,
    "poster_path": "http://image.tmdb.org/t/p/w500/qVUKgIkVagwdZ8LhVpWXfRXWm4r.jpg",
    "production_companies": [
     {
@@ -29211,7 +29357,7 @@
    "original_language": "en",
    "original_title": "Official Secrets",
    "overview": "Шпионка британской разведки Кэтрин Ган обнародует засекреченное электронное письмо, в котором изобличаются американское и британское правительства в их незаконном вторжении в Ирак. Кэтрин и её адвокаты пытаются оправдать её действия в суде — ей вменяют нарушение Закона о государственной тайне. Под угрозой её жизнь, свобода и брак, но ей необходимо отстоять свои убеждения…",
-   "popularity": 22.348,
+   "popularity": 22.918,
    "poster_path": "http://image.tmdb.org/t/p/w500/2gb3jPcIyzoUWfT6isGLjQwTAaH.jpg",
    "production_companies": [
     {
@@ -29481,8 +29627,8 @@
      "source": "rutor.info",
      "size": "3.35 GB",
      "date": "2019-12-10T00:00:00+03:00",
-     "upload": 60,
-     "download": 8
+     "upload": 52,
+     "download": 5
     },
     {
      "name": "Опасные секреты / Official Secrets (2019) WEB-DL 1080p от селезень | iTunes",
@@ -29490,7 +29636,7 @@
      "source": "rutor.info",
      "size": "4.19 GB",
      "date": "2019-12-04T00:00:00+03:00",
-     "upload": 422,
+     "upload": 524,
      "download": 15
     }
    ]
@@ -29513,7 +29659,7 @@
    "original_language": "en",
    "original_title": "A Christmas Prince: The Royal Baby",
    "overview": "Рождество несет особый подарок для королевства Алдовии — наследника. Но сперва королева Амбер должна помочь своей семье найти пропавший мирный договор.",
-   "popularity": 12.241,
+   "popularity": 14.344,
    "poster_path": "http://image.tmdb.org/t/p/w500/8NF0YG30eCDQJ5bRTNauF48C9Bu.jpg",
    "production_companies": [
     {
@@ -29677,7 +29823,7 @@
    "original_language": "en",
    "original_title": "In the Tall Grass",
    "overview": "Сестра и брат услышали детский плач, доносящийся из высокой травы, и отправились на поиски ребенка. Однако уже скоро они понимают, что выхода из зарослей может не быть…",
-   "popularity": 12.858,
+   "popularity": 14.213,
    "poster_path": "http://image.tmdb.org/t/p/w500/1RxhzwFkAUqMt215Brb06u8P8pn.jpg",
    "production_companies": [
     {
@@ -29717,7 +29863,7 @@
    "title": "В высокой траве",
    "video": false,
    "vote_average": 5.4,
-   "vote_count": 784,
+   "vote_count": 788,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -29925,7 +30071,7 @@
    "original_language": "en",
    "original_title": "Freaks",
    "overview": "В уединенном домике одного из районов Лос-Анджелеса живут маленькая девочка и ее заботливый отец. Вполне нормальная семья, если не считать, что девочка одним взглядом может поднять в воздух тяжеленный шкаф, а у отца всегда наготове снятый с предохранителя пистолет. Каждый день, уходя из дома, папа запирает дочь, и категорически запрещает открывать дверь. Ей нельзя ни с кем разговаривать и не позволено даже подходить к окну. Единственное развлечение девочки: тайком наблюдать из-за занавесок за фургончиком мороженщика, который целыми днями торчит возле их дома. Играет музыка и таинственной голос призывает её отпереть дверь и полакомиться сладеньким. Малышке так хочется мороженого, но ведь папа сказал, что это смертельно опасно: никто не должен её видеть! И вот однажды девочка нарушает запрет, и начинаются самые невероятные события, которые только можно представить.",
-   "popularity": 32.721,
+   "popularity": 35.935,
    "poster_path": "http://image.tmdb.org/t/p/w500/ht3KhTLL7Zps1XGbPxmcKMeMMAy.jpg",
    "production_companies": [
     {
@@ -30114,8 +30260,8 @@
      "source": "rutor.info",
      "size": "6.90 GB",
      "date": "2019-12-08T00:00:00+03:00",
-     "upload": 82,
-     "download": 7
+     "upload": 96,
+     "download": 5
     },
     {
      "name": "Иные / Freaks (2018) BDRip 1080p от селезень | iTunes",
@@ -30123,8 +30269,8 @@
      "source": "rutor.info",
      "size": "7.25 GB",
      "date": "2019-12-04T00:00:00+03:00",
-     "upload": 119,
-     "download": 10
+     "upload": 141,
+     "download": 16
     },
     {
      "name": "Иные / Freaks (2018) BDRemux 1080p от селезень | iTunes",
@@ -30132,7 +30278,7 @@
      "source": "rutor.info",
      "size": "15.23 GB",
      "date": "2019-12-04T00:00:00+03:00",
-     "upload": 39,
+     "upload": 54,
      "download": 3
     }
    ]
@@ -30167,7 +30313,7 @@
    "original_language": "en",
    "original_title": "Earthquake Bird",
    "overview": "Токио 1980-х, загадочная эмигрантка подозревается в убийстве своей подруги, которая пропала без вести после того, как между ними и местным фотографом образовался любовный треугольник.",
-   "popularity": 14.151,
+   "popularity": 14.568,
    "poster_path": "http://image.tmdb.org/t/p/w500/oyKnosHXQ7kkhlGwqsWOvn4RgKR.jpg",
    "production_companies": [
     {
@@ -30466,7 +30612,7 @@
    "title": "Человек-паук: Вдали от дома",
    "video": false,
    "vote_average": 7.6,
-   "vote_count": 5866,
+   "vote_count": 5872,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -30934,7 +31080,7 @@
      "size": "7.75 GB",
      "date": "2019-12-08T00:00:00+03:00",
      "upload": 76,
-     "download": 7
+     "download": 8
     },
     {
      "name": "Человек-паук: Вдали от дома / Spider-Man: Far from Home (2019) UHD BDRip-HEVC 1080p от Scarabey | Лицензия",
@@ -30942,8 +31088,8 @@
      "source": "rutor.info",
      "size": "12.04 GB",
      "date": "2019-10-24T00:00:00+03:00",
-     "upload": 44,
-     "download": 2
+     "upload": 46,
+     "download": 6
     },
     {
      "name": "Человек-паук: Вдали от дома / Spider-Man: Far from Home (2019) BDRip 1080p от Ash61 | 3D-Video | halfOU | Лицензия",
@@ -30951,8 +31097,8 @@
      "source": "rutor.info",
      "size": "10.54 GB",
      "date": "2019-10-23T00:00:00+03:00",
-     "upload": 36,
-     "download": 2
+     "upload": 35,
+     "download": 0
     },
     {
      "name": "Человек-паук: Вдали от дома / Spider-Man: Far from Home (2019) BDRemux 1080p от селезень | 3D-Video | Лицензия",
@@ -30960,7 +31106,7 @@
      "source": "rutor.info",
      "size": "36.13 GB",
      "date": "2019-10-23T00:00:00+03:00",
-     "upload": 4,
+     "upload": 3,
      "download": 2
     },
     {
@@ -30969,8 +31115,8 @@
      "source": "rutor.info",
      "size": "6.09 GB",
      "date": "2019-10-23T00:00:00+03:00",
-     "upload": 39,
-     "download": 3
+     "upload": 54,
+     "download": 7
     },
     {
      "name": "Человек-паук: Вдали от дома / Spider-Man: Far from Home (2019) UHD BDRemux 2160p от селезень | 4K | HDR | D, P | Лицензия",
@@ -30979,7 +31125,7 @@
      "size": "52.82 GB",
      "date": "2019-10-23T00:00:00+03:00",
      "upload": 15,
-     "download": 3
+     "download": 5
     },
     {
      "name": "Человек-паук: Вдали от дома / Spider-Man: Far from Home (2019) BDRip 1080p от селезень | D, P | Лицензия",
@@ -30987,8 +31133,8 @@
      "source": "rutor.info",
      "size": "8.25 GB",
      "date": "2019-10-23T00:00:00+03:00",
-     "upload": 241,
-     "download": 13
+     "upload": 250,
+     "download": 14
     },
     {
      "name": "Человек-паук: Вдали от дома / Spider-Man: Far from Home (2019) BDRemux 1080p от селезень | D, P | Лицензия",
@@ -30996,8 +31142,8 @@
      "source": "rutor.info",
      "size": "25.77 GB",
      "date": "2019-10-23T00:00:00+03:00",
-     "upload": 13,
-     "download": 3
+     "upload": 16,
+     "download": 5
     },
     {
      "name": "Человек-паук: Вдали от дома / Spider-Man: Far from Home (2019) UHD BDRemux 2160p от ExKinoRay | HDR | Dolby Vision | iTunes",
@@ -31005,7 +31151,7 @@
      "source": "rutor.info",
      "size": "57.85 GB",
      "date": "2019-09-26T00:00:00+03:00",
-     "upload": 7,
+     "upload": 5,
      "download": 0
     },
     {
@@ -31014,7 +31160,7 @@
      "source": "rutor.info",
      "size": "22.61 GB",
      "date": "2019-09-20T00:00:00+03:00",
-     "upload": 10,
+     "upload": 12,
      "download": 1
     },
     {
@@ -31023,7 +31169,7 @@
      "source": "rutor.info",
      "size": "52.09 GB",
      "date": "2019-09-20T00:00:00+03:00",
-     "upload": 19,
+     "upload": 9,
      "download": 1
     },
     {
@@ -31032,8 +31178,8 @@
      "source": "rutor.info",
      "size": "22.75 GB",
      "date": "2019-09-17T00:00:00+03:00",
-     "upload": 19,
-     "download": 3
+     "upload": 20,
+     "download": 4
     }
    ]
   },
@@ -31059,7 +31205,7 @@
    "original_language": "en",
    "original_title": "The Art of Self-Defense",
    "overview": "Пытаясь совладать с собственными страхами зажатый бухгалтер Кейси записывается на курсы карате. В итоге юноша попадает в странный мир насилия и гипермаскулинности, где стандартные правила мужественности возведены в абсолют.",
-   "popularity": 10.685,
+   "popularity": 14.491,
    "poster_path": "http://image.tmdb.org/t/p/w500/8Dq9R6qnh27NiP1sElM1zk0fHR0.jpg",
    "production_companies": [
     {
@@ -31256,8 +31402,8 @@
      "source": "rutor.info",
      "size": "26.93 GB",
      "date": "2019-12-07T00:00:00+03:00",
-     "upload": 13,
-     "download": 3
+     "upload": 12,
+     "download": 2
     },
     {
      "name": "Искусство самообороны / The Art of Self-Defense (2019) BDRip 1080p от селезень | iTunes",
@@ -31265,8 +31411,8 @@
      "source": "rutor.info",
      "size": "14.13 GB",
      "date": "2019-12-07T00:00:00+03:00",
-     "upload": 82,
-     "download": 7
+     "upload": 92,
+     "download": 9
     }
    ]
   },
@@ -31300,7 +31446,7 @@
    "original_language": "en",
    "original_title": "Crawl",
    "overview": "Во время урагана 5-й категории молодая американка Хейли Келлер пытается спасти своего отца, но сама оказывается в ловушке затопленного дома. Она вступает в борьбу за жизнь со стихией и с самыми опасными хищниками Флориды – аллигаторами.",
-   "popularity": 17.645,
+   "popularity": 18.234,
    "poster_path": "http://image.tmdb.org/t/p/w500/5JeV4OKJOonPOm35IJkUDsGK4pC.jpg",
    "production_companies": [
     {
@@ -31713,8 +31859,8 @@
      "source": "rutor.info",
      "size": "24.06 GB",
      "date": "2019-12-07T00:00:00+03:00",
-     "upload": 11,
-     "download": 3
+     "upload": 20,
+     "download": 0
     },
     {
      "name": "Капкан / Crawl (2019) BDRip-HEVC 1080p от HEVC-CLUB | Лицензия",
@@ -31722,8 +31868,8 @@
      "source": "rutor.info",
      "size": "6.07 GB",
      "date": "2019-11-21T00:00:00+03:00",
-     "upload": 83,
-     "download": 4
+     "upload": 121,
+     "download": 2
     },
     {
      "name": "Капкан / Crawl (2019) BDRip 1080p от k.e.n \u0026 MegaPeer | Лицензия",
@@ -31731,8 +31877,8 @@
      "source": "rutor.info",
      "size": "7.76 GB",
      "date": "2019-11-15T00:00:00+03:00",
-     "upload": 56,
-     "download": 0
+     "upload": 51,
+     "download": 1
     },
     {
      "name": "Капкан / Crawl (2019) BDRemux 1080p от селезень | Лицензия",
@@ -31740,8 +31886,8 @@
      "source": "rutor.info",
      "size": "21.08 GB",
      "date": "2019-11-14T00:00:00+03:00",
-     "upload": 22,
-     "download": 1
+     "upload": 21,
+     "download": 0
     },
     {
      "name": "Капкан / Crawl (2019) BDRip 1080p от селезень | Лицензия",
@@ -31749,8 +31895,8 @@
      "source": "rutor.info",
      "size": "9.63 GB",
      "date": "2019-11-14T00:00:00+03:00",
-     "upload": 239,
-     "download": 14
+     "upload": 265,
+     "download": 23
     },
     {
      "name": "Капкан / Crawl (2019) BDRip 1080p от k.e.n \u0026 MegaPeer | L1",
@@ -31758,8 +31904,8 @@
      "source": "rutor.info",
      "size": "7.52 GB",
      "date": "2019-11-10T00:00:00+03:00",
-     "upload": 9,
-     "download": 2
+     "upload": 6,
+     "download": 3
     },
     {
      "name": "Капкан / Crawl (2019) BDRip 1080p | L1",
@@ -31767,8 +31913,8 @@
      "source": "rutor.info",
      "size": "10.41 GB",
      "date": "2019-10-24T00:00:00+03:00",
-     "upload": 54,
-     "download": 2
+     "upload": 46,
+     "download": 1
     }
    ]
   },
@@ -31798,7 +31944,7 @@
    "original_language": "en",
    "original_title": "Lucky Day",
    "overview": "В первый же день после освобождения из тюрьмы взломщик сейфов Ред и его подруга становятся мишенью киллера. Сея вокруг себя хаос, киллер шутит с акцентом, что мстит за убитую собаку. Не спеша уничтожать жертву, он явно ведет свою игру, истинной целью которой может быть вовсе не Ред.",
-   "popularity": 5.685,
+   "popularity": 6.645,
    "poster_path": "http://image.tmdb.org/t/p/w500/t8pDzAyxHA4PRSvRTnJVTfJBR8A.jpg",
    "production_companies": [
     {
@@ -31945,7 +32091,7 @@
    "original_language": "fr",
    "original_title": "Sibyl",
    "overview": "Сибил — опытная и успешная женщина-психотерапевт, желающая отказаться от практики, чтобы воплотить давнее желание написать книгу. В тот момент, когда ей будет так нужно вдохновение, рядом окажется юная актриса Марго, ищущая помощи и поддержки. Сибил, очарованная новой пациенткой, будет всё глубже погружаться в чужую историю, не замечая, как её собственная жизнь перевернётся с ног на голову.",
-   "popularity": 7.307,
+   "popularity": 7.317,
    "poster_path": "http://image.tmdb.org/t/p/w500/e0kIARoSVesM3H9ytWGP22gvyQi.jpg",
    "production_companies": [
     {
@@ -31991,7 +32137,7 @@
    "title": "Соблазн",
    "video": false,
    "vote_average": 6,
-   "vote_count": 111,
+   "vote_count": 112,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -32156,8 +32302,8 @@
      "source": "rutor.info",
      "size": "28.01 GB",
      "date": "2019-12-07T00:00:00+03:00",
-     "upload": 3,
-     "download": 2
+     "upload": 5,
+     "download": 1
     },
     {
      "name": "Соблазн / Sibyl (2019) WEB-DL 1080p | P | iTunes",
@@ -32165,7 +32311,7 @@
      "source": "rutor.info",
      "size": "3.61 GB",
      "date": "2019-09-27T00:00:00+03:00",
-     "upload": 53,
+     "upload": 62,
      "download": 2
     }
    ]
@@ -32204,7 +32350,7 @@
    "original_language": "en",
    "original_title": "I See You",
    "overview": "В идиллически тихом и спокойном городке бесследно пропадает двенадцатилетний мальчик. За расследование берется детектив, который переживает раскол в семье, узнав о недавней измене своей жены. Тем временем смертельная угроза подбирается уже к его собственному дому…",
-   "popularity": 5.095,
+   "popularity": 6.72,
    "poster_path": "http://image.tmdb.org/t/p/w500/2BcgsxyHaJM4ndjSf0h5oyN9DtB.jpg",
    "production_companies": [],
    "production_countries": [
@@ -32340,8 +32486,8 @@
      "source": "rutor.info",
      "size": "4.99 GB",
      "date": "2019-12-06T00:00:00+03:00",
-     "upload": 410,
-     "download": 19
+     "upload": 446,
+     "download": 32
     },
     {
      "name": "В тихом омуте / I See You (2019) WEB-DL 1080p | D | iTunes",
@@ -32349,8 +32495,8 @@
      "source": "rutor.info",
      "size": "3.43 GB",
      "date": "2019-12-06T00:00:00+03:00",
-     "upload": 29,
-     "download": 4
+     "upload": 32,
+     "download": 3
     }
    ]
   },
@@ -32380,7 +32526,7 @@
    "original_language": "en",
    "original_title": "The Peanut Butter Falcon",
    "overview": "Большое путешествие начинается с шага, а легендарное — с полета. Вылетев в окно, герой очутился в мире, где чего-то не хватало. Его новому другу — крупной суммы денег. Паре головорезов — головы друга. Молодой медсестре — любви. А ему — путешествий на плоту, погонь, пылающих костров и немного арахисового масла.",
-   "popularity": 14.324,
+   "popularity": 14.901,
    "poster_path": "http://image.tmdb.org/t/p/w500/jtJiAHfewylsjw58y4PHrbCkeCb.jpg",
    "production_companies": [
     {
@@ -32428,7 +32574,7 @@
    "title": "Арахисовый сокол",
    "video": false,
    "vote_average": 7.4,
-   "vote_count": 213,
+   "vote_count": 214,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -32637,8 +32783,8 @@
      "source": "rutor.info",
      "size": "18.31 GB",
      "date": "2019-12-04T00:00:00+03:00",
-     "upload": 86,
-     "download": 11
+     "upload": 89,
+     "download": 8
     },
     {
      "name": "Арахисовый сокол / The Peanut Butter Falcon (2019) BDRip 1080p от селезень | iTunes",
@@ -32646,8 +32792,8 @@
      "source": "rutor.info",
      "size": "9.49 GB",
      "date": "2019-12-04T00:00:00+03:00",
-     "upload": 448,
-     "download": 35
+     "upload": 501,
+     "download": 48
     },
     {
      "name": "Арахисовый сокол / The Peanut Butter Falcon (2019) BDRemux 1080p | A",
@@ -32655,7 +32801,7 @@
      "source": "rutor.info",
      "size": "19.38 GB",
      "date": "2019-11-27T00:00:00+03:00",
-     "upload": 14,
+     "upload": 17,
      "download": 5
     },
     {
@@ -32664,8 +32810,8 @@
      "source": "rutor.info",
      "size": "8.98 GB",
      "date": "2019-11-02T00:00:00+03:00",
-     "upload": 125,
-     "download": 3
+     "upload": 138,
+     "download": 2
     }
    ]
   },
@@ -32687,7 +32833,7 @@
    "original_language": "fr",
    "original_title": "Le Gendre de ma vie",
    "overview": "Когда дома и на работе тебя окружают одни женщины, а их проблемы становятся тебе ближе, чем мужские, то ты пытаешься скрыться от всего этого безумия в своём раритетном кабриолете. И всё о чём мечтаешь — это зять. Суперзять! И вот в один прекрасный момент кажется, что небеса услышали тебя, ведь твоя дочь начинает встречаться с красивым и успешным спортсменом! Пока вдруг не выясняется, что что-то пошло не так…",
-   "popularity": 4.491,
+   "popularity": 4.417,
    "poster_path": "http://image.tmdb.org/t/p/w500/tQSSFpscwn9joJeUgm3fNjhcISj.jpg",
    "production_companies": [
     {
@@ -32797,8 +32943,8 @@
      "source": "rutor.info",
      "size": "7.14 GB",
      "date": "2019-12-03T00:00:00+03:00",
-     "upload": 26,
-     "download": 0
+     "upload": 22,
+     "download": 4
     }
    ]
   },
@@ -32824,7 +32970,7 @@
    "original_language": "uk",
    "original_title": "Заборонений",
    "overview": "",
-   "popularity": 2.229,
+   "popularity": 2.264,
    "poster_path": "http://image.tmdb.org/t/p/w500/tLi4jDaELIODQGE57eNGQXZOp78.jpg",
    "production_companies": [],
    "production_countries": [
@@ -32919,7 +33065,7 @@
    "original_language": "en",
    "original_title": "Them That Follow",
    "overview": "В глубине Аппалачей запрещенные отношения заставляют дочь пастора противостоять смертельной традиции ее общины.",
-   "popularity": 4.472,
+   "popularity": 5.439,
    "poster_path": "http://image.tmdb.org/t/p/w500/cdzEOpe6lnM78R5n7gII0aCc5mG.jpg",
    "production_companies": [
     {
@@ -33035,8 +33181,8 @@
      "source": "rutor.info",
      "size": "6.77 GB",
      "date": "2019-12-01T00:00:00+03:00",
-     "upload": 19,
-     "download": 1
+     "upload": 20,
+     "download": 4
     }
    ]
   },
@@ -33070,7 +33216,7 @@
    "original_language": "en",
    "original_title": "Ready or Not",
    "overview": "Юная невеста — теперь часть семьи своего новоиспеченного мужа, богатого, но эксцентричного рода, чтящего вековые традиции. Но кто бы мог подумать, что знакомство с родителями супруга превратится в смертельную игру, в которой все борются не на жизнь, а на смерть.",
-   "popularity": 26.237,
+   "popularity": 33.645,
    "poster_path": "http://image.tmdb.org/t/p/w500/jPGy3buduikigoc7UJFPRbWhL1b.jpg",
    "production_companies": [
     {
@@ -33112,7 +33258,7 @@
    "title": "Я иду искать",
    "video": false,
    "vote_average": 6.8,
-   "vote_count": 915,
+   "vote_count": 919,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -33501,7 +33647,7 @@
    "original_language": "fr",
    "original_title": "Ibiza",
    "overview": "Как завоевать сердце новой подруги? Стать лучшим другом ее детей! Совместная поездка на курорт — отличное решение. Только если это… не Ибица!",
-   "popularity": 6.618,
+   "popularity": 6.217,
    "poster_path": "http://image.tmdb.org/t/p/w500/sJz9tnIexDgSm4fN4GQrZ5HIbrN.jpg",
    "production_companies": [
     {
@@ -33706,8 +33852,8 @@
      "source": "rutor.info",
      "size": "7.68 GB",
      "date": "2019-11-30T00:00:00+03:00",
-     "upload": 40,
-     "download": 0
+     "upload": 45,
+     "download": 4
     },
     {
      "name": "Ибица / Ibiza (2019) BDRemux 1080p от селезень | iTunes",
@@ -33715,8 +33861,8 @@
      "source": "rutor.info",
      "size": "21.02 GB",
      "date": "2019-11-30T00:00:00+03:00",
-     "upload": 8,
-     "download": 1
+     "upload": 9,
+     "download": 4
     }
    ]
   },
@@ -33800,7 +33946,7 @@
    "title": "Ирландец",
    "video": false,
    "vote_average": 7.8,
-   "vote_count": 2373,
+   "vote_count": 2381,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -34268,7 +34414,7 @@
    "original_language": "en",
    "original_title": "A Guide to Second Date Sex",
    "overview": "Лора и Райан прекрасно подходят друг другу. Они любят Мэрил Стрип, оба были буквально уничтожены предыдущими отношениями, а еще они даже не догадываются, что их ждет этой ночью. Каждый из них понимает, что они обязаны притвориться совершенно другими людьми, чтобы в этот раз у них вместе все сложилось.",
-   "popularity": 5.427,
+   "popularity": 7.598,
    "poster_path": "http://image.tmdb.org/t/p/w500/wl2FnHVI8dppFdLB8vRQ2RdxmV3.jpg",
    "production_companies": [],
    "production_countries": [
@@ -34399,7 +34545,7 @@
    "original_language": "fr",
    "original_title": "Celle que vous croyez",
    "overview": "Несколько лет назад Клэр тяжело пережила измену мужа и развод. Постепенно ее жизнь наладилась: она преподает в университете, воспитывает двух мальчиков и встречается с молодым любовником. Но однажды тот, высмеяв ее чувства, исчезает. Мир Клэр рассыпается на осколки. Желание спастись от отчаяния — это прямая дорога к психоаналитику или… создание фальшивого профиля в фейсбуке. Здесь она предстает 24-летней сексуальной красавицей Кларой. И очень скоро у нее завязываются виртуальные отношения с молодым фотографом Алексом. Кокетливый трёп перерастает во взаимную привязанность, а потом и в настоящую страсть…",
-   "popularity": 7.036,
+   "popularity": 9.437,
    "poster_path": "http://image.tmdb.org/t/p/w500/mtVWrRae2FC1HUbPnSgtyKpDcJY.jpg",
    "production_companies": [
     {
@@ -34618,8 +34764,8 @@
      "source": "rutor.info",
      "size": "9.95 GB",
      "date": "2019-10-20T00:00:00+03:00",
-     "upload": 20,
-     "download": 0
+     "upload": 19,
+     "download": 2
     },
     {
      "name": "Та, которой не было / Celle que vous croyez (2019) WEB-DL 1080p | FocusStudio",
@@ -34627,8 +34773,8 @@
      "source": "rutor.info",
      "size": "3.68 GB",
      "date": "2019-09-19T00:00:00+03:00",
-     "upload": 37,
-     "download": 2
+     "upload": 34,
+     "download": 1
     }
    ]
   },
@@ -34658,7 +34804,7 @@
    "original_language": "en",
    "original_title": "Prey",
    "overview": "Трудного подростка отправляют на перевоспитание на безлюдный заброшенный остров по популярной «программе выживания в экстремальных условиях». Но вскоре парень понимает, что на острове он далеко не один…",
-   "popularity": 4.201,
+   "popularity": 5.54,
    "poster_path": "http://image.tmdb.org/t/p/w500/wRHy4EyUmlb7q2XJnZbNivm5MK1.jpg",
    "production_companies": [
     {
@@ -34798,8 +34944,8 @@
      "source": "rutor.info",
      "size": "5.14 GB",
      "date": "2019-11-25T00:00:00+03:00",
-     "upload": 96,
-     "download": 7
+     "upload": 104,
+     "download": 13
     },
     {
      "name": "Добыча / Prey (2019) WEB-DL 1080p | L1",
@@ -34807,8 +34953,8 @@
      "source": "rutor.info",
      "size": "5.06 GB",
      "date": "2019-11-02T00:00:00+03:00",
-     "upload": 29,
-     "download": 0
+     "upload": 26,
+     "download": 1
     }
    ]
   },
@@ -34830,7 +34976,7 @@
    "original_language": "ru",
    "original_title": "Девушки бывают разные",
    "overview": "Это история о трёх друзьях, решивших покататься на серфе в Мексике. Все как полагается: океан, девушки и золотой песок. История не предвещает неожиданностей. Но не для наших героев, которые первым делом как следует отметили свой приезд. С трудом проснувшись наутро, парни обнаруживают себя посреди пляжа, они в замешательстве — не помнят, что же произошло накануне. Но вскоре появляются люди, которые освежают им память: оказывается, прошлой ночью парни страшно навредили международному криминальному авторитету Хуану, который по какой-то причине хочет их убить. Скрываясь от преследования, без денег и документов, они находят спасение — переодеваются в девушек и участвуют в женском турнире по сёрфингу. Победа поможет выиграть сто тысяч долларов и выбраться из страны. Но они еще не знают, что их неидеальному плану помешают любовь, секретные спецслужбы, мафия и даже бойцовые петухи.",
-   "popularity": 2.367,
+   "popularity": 2.853,
    "poster_path": "http://image.tmdb.org/t/p/w500/9vC7OsWEIvTlsWT0PjVdX1p7EIR.jpg",
    "production_companies": [
     {
@@ -34977,7 +35123,7 @@
    "original_language": "en",
    "original_title": "Berlin, I Love You",
    "overview": "Десять романтических историй, которые происходят в столице Германии, Берлине.",
-   "popularity": 3.994,
+   "popularity": 4.158,
    "poster_path": "http://image.tmdb.org/t/p/w500/mtB6wjhOFAzmsV3Md84pTAGE1FJ.jpg",
    "production_companies": [
     {
@@ -35154,7 +35300,7 @@
      "source": "rutor.info",
      "size": "9.89 GB",
      "date": "2019-11-21T00:00:00+03:00",
-     "upload": 11,
+     "upload": 9,
      "download": 0
     },
     {
@@ -35163,8 +35309,8 @@
      "source": "rutor.info",
      "size": "13.16 GB",
      "date": "2019-04-14T00:00:00+03:00",
-     "upload": 3,
-     "download": 0
+     "upload": 4,
+     "download": 1
     },
     {
      "name": "Берлин, я люблю тебя / Berlin, I Love You (2019) WEB-DL 1080p | HDRezka Studio",
@@ -35172,8 +35318,8 @@
      "source": "rutor.info",
      "size": "4.83 GB",
      "date": "2019-03-14T00:00:00+03:00",
-     "upload": 2,
-     "download": 1
+     "upload": 7,
+     "download": 0
     }
    ]
   },
@@ -35195,7 +35341,7 @@
    "original_language": "en",
    "original_title": "Троица",
    "overview": "Марго признается мужу Джорджу в измене со своим студентом Антоном. Любовный треугольник становится для всех ловушкой, спастись из которой можно лишь при помощи высших сил.",
-   "popularity": 2.719,
+   "popularity": 2.898,
    "poster_path": "http://image.tmdb.org/t/p/w500/lfBx2wwzG4UsQUznhccP8uKYe8N.jpg",
    "production_companies": [
     {
@@ -35346,7 +35492,7 @@
    "original_language": "en",
    "original_title": "The Angry Birds Movie 2",
    "overview": "Птицы узнали о существовании голодных зелёных свиней, после чего началась священная война, которая длилась многие годы. Однако теперь на горизонте появился новый враг — Зета, обитательница третьего, замёрзшего острова. Она считает, что все должны почувствовать на себе силу холода, и начинает атаку на дальних родственников, обитающих в тёплых краях. Теперь птицы и свиньи должны объединиться, чтобы остановить заморозки.",
-   "popularity": 25.244,
+   "popularity": 26.785,
    "poster_path": "http://image.tmdb.org/t/p/w500/6lKxPyArJPJxveyKjp6ihQKH3Ge.jpg",
    "production_companies": [
     {
@@ -35404,7 +35550,7 @@
    "title": "Angry Birds 2 в кино",
    "video": false,
    "vote_average": 6.6,
-   "vote_count": 416,
+   "vote_count": 417,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -35880,7 +36026,7 @@
    "original_language": "en",
    "original_title": "Bernie the Dolphin",
    "overview": "9-летняя Холли и 11-летний Кевин живут с семьей в небольшом городке Сент-Огастин, в солнечной Флориде. Они влюблены в океан и каждый день приходят навестить стайку дельфинов в укромной бухте. Однажды они замечают на побережье чужаков, которые делают какие-то замеры, и понимают, что этот природный рай и его обитатели в опасности. Холли чуть не утонула, когда они попытались помешать им, но, к счастью, ее спас дельфин Берни, который сам получил солнечные ожоги и едва не погиб. Дельфина перевезли в местный аквариум на лечение, а к тому моменту, как он был готов воссоединиться с семьей, Кевин и Холли уже придумали хитроумный план спасения бухты и своих морских приятелей.",
-   "popularity": 2.909,
+   "popularity": 3.718,
    "poster_path": "http://image.tmdb.org/t/p/w500/k22BdWqMlwua4hbanHqILM08m8E.jpg",
    "production_companies": [
     {
@@ -36024,7 +36170,7 @@
      "size": "7.21 GB",
      "date": "2019-11-18T00:00:00+03:00",
      "upload": 19,
-     "download": 3
+     "download": 1
     }
    ]
   },
@@ -36050,7 +36196,7 @@
    "original_language": "en",
    "original_title": "Haunt",
    "overview": "На Хэллоуин в поисках острых ощущений группа студентов отправляется за город на аттракцион «Комнаты страха», который обещает воплотить кошмары из самых жутких фильмов ужасов. Вскоре друзья понимают, что попали вовсе не в место для игр, под масками клоунов скрываются не люди, а существа из другого мира, а сами они теперь — герои настоящего хоррора и должны очень сильно постараться, чтобы выбраться из адского аттракциона живыми.",
-   "popularity": 8.811,
+   "popularity": 8.699,
    "poster_path": "http://image.tmdb.org/t/p/w500/98AaX9fSwSpOcG6zgnTXgUJAWDk.jpg",
    "production_companies": [
     {
@@ -36252,7 +36398,7 @@
    "original_language": "en",
    "original_title": "The Kitchen",
    "overview": "История трёх домохозяек, проживающих в нью-йоркском районе «Адская кухня», чьих мужей-мафиози ФБР посадило в тюрьму. Дело происходит в 1978 году, у этих дам нет ничего, кроме желания добиться своего, взяв дела ирландской мафии в свои руки. Оказывается, что и тут они чувствуют себя как рыба в воде во всём: от рэкета до устранения конкурентов… в буквальном смысле.",
-   "popularity": 15.032,
+   "popularity": 15.056,
    "poster_path": "http://image.tmdb.org/t/p/w500/75pxLTJNsf5pWhzC9D063PG0Nij.jpg",
    "production_companies": [
     {
@@ -36565,7 +36711,7 @@
    "original_language": "en",
    "original_title": "Mary",
    "overview": "Глава семейства Дэвид покупает яхту на аукционе. Он надеется начать новый бизнес по морским перевозкам, и яхта «Мэри» должна стать счастливым билетом для него и его семьи. Но чем дальше в море уходит лодка, тем более жуткие вещи начинают происходить на борту.",
-   "popularity": 5.749,
+   "popularity": 5.895,
    "poster_path": "http://image.tmdb.org/t/p/w500/uKa68MT8incOtseMtmEidDxoRJf.jpg",
    "production_companies": [
     {
@@ -36815,7 +36961,7 @@
    "original_language": "en",
    "original_title": "Inside Man: Most Wanted",
    "overview": "Полицейский отряд объединяется с федеральным агентом для спасения десятков туристов, взятых в заложники в федеральном резервном банке США.",
-   "popularity": 7.46,
+   "popularity": 7.207,
    "poster_path": "http://image.tmdb.org/t/p/w500/kxvxcgRHwV7T3PR4jNFDdQTLPm.jpg",
    "production_companies": [
     {
@@ -36943,7 +37089,7 @@
    "original_language": "en",
    "original_title": "Klaus",
    "overview": "Владелец почтовой империи, чтобы научить ленивого отпрыска по имени Джеспер уму-разуму, отправляет его на крайний север в город Смиренсбург. Тот должен организовать там почтовое отделение и за год обработать не менее 6000 писем. Прибыв на место, парень оказывается в зоне боевых действий: два семейных клана, так уж исторически сложилось, питают взаимную ненависть и свято чтут многовековую традицию при любой возможности мутузить друг друга и делать пакости. Разумеется, в такой обстановке не до писем, и почтовое отделение давно превратилось в курятник. Уже практически отчаявшись, Джеспер посещает лесного отшельника по имени Клаус, и их знакомство положит начало удивительным событиям.",
-   "popularity": 22.93,
+   "popularity": 26.751,
    "poster_path": "http://image.tmdb.org/t/p/w500/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
    "production_companies": [
     {
@@ -36979,7 +37125,7 @@
    "title": "Клаус",
    "video": false,
    "vote_average": 8.4,
-   "vote_count": 1194,
+   "vote_count": 1200,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -37030,6 +37176,17 @@
       ]
      },
      {
+      "iso_3166_1": "DK",
+      "release_dates": [
+       {
+        "certification": "7",
+        "iso_639_1": "da",
+        "release_date": "2019-11-15T00:00:00Z",
+        "type": 4
+       }
+      ]
+     },
+     {
       "iso_3166_1": "GB",
       "release_dates": [
        {
@@ -37043,39 +37200,6 @@
         "iso_639_1": "",
         "release_date": "2019-11-14T00:00:00Z",
         "type": 1
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "DK",
-      "release_dates": [
-       {
-        "certification": "7",
-        "iso_639_1": "da",
-        "release_date": "2019-11-15T00:00:00Z",
-        "type": 4
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "FR",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-11-15T00:00:00Z",
-        "type": 4
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "BR",
-      "release_dates": [
-       {
-        "certification": "L",
-        "iso_639_1": "",
-        "release_date": "2019-11-15T00:00:00Z",
-        "type": 4
        }
       ]
      },
@@ -37174,6 +37298,28 @@
         "type": 4
        }
       ]
+     },
+     {
+      "iso_3166_1": "BR",
+      "release_dates": [
+       {
+        "certification": "L",
+        "iso_639_1": "",
+        "release_date": "2019-11-15T00:00:00Z",
+        "type": 4
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "FR",
+      "release_dates": [
+       {
+        "certification": "U",
+        "iso_639_1": "",
+        "release_date": "2019-11-15T00:00:00Z",
+        "type": 4
+       }
+      ]
      }
     ]
    },
@@ -37211,7 +37357,7 @@
    "original_language": "fr",
    "original_title": "Anna",
    "overview": "Москва, конец 1980-х. Скаут французского модельного агентства находит на Измайловском рынке подходящую ему по всем параметрам девушку Анну. Его не смущает, что потенциальная модель знает несколько языков, но торгует при этом матрёшками, и вот уже Анна летит в Париж и приступает к работе. Но её настоящая работа заключается не в позировании перед фотокамерами — хрупкая девушка работает на КГБ и должна убирать людей по приказу Москвы.",
-   "popularity": 27.439,
+   "popularity": 31.745,
    "poster_path": "http://image.tmdb.org/t/p/w500/e3DgchubCM0c2zKQVHqmdNlxN1y.jpg",
    "production_companies": [
     {
@@ -37287,7 +37433,7 @@
    "title": "Анна",
    "video": false,
    "vote_average": 6.5,
-   "vote_count": 811,
+   "vote_count": 816,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -37646,8 +37792,8 @@
      "source": "rutor.info",
      "size": "7.75 GB",
      "date": "2019-11-13T00:00:00+03:00",
-     "upload": 68,
-     "download": 3
+     "upload": 78,
+     "download": 4
     },
     {
      "name": "Анна / Anna (2019) BDRemux 1080p | FRA Transfer | iTunes",
@@ -37655,8 +37801,8 @@
      "source": "rutor.info",
      "size": "26.98 GB",
      "date": "2019-11-13T00:00:00+03:00",
-     "upload": 6,
-     "download": 0
+     "upload": 7,
+     "download": 1
     },
     {
      "name": "Анна / Anna (2019) UHD BDRip-HEVC 2160p | 4K | SDR |  iTunes",
@@ -37664,8 +37810,8 @@
      "source": "rutor.info",
      "size": "23.50 GB",
      "date": "2019-09-20T00:00:00+03:00",
-     "upload": 23,
-     "download": 0
+     "upload": 22,
+     "download": 1
     },
     {
      "name": "Анна / Anna (2019) UHD BDRemux 2160p от селезень | 4K | HDR | D, P | iTunes",
@@ -37673,8 +37819,8 @@
      "source": "rutor.info",
      "size": "59.20 GB",
      "date": "2019-09-20T00:00:00+03:00",
-     "upload": 9,
-     "download": 1
+     "upload": 15,
+     "download": 2
     },
     {
      "name": "Анна / Anna (2019) BDRemux 1080p от селезень | D, P | iTunes",
@@ -37682,8 +37828,8 @@
      "source": "rutor.info",
      "size": "31.46 GB",
      "date": "2019-09-20T00:00:00+03:00",
-     "upload": 13,
-     "download": 2
+     "upload": 14,
+     "download": 0
     },
     {
      "name": "Анна / Anna (2019) BDRip 1080p от селезень | D, P | iTunes",
@@ -37691,8 +37837,8 @@
      "source": "rutor.info",
      "size": "9.50 GB",
      "date": "2019-09-20T00:00:00+03:00",
-     "upload": 194,
-     "download": 16
+     "upload": 216,
+     "download": 21
     },
     {
      "name": "Анна / Anna (2019) UHD BDRip-HEVC 2160p | 4K | SDR | HDRezka Studio",
@@ -37700,8 +37846,8 @@
      "source": "rutor.info",
      "size": "23.18 GB",
      "date": "2019-09-18T00:00:00+03:00",
-     "upload": 9,
-     "download": 2
+     "upload": 8,
+     "download": 1
     },
     {
      "name": "Анна / Anna (2019) WEB-DL-HEVC 2160p | 4K | HDR | HDRezka Studio",
@@ -37709,8 +37855,8 @@
      "source": "rutor.info",
      "size": "16.74 GB",
      "date": "2019-09-16T00:00:00+03:00",
-     "upload": 9,
-     "download": 1
+     "upload": 14,
+     "download": 3
     },
     {
      "name": "Анна / Anna (2019) UHD BDRip 1080p от селезень | HDRezka Studio",
@@ -37718,8 +37864,8 @@
      "source": "rutor.info",
      "size": "10.66 GB",
      "date": "2019-09-15T00:00:00+03:00",
-     "upload": 35,
-     "download": 2
+     "upload": 26,
+     "download": 5
     },
     {
      "name": "Анна / Anna (2019) WEB-DL 1080p от OlLanDGroup | P",
@@ -37727,8 +37873,8 @@
      "source": "rutor.info",
      "size": "4.25 GB",
      "date": "2019-09-14T00:00:00+03:00",
-     "upload": 105,
-     "download": 6
+     "upload": 115,
+     "download": 4
     }
    ]
   },
@@ -37750,7 +37896,7 @@
    "original_language": "en",
    "original_title": "Burn",
    "overview": "История развернется вокруг работницы заправки Мелинды, которая страдает от одиночества и завидует своей более успешной коллеге Шейле. Когда мелкий преступник Билли врывается на заправку в надежде украсть немного наличных, Мелинда видит в этом отличный шанс избавиться от опостылевшей напарницы.",
-   "popularity": 5.72,
+   "popularity": 8.008,
    "poster_path": "http://image.tmdb.org/t/p/w500/pVqxCMRtM1PKkF8kcZIb8fXnYqK.jpg",
    "production_companies": [
     {
@@ -37804,7 +37950,7 @@
    "title": "Игра с огнем",
    "video": false,
    "vote_average": 6.2,
-   "vote_count": 40,
+   "vote_count": 41,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -37944,7 +38090,7 @@
    "original_language": "en",
    "original_title": "Ophelia",
    "overview": "Темные времена настали в королевстве. Правитель мертв, а его трон занял самозванец и убийца. Гамлет, законный наследник престола, клянется отомстить за отца. Сердце принца способна смягчить лишь прекрасная Офелия. Ради него она готова оставить двор и пойти против тирана. Но cмогут ли их чувства преодолеть саму смерть?",
-   "popularity": 6.879,
+   "popularity": 7.164,
    "poster_path": "http://image.tmdb.org/t/p/w500/6y5gya5vLvSorhZ6gHZHRGWbaWX.jpg",
    "production_companies": [
     {
@@ -38134,7 +38280,7 @@
      "source": "rutor.info",
      "size": "4.62 GB",
      "date": "2019-11-13T00:00:00+03:00",
-     "upload": 4,
+     "upload": 8,
      "download": 0
     },
     {
@@ -38143,8 +38289,8 @@
      "source": "rutor.info",
      "size": "6.81 GB",
      "date": "2019-11-10T00:00:00+03:00",
-     "upload": 19,
-     "download": 2
+     "upload": 29,
+     "download": 1
     },
     {
      "name": "Офелия / Ophelia (2018) WEB-DL 1080p от селезень | iTunes",
@@ -38152,7 +38298,7 @@
      "source": "rutor.info",
      "size": "5.81 GB",
      "date": "2019-09-20T00:00:00+03:00",
-     "upload": 43,
+     "upload": 44,
      "download": 2
     },
     {
@@ -38161,7 +38307,7 @@
      "source": "rutor.info",
      "size": "6.00 GB",
      "date": "2019-07-08T00:00:00+03:00",
-     "upload": 10,
+     "upload": 12,
      "download": 2
     }
    ]
@@ -38184,7 +38330,7 @@
    "original_language": "en",
    "original_title": "After the Wedding",
    "overview": "Изабель посвятила свою жизнь помощи другим. Она узнает, что женщина, возглавляющая многомиллионную корпорацию, готова пожертвовать ей огромную сумму. Их встреча в Нью-Йорке проходит успешно, но все меняется, когда Изабель случайно встречает ее мужа. Она еще не знает, что кто-то начал игру чужими судьбами, в которой правда окажется опаснее лжи…",
-   "popularity": 7.746,
+   "popularity": 8.524,
    "poster_path": "http://image.tmdb.org/t/p/w500/mYangScQAEhZRWuIvyF2myjoD6r.jpg",
    "production_companies": [
     {
@@ -38457,8 +38603,8 @@
      "source": "rutor.info",
      "size": "8.20 GB",
      "date": "2019-11-13T00:00:00+03:00",
-     "upload": 27,
-     "download": 0
+     "upload": 25,
+     "download": 2
     }
    ]
   },
@@ -38489,7 +38635,7 @@
    "original_language": "da",
    "original_title": "Skammerens datter II: Slangens gave",
    "overview": "От своих родителей Дина унаследовала сверхъестественный дар - способность распознавать правду по первому взгляду на человека. Будучи ещё ребёнком, с помощью своего таланта она расследовала убийство целой королевской семьи.  В новой части приключенческого фэнтези \"Пробуждающая совесть\" Дина встречает таинственного незнакомца, который называет себя Чёрным Мастером и пытается убедить девушку, что является её отцом. Она не верит ни единому его слову и всеми способами старается избегать встречи с ним. Но в скором времени Дина вынуждена просить помощи Чёрного Мастера, и они отправляются вместе в опасное путешествие, чтобы спасти Давина, брата девушки, и принца Нико от кровожадного Дракана.",
-   "popularity": 2.989,
+   "popularity": 3.005,
    "poster_path": "http://image.tmdb.org/t/p/w500/nubRo8ArWjmH3nyZE3vJl21ESnc.jpg",
    "production_companies": [
     {
@@ -38616,8 +38762,8 @@
      "source": "rutor.info",
      "size": "3.59 GB",
      "date": "2019-11-13T00:00:00+03:00",
-     "upload": 46,
-     "download": 3
+     "upload": 41,
+     "download": 2
     }
    ]
   },
@@ -38647,7 +38793,7 @@
    "original_language": "ru",
    "original_title": "Болевой порог",
    "overview": "В результате скандального ДТП четверо москвичей — двое друзей и их девушки — вынуждены уехать из столицы в Горный Алтай. Они хотят расслабиться и отдохнуть, но вновь попадают в экстремальную ситуацию, где каждый проявит свой характер и столкнется с собственными демонами. На кону — дружба, любовь и сама возможность остаться в живых.",
-   "popularity": 2.648,
+   "popularity": 2.645,
    "poster_path": "http://image.tmdb.org/t/p/w500/yiXERZK4ICJ4nQmsrPQOwVThYuf.jpg",
    "production_companies": [
     {
@@ -38781,7 +38927,7 @@
    "original_language": "en",
    "original_title": "Itsy Bitsy",
    "overview": "Домашняя медсестра Кара вместе с 13-летним сыном Джесси и 8-летней дочерью Камбрией перебирается в сельскую глушь, чтобы ухаживать за пожилым человеком и жить в его доме. Переезд принимает мрачный поворот, когда в доме старика Джесси обнаруживает таинственную древнюю реликвию, из которой высвобождается злобная сущность в обличье огромного паука и начинает терроризировать несчастное семейство.",
-   "popularity": 5.458,
+   "popularity": 5.831,
    "poster_path": "http://image.tmdb.org/t/p/w500/8PS6uPVN2lFwVeNrEnC3j7sv8ed.jpg",
    "production_companies": [
     {
@@ -38906,7 +39052,7 @@
    "original_language": "en",
    "original_title": "The Silence",
    "overview": "Спелеологи вскрыли древнюю пещеру в Молдавии, тем самым выпустив на свободу странных полупрозрачных существ, больше всего похожих на летучих мышей. Твари слепы и ориентируются только на звуки, быстро перемещаются на своих кожистых крыльях и довольно шустро размножаются, поэтому вскоре распространяются по всей планете. И, конечно, они весьма кровожадны. В центре истории оказывается глухая девочка-подросток. Ей и её близким предстоит выживать в неумолимо меняющемся мире.",
-   "popularity": 11.995,
+   "popularity": 12.317,
    "poster_path": "http://image.tmdb.org/t/p/w500/lTVOquzxw2DPF3MKuYd1ynz9F6H.jpg",
    "production_companies": [
     {
@@ -38950,7 +39096,7 @@
    "title": "Молчание",
    "video": false,
    "vote_average": 5.7,
-   "vote_count": 510,
+   "vote_count": 511,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -39084,8 +39230,8 @@
      "source": "rutor.info",
      "size": "7.36 GB",
      "date": "2019-11-08T00:00:00+03:00",
-     "upload": 112,
-     "download": 7
+     "upload": 110,
+     "download": 3
     },
     {
      "name": "Молчание / The Silence (2019) BDRemux 1080p | D",
@@ -39093,7 +39239,7 @@
      "source": "rutor.info",
      "size": "23.08 GB",
      "date": "2019-11-08T00:00:00+03:00",
-     "upload": 8,
+     "upload": 7,
      "download": 2
     }
    ]
@@ -39123,7 +39269,7 @@
    "original_language": "ru",
    "original_title": "Пиковая дама: Зазеркалье",
    "overview": "Зловещий призрак Пиковой Дамы снова жаждет крови, и на этот раз его жертвами становятся воспитанники школы-интерната, расположенного в старинном особняке, окутанном мрачными слухами. Развлекая друг друга страшилками об убийствах детей, которые совершались в этом доме в позапрошлом столетии, подростки находят в заброшенном крыле здания таинственное зеркало, покрытое загадочными рисунками. Ради шутки, ученики проводят перед этим зеркалом мистический обряд вызова духа Пиковой Дамы и загадывают самые сокровенные желания, надеясь, что призрак их исполнит. Шутники не подозревают о том, что платой за выполнение каждой прихоти станут их собственные души — и что Пиковая Дама не успокоится, пока не получит их все.",
-   "popularity": 3.208,
+   "popularity": 3.526,
    "poster_path": "http://image.tmdb.org/t/p/w500/deHYXSMJNCqi1fI5mip8fhebbEG.jpg",
    "production_companies": [],
    "production_countries": [
@@ -39214,7 +39360,7 @@
      "source": "rutor.info",
      "size": "13.96 GB",
      "date": "2019-11-08T00:00:00+03:00",
-     "upload": 5,
+     "upload": 6,
      "download": 0
     },
     {
@@ -39223,7 +39369,7 @@
      "source": "rutor.info",
      "size": "8.21 GB",
      "date": "2019-11-08T00:00:00+03:00",
-     "upload": 16,
+     "upload": 12,
      "download": 1
     },
     {
@@ -39232,7 +39378,7 @@
      "source": "rutor.info",
      "size": "2.88 GB",
      "date": "2019-06-24T00:00:00+03:00",
-     "upload": 85,
+     "upload": 84,
      "download": 1
     }
    ]
@@ -39259,7 +39405,7 @@
    "original_language": "en",
    "original_title": "Let It Snow",
    "overview": "Снежная буря обрушивается на Грейстаун и застает жителей города врасплох. Но даже в непогоду магия Рождества способна создать уют и тепло, особенно когда дело касается любви.",
-   "popularity": 8.834,
+   "popularity": 10.886,
    "poster_path": "http://image.tmdb.org/t/p/w500/rEVu3E1OhMPJeCAn9a6QLyVhZDj.jpg",
    "production_companies": [
     {
@@ -39289,7 +39435,7 @@
    "title": "Пусть идёт снег",
    "video": false,
    "vote_average": 6.1,
-   "vote_count": 553,
+   "vote_count": 554,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -39463,7 +39609,7 @@
    "original_language": "ru",
    "original_title": "Дикая Лига",
    "overview": "Основанная на реальных событиях начала XX века история парня из низших социальных слоев, которому ради того, чтобы быть с любимой, пришлось покинуть родные края и начать жизнь заново в Москве. Проявившего себя в бою «стенка на стенку», его замечает англичанин, владелец закрытого футбольного клуба, который предлагает ему попробовать свои силы в его команде. Однако футбол — аристократическая игра и команда не принимает неотесанного бурлака с Волги. Тогда собравшись с силами, Варлам вместе с настоящим патриотом и увлеченным футболом купцом Балашовым создает первую народную команду и становится лидером, изменив при этом свою жизнь и жизнь окружающих. Благодаря Варламу и его команде футбол в России становится поистине народной игрой. А спустя 110 лет Россия впервые становится местом проведения Кубка Чемпионата Мира по футболу…",
-   "popularity": 1.346,
+   "popularity": 0.808,
    "poster_path": "http://image.tmdb.org/t/p/w500/umoVKJCaea1mX6yp5tZjCQP8rs5.jpg",
    "production_companies": [
     {
@@ -39591,7 +39737,7 @@
    "original_language": "en",
    "original_title": "DeadTectives",
    "overview": "Ведущие успешного телешоу «Призрачный патруль» прекрасно справляются с ролью умелых охотников за привидениями и прочей нечистью. До тех пор, пока не оказываются в заброшенном особняке, полном паранормальных секретов. Как не опозориться перед поклонниками шоу и не умереть от страха?",
-   "popularity": 3.154,
+   "popularity": 4.413,
    "poster_path": "http://image.tmdb.org/t/p/w500/n4LhwZRoHSvpVEnyTNYatZoTey9.jpg",
    "production_companies": [
     {
@@ -39742,8 +39888,8 @@
      "source": "rutor.info",
      "size": "6.05 GB",
      "date": "2019-11-07T00:00:00+03:00",
-     "upload": 64,
-     "download": 15
+     "upload": 72,
+     "download": 18
     }
    ]
   },
@@ -39769,7 +39915,7 @@
    "original_language": "en",
    "original_title": "The Convent",
    "overview": "В начале XVII века молодая женщина Персефона по ложному обвинению предстает перед судом, а после — и перед возможной казнью. Но девушку спасает вовремя вмешавшаяся преподобная мать, предложив осужденной провести оставшуюся жизнь в изолированном монастыре. Персефона думала, что в святом месте она посвятит себя молитвам и служению Господу, но по прибытии её начинают мучить страшные видения, а вместо очищения от грехов девушку ждет борьба за сохранение души.",
-   "popularity": 5.619,
+   "popularity": 5.221,
    "poster_path": "http://image.tmdb.org/t/p/w500/xqV2quzh1pefEQhrByTXDvhzTTU.jpg",
    "production_companies": [
     {
@@ -39946,8 +40092,8 @@
      "source": "rutor.info",
      "size": "6.30 GB",
      "date": "2019-11-06T00:00:00+03:00",
-     "upload": 25,
-     "download": 0
+     "upload": 19,
+     "download": 1
     },
     {
      "name": "Присягнувшая тьме / The Convent (2018) WEB-DL 1080p | HDRezka Studio",
@@ -39955,8 +40101,8 @@
      "source": "rutor.info",
      "size": "3.18 GB",
      "date": "2019-05-16T00:00:00+03:00",
-     "upload": 26,
-     "download": 0
+     "upload": 30,
+     "download": 1
     }
    ]
   },
@@ -39978,7 +40124,7 @@
    "original_language": "ru",
    "original_title": "Элефант",
    "overview": "У добрых книжек про Слона Мишку был очень злобный автор. И, даже когда Валентину Шубину из-за болезни пересадили новое сердце, он предпочел, чтобы все прочее оставалось старым. Шубин давно развелся с женой и поссорился с дочерью, ради которой когда-то писал свои истории. Но писать продолжение он не хочет, тем более, в компании навязанной ему приставучей сиделки. Хуже которой лишь то, что теперь у Шубина в самый неподходящий момент непроизвольно текут слезы…",
-   "popularity": 2.295,
+   "popularity": 2.787,
    "poster_path": "http://image.tmdb.org/t/p/w500/o8plRNyAIU5QUI6bn0oC4lVCwVV.jpg",
    "production_companies": [
     {
@@ -40128,7 +40274,7 @@
    "original_language": "en",
    "original_title": "Scary Stories to Tell in the Dark",
    "overview": "Компания подростков проникает в старый особняк с тёмной историей. Здесь они находят загадочную книгу ужасов и вскоре сами становятся ее героями.",
-   "popularity": 15.621,
+   "popularity": 18.794,
    "poster_path": "http://image.tmdb.org/t/p/w500/6PURRIAyEOD0Zry9bf5Fra4K3MD.jpg",
    "production_companies": [
     {
@@ -40596,7 +40742,7 @@
    "original_language": "ru",
    "original_title": "Волшебник",
    "overview": "В прошлом популярный рок-музыкант Фима влачит жалкое существование, растратив свой талант и предаваясь разгульному образу жизни. Все меняется, когда уроки на гитаре у него начинает брать мальчик Рома, страдающий ДЦП и отчаянно жаждущий завоевать сердце своей одноклассницы Маши.",
-   "popularity": 2.066,
+   "popularity": 2.892,
    "poster_path": "http://image.tmdb.org/t/p/w500/gAmBAXQQRmFgsuJWbDk2qDbV4l9.jpg",
    "production_companies": [
     {
@@ -40733,7 +40879,7 @@
    "original_language": "en",
    "original_title": "47 Meters Down: Uncaged",
    "overview": "Три подруги отправляются исследовать подводный разрушенный город, но вскоре выясняют, что посмотреть на руины приплыли не они одни. Запланированное развлечение оборачивается кошмаром — теперь ныряльщицам придется спасаться от кровожадных акул.",
-   "popularity": 29.233,
+   "popularity": 40.926,
    "poster_path": "http://image.tmdb.org/t/p/w500/6KSPDcJXf8eoAIvdOBMAv2XwJIU.jpg",
    "production_companies": [
     {
@@ -40767,7 +40913,7 @@
    "title": "Синяя бездна 2",
    "video": false,
    "vote_average": 4.9,
-   "vote_count": 399,
+   "vote_count": 402,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -41028,7 +41174,7 @@
    "original_language": "en",
    "original_title": "Shaft",
    "overview": "Джон Шафт-младший, эксперт по кибербезопасности из Массачусетского технологического института, заручается поддержкой своего отца, чтобы раскрыть правду о безвременной смерти своего лучшего друга.",
-   "popularity": 14.157,
+   "popularity": 13.701,
    "poster_path": "http://image.tmdb.org/t/p/w500/gTixJW7Wdx8Pw8cUsFx7gFxXugr.jpg",
    "production_companies": [
     {
@@ -41247,8 +41393,8 @@
      "source": "rutor.info",
      "size": "5.09 GB",
      "date": "2019-11-02T00:00:00+03:00",
-     "upload": 29,
-     "download": 6
+     "upload": 31,
+     "download": 3
     },
     {
      "name": "Шафт / Shaft (2019) UHD BDRemux 2160p от селезень | 4K | HDR | D, A",
@@ -41256,7 +41402,7 @@
      "source": "rutor.info",
      "size": "47.73 GB",
      "date": "2019-10-09T00:00:00+03:00",
-     "upload": 9,
+     "upload": 10,
      "download": 0
     },
     {
@@ -41265,7 +41411,7 @@
      "source": "rutor.info",
      "size": "26.57 GB",
      "date": "2019-09-19T00:00:00+03:00",
-     "upload": 8,
+     "upload": 7,
      "download": 3
     },
     {
@@ -41275,7 +41421,7 @@
      "size": "8.95 GB",
      "date": "2019-09-19T00:00:00+03:00",
      "upload": 50,
-     "download": 3
+     "download": 6
     },
     {
      "name": "Шафт / Shaft (2019) WEB-DL-HEVC 2160p | 4K | HDR | D, A",
@@ -41283,8 +41429,8 @@
      "source": "rutor.info",
      "size": "20.38 GB",
      "date": "2019-09-11T00:00:00+03:00",
-     "upload": 5,
-     "download": 1
+     "upload": 7,
+     "download": 0
     },
     {
      "name": "Шафт / Shaft (2019) WEB-DL-HEVC 1080p | D",
@@ -41292,8 +41438,8 @@
      "source": "rutor.info",
      "size": "2.67 GB",
      "date": "2019-06-29T00:00:00+03:00",
-     "upload": 52,
-     "download": 1
+     "upload": 57,
+     "download": 2
     }
    ]
   },
@@ -41323,7 +41469,7 @@
    "original_language": "en",
    "original_title": "The King",
    "overview": "15-й век. Своенравный принц Хэл трансформируется в одного из самых могущественных правителей Англии — короля Генриха V.",
-   "popularity": 13.905,
+   "popularity": 16.395,
    "poster_path": "http://image.tmdb.org/t/p/w500/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
    "production_companies": [
     {
@@ -41383,7 +41529,7 @@
    "title": "Король",
    "video": false,
    "vote_average": 7.2,
-   "vote_count": 963,
+   "vote_count": 967,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -41636,7 +41782,7 @@
    "original_language": "en",
    "original_title": "The Art of Racing in the Rain",
    "overview": "Для собаки по кличке Энцо жизнь — это гонка. Не важно, как ты ее проходишь — за рулем автомобиля или на четырех лапах, все равно тебя ждут крутые виражи, ямы-западни, опасные взлеты и падения. Они выбивают с трека даже самых сильных — это начинающий гонщик Дэнни и его пес Энцо знают наверняка. Каждому из них предстоит своя гонка, но оба понимают: победить не значит обогнать соперников. Победить — значит вернуться после поражения на трассу и пройти ее до самого финиша, какой бы скользкой ни была дорога.",
-   "popularity": 13.216,
+   "popularity": 14.083,
    "poster_path": "http://image.tmdb.org/t/p/w500/wiSwJ3pi1DVFVsbtX9H7wIFCa1E.jpg",
    "production_companies": [
     {
@@ -41932,7 +42078,7 @@
    "original_language": "en",
    "original_title": "Lying and Stealing",
    "overview": "Он — эксперт по искусству, вернее… его хищению. Она — модель с задатками актрисы и высоким IQ. Оба любят деньги и риск. Они просто созданы друг для друга… или это лишь фасад, чтобы провернуть изысканную и виртуозную аферу, больше похожую на арт-перформанс?",
-   "popularity": 8.34,
+   "popularity": 9.819,
    "poster_path": "http://image.tmdb.org/t/p/w500/o3U8kqdaHz2T1rxqOSAYVy3t4BA.jpg",
    "production_companies": [
     {
@@ -42072,8 +42218,8 @@
      "source": "rutor.info",
      "size": "7.92 GB",
      "date": "2019-10-30T00:00:00+03:00",
-     "upload": 98,
-     "download": 4
+     "upload": 92,
+     "download": 5
     },
     {
      "name": "Искусство обмана / Lying and Stealing (2019) BDRemux 1080p от селезень | D, P | iTunes",
@@ -42090,8 +42236,8 @@
      "source": "rutor.info",
      "size": "3.34 GB",
      "date": "2019-07-24T00:00:00+03:00",
-     "upload": 68,
-     "download": 3
+     "upload": 56,
+     "download": 2
     },
     {
      "name": "Искусство обмана / Lying and Stealing (2019) WEB-DL 1080p от OlLanDGroup | P",
@@ -42099,8 +42245,8 @@
      "source": "rutor.info",
      "size": "5.24 GB",
      "date": "2019-07-24T00:00:00+03:00",
-     "upload": 63,
-     "download": 4
+     "upload": 70,
+     "download": 3
     }
    ]
   },
@@ -42134,7 +42280,7 @@
    "original_language": "ru",
    "original_title": "Герой",
    "overview": "15 лет назад Андрей под руководством своего отца, полковника Родина, прошел обучение в секретной спецшколе, где из подростков готовили агентов Службы внешней разведки. Когда экспериментальный проект закрыли, Андрей «сжёг мосты», остался в Европе и старался не вспоминать о прошлом. Но однажды ему звонит отец, которого все считали погибшим. Тот сообщает, что на Андрея открыта охота, но кто решил его уничтожить — неизвестно. Спасаясь бегством, он находит Машу, с которой учился в спецшколе. Андрею предстоит пройти через любовь и предательство и узнать об истинных масштабах беспощадной шпионской игры, в которую он оказался втянут поневоле.",
-   "popularity": 1.551,
+   "popularity": 2.053,
    "poster_path": "http://image.tmdb.org/t/p/w500/oNFgMECfGvDEftfBsGIXUELOKM2.jpg",
    "production_companies": [
     {
@@ -42291,7 +42437,7 @@
    "original_language": "en",
    "original_title": "Zeroville",
    "overview": "Однажды в Голливуд отправляется одержимый кино студент-архитектор с эффектной татуировкой на бритой голове, и попадает в мир кино, секса, наркотиков, рок-н-ролла, упадка больших киностудий и подъема независимых режиссеров. Никто не ожидал, что его погружение в мир кинематографа в итоге закончится фиаско…",
-   "popularity": 3.922,
+   "popularity": 4.641,
    "poster_path": "http://image.tmdb.org/t/p/w500/8ZCTKIwWd2whA9a7M4sfwIVMxJS.jpg",
    "production_companies": [
     {
@@ -42455,7 +42601,7 @@
    "original_language": "en",
    "original_title": "Annabelle Comes Home",
    "overview": "Преисполнившись решимости удержать Аннабель от дальнейших разрушений и хаоса, демонологи Эд и Лоррейн Уоррены приносят одержимую куклу в запертую комнату артефактов в своем доме, поместив ее под «надежное» освященное стекло и заручившись благословением священника. Однако беспросветная ночь ужаса ждет обитателей дома, когда Аннабель пробуждает злых духов комнаты и их новой мишенью становится десятилетняя дочь Уорренов Джуди и ее друзья.",
-   "popularity": 15.84,
+   "popularity": 17.857,
    "poster_path": "http://image.tmdb.org/t/p/w500/jLqJCkyepldyxQhp28Kr6zsKcF3.jpg",
    "production_companies": [
     {
@@ -42497,7 +42643,7 @@
    "title": "Проклятие Аннабель 3",
    "video": false,
    "vote_average": 6.1,
-   "vote_count": 1181,
+   "vote_count": 1182,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -42902,8 +43048,8 @@
      "source": "rutor.info",
      "size": "6.68 GB",
      "date": "2019-10-18T00:00:00+03:00",
-     "upload": 38,
-     "download": 2
+     "upload": 50,
+     "download": 5
     },
     {
      "name": "Проклятие Аннабель 3 / Annabelle Comes Home (2019) BDRemux 1080p от селезень | D, P | Лицензия",
@@ -42911,7 +43057,7 @@
      "source": "rutor.info",
      "size": "23.36 GB",
      "date": "2019-10-13T00:00:00+03:00",
-     "upload": 5,
+     "upload": 7,
      "download": 2
     },
     {
@@ -42921,7 +43067,7 @@
      "size": "12.47 GB",
      "date": "2019-10-13T00:00:00+03:00",
      "upload": 48,
-     "download": 4
+     "download": 2
     }
    ]
   },
@@ -42960,7 +43106,7 @@
    "original_language": "en",
    "original_title": "Doom: Annihilation",
    "overview": "В основу фильма легла серия игр \"Doom\". Огромная научная лаборатория, неудачные опыты и как результат - куча всевозможных чудовищ, которые убивают всё живое на своём пути, превращая научный центр в кровавую баню. А весь бардак придётся исправлять элитному отряду военных. Но как водиться в таких фильмах, выживут далеко не все.",
-   "popularity": 12.401,
+   "popularity": 13.955,
    "poster_path": "http://image.tmdb.org/t/p/w500/7EGElXVSNnqcPjuhXPd6UVUX1rD.jpg",
    "production_companies": [
     {
@@ -43012,7 +43158,7 @@
    "title": "Doom: Аннигиляция",
    "video": false,
    "vote_average": 4.5,
-   "vote_count": 107,
+   "vote_count": 108,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -43112,7 +43258,7 @@
    "original_language": "ru",
    "original_title": "Жара",
    "overview": "Звезды российской эстрады летят в Баку на фестиваль «Жара». Среди них и Даша Стеклова, талантливая дебютантка, чья слава началась с победы в популярном музыкальном телешоу. Даша не хочет играть по правилам и жаждет творческой свободы. В Баку, поссорившись со своим продюсером (а по совместительству — молодым человеком), девушка сбегает. В сказочном городе, дышащем музыкой и солнцем, ее ждет множество приключений и романтических встреч, которые помогут Даше осуществить мечту и стать по-настоящему счастливой.",
-   "popularity": 0.767,
+   "popularity": 1.015,
    "poster_path": "http://image.tmdb.org/t/p/w500/e0LjAzhUSqKyQakmysLyqO1wglC.jpg",
    "production_companies": [
     {
@@ -43253,7 +43399,7 @@
    "original_language": "en",
    "original_title": "El Camino: A Breaking Bad Movie",
    "overview": "После драматического побега из плена Джесси Пинкман должен смириться со своим прошлым, чтобы разобраться, что ему делать в будущем.",
-   "popularity": 36.366,
+   "popularity": 45.864,
    "poster_path": "http://image.tmdb.org/t/p/w500/7IOPGJFPZiU2BmMlVSBAO1EpGV9.jpg",
    "production_companies": [
     {
@@ -43295,7 +43441,7 @@
    "title": "Путь: Во все тяжкие",
    "video": false,
    "vote_average": 6.9,
-   "vote_count": 1913,
+   "vote_count": 1914,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -43513,93 +43659,6 @@
   },
   {
    "adult": false,
-   "backdrop_path": "http://image.tmdb.org/t/p/w780/AoyIT45qPLzkLvcp27Cse8Y3lGg.jpg",
-   "belongs_to_collection": null,
-   "budget": 0,
-   "genre_ids": null,
-   "genres": [],
-   "homepage": "",
-   "id": 617587,
-   "imdb_id": "",
-   "original_language": "ru",
-   "original_title": "Папа",
-   "overview": "Вася – авантюрист и мошенник – попадает в больницу. Его сосед по палате Гена умирает, и Вася становится единственным человеком, знающим о встрече Гены с сыном, которого тот никогда не видел. Вася решается на свою самую большую аферу - он идет на встречу и выдает себя за Гену. Как далеко готов зайти Вася на этот раз?",
-   "popularity": 0.6,
-   "poster_path": "http://image.tmdb.org/t/p/w500/3FMGhYBNvCTWs3C7FVnEoWcfRmr.jpg",
-   "production_companies": [],
-   "production_countries": [
-    {
-     "iso_3166_1": "RU",
-     "name": "Russia"
-    }
-   ],
-   "release_date": "16.08.2019",
-   "revenue": 0,
-   "runtime": 21,
-   "spoken_languages": [
-    {
-     "iso_639_1": "ru",
-     "name": "Pусский"
-    }
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Папа",
-   "video": false,
-   "vote_average": 0,
-   "vote_count": 0,
-   "created_by": null,
-   "episode_run_time": null,
-   "first_air_date": "",
-   "in_production": false,
-   "languages": null,
-   "last_air_date": "",
-   "name": "",
-   "networks": null,
-   "number_of_episodes": 0,
-   "number_of_seasons": 0,
-   "origin_country": null,
-   "original_name": "",
-   "seasons": null,
-   "type": "",
-   "year": "2019",
-   "character": "",
-   "media_type": "movie",
-   "credit_id": "",
-   "videos": {
-    "id": 617587,
-    "results": []
-   },
-   "release_dates": {
-    "id": 0,
-    "results": [
-     {
-      "iso_3166_1": "RU",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-08-16T00:00:00Z",
-        "type": 1
-       }
-      ]
-     }
-    ]
-   },
-   "torrent": [
-    {
-     "name": "Дорогой папа (2019)  WEB-DL 1080p | iTunes",
-     "magnet": "magnet:?xt=urn:btih:20a6fd7abc766f682e571c1f9998fa5f5ffe73bb\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
-     "source": "rutor.info",
-     "size": "3.38 GB",
-     "date": "2019-10-12T00:00:00+03:00",
-     "upload": 237,
-     "download": 14
-    }
-   ]
-  },
-  {
-   "adult": false,
    "backdrop_path": "",
    "belongs_to_collection": null,
    "budget": 0,
@@ -43679,6 +43738,93 @@
         "certification": "",
         "iso_639_1": "",
         "release_date": "2019-07-20T00:00:00Z",
+        "type": 1
+       }
+      ]
+     }
+    ]
+   },
+   "torrent": [
+    {
+     "name": "Дорогой папа (2019)  WEB-DL 1080p | iTunes",
+     "magnet": "magnet:?xt=urn:btih:20a6fd7abc766f682e571c1f9998fa5f5ffe73bb\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "3.38 GB",
+     "date": "2019-10-12T00:00:00+03:00",
+     "upload": 100,
+     "download": 4
+    }
+   ]
+  },
+  {
+   "adult": false,
+   "backdrop_path": "http://image.tmdb.org/t/p/w780/AoyIT45qPLzkLvcp27Cse8Y3lGg.jpg",
+   "belongs_to_collection": null,
+   "budget": 0,
+   "genre_ids": null,
+   "genres": [],
+   "homepage": "",
+   "id": 617587,
+   "imdb_id": "",
+   "original_language": "ru",
+   "original_title": "Папа",
+   "overview": "Вася – авантюрист и мошенник – попадает в больницу. Его сосед по палате Гена умирает, и Вася становится единственным человеком, знающим о встрече Гены с сыном, которого тот никогда не видел. Вася решается на свою самую большую аферу - он идет на встречу и выдает себя за Гену. Как далеко готов зайти Вася на этот раз?",
+   "popularity": 0.6,
+   "poster_path": "http://image.tmdb.org/t/p/w500/3FMGhYBNvCTWs3C7FVnEoWcfRmr.jpg",
+   "production_companies": [],
+   "production_countries": [
+    {
+     "iso_3166_1": "RU",
+     "name": "Russia"
+    }
+   ],
+   "release_date": "16.08.2019",
+   "revenue": 0,
+   "runtime": 21,
+   "spoken_languages": [
+    {
+     "iso_639_1": "ru",
+     "name": "Pусский"
+    }
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Папа",
+   "video": false,
+   "vote_average": 0,
+   "vote_count": 0,
+   "created_by": null,
+   "episode_run_time": null,
+   "first_air_date": "",
+   "in_production": false,
+   "languages": null,
+   "last_air_date": "",
+   "name": "",
+   "networks": null,
+   "number_of_episodes": 0,
+   "number_of_seasons": 0,
+   "origin_country": null,
+   "original_name": "",
+   "seasons": null,
+   "type": "",
+   "year": "2019",
+   "character": "",
+   "media_type": "movie",
+   "credit_id": "",
+   "videos": {
+    "id": 617587,
+    "results": []
+   },
+   "release_dates": {
+    "id": 0,
+    "results": [
+     {
+      "iso_3166_1": "RU",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-08-16T00:00:00Z",
         "type": 1
        }
       ]
@@ -43937,7 +44083,7 @@
    "original_language": "ru",
    "original_title": "Битва",
    "overview": "Стрит дансер Антон делает стремительную карьеру — его команда побеждает на всех баттлах, он признанный хореограф и все его будущее связано с танцем. Однако несчастный случай рушит все планы — Антон лишается слуха, а с ним и всех надежд. Оказавшись в непривычном мире тишины, Антон постепенно понимает, что это не конец. Страсть к танцу, воля к победе и любовь к жизни подсказывают ему новый путь к заветной мечте. И его главная битва еще впереди.",
-   "popularity": 0.6,
+   "popularity": 0.735,
    "poster_path": "http://image.tmdb.org/t/p/w500/vAkJmg2CjohDoLxvSvxoOQuwKIc.jpg",
    "production_companies": [
     {
@@ -44067,7 +44213,7 @@
    "original_language": "ru",
    "original_title": "Команда мечты",
    "overview": "История спортивного комментатора Степана Вершинина, которого из-за вспыльчивого характера увольняют с телеканала. В поисках новой работы он попадает на юношеские соревнования по конному спорту, где встречает юных жокеев, современных Ромео и Джульетту — Артура и Катю, которым предстоит выбор — победа или любовь. Самому Вершинину тоже придется найти ответ на самый сложный вопрос, что для него важнее, — его семья и любовь или карьера и прежняя слава?",
-   "popularity": 0.763,
+   "popularity": 0.979,
    "poster_path": "http://image.tmdb.org/t/p/w500/iJ2794qA3mi8PGfo3FtMyeO09vu.jpg",
    "production_companies": [
     {
@@ -44199,7 +44345,7 @@
    "original_language": "en",
    "original_title": "Angel of Mine",
    "overview": "Несколько лет Лиззи не может смириться с потерей дочери, погибшей при пожаре. Но однажды она знакомится с чужой девочкой и принимает ее за своего потерянного ребенка.",
-   "popularity": 8.253,
+   "popularity": 7.563,
    "poster_path": "http://image.tmdb.org/t/p/w500/dxfF7GsMR80TX7jYQG0IT6fk6jl.jpg",
    "production_companies": [
     {
@@ -44446,7 +44592,7 @@
    "original_language": "ru",
    "original_title": "Трудности выживания",
    "overview": "Начинающая журналистка Нина в погоне за сенсацией отправляется на необитаемый остров, где, по слухам, живет миллионер-затворник. Баркас со съёмочной группой попадает в жуткий шторм, и Нина приходит в сознание на пустынном берегу. К счастью, это именно тот остров, который ей был нужен, а значит, она оказалась в надежных руках молодого и симпатичного героя своего репортажа. Но только Нина еще не подозревает, что на самом деле это ее коллега, местный журналист, которому просто нужна была горячая тема, и он её выдумал. А ещё он ничего не смыслит в выживании…",
-   "popularity": 2.39,
+   "popularity": 2.279,
    "poster_path": "http://image.tmdb.org/t/p/w500/4bIydb3KmHRh8ufP6FAEQb9NxJH.jpg",
    "production_companies": [
     {
@@ -44570,7 +44716,7 @@
    "original_language": "en",
    "original_title": "Hollow Point",
    "overview": "Хэнк Кормак — адвокат и мститель, который возглавляет команду борцов с преступностью, ведущих войну против преступников, заражающих их город. Когда жена и дочь профессора колледжа Нолана Куорая гибнут в перекрестном огне бандитской разборки и системе не удается добиться справедливости, Нолан присоединяется к Хэнку и его команде в поисках справедливой мести.",
-   "popularity": 4.211,
+   "popularity": 5.479,
    "poster_path": "http://image.tmdb.org/t/p/w500/37xsiNxTTvA6kfUXa0BtKfHoiN8.jpg",
    "production_companies": [
     {
@@ -44679,8 +44825,8 @@
      "source": "rutor.info",
      "size": "3.33 GB",
      "date": "2019-09-30T00:00:00+03:00",
-     "upload": 57,
-     "download": 1
+     "upload": 47,
+     "download": 3
     }
    ]
   },
@@ -44714,7 +44860,7 @@
    "original_language": "en",
    "original_title": "Scooby-Doo! Return to Zombie Island",
    "overview": "",
-   "popularity": 6.328,
+   "popularity": 6.911,
    "poster_path": "http://image.tmdb.org/t/p/w500/vd0oIoWhEm8o7EpS0kV7RaV0Flf.jpg",
    "production_companies": [
     {
@@ -44819,7 +44965,7 @@
      "source": "rutor.info",
      "size": "3.33 GB",
      "date": "2019-09-27T00:00:00+03:00",
-     "upload": 38,
+     "upload": 34,
      "download": 3
     }
    ]
@@ -44846,7 +44992,7 @@
    "original_language": "en",
    "original_title": "The Naked Wanderer",
    "overview": "Джейк, которого только что бросила любимая девушка, в расстроенных чувствах, сгоряча соглашается принять участие в одиночном пешем марафоне и отправляется в путешествие длиной 4 тысячи километров вдоль западного побережья Австралии, будучи облаченным лишь в набедренную повязку. Официальная цель марафона — сбор денег на благотворительность, однако в тайне Джейк надеется таким образом снова обратить на себя внимание своей бывшей возлюбленной. Этими надеждами он живет ровно до того момента, когда встречает на своем пути обворожительную Валери…",
-   "popularity": 2.624,
+   "popularity": 3.134,
    "poster_path": "http://image.tmdb.org/t/p/w500/9WFwkV3esls83ZKaC8VFEzPWTgl.jpg",
    "production_companies": [],
    "production_countries": [
@@ -44949,7 +45095,7 @@
    "original_language": "ru",
    "original_title": "Бык",
    "overview": "1990-е годы. Пустые прилавки магазинов, экономическая пропасть и криминальные драмы, разворачивающиеся буквально на каждом углу. Молодой лидер преступной группировки Антон Быков по прозвищу Бык вынужден зарабатывать любыми способами, чтобы обеспечить свою семью. После районной «стрелки» Антон попадает в отделение милиции, откуда его вызволяет один из московских авторитетов. Взамен он просит героя о маленькой, но опасной услуге.",
-   "popularity": 3.214,
+   "popularity": 3.492,
    "poster_path": "http://image.tmdb.org/t/p/w500/5e0XMIy7v7ClDP6BIEWKK012LD2.jpg",
    "production_companies": [
     {
@@ -45086,7 +45232,7 @@
    "original_language": "en",
    "original_title": "A Score to Settle",
    "overview": "Отсидев 19 лет в тюрьме за несовершенное преступление, Фрэнк выходит на свободу. Ему придется сделать выбор - наверстать упущенные годы с сыном или отомстить людям, которых он считал друзьями. Удастся ли Фрэнку начать жизнь сначала?",
-   "popularity": 7.681,
+   "popularity": 6.719,
    "poster_path": "http://image.tmdb.org/t/p/w500/4PBwZGBP6ziKuOgHRpbVRyGoqy3.jpg",
    "production_companies": [
     {
@@ -45268,7 +45414,7 @@
    "original_language": "en",
    "original_title": "Child's Play",
    "overview": "Мать-одиночка Карен вместе с сыном Энди переезжает на новое место жительства в многоквартирный дом. Мальчик не стремится заводить друзей, поэтому мама дарит ему многофункциональную высокотехнологичную куклу, которую сдали в брак в универмаге, где она работает. Игрушка нарекает себя именем Чаки и стремится стать Энди лучшим другом, даже если для этого придётся немного проредить количество его знакомых.",
-   "popularity": 14.008,
+   "popularity": 14.58,
    "poster_path": "http://image.tmdb.org/t/p/w500/lTdeHqUvwGXXH7iAQlq0RY9zAEi.jpg",
    "production_companies": [
     {
@@ -45324,7 +45470,7 @@
    "title": "Детские игры",
    "video": false,
    "vote_average": 6,
-   "vote_count": 739,
+   "vote_count": 741,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -45668,8 +45814,8 @@
      "source": "rutor.info",
      "size": "8.46 GB",
      "date": "2019-09-15T00:00:00+03:00",
-     "upload": 60,
-     "download": 7
+     "upload": 59,
+     "download": 8
     },
     {
      "name": "Детские игры / Child's Play (2019) BDRemux 1080p от селезень | iTunes",
@@ -45678,7 +45824,7 @@
      "size": "21.96 GB",
      "date": "2019-09-15T00:00:00+03:00",
      "upload": 7,
-     "download": 3
+     "download": 1
     }
    ]
   },
@@ -45704,7 +45850,7 @@
    "original_language": "en",
    "original_title": "Secret Obsession",
    "overview": "Очнувшись в больнице после аварии с травмой головы Дженнифер не может ничего вспомнить из прошлого. Муж, радуясь что она осталась жива, отвозит её домой, в уединенное горное поместье. Наедине с мужчиной, о котором она ничего не помнит, ей становится очень тревожно. Ведущий расследование детектив Фрэнк Пейдж подозревает, что произошедшее не является случайностью. После того как его дочь пропала без вести и не была найдена, он очень тщательно проверяет все улики, пытаясь ничего не упустить. Найдя фотографии пострадавшей женщины в Интернете, где она с мужем, Пейдж понимает, что ей грозит смертельная опасность. Ведь человек забравший Дженнифер из больницы — не её муж.",
-   "popularity": 13.149,
+   "popularity": 15.812,
    "poster_path": "http://image.tmdb.org/t/p/w500/r9hRGmNsKxfeu9UH7lKvYEkIJgv.jpg",
    "production_companies": [
     {
@@ -45733,8 +45879,8 @@
    "tagline": "",
    "title": "Тайная одержимость",
    "video": false,
-   "vote_average": 5.3,
-   "vote_count": 582,
+   "vote_average": 5.4,
+   "vote_count": 585,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -45833,8 +45979,8 @@
      "source": "rutor.info",
      "size": "4.25 GB",
      "date": "2019-07-18T00:00:00+03:00",
-     "upload": 35,
-     "download": 3
+     "upload": 41,
+     "download": 2
     }
    ]
   },
@@ -45865,7 +46011,7 @@
    "original_language": "en",
    "original_title": "Escape Plan: The Extractors",
    "overview": "Рэй Бреслин, непревзойдённый взломщик тюрем, вместе со своей верной командой берётся разыскать похищенную дочь друга — бизнесмена из Гонконга. Нити расследования приводят к одной из самых секретных тюрем Америки, которая называется «Пункт Дьявола».",
-   "popularity": 9.444,
+   "popularity": 12.737,
    "poster_path": "http://image.tmdb.org/t/p/w500/8cCwLSdhKvB9DiWzTgY10Mtg3RB.jpg",
    "production_companies": [
     {
@@ -45913,7 +46059,7 @@
    "title": "План побега 3",
    "video": false,
    "vote_average": 4.6,
-   "vote_count": 254,
+   "vote_count": 255,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -46093,8 +46239,8 @@
      "source": "rutor.info",
      "size": "9.22 GB",
      "date": "2019-09-10T00:00:00+03:00",
-     "upload": 45,
-     "download": 8
+     "upload": 40,
+     "download": 4
     },
     {
      "name": "План побега 3 / Escape Plan: The Extractors (2019) BDRemux 1080p от селезень | Расширенная версия | iTunes",
@@ -46103,7 +46249,7 @@
      "size": "24.67 GB",
      "date": "2019-09-09T00:00:00+03:00",
      "upload": 8,
-     "download": 0
+     "download": 2
     },
     {
      "name": "План побега 3 / Escape Plan: The Extractors (2019) BDRip 1080p от селезень | СВ Студия",
@@ -46111,8 +46257,8 @@
      "source": "rutor.info",
      "size": "7.11 GB",
      "date": "2019-07-03T00:00:00+03:00",
-     "upload": 18,
-     "download": 0
+     "upload": 22,
+     "download": 5
     },
     {
      "name": "План побега 3 / Escape Plan: The Extractors (2019) BDRemux 1080p от селезень | СВ Студия",
@@ -46120,8 +46266,8 @@
      "source": "rutor.info",
      "size": "18.46 GB",
      "date": "2019-07-03T00:00:00+03:00",
-     "upload": 7,
-     "download": 1
+     "upload": 4,
+     "download": 2
     }
    ]
   },
@@ -46155,7 +46301,7 @@
    "original_language": "en",
    "original_title": "Killers Anonymous",
    "overview": "Где-то в секретном месте городские убийцы собираются на встречи анонимных киллеров — там, в кругу единомышленников, они учатся подавлять свои жестокие порывы. В ночь, когда скончался сенатор США, клуб пополнился таинственным новобранцем, и начались размолвки — все начали подозревать друг друга. В конце концов герои понимают, что они связаны с более крупной и ужасающей организацией, чем могли себе представить.",
-   "popularity": 5.75,
+   "popularity": 6.595,
    "poster_path": "http://image.tmdb.org/t/p/w500/nmxEgcUsM3pjLStlOWOEj1OeXAS.jpg",
    "production_companies": [
     {
@@ -46297,8 +46443,8 @@
      "source": "rutor.info",
      "size": "8.29 GB",
      "date": "2019-09-01T00:00:00+03:00",
-     "upload": 34,
-     "download": 2
+     "upload": 37,
+     "download": 0
     },
     {
      "name": "Клуб анонимных киллеров / Killers Anonymous (2019) WEB-DL 1080p | D, P | iTunes",
@@ -46306,7 +46452,7 @@
      "source": "rutor.info",
      "size": "6.66 GB",
      "date": "2019-08-29T00:00:00+03:00",
-     "upload": 24,
+     "upload": 28,
      "download": 0
     },
     {
@@ -46315,8 +46461,8 @@
      "source": "rutor.info",
      "size": "6.41 GB",
      "date": "2019-07-01T00:00:00+03:00",
-     "upload": 32,
-     "download": 0
+     "upload": 30,
+     "download": 1
     }
    ]
   },
@@ -46338,7 +46484,7 @@
    "original_language": "en",
    "original_title": "I Am Mother",
    "overview": "После глобального катаклизма человечество вымирает. В подземном бункере автоматически активизируется аварийная программа, и робот-гуманоид «Мать» выращивает из эмбриона человеческого ребенка. Девушка, воспитанная под бережным присмотром «Матери», никогда не видела ни поверхности Земли, ни других людей. Но однажды ее мир переворачивается, когда на пороге убежища появляется женщина с просьбой о помощи…",
-   "popularity": 13.152,
+   "popularity": 17.248,
    "poster_path": "http://image.tmdb.org/t/p/w500/rL7VVsA24nO1MrcAbmqGeBY4X59.jpg",
    "production_companies": [
     {
@@ -46392,7 +46538,7 @@
    "title": "Дитя робота",
    "video": false,
    "vote_average": 6.6,
-   "vote_count": 1102,
+   "vote_count": 1103,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -46591,8 +46737,8 @@
      "source": "rutor.info",
      "size": "5.38 GB",
      "date": "2019-08-22T00:00:00+03:00",
-     "upload": 16,
-     "download": 3
+     "upload": 17,
+     "download": 1
     },
     {
      "name": "Дитя робота / I Am Mother (2019) WEB-DL-HEVC 1080p | D, P | iTunes",
@@ -46600,8 +46746,8 @@
      "source": "rutor.info",
      "size": "4.39 GB",
      "date": "2019-08-21T00:00:00+03:00",
-     "upload": 83,
-     "download": 4
+     "upload": 89,
+     "download": 7
     },
     {
      "name": "Дитя робота / I Am Mother (2019) WEB-DL 1080p | D, P | iTunes",
@@ -46609,8 +46755,8 @@
      "source": "rutor.info",
      "size": "5.88 GB",
      "date": "2019-08-21T00:00:00+03:00",
-     "upload": 257,
-     "download": 11
+     "upload": 259,
+     "download": 16
     },
     {
      "name": "Дитя робота / I Am Mother (2019) WEB-DL 1080p | СВ Студия",
@@ -46618,8 +46764,8 @@
      "source": "rutor.info",
      "size": "5.58 GB",
      "date": "2019-06-11T00:00:00+03:00",
-     "upload": 338,
-     "download": 11
+     "upload": 374,
+     "download": 13
     }
    ]
   },
@@ -46645,7 +46791,7 @@
    "original_language": "en",
    "original_title": "See You Soon",
    "overview": "В преддверии Чемпионата мира по футболу-2018 американский игрок-суперзвезда получает серьезную травму, которая ставит под угрозу его дальнейшую карьеру. В поисках себя он отправляется в путешествие и встречает свою любовь. Невероятное чувство к девушке из Санкт-Петербурга меняет не только его жизнь, но и его самого.",
-   "popularity": 5.108,
+   "popularity": 5.41,
    "poster_path": "http://image.tmdb.org/t/p/w500/agL8HPt0LFbd2mxd8s3FQAEhekG.jpg",
    "production_companies": [
     {
@@ -46765,8 +46911,8 @@
      "source": "rutor.info",
      "size": "4.01 GB",
      "date": "2019-08-22T00:00:00+03:00",
-     "upload": 40,
-     "download": 2
+     "upload": 39,
+     "download": 6
     }
    ]
   },
@@ -46792,7 +46938,7 @@
    "original_language": "en",
    "original_title": "Project Ithaca",
    "overview": "Шестеро незнакомцев приходят в себя закованными на  борту космического корабля пришельцов. Страх и паника убьют их. И только вместе они найдут дорогу домой.",
-   "popularity": 4.331,
+   "popularity": 5.175,
    "poster_path": "http://image.tmdb.org/t/p/w500/o1BuDJHWS1ORQYVCeT8Gr9Jz3E0.jpg",
    "production_companies": [
     {
@@ -46880,8 +47026,8 @@
      "source": "rutor.info",
      "size": "19.78 GB",
      "date": "2019-08-20T00:00:00+03:00",
-     "upload": 3,
-     "download": 0
+     "upload": 4,
+     "download": 1
     },
     {
      "name": "Проект «Итака» / Project Ithaca (2019) BDRip-HEVC 1080p | iTunes",
@@ -46889,8 +47035,8 @@
      "source": "rutor.info",
      "size": "4.65 GB",
      "date": "2019-08-20T00:00:00+03:00",
-     "upload": 12,
-     "download": 1
+     "upload": 7,
+     "download": 0
     },
     {
      "name": "Проект «Итака» / Project Ithaca (2019) BDRip 1080p | iTunes",
@@ -46898,8 +47044,8 @@
      "source": "rutor.info",
      "size": "6.78 GB",
      "date": "2019-08-20T00:00:00+03:00",
-     "upload": 28,
-     "download": 0
+     "upload": 29,
+     "download": 2
     }
    ]
   },
@@ -46925,7 +47071,7 @@
    "original_language": "en",
    "original_title": "Vault",
    "overview": "Фильм рассказывает о группе преступников, которые в 1975 году совершили крупнейшее ограбление в Америке. Они украли свыше 30 миллионов у итальянской мафии в штате Род-Айлэнд.",
-   "popularity": 5.936,
+   "popularity": 6.254,
    "poster_path": "http://image.tmdb.org/t/p/w500/sxi0BXGiEBlzbclktf8IDlTPiWt.jpg",
    "production_companies": [],
    "production_countries": [],
@@ -47006,7 +47152,7 @@
      "source": "rutor.info",
      "size": "8.85 GB",
      "date": "2019-08-17T00:00:00+03:00",
-     "upload": 16,
+     "upload": 10,
      "download": 1
     },
     {
@@ -47015,7 +47161,7 @@
      "source": "rutor.info",
      "size": "6.51 GB",
      "date": "2019-06-20T00:00:00+03:00",
-     "upload": 25,
+     "upload": 30,
      "download": 0
     }
    ]
@@ -47046,7 +47192,7 @@
    "original_language": "ru",
    "original_title": "Выше неба",
    "overview": "Молодая девушка проводит лето на загородном курорте под бдительным присмотром матери. Там ее внимание привлекает парень, прошлое которого окутано тайной. Девушка не догадывается, что после этой встречи ее жизнь изменится навсегда, а чувствам будет суждено взлететь выше неба…",
-   "popularity": 0.6,
+   "popularity": 0.672,
    "poster_path": "http://image.tmdb.org/t/p/w500/nVLyQygOScijxv2PBFhjOKVsZd3.jpg",
    "production_companies": [
     {
@@ -47128,8 +47274,8 @@
      "source": "rutor.info",
      "size": "3.60 GB",
      "date": "2019-08-14T00:00:00+03:00",
-     "upload": 49,
-     "download": 3
+     "upload": 54,
+     "download": 2
     }
    ]
   },
@@ -47159,7 +47305,7 @@
    "original_language": "en",
    "original_title": "The Red Sea Diving Resort",
    "overview": "Фильм рассказывает о невероятной операции агентов израильской спецслужбы «Моссад», которые в 80-х годах перевезли в Израиль тысячи эфиопских евреев.",
-   "popularity": 9.269,
+   "popularity": 11.935,
    "poster_path": "http://image.tmdb.org/t/p/w500/bTgd1QQFTKdxESevtffAvIvCnz2.jpg",
    "production_companies": [
     {
@@ -47219,7 +47365,7 @@
    "title": "Курорт для ныряльщиков на Красном море",
    "video": false,
    "vote_average": 6.8,
-   "vote_count": 323,
+   "vote_count": 324,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -47377,7 +47523,7 @@
    "original_language": "en",
    "original_title": "Norm of the North: King Sized Adventure",
    "overview": "В ледяных горах Арктики терпит крушение самолет, управляемый археологом Джином. Аварию подстроил его коварный напарник, который похищает бесценную нефритовую статуэтку китайского божества — ключ к несметным сокровищам. На помощь Джину приходит король Арктики белый медведь Норм. В компании с леммингами он отправляется в смертельно опасное путешествие.",
-   "popularity": 3.097,
+   "popularity": 3.131,
    "poster_path": "http://image.tmdb.org/t/p/w500/6adAST1bxAZBo9yLeVQKOFTDl9g.jpg",
    "production_companies": [
     {
@@ -47505,8 +47651,8 @@
      "source": "rutor.info",
      "size": "3.46 GB",
      "date": "2019-08-07T00:00:00+03:00",
-     "upload": 48,
-     "download": 2
+     "upload": 58,
+     "download": 4
     }
    ]
   },
@@ -47545,7 +47691,7 @@
    "original_language": "en",
    "original_title": "Batman: Hush",
    "overview": "Адаптация сюжета «Бэтмен: Тихо!», от Джефа Лоэба и Джима Ли.",
-   "popularity": 9.982,
+   "popularity": 12.788,
    "poster_path": "http://image.tmdb.org/t/p/w500/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg",
    "production_companies": [
     {
@@ -47670,8 +47816,8 @@
      "source": "rutor.info",
      "size": "2.92 GB",
      "date": "2019-08-04T00:00:00+03:00",
-     "upload": 13,
-     "download": 1
+     "upload": 15,
+     "download": 2
     },
     {
      "name": "Бэтмен: Тихо! / Batman: Hush (2019) WEB-DL 1080p | Flarrow Films",
@@ -47706,7 +47852,7 @@
    "original_language": "en",
    "original_title": "Beats",
    "overview": "Сюжет фильма вращается вокруг страдающего от агорафобии хип-хоп вундеркинда и опального бывшего музыкального менеджера, которые пересекаются в южной части Чикаго и помогают друг другу взглянуть в лицо своим страхам.",
-   "popularity": 12.33,
+   "popularity": 12.128,
    "poster_path": "http://image.tmdb.org/t/p/w500/b8P13nIvkkizVBzd2RpegsRt5zP.jpg",
    "production_companies": [
     {
@@ -47821,7 +47967,7 @@
      "source": "rutor.info",
      "size": "3.40 GB",
      "date": "2019-08-02T00:00:00+03:00",
-     "upload": 19,
+     "upload": 27,
      "download": 0
     }
    ]
@@ -47926,8 +48072,8 @@
      "source": "rutor.info",
      "size": "2.89 GB",
      "date": "2019-07-25T00:00:00+03:00",
-     "upload": 83,
-     "download": 3
+     "upload": 82,
+     "download": 5
     }
    ]
   },
@@ -47966,7 +48112,7 @@
    "original_language": "en",
    "original_title": "Critters Attack!",
    "overview": "Зубастики снова посетили нашу планету! Дрея, двадцатилетняя девушка, мечтающая поступить в колледж, находит подработку сиделкой. Чтобы занять детишек, она предлагает прогуляться по лесу. Во время прогулки они находят таинственного раненого зверька и решают помочь ему.",
-   "popularity": 5.359,
+   "popularity": 6.212,
    "poster_path": "http://image.tmdb.org/t/p/w500/iQJQNElDQqQ3iXf46pyMmhReoyp.jpg",
    "production_companies": [
     {
@@ -48114,7 +48260,7 @@
    "original_language": "en",
    "original_title": "Point Blank",
    "overview": "Беременную жену Пола, медбрата из отделения неотложной помощи, похищают и удерживают в качестве залога, так что ему придется вызволить из госпиталя тяжело раненного пациента, подозреваемого в многочисленных преступлениях. Вместе они попадут между молотом и наковальней, преследуемые, с одной стороны, противоборствующими группировками, а с другой — коррумпированными полицейскими.",
-   "popularity": 10.769,
+   "popularity": 10.953,
    "poster_path": "http://image.tmdb.org/t/p/w500/weAvkxl0dnPevIKD8fwHjiOi6tc.jpg",
    "production_companies": [
     {
@@ -48245,8 +48391,8 @@
      "source": "rutor.info",
      "size": "3.13 GB",
      "date": "2019-07-12T00:00:00+03:00",
-     "upload": 219,
-     "download": 21
+     "upload": 243,
+     "download": 19
     }
    ]
   },
@@ -48268,7 +48414,7 @@
    "original_language": "de",
    "original_title": "Kidnapping Stella",
    "overview": "Двое преступников тщательно планируют похищение человека с целью последующего получения выкупа. Их выбор падает на молодую девушку Стеллу - она единственный ребёнок в обеспеченной семье, так что её ценность кажется неоспоримой. Когда все детали замысла сходятся воедино, мужчины похищают Стеллу прямо с улицы, отвозят в уединённое место и приковывают к постели, а после обращаются по электронной почте к её отцу с требованием о выкупе.",
-   "popularity": 10.498,
+   "popularity": 14.157,
    "poster_path": "http://image.tmdb.org/t/p/w500/pJ15KHpOOD4moAg8LgE6kG40EJY.jpg",
    "production_companies": [
     {
@@ -48383,7 +48529,7 @@
      "source": "rutor.info",
      "size": "2.70 GB",
      "date": "2019-07-12T00:00:00+03:00",
-     "upload": 11,
+     "upload": 10,
      "download": 0
     }
    ]
@@ -48410,7 +48556,7 @@
    "original_language": "en",
    "original_title": "Daughter of the Wolf",
    "overview": "Клэр возвращается домой из поездки по Ближнему Востоку и узнает о том, что ее 13-лений сын похищен местными бандитами во главе с неким мужчиной, известным как Отец.",
-   "popularity": 7.073,
+   "popularity": 8.318,
    "poster_path": "http://image.tmdb.org/t/p/w500/ghoNQkJX9Hk1m8GxTsBg4Xez1gn.jpg",
    "production_companies": [
     {
@@ -48520,7 +48666,7 @@
      "source": "rutor.info",
      "size": "5.19 GB",
      "date": "2019-06-17T00:00:00+03:00",
-     "upload": 11,
+     "upload": 13,
      "download": 1
     }
    ]
@@ -48543,7 +48689,7 @@
    "original_language": "en",
    "original_title": "Hallowed Ground",
    "overview": "Семейная пара, пытаясь восстановить отношения после измены, отправляется в домик в глухом лесу, чтобы побыть только вдвоем. Но неожиданно они сталкиваются с кровной враждой между коренными американцами и соседним кланом, который одержим защитой своих земель и наказанием каждого, кто нарушит их границы.",
-   "popularity": 3.592,
+   "popularity": 4.954,
    "poster_path": "http://image.tmdb.org/t/p/w500/ix95IOWDsbWEhYpZQEDy2eajdZe.jpg",
    "production_companies": [
     {
@@ -48619,7 +48765,7 @@
      "source": "rutor.info",
      "size": "8.49 GB",
      "date": "2019-06-17T00:00:00+03:00",
-     "upload": 2,
+     "upload": 1,
      "download": 0
     }
    ]
@@ -48650,7 +48796,7 @@
    "original_language": "en",
    "original_title": "Occupation",
    "overview": "Небольшая группа жителей города, которая выжила после разрушительного внеземного вторжения, должна объединиться, чтобы нанести ответный удар по врагам.",
-   "popularity": 6.775,
+   "popularity": 6.487,
    "poster_path": "http://image.tmdb.org/t/p/w500/qaKQgMDmdUyUulFVXldKcs3Tksh.jpg",
    "production_companies": [
     {
