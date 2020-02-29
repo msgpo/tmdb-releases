@@ -1,6 +1,6 @@
 {
  "Date": "2020-02-29",
- "Time": "18:21:16",
+ "Time": "20:19:18",
  "Items": [
   {
    "adult": false,
@@ -59,8 +59,8 @@
    "tagline": "",
    "title": "Все радостные места",
    "video": false,
-   "vote_average": 8,
-   "vote_count": 63,
+   "vote_average": 8.1,
+   "vote_count": 58,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -162,7 +162,7 @@
      "size": "4.78 GB",
      "date": "2020-02-28T00:00:00+03:00",
      "upload": 35,
-     "download": 13
+     "download": 16
     }
    ]
   },
@@ -847,7 +847,7 @@
    "title": "Скандал",
    "video": false,
    "vote_average": 6.9,
-   "vote_count": 404,
+   "vote_count": 403,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -965,27 +965,10 @@
       ]
      },
      {
-      "iso_3166_1": "US",
+      "iso_3166_1": "SE",
       "release_dates": [
        {
-        "certification": "R",
-        "iso_639_1": "",
-        "release_date": "2019-12-20T00:00:00Z",
-        "type": 3
-       },
-       {
-        "certification": "R",
-        "iso_639_1": "",
-        "release_date": "2019-12-13T00:00:00Z",
-        "type": 2
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "IE",
-      "release_dates": [
-       {
-        "certification": "15A",
+        "certification": "11",
         "iso_639_1": "",
         "release_date": "2020-01-17T00:00:00Z",
         "type": 3
@@ -1081,34 +1064,40 @@
       ]
      },
      {
-      "iso_3166_1": "SE",
-      "release_dates": [
-       {
-        "certification": "11",
-        "iso_639_1": "",
-        "release_date": "2020-01-17T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "HK",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-12-19T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
       "iso_3166_1": "DE",
       "release_dates": [
        {
         "certification": "12",
         "iso_639_1": "",
         "release_date": "2020-02-13T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "US",
+      "release_dates": [
+       {
+        "certification": "R",
+        "iso_639_1": "",
+        "release_date": "2019-12-20T00:00:00Z",
+        "type": 3
+       },
+       {
+        "certification": "R",
+        "iso_639_1": "",
+        "release_date": "2019-12-13T00:00:00Z",
+        "type": 2
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "IE",
+      "release_dates": [
+       {
+        "certification": "15A",
+        "iso_639_1": "",
+        "release_date": "2020-01-17T00:00:00Z",
         "type": 3
        }
       ]
@@ -1251,8 +1240,8 @@
      "source": "rutor.info",
      "size": "5.11 GB",
      "date": "2020-02-27T00:00:00+03:00",
-     "upload": 153,
-     "download": 17
+     "upload": 161,
+     "download": 26
     }
    ]
   },
@@ -1330,7 +1319,7 @@
    "title": "Ангелы Чарли",
    "video": false,
    "vote_average": 6.4,
-   "vote_count": 504,
+   "vote_count": 503,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -1835,7 +1824,7 @@
    "title": "Джуманджи: Новый уровень",
    "video": false,
    "vote_average": 6.7,
-   "vote_count": 1738,
+   "vote_count": 1735,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -4154,7 +4143,7 @@
    "title": "Мидуэй",
    "video": false,
    "vote_average": 6.7,
-   "vote_count": 383,
+   "vote_count": 382,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -4647,7 +4636,7 @@
    "title": "Темные воды",
    "video": false,
    "vote_average": 7.4,
-   "vote_count": 158,
+   "vote_count": 157,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -4732,17 +4721,6 @@
       ]
      },
      {
-      "iso_3166_1": "GB",
-      "release_dates": [
-       {
-        "certification": "12A",
-        "iso_639_1": "",
-        "release_date": "2020-02-28T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
       "iso_3166_1": "IL",
       "release_dates": [
        {
@@ -4788,6 +4766,28 @@
         "certification": "PG-13",
         "iso_639_1": "",
         "release_date": "2019-11-22T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "SE",
+      "release_dates": [
+       {
+        "certification": "11",
+        "iso_639_1": "",
+        "release_date": "2020-03-06T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "GB",
+      "release_dates": [
+       {
+        "certification": "12A",
+        "iso_639_1": "",
+        "release_date": "2020-02-28T00:00:00Z",
         "type": 3
        }
       ]
@@ -4871,28 +4871,6 @@
         "certification": "",
         "iso_639_1": "",
         "release_date": "2020-01-24T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "SE",
-      "release_dates": [
-       {
-        "certification": "11",
-        "iso_639_1": "",
-        "release_date": "2020-03-06T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "HK",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2020-01-30T00:00:00Z",
         "type": 3
        }
       ]
@@ -5241,8 +5219,8 @@
      "source": "rutor.info",
      "size": "5.28 GB",
      "date": "2020-02-22T00:00:00+03:00",
-     "upload": 89,
-     "download": 6
+     "upload": 86,
+     "download": 8
     },
     {
      "name": "Последнее, чего он хотел / The Last Thing He Wanted (2020) WEB-DL 1080p | Пифагор",
@@ -5250,7 +5228,7 @@
      "source": "rutor.info",
      "size": "4.37 GB",
      "date": "2020-02-21T00:00:00+03:00",
-     "upload": 1082,
+     "upload": 1157,
      "download": 84
     }
    ]
@@ -5670,7 +5648,7 @@
    "title": "Достать ножи",
    "video": false,
    "vote_average": 7.8,
-   "vote_count": 2394,
+   "vote_count": 2392,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -7551,7 +7529,7 @@
    "title": "Щегол",
    "video": false,
    "vote_average": 6.5,
-   "vote_count": 165,
+   "vote_count": 166,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -9279,7 +9257,7 @@
    "title": "Холодное сердце 2",
    "video": false,
    "vote_average": 7,
-   "vote_count": 2511,
+   "vote_count": 2516,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -10927,7 +10905,7 @@
    "title": "21 мост",
    "video": false,
    "vote_average": 6.2,
-   "vote_count": 320,
+   "vote_count": 321,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -11682,7 +11660,7 @@
    "title": "Кролик Джоджо",
    "video": false,
    "vote_average": 8.1,
-   "vote_count": 2132,
+   "vote_count": 2136,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -13627,7 +13605,7 @@
    "title": "Прекрасный день по соседству",
    "video": false,
    "vote_average": 7.3,
-   "vote_count": 276,
+   "vote_count": 277,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -19085,8 +19063,8 @@
      "source": "rutor.info",
      "size": "3.78 GB",
      "date": "2020-01-19T00:00:00+03:00",
-     "upload": 46,
-     "download": 0
+     "upload": 50,
+     "download": 1
     }
    ]
   },
@@ -20290,8 +20268,8 @@
    "tagline": "На что ты готов пойти, чтоб спасти всё что тебе дорого?",
    "title": "Последняя пуля",
    "video": false,
-   "vote_average": 4.7,
-   "vote_count": 10,
+   "vote_average": 4.6,
+   "vote_count": 11,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -20378,8 +20356,8 @@
      "source": "rutor.info",
      "size": "20.47 GB",
      "date": "2020-02-13T00:00:00+03:00",
-     "upload": 20,
-     "download": 5
+     "upload": 22,
+     "download": 3
     },
     {
      "name": "Последняя пуля / Disturbing the Peace (2020) WEB-DL 1080p | iTunes",
@@ -20387,8 +20365,8 @@
      "source": "rutor.info",
      "size": "3.72 GB",
      "date": "2020-01-17T00:00:00+03:00",
-     "upload": 261,
-     "download": 12
+     "upload": 277,
+     "download": 6
     }
    ]
   },
@@ -24217,7 +24195,7 @@
    "title": "Дождливый день в Нью-Йорке",
    "video": false,
    "vote_average": 6.8,
-   "vote_count": 576,
+   "vote_count": 575,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -26172,7 +26150,7 @@
    "title": "Глория Белл",
    "video": false,
    "vote_average": 5.9,
-   "vote_count": 127,
+   "vote_count": 126,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -28458,7 +28436,7 @@
    "title": "Поменяться местами",
    "video": false,
    "vote_average": 7.2,
-   "vote_count": 259,
+   "vote_count": 260,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -33790,7 +33768,7 @@
    "title": "Брачная история",
    "video": false,
    "vote_average": 7.9,
-   "vote_count": 2641,
+   "vote_count": 2643,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -41049,7 +41027,7 @@
   },
   {
    "adult": false,
-   "backdrop_path": "http://image.tmdb.org/t/p/w780/75qZEe83YLt06ARmRp6KS47huyD.jpg",
+   "backdrop_path": "http://image.tmdb.org/t/p/w780/zadFl8HjZkEl0UVFYDpAb1ZtuxF.jpg",
    "belongs_to_collection": null,
    "budget": 0,
    "genre_ids": null,
@@ -41114,8 +41092,8 @@
    "tagline": "",
    "title": "Витрина DC: Смерть",
    "video": false,
-   "vote_average": 8.2,
-   "vote_count": 3,
+   "vote_average": 8.9,
+   "vote_count": 5,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -41246,7 +41224,7 @@
    "title": "Ирландец",
    "video": false,
    "vote_average": 7.8,
-   "vote_count": 2736,
+   "vote_count": 2738,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -48676,7 +48654,7 @@
    "title": "Путь: Во все тяжкие",
    "video": false,
    "vote_average": 6.9,
-   "vote_count": 2022,
+   "vote_count": 2023,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -49073,8 +49051,8 @@
      "source": "rutor.info",
      "size": "3.38 GB",
      "date": "2019-10-12T00:00:00+03:00",
-     "upload": 185,
-     "download": 9
+     "upload": 199,
+     "download": 12
     }
    ]
   },
@@ -49144,7 +49122,7 @@
    "title": "Перелом",
    "video": false,
    "vote_average": 6.5,
-   "vote_count": 825,
+   "vote_count": 826,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -52409,7 +52387,7 @@
    "title": "Маленькая Италия",
    "video": false,
    "vote_average": 6.6,
-   "vote_count": 258,
+   "vote_count": 257,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
