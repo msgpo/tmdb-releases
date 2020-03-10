@@ -1,7 +1,703 @@
 {
  "Date": "2020-03-10",
- "Time": "00:19:10",
+ "Time": "04:19:28",
  "Items": [
+  {
+   "adult": false,
+   "backdrop_path": "http://image.tmdb.org/t/p/w780/n0FzDpOvVhkj3uN7WHXXnAXOKFi.jpg",
+   "belongs_to_collection": null,
+   "budget": 0,
+   "genre_ids": null,
+   "genres": [
+    {
+     "id": 18,
+     "name": "драма"
+    }
+   ],
+   "homepage": "http://lastblackmansf.movie",
+   "id": 522039,
+   "imdb_id": "tt4353250",
+   "original_language": "en",
+   "original_title": "The Last Black Man in San Francisco",
+   "overview": "",
+   "popularity": 7.366,
+   "poster_path": "http://image.tmdb.org/t/p/w500/AuKLgnBoSQ8tfK5Do3r1LCXwLWH.jpg",
+   "production_companies": [
+    {
+     "id": 101583,
+     "logo_path": "",
+     "name": "Longshot",
+     "origin_country": ""
+    },
+    {
+     "id": 81,
+     "logo_path": "http://image.tmdb.org/t/p/w185/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+     "name": "Plan B Entertainment",
+     "origin_country": "US"
+    },
+    {
+     "id": 41077,
+     "logo_path": "http://image.tmdb.org/t/p/w185/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+     "name": "A24",
+     "origin_country": "US"
+    }
+   ],
+   "production_countries": [
+    {
+     "iso_3166_1": "US",
+     "name": "United States of America"
+    }
+   ],
+   "release_date": "26.01.2019",
+   "revenue": 2975184,
+   "runtime": 120,
+   "spoken_languages": [
+    {
+     "iso_639_1": "ht",
+     "name": ""
+    },
+    {
+     "iso_639_1": "en",
+     "name": "English"
+    }
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Last Black Man in San Francisco",
+   "video": false,
+   "vote_average": 7.4,
+   "vote_count": 80,
+   "created_by": null,
+   "episode_run_time": null,
+   "first_air_date": "",
+   "in_production": false,
+   "languages": null,
+   "last_air_date": "",
+   "name": "",
+   "networks": null,
+   "number_of_episodes": 0,
+   "number_of_seasons": 0,
+   "origin_country": null,
+   "original_name": "",
+   "seasons": null,
+   "type": "",
+   "year": "2019",
+   "character": "",
+   "media_type": "movie",
+   "credit_id": "",
+   "videos": {
+    "id": 522039,
+    "results": []
+   },
+   "release_dates": {
+    "id": 0,
+    "results": [
+     {
+      "iso_3166_1": "GB",
+      "release_dates": [
+       {
+        "certification": "15",
+        "iso_639_1": "",
+        "release_date": "2019-10-25T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "US",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-01-26T00:00:00Z",
+        "type": 1
+       },
+       {
+        "certification": "R",
+        "iso_639_1": "",
+        "release_date": "2019-06-07T00:00:00Z",
+        "type": 2
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "CH",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-08-12T00:00:00Z",
+        "type": 2
+       }
+      ]
+     }
+    ]
+   },
+   "torrent": [
+    {
+     "name": "Последний черный в Сан-Франциско / The Last Black Man in San Francisco (2019) BDRip 1080p | P",
+     "magnet": "magnet:?xt=urn:btih:f8e25c540cc9659a4418a571f79c04151b1ed216\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "8.91 GB",
+     "date": "2020-03-10T00:00:00+03:00",
+     "upload": 0,
+     "download": 0
+    },
+    {
+     "name": "Последний черный в Сан-Франциско / The Last Black Man in San Francisco (2019) BDRemux 1080р от ExKinoRay | P",
+     "magnet": "magnet:?xt=urn:btih:a6cc70d86fb9f5eee7c03c050fc787335463b2af\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "31.89 GB",
+     "date": "2020-03-09T00:00:00+03:00",
+     "upload": 0,
+     "download": 16
+    }
+   ]
+  },
+  {
+   "adult": false,
+   "backdrop_path": "http://image.tmdb.org/t/p/w780/cqa3sa4c4jevgnEJwq3CMF8UfTG.jpg",
+   "belongs_to_collection": null,
+   "budget": 100000000,
+   "genre_ids": null,
+   "genres": [
+    {
+     "id": 10752,
+     "name": "военный"
+    },
+    {
+     "id": 18,
+     "name": "драма"
+    },
+    {
+     "id": 28,
+     "name": "боевик"
+    }
+   ],
+   "homepage": "https://www.1917.movie/",
+   "id": 530915,
+   "imdb_id": "tt8579674",
+   "original_language": "en",
+   "original_title": "1917",
+   "overview": "1917 год, разгар Первой мировой войны. Двум юным молодым солдатам поручают смертельно опасную миссию. Они должны пересечь вражескую территорию и доставить секретное сообщение, которое предотвратит неминуемую гибель сотен солдат… Смогут ли они выиграть гонку со временем?",
+   "popularity": 98.169,
+   "poster_path": "http://image.tmdb.org/t/p/w500/9PtIdTW2geKXQbOG17dKLe1JWu4.jpg",
+   "production_companies": [
+    {
+     "id": 1522,
+     "logo_path": "",
+     "name": "Neal Street Productions",
+     "origin_country": "GB"
+    },
+    {
+     "id": 7,
+     "logo_path": "http://image.tmdb.org/t/p/w185/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+     "name": "DreamWorks Pictures",
+     "origin_country": "US"
+    },
+    {
+     "id": 114732,
+     "logo_path": "http://image.tmdb.org/t/p/w185/tNCbisMxO5mX2X2bOQxHHQZVYnT.png",
+     "name": "New Republic Pictures",
+     "origin_country": "US"
+    },
+    {
+     "id": 121685,
+     "logo_path": "http://image.tmdb.org/t/p/w185/bAO6cpKP9qoqHoDn4oUjWjZ5auq.png",
+     "name": "Amblin Partners",
+     "origin_country": "US"
+    },
+    {
+     "id": 33,
+     "logo_path": "http://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+     "name": "Universal Pictures",
+     "origin_country": "US"
+    }
+   ],
+   "production_countries": [
+    {
+     "iso_3166_1": "GB",
+     "name": "United Kingdom"
+    },
+    {
+     "iso_3166_1": "US",
+     "name": "United States of America"
+    }
+   ],
+   "release_date": "04.12.2019",
+   "revenue": 200483309,
+   "runtime": 119,
+   "spoken_languages": [
+    {
+     "iso_639_1": "en",
+     "name": "English"
+    },
+    {
+     "iso_639_1": "fr",
+     "name": "Français"
+    },
+    {
+     "iso_639_1": "de",
+     "name": "Deutsch"
+    }
+   ],
+   "status": "Released",
+   "tagline": "Время — наш главный враг",
+   "title": "1917",
+   "video": false,
+   "vote_average": 8,
+   "vote_count": 3094,
+   "created_by": null,
+   "episode_run_time": null,
+   "first_air_date": "",
+   "in_production": false,
+   "languages": null,
+   "last_air_date": "",
+   "name": "",
+   "networks": null,
+   "number_of_episodes": 0,
+   "number_of_seasons": 0,
+   "origin_country": null,
+   "original_name": "",
+   "seasons": null,
+   "type": "",
+   "year": "2019",
+   "character": "",
+   "media_type": "movie",
+   "credit_id": "",
+   "videos": {
+    "id": 530915,
+    "results": [
+     {
+      "id": "5d7542cfd19a3300121260b8",
+      "iso_3166_1": "RU",
+      "iso_639_1": "ru",
+      "key": "AtqH2M4nfW8",
+      "name": "1917 | Трейлер 1 | В кино с 6 февраля",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "link": "https://www.youtube.com/watch?v=AtqH2M4nfW8",
+      "poster": "https://img.youtube.com/vi/AtqH2M4nfW8/0.jpg"
+     },
+     {
+      "id": "5d970d7dae26be0023bdd5b6",
+      "iso_3166_1": "RU",
+      "iso_639_1": "ru",
+      "key": "iHGSkWoPp0o",
+      "name": "1917 | Трейлер 2 | В кино с 6 февраля",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "link": "https://www.youtube.com/watch?v=iHGSkWoPp0o",
+      "poster": "https://img.youtube.com/vi/iHGSkWoPp0o/0.jpg"
+     },
+     {
+      "id": "5e0cb9138586780015c03ab4",
+      "iso_3166_1": "RU",
+      "iso_639_1": "ru",
+      "key": "ozJvM9jooTk",
+      "name": "1917 — Русский трейлер (2020)",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "link": "https://www.youtube.com/watch?v=ozJvM9jooTk",
+      "poster": "https://img.youtube.com/vi/ozJvM9jooTk/0.jpg"
+     }
+    ]
+   },
+   "release_dates": {
+    "id": 0,
+    "results": [
+     {
+      "iso_3166_1": "CH",
+      "release_dates": [
+       {
+        "certification": "R",
+        "iso_639_1": "",
+        "release_date": "2020-01-15T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "US",
+      "release_dates": [
+       {
+        "certification": "R",
+        "iso_639_1": "",
+        "release_date": "2019-12-10T00:00:00Z",
+        "type": 2
+       },
+       {
+        "certification": "R",
+        "iso_639_1": "",
+        "release_date": "2019-12-25T00:00:00Z",
+        "type": 3
+       },
+       {
+        "certification": "R",
+        "iso_639_1": "",
+        "release_date": "2020-03-10T00:00:00Z",
+        "type": 4
+       },
+       {
+        "certification": "R",
+        "iso_639_1": "en",
+        "release_date": "2020-03-24T00:00:00Z",
+        "type": 5
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "LT",
+      "release_dates": [
+       {
+        "certification": "N-13",
+        "iso_639_1": "",
+        "release_date": "2020-01-10T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "AU",
+      "release_dates": [
+       {
+        "certification": "MA15+",
+        "iso_639_1": "",
+        "release_date": "2020-01-09T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "PT",
+      "release_dates": [
+       {
+        "certification": "M/14",
+        "iso_639_1": "",
+        "release_date": "2020-01-23T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "HK",
+      "release_dates": [
+       {
+        "certification": "IIB",
+        "iso_639_1": "",
+        "release_date": "2020-01-09T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "RU",
+      "release_dates": [
+       {
+        "certification": "16+",
+        "iso_639_1": "",
+        "release_date": "2020-01-30T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-01-09T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "SG",
+      "release_dates": [
+       {
+        "certification": "PG13",
+        "iso_639_1": "",
+        "release_date": "2020-01-09T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "GR",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-01-09T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "CZ",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-02-27T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "TR",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-01-10T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "CA",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-12-25T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "BE",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-01-08T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "UA",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-01-30T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "ES",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-01-10T00:00:00Z",
+        "type": 3
+       },
+       {
+        "certification": "12",
+        "iso_639_1": "",
+        "release_date": "2020-05-06T00:00:00Z",
+        "type": 5
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "FI",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-01-24T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "HU",
+      "release_dates": [
+       {
+        "certification": "16",
+        "iso_639_1": "",
+        "release_date": "2020-01-23T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "FR",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-01-15T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "BR",
+      "release_dates": [
+       {
+        "certification": "14",
+        "iso_639_1": "",
+        "release_date": "2020-01-23T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "MX",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-12-25T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "SK",
+      "release_dates": [
+       {
+        "certification": "15",
+        "iso_639_1": "",
+        "release_date": "2020-02-13T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "DK",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-01-02T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "GB",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-12-04T00:00:00Z",
+        "type": 1
+       },
+       {
+        "certification": "15",
+        "iso_639_1": "",
+        "release_date": "2020-01-10T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "AT",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-01-16T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "DE",
+      "release_dates": [
+       {
+        "certification": "12",
+        "iso_639_1": "",
+        "release_date": "2020-01-16T00:00:00Z",
+        "type": 3
+       },
+       {
+        "certification": "12",
+        "iso_639_1": "",
+        "release_date": "2020-05-28T00:00:00Z",
+        "type": 5
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "IT",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-01-23T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "KR",
+      "release_dates": [
+       {
+        "certification": "15세 이상 관람가",
+        "iso_639_1": "",
+        "release_date": "2020-02-19T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "CO",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-01-23T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "SE",
+      "release_dates": [
+       {
+        "certification": "15",
+        "iso_639_1": "",
+        "release_date": "2020-01-31T00:00:00Z",
+        "type": 3
+       }
+      ]
+     }
+    ]
+   },
+   "torrent": [
+    {
+     "name": "1917 / 1917 (2019) WEB-DL 1080p | P",
+     "magnet": "magnet:?xt=urn:btih:0ee88e7ba14e52cb3f3b148669c3390e0f6795aa\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.14 GB",
+     "date": "2020-03-09T00:00:00+03:00",
+     "upload": 51,
+     "download": 28
+    },
+    {
+     "name": "1917 / 1917 (2019) WEB-DL 1080p | A",
+     "magnet": "magnet:?xt=urn:btih:be6e4eaf26c7855b23fceb8212c45c8bcb6b1aaa\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "3.98 GB",
+     "date": "2020-03-09T00:00:00+03:00",
+     "upload": 29,
+     "download": 9
+    }
+   ]
+  },
   {
    "adult": false,
    "backdrop_path": "http://image.tmdb.org/t/p/w780/y3EYKX67ECdpMeFYQxdDe03conE.jpg",
@@ -29,7 +725,7 @@
    "original_language": "da",
    "original_title": "Skammerens datter II: Slangens gave",
    "overview": "От своих родителей Дина унаследовала сверхъестественный дар - способность распознавать правду по первому взгляду на человека. Будучи ещё ребёнком, с помощью своего таланта она расследовала убийство целой королевской семьи.  В новой части приключенческого фэнтези \"Пробуждающая совесть\" Дина встречает таинственного незнакомца, который называет себя Чёрным Мастером и пытается убедить девушку, что является её отцом. Она не верит ни единому его слову и всеми способами старается избегать встречи с ним. Но в скором времени Дина вынуждена просить помощи Чёрного Мастера, и они отправляются вместе в опасное путешествие, чтобы спасти Давина, брата девушки, и принца Нико от кровожадного Дракана.",
-   "popularity": 4.248,
+   "popularity": 4.25,
    "poster_path": "http://image.tmdb.org/t/p/w500/nubRo8ArWjmH3nyZE3vJl21ESnc.jpg",
    "production_companies": [
     {
@@ -196,7 +892,7 @@
    "original_language": "en",
    "original_title": "VFW",
    "overview": "Группа ветеранов вступает в противостояние с местным барыгой и его отрядом панков-мутантов.",
-   "popularity": 7.237,
+   "popularity": 5.33,
    "poster_path": "http://image.tmdb.org/t/p/w500/AnVD7Gn14uOTQhcc5xYZGQ9DRvS.jpg",
    "production_companies": [
     {
@@ -318,7 +1014,7 @@
    "original_language": "en",
    "original_title": "Jay and Silent Bob Reboot",
    "overview": "Неугомонные приятели Джей и молчаливый Боб отправляются в Голливуд, когда узнают, что студия готовит новую экранизацию комикса о Пыхаре и Хронике, прототипами которых стали они сами.",
-   "popularity": 20.807,
+   "popularity": 20.694,
    "poster_path": "http://image.tmdb.org/t/p/w500/3hLTjzInrHgbcaedjnWNEPOinDi.jpg",
    "production_companies": [
     {
@@ -368,7 +1064,7 @@
    "title": "Джей и молчаливый Боб: Перезагрузка",
    "video": false,
    "vote_average": 6,
-   "vote_count": 107,
+   "vote_count": 108,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -530,7 +1226,7 @@
    "original_language": "fr",
    "original_title": "Hors Normes",
    "overview": "Бруно и Малик уже 20 лет работают с детьми и подростками с аутизмом. Они отвечают за две некоммерческие организации, где учат молодых людей из неблагополучных районов заниматься самыми тяжёлыми случаями, от которых отказались все остальные.",
-   "popularity": 21.814,
+   "popularity": 18.152,
    "poster_path": "http://image.tmdb.org/t/p/w500/f9I8unVRGMKumYzNAMNzU98YeV2.jpg",
    "production_companies": [
     {
@@ -596,7 +1292,7 @@
    "title": "Особенные",
    "video": false,
    "vote_average": 8.3,
-   "vote_count": 234,
+   "vote_count": 235,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -822,7 +1518,7 @@
    "original_language": "en",
    "original_title": "Swallow",
    "overview": "Любящий муж, роскошный дом и долгожданная беременность. Кажется, что она окутана заботой со всех сторон. Её ежеминутно окружают люди, которые всегда дадут совет, как быть хорошей женой и мамой. Почему же тогда она испытывает неутолимый голод, когда смотрит на острые предметы…",
-   "popularity": 12.431,
+   "popularity": 17.403,
    "poster_path": "http://image.tmdb.org/t/p/w500/tJnV7AUgEMuTxUgZTm38k6NnZ0l.jpg",
    "production_companies": [
     {
@@ -873,8 +1569,8 @@
    "tagline": "",
    "title": "Глотай",
    "video": false,
-   "vote_average": 7,
-   "vote_count": 12,
+   "vote_average": 6.8,
+   "vote_count": 13,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -988,7 +1684,7 @@
    "original_language": "fr",
    "original_title": "Une fille facile",
    "overview": "Наиме только что исполнилось 16. Этим летом ей придется решить, чего она хочет от жизни. Она встречает кузину Софию, которой 22 года — с удивительным телом и опасно соблазнительным образом жизни. Несмотря на предупреждения ее лучшей подруги Додо, она и София переживут незабываемые встречи в течение долгого лета, которое они запомнят навсегда.",
-   "popularity": 8.268,
+   "popularity": 7.032,
    "poster_path": "http://image.tmdb.org/t/p/w500/nbf8h5YrBxUlLXPxClZffcUwONy.jpg",
    "production_companies": [
     {
@@ -1198,7 +1894,7 @@
    "original_language": "en",
    "original_title": "Official Secrets",
    "overview": "Шпионка британской разведки Кэтрин Ган обнародует засекреченное электронное письмо, в котором изобличаются американское и британское правительства в их незаконном вторжении в Ирак. Кэтрин и её адвокаты пытаются оправдать её действия в суде — ей вменяют нарушение Закона о государственной тайне. Под угрозой её жизнь, свобода и брак, но ей необходимо отстоять свои убеждения…",
-   "popularity": 37.054,
+   "popularity": 51.876,
    "poster_path": "http://image.tmdb.org/t/p/w500/2gb3jPcIyzoUWfT6isGLjQwTAaH.jpg",
    "production_companies": [
     {
@@ -1526,7 +2222,7 @@
    "original_language": "en",
    "original_title": "Bombshell",
    "overview": "История женщин, которые разоблачили и свергли с трона своего босса — печально известного основателя самой могущественной и противоречивой медиаимперии всех времен.",
-   "popularity": 66.013,
+   "popularity": 52.259,
    "poster_path": "http://image.tmdb.org/t/p/w500/2LXOZDDtcCJf1EqOLfIjcx4dHG5.jpg",
    "production_companies": [
     {
@@ -1590,7 +2286,7 @@
    "title": "Скандал",
    "video": false,
    "vote_average": 6.8,
-   "vote_count": 500,
+   "vote_count": 501,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -1912,7 +2608,7 @@
    "original_language": "en",
    "original_title": "The Sun Is Also a Star",
    "overview": "В один волшебный день в знойном бурлящем жизнью Нью-Йорке сталкиваются и влюбляются отправляющийся в колледж романтик Даниэль Бэ и прагматичная девушка с Ямайки Наташа Кингсли. Искры сразу вспыхивают между двумя незнакомцами, которые никогда бы не встретились, если бы судьба легонько не подтолкнула их. Но будет ли она достаточно благосклонна, чтобы превратить невезучих молодых людей в счастливо влюбленных? У Наташи осталось всего несколько часов — похоже, этот день станет последним для нее в Нью-Йорке. Она пытается предотвратить депортацию своей семьи столь же отчаянно, как борется с зарождающимися чувствами к Даниэлю, который столь же усердно пытается её убедить, что они созданы друг для друга.",
-   "popularity": 9.645,
+   "popularity": 9.657,
    "poster_path": "http://image.tmdb.org/t/p/w500/biPp5hENJswh4Vb3ICMjCypV4ji.jpg",
    "production_companies": [
     {
@@ -2213,7 +2909,7 @@
    "original_language": "en",
    "original_title": "Spenser Confidential",
    "overview": "Бывший боксер Спенсер работал частным детективом в Бостоне, пока не попал в тюрьму и не лишился лицензии. Вернувшись в криминальный мир города, экс-детектив раскрывает сенсационное дело. Экранизация романа Эйса Аткинса.",
-   "popularity": 128.825,
+   "popularity": 180.355,
    "poster_path": "http://image.tmdb.org/t/p/w500/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg",
    "production_companies": [
     {
@@ -2264,8 +2960,8 @@
    "tagline": "",
    "title": "Правосудие Спенсера",
    "video": false,
-   "vote_average": 6.6,
-   "vote_count": 156,
+   "vote_average": 6.7,
+   "vote_count": 181,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -2379,8 +3075,8 @@
      "source": "rutor.info",
      "size": "4.68 GB",
      "date": "2020-03-06T00:00:00+03:00",
-     "upload": 919,
-     "download": 91
+     "upload": 782,
+     "download": 61
     }
    ]
   },
@@ -2406,7 +3102,7 @@
    "original_language": "en",
    "original_title": "The Farewell",
    "overview": "Начинающая писательница китайского происхождения живёт в Бруклине, но очень привязана к оставшейся на родине бабушке. Внезапно выясняется, что бабушка больна, жить ей осталось недолго, но расстраивать её не хотят и о скорой смерти молчат. А чтобы все члены большой семьи успели попрощаться с умирающей, ей скажут, что все съезжаются на свадьбу внука, который на самом деле жениться не рвётся.",
-   "popularity": 15.855,
+   "popularity": 16.302,
    "poster_path": "http://image.tmdb.org/t/p/w500/vK55V4KxJnbvrMVT86EEzHQtdYq.jpg",
    "production_companies": [
     {
@@ -2466,7 +3162,7 @@
    "title": "Прощание",
    "video": false,
    "vote_average": 7.7,
-   "vote_count": 423,
+   "vote_count": 424,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -2723,7 +3419,7 @@
    "original_language": "ru",
    "original_title": "Союз спасения",
    "overview": "Наши войска заняли Париж. Россия стала первой державой мира. Теперь всё кажется возможным. Молодые победители, гвардейские офицеры, уверены, что равенство и свобода наступят — здесь и сейчас. Ради этого они готовы принести в жертву всё — положение, богатство, любовь, жизнь... и саму страну.",
-   "popularity": 6.052,
+   "popularity": 4.671,
    "poster_path": "http://image.tmdb.org/t/p/w500/dqpy6gztXd9xt0ijZkBLtTuBQ5B.jpg",
    "production_companies": [
     {
@@ -2841,7 +3537,7 @@
    "original_language": "en",
    "original_title": "Richard Jewell",
    "overview": "История Ричарда Джуэлла, который работал охранником на Олимпийских играх 1996 года и, заметив рюкзак с бомбой, сумел вовремя эвакуировать людей. Однако всеобщая благодарность длилась недолго: через несколько дней Джуэлл сам превратился в главного подозреваемого и жертву уничижительной травли со стороны СМИ.",
-   "popularity": 84.849,
+   "popularity": 66.134,
    "poster_path": "http://image.tmdb.org/t/p/w500/xGvizXUXeTE1NS3HQbfrgD0vyDQ.jpg",
    "production_companies": [
     {
@@ -2871,7 +3567,7 @@
    "title": "Дело Ричарда Джуэлла",
    "video": false,
    "vote_average": 7.5,
-   "vote_count": 440,
+   "vote_count": 446,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -3250,7 +3946,7 @@
    "original_language": "ru",
    "original_title": "Марафон желаний",
    "overview": "«Я хочу нижнее белье из одного комплекта. Я хочу в Париж. Я хочу увидеть мир. Я хочу замуж за любимого. Я хочу новые духи. Я хочу отдать кредит за окна! Я хочу найти паспорт до свадьбы»… У Марины есть 7 желаний. Но главное — стать счастливой. Однако пересадка в Пулково и неожиданная встреча вносят свои коррективы в ее планы.",
-   "popularity": 5.798,
+   "popularity": 5.098,
    "poster_path": "http://image.tmdb.org/t/p/w500/2Wjm6bhriikmlN6fOgKwzqDToNX.jpg",
    "production_companies": [
     {
@@ -3357,8 +4053,8 @@
      "source": "rutor.info",
      "size": "3.14 GB",
      "date": "2020-03-05T00:00:00+03:00",
-     "upload": 2800,
-     "download": 312
+     "upload": 2033,
+     "download": 153
     }
    ]
   },
@@ -3380,7 +4076,7 @@
    "original_language": "en",
    "original_title": "A Beautiful Day in the Neighborhood",
    "overview": "История реальной и необычной дружбы между добродушным ведущим Фредом Роджерсом и прожжённым журналистом Томом Джунодом. Джунод неохотно согласился написать статью о знаменитом телеведущем, которого он считает слишком нежным и мягким. Но неутомимый оптимизм Роджерса постепенно меняет жизнь и взгляды сурового репортёра.",
-   "popularity": 29.257,
+   "popularity": 24.706,
    "poster_path": "http://image.tmdb.org/t/p/w500/mpE1Qs8LUx2nuRIRHUiDivphwb5.jpg",
    "production_companies": [
     {
@@ -3651,7 +4347,7 @@
    "original_language": "ru",
    "original_title": "Танец с саблями",
    "overview": "Холодная осень 1942 года. Город Молотов - переименованная перед самой войной Пермь. Сюда эвакуирован Ленинградский академический театр оперы и балета имени Кирова. Мир театра в эвакуации - призрачный, голодный, холодный. Жизнь глубокого тыла со всеми приметами военного времени. Репетиции, спектакли, выступления в госпиталях и на оборонных заводах. Финальные усилия по созданию спектакля «Гаянэ» совпадают с написанием первых тактов Симфонии №2. Перед последней репетицией Хачатурян неожиданно получает приказ дирекции - создать ещё один танец в финальную часть уже готового балета. За 8 часов композитор пишет свое самое известное произведение.",
-   "popularity": 1.728,
+   "popularity": 1.715,
    "poster_path": "http://image.tmdb.org/t/p/w500/nRy2Leg6ED6TKcW9MyVDP932HRb.jpg",
    "production_companies": [
     {
@@ -3805,7 +4501,7 @@
    "original_language": "it",
    "original_title": "L'uomo del labirinto",
    "overview": "28-летняя Саманта просыпается на больничной койке со сломанной ногой, дезориентированная в пространстве и ничего не помнящая. В комнате нет окон — только одно большое зеркало на стене, в котором она не видит своего отражения. Вместе с Самантой находится доктор Грин — криминальный психолог. Он объясняет девушке, что ее похитили и держали в заключении, но ей удалось сбежать, а ему нужно поймать похитителя. Для этого ему нужно проникнуть в ее разум.",
-   "popularity": 12.152,
+   "popularity": 11.18,
    "poster_path": "http://image.tmdb.org/t/p/w500/kWzFYZyllTM530WFE9cx597UPvW.jpg",
    "production_companies": [
     {
@@ -4022,7 +4718,7 @@
    "title": "Джуманджи: Новый уровень",
    "video": false,
    "vote_average": 6.8,
-   "vote_count": 2137,
+   "vote_count": 2145,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -4523,7 +5219,7 @@
    "original_language": "en",
    "original_title": "Little Women",
    "overview": "Фильм рассказывает о взрослении четырех непохожих друг на друга сестер. Действие разворачивается во времена Гражданской войны в США, но проблемы, с которыми сталкиваются девушки, актуальны как никогда: первая любовь, горькое разочарование, томительная разлука и непростые поиски себя и своего места в жизни.",
-   "popularity": 80.375,
+   "popularity": 67.246,
    "poster_path": "http://image.tmdb.org/t/p/w500/kEVtUHvmO5MqJK0XgEROCWegYfH.jpg",
    "production_companies": [
     {
@@ -4575,7 +5271,7 @@
    "title": "Маленькие женщины",
    "video": false,
    "vote_average": 8,
-   "vote_count": 1305,
+   "vote_count": 1311,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -5076,7 +5772,7 @@
    "original_language": "en",
    "original_title": "Sorry We Missed You",
    "overview": "Рикки, шофер в службе доставки, и его жена Эбби, социальный работник, после кризиса 2008 года едва сводят концы с концами. Эбби продает машину, чтобы Рикки мог купить новый фургон и работать на себя, но в действительности все оказывается сложнее: чтобы окупить вложения, приходится пахать по 14 часов в день, а в оставшееся время воспитывать детей. Выдержит ли семья Тернеров это испытание?",
-   "popularity": 20.312,
+   "popularity": 17.061,
    "poster_path": "http://image.tmdb.org/t/p/w500/atw2Lapo6l3rUSfTOfDkGJc0EmG.jpg",
    "production_companies": [
     {
@@ -5131,8 +5827,8 @@
    "tagline": "",
    "title": "Извините, мы вас не застали",
    "video": false,
-   "vote_average": 7.7,
-   "vote_count": 149,
+   "vote_average": 7.6,
+   "vote_count": 150,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -5454,7 +6150,7 @@
    "original_language": "en",
    "original_title": "Come As You Are",
    "overview": "Горя большим желанием, два инвалида-колясочника и практически слепой отправляются в специализированный публичный дом.",
-   "popularity": 7.326,
+   "popularity": 7.169,
    "poster_path": "http://image.tmdb.org/t/p/w500/lhwaxDeOCwJwMV78FKxH2fn3Z0l.jpg",
    "production_companies": [
     {
@@ -5636,7 +6332,7 @@
    "original_language": "ru",
    "original_title": "(НЕ)идеальный мужчина",
    "overview": "Свете не везет с отношениями: она вечно подстраивается под парней, унижается и терпит измены. После расставания с очередным непутевым бойфрендом девушка идет работать в компанию по продаже роботов. Те уже стали частью обычной жизни, их не отличить от людей, но не в пример своим создателям роботы чутко реагируют на характер человека, его потребности, привычки и слабости. Когда у одного из роботов обнаруживается программный сбой и его хотят вернуть производителю, Света упрашивает продать его ей, так как… влюбляется в него, приняв технический дефект за проявление личности. Более того, Света хочет связать свою жизнь с чутким, внимательным и заботливым роботом, и это приводит к самым неожиданным последствиям…",
-   "popularity": 3.436,
+   "popularity": 3.193,
    "poster_path": "http://image.tmdb.org/t/p/w500/s8h8GfOIcqsLVFbAxuOadWM1KLy.jpg",
    "production_companies": [
     {
@@ -5777,7 +6473,7 @@
    "original_language": "en",
    "original_title": "A Million Little Pieces",
    "overview": "Молодой писатель Джеймс просыпается на борту самолета в Чикаго, ничего не помня о предыдущих событиях и причинах своего разбитого состояния. Вскоре выясняется, что он против воли направлен в строгий реабилитационный центр, где лечат алкоголизм и наркоманию. Джеймс проходит лечение на грани пыток. Одновременно он сближается с другими пациентами — зависимым боссом мафии и молодой наркоманкой, в которую по правилам клиники ему запрещено влюбляться.",
-   "popularity": 5.479,
+   "popularity": 4.515,
    "poster_path": "http://image.tmdb.org/t/p/w500/py6NnnsEgsjBMaJxzidxla9WqHm.jpg",
    "production_companies": [
     {
@@ -5985,7 +6681,7 @@
    "original_language": "en",
    "original_title": "Holly Slept Over",
    "overview": "Когда Одра признается мужу, что однажды у нее был секс с Холли, однокурсницей, с которой они вместе жили в общежитии, их жизнь принимает неожиданный и удивительный поворот. Неожиданный приезд Холли, ее неоспоримое очарование оживили и Ноэла, и Одру, разожгли искру в их отношениях. Для всех троих открылись двери в неизведанное, появилась возможность испытать то, чего они никак не ожидали.",
-   "popularity": 13.785,
+   "popularity": 12.104,
    "poster_path": "http://image.tmdb.org/t/p/w500/l02W9YtqNoXpMXMNC3s3ALAKs6g.jpg",
    "production_companies": [],
    "production_countries": [
@@ -6065,8 +6761,8 @@
      "source": "rutor.info",
      "size": "3.28 GB",
      "date": "2020-03-01T00:00:00+03:00",
-     "upload": 154,
-     "download": 13
+     "upload": 138,
+     "download": 14
     }
    ]
   },
@@ -6100,7 +6796,7 @@
    "original_language": "ru",
    "original_title": "Герой",
    "overview": "15 лет назад Андрей под руководством своего отца, полковника Родина, прошел обучение в секретной спецшколе, где из подростков готовили агентов Службы внешней разведки. Когда экспериментальный проект закрыли, Андрей «сжёг мосты», остался в Европе и старался не вспоминать о прошлом. Но однажды ему звонит отец, которого все считали погибшим. Тот сообщает, что на Андрея открыта охота, но кто решил его уничтожить — неизвестно. Спасаясь бегством, он находит Машу, с которой учился в спецшколе. Андрею предстоит пройти через любовь и предательство и узнать об истинных масштабах беспощадной шпионской игры, в которую он оказался втянут поневоле.",
-   "popularity": 3.713,
+   "popularity": 2.406,
    "poster_path": "http://image.tmdb.org/t/p/w500/oNFgMECfGvDEftfBsGIXUELOKM2.jpg",
    "production_companies": [
     {
@@ -6257,7 +6953,7 @@
    "original_language": "ru",
    "original_title": "Золотое кольцо",
    "overview": "Куда поехать в отпуск трем семейным парам? Прокатиться по Западной Европе? Слетать в Тай или на Бали? В крайнем случае сгонять в Прибалтику. Вариантов много, но главные герои выбирают путешествие по России. Для них будущая поездка не просто туризм, а способ решить накопившиеся проблемы в парах.",
-   "popularity": 10.543,
+   "popularity": 9.335,
    "poster_path": "http://image.tmdb.org/t/p/w500/jdH2fciGHc0nmB8CVxNj0QxdVIk.jpg",
    "production_companies": [],
    "production_countries": [
@@ -6370,7 +7066,7 @@
    "original_language": "en",
    "original_title": "Last Christmas",
    "overview": "Кейт которая работает в магазине рождественских товаров, злоупотребляет выпивкой и давно бросила переживать из-за собственной жизни. Но всё меняется после знакомства с милым и очаровательным Томом.",
-   "popularity": 22.332,
+   "popularity": 19.496,
    "poster_path": "http://image.tmdb.org/t/p/w500/roKNRGo1yBh9JIGRorA950VZWOB.jpg",
    "production_companies": [
     {
@@ -6410,7 +7106,7 @@
    "title": "Рождество на двоих",
    "video": false,
    "vote_average": 7,
-   "vote_count": 584,
+   "vote_count": 585,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -6804,7 +7500,7 @@
    "original_language": "en",
    "original_title": "Superman: Red Son",
    "overview": "В 1950-х годах Советский Союз раскрывает своё новое орудие, Супермена. Он предан правде, справедливости и коммунизму. Неожиданное открытие владеющего суперспособностями пришельца под контролем Советов вызывает панику в США, превращая гонку ядерного вооружения в гонку суперспособностей. Агент ЦРУ Джим Олсен нанимает Лекса Лютора уничтожить Супермена.",
-   "popularity": 67.465,
+   "popularity": 44.773,
    "poster_path": "http://image.tmdb.org/t/p/w500/7YM8Qcwnyhw7XwvCPglWURIoZ0f.jpg",
    "production_companies": [
     {
@@ -6921,7 +7617,7 @@
      "source": "rutor.info",
      "size": "5.11 GB",
      "date": "2020-02-27T00:00:00+03:00",
-     "upload": 71,
+     "upload": 72,
      "download": 15
     }
    ]
@@ -6929,7 +7625,12 @@
   {
    "adult": false,
    "backdrop_path": "http://image.tmdb.org/t/p/w780/a0xTB1vBxMGt6LGG4N7k1wO9lfL.jpg",
-   "belongs_to_collection": null,
+   "belongs_to_collection": {
+    "id": 86029,
+    "name": "Ангелы Чарли (Коллекция)",
+    "poster_path": "http://image.tmdb.org/t/p/w500/p6naDMCbdeh74GbCoiaQdAtOXKu.jpg",
+    "backdrop_path": "http://image.tmdb.org/t/p/w780/syWm5FMScW6JHaCM2C9aduCzUtp.jpg"
+   },
    "budget": 48000000,
    "genre_ids": null,
    "genres": [
@@ -6952,7 +7653,7 @@
    "original_language": "en",
    "original_title": "Charlie's Angels",
    "overview": "Частное детективное агентство Таунсенд, возглавляемое таинственным Чарли, открывает свои офисы по всему миру, и теперь в разных уголках земного шара команды суперпрофессиональных Ангелов под началом Босли обеспечивают покой и безопасность своим клиентам.",
-   "popularity": 90.574,
+   "popularity": 62.641,
    "poster_path": "http://image.tmdb.org/t/p/w500/fFvHx6DazV8wbYcZ2oJCHeuSuAM.jpg",
    "production_companies": [
     {
@@ -7000,7 +7701,7 @@
    "title": "Ангелы Чарли",
    "video": false,
    "vote_average": 6.4,
-   "vote_count": 621,
+   "vote_count": 624,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -7441,7 +8142,7 @@
    "original_language": "en",
    "original_title": "The Corrupted",
    "overview": "Канун Олимпийских игр 2012 года, Лондон. Лиам — бывший заключенный, и теперь, выйдя на свободу, пытается вернуть доверие и любовь семьи. Пытаясь искупить свою вину, парень оказывается в центре очередного криминального заговора, выпутаться из которого ему будет очень непросто.",
-   "popularity": 9.762,
+   "popularity": 8.073,
    "poster_path": "http://image.tmdb.org/t/p/w500/8CKJ8qh9UgEqSGa6hNxQJjHit4g.jpg",
    "production_companies": [
     {
@@ -7583,7 +8284,7 @@
    "original_language": "ru",
    "original_title": "Холоп",
    "overview": "Эгоистичный «мажор» Гриша в один не очень прекрасный день после аварии приходит в себя... в 1860 году в барской усадьбе. Теперь он — обычный холоп без связей и связи: о смартфонах здесь не слышали, а все вокруг него — крепостные. Грише предстоит пройти непростой путь, чтобы из наглого сынка богатых родителей превратиться в человека, который умеет ценить простые вещи, умеет дружить, ну и, конечно, любить.",
-   "popularity": 13.357,
+   "popularity": 11.064,
    "poster_path": "http://image.tmdb.org/t/p/w500/f78tgHLtWeVLl4JPygiIbCS8yE2.jpg",
    "production_companies": [
     {
@@ -7797,7 +8498,7 @@
    "original_language": "fr",
    "original_title": "Fahim",
    "overview": "Это история жизни Фахима Мохаммада, чемпиона мира по шахматам среди юниоров, родившегося в Бангладеш в 2000 году и в настоящее время проживающего во Франции и выступающего за нее.",
-   "popularity": 5.395,
+   "popularity": 3.913,
    "poster_path": "http://image.tmdb.org/t/p/w500/zg1NzqTCVnwFFBUAXN9OZtqDAD0.jpg",
    "production_companies": [
     {
@@ -8000,7 +8701,7 @@
    "original_language": "en",
    "original_title": "A Shaun the Sheep Movie: Farmageddon",
    "overview": "Странные огни над городом предвещают прибытие таинственного гостя из далекой галактики… Очаровательная и озорная Лу-Ла терпит крушение неподалеку от фермы Шона. Инопланетные способности и проказы неугомонной Лу-Лы очаровывают отару, и Шон решает помочь внеземному другу найти ее корабль. Но он не знает, что зловещее агентство по охоте на инопланетян уже идет по их следу. Смогут ли Шон и его друзья предотвратить Фермагеддон, пока не стало слишком поздно?",
-   "popularity": 16.562,
+   "popularity": 14.523,
    "poster_path": "http://image.tmdb.org/t/p/w500/ceu8NIM0FgPYmPP2LHiZ8TUsu4p.jpg",
    "production_companies": [
     {
@@ -8348,7 +9049,7 @@
    "original_language": "en",
    "original_title": "Radioflash",
    "overview": "Когда сверхмощный электромагнитный импульс таинственного происхождения отключает электроснабжение всей западной части США, Риз и её отец решают бежать из города в лесное убежище Фрэнка - деда девушки, которого всегда считали помешанным выживальщиком. Однако, массовая паника и непредвиденные обстоятельсва вносят коррективы в их планы и ставят их на край гибели.",
-   "popularity": 12.596,
+   "popularity": 10.845,
    "poster_path": "http://image.tmdb.org/t/p/w500/z7RNOII2gXkZugOf7TjsISoLYRl.jpg",
    "production_companies": [
     {
@@ -8460,7 +9161,7 @@
    "original_language": "ru",
    "original_title": "Крик тишины",
    "overview": "Блокадный Ленинград. Февраль 1942 года. Заканчивается самая страшная блокадная зима. Зина Воронова совсем отчаялась. Ее трёхлетний сын Митя ослабел, а карточки на хлеб уже отоварены на два дня вперед. Последняя надежда — эвакуация. Но с маленькими детьми не берут. Тогда женщина идет на чудовищный шаг — эвакуируется, оставив сына одного в промерзшей квартире. Во время налета мальчика спасает девочка-подросток Катя. Девочка выдает Митю за своего брата и обещает себе сделать все, чтобы Митя выжил. Несмотря ни на что.",
-   "popularity": 0.73,
+   "popularity": 0.6,
    "poster_path": "http://image.tmdb.org/t/p/w500/gnPQGQYwDMCtD2zSo9zzYshADFV.jpg",
    "production_companies": [
     {
@@ -8582,7 +9283,7 @@
    "original_language": "en",
    "original_title": "The Informer",
    "overview": "Три секунды — время полета пули, выпущенной из снайперской винтовки с расстояния 1 500 метров. Именно столько времени остается, чтобы принять решение информатору Федерального Бюро Расследований, оказавшемуся в смертельной ловушке между мафией, полицией и ФБР. На кону — его семья, свобода, жизнь.",
-   "popularity": 18.384,
+   "popularity": 17.551,
    "poster_path": "http://image.tmdb.org/t/p/w500/AcH5xx7NceUoXdwRc5XFGC3mZmT.jpg",
    "production_companies": [
     {
@@ -8946,7 +9647,7 @@
    "original_language": "en",
    "original_title": "Midway",
    "overview": "История одного из самых масштабных и стратегически важных морских сражений на Тихом океане Второй мировой войны. В июне 1942 года американский флот под командованием адмирала Честера Нимица одержал победу над японцами в сражении у атолла Мидуэй, что стало ключевым моментом в Тихоокеанской войне.",
-   "popularity": 73.55,
+   "popularity": 63.828,
    "poster_path": "http://image.tmdb.org/t/p/w500/fH81XyGK9fNrsqBxkPPPkpGafX1.jpg",
    "production_companies": [
     {
@@ -9015,8 +9716,8 @@
    "tagline": "",
    "title": "Мидуэй",
    "video": false,
-   "vote_average": 6.8,
-   "vote_count": 435,
+   "vote_average": 6.7,
+   "vote_count": 438,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -9483,7 +10184,7 @@
    "original_language": "en",
    "original_title": "Dark Waters",
    "overview": "История корпоративного юриста Роберта Билотта, раскрывшего многолетнюю историю загрязнения окружающей среды химической компанией.",
-   "popularity": 40.68,
+   "popularity": 38.419,
    "poster_path": "http://image.tmdb.org/t/p/w500/uvr0xhDQXArFWpadgJpfTkxdlEN.jpg",
    "production_companies": [
     {
@@ -9519,7 +10220,7 @@
    "title": "Темные воды",
    "video": false,
    "vote_average": 7.4,
-   "vote_count": 243,
+   "vote_count": 244,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -9943,7 +10644,7 @@
    "original_language": "en",
    "original_title": "The Last Thing He Wanted",
    "overview": "Журналистка газеты Washington Post Елена Макмэхон, выполняя последнюю просьбу матери, отказывается освещать президентские выборы 1984 года и начинает ухаживать за пожилым отцом, который в своё время занимался организацией поставок оружия в Иран и финансированием повстанцев в Центральной Америке.",
-   "popularity": 28.794,
+   "popularity": 23.693,
    "poster_path": "http://image.tmdb.org/t/p/w500/gItrnbEbMBbUrdIkFz8kgS2gkt.jpg",
    "production_companies": [
     {
@@ -10139,8 +10840,8 @@
      "source": "rutor.info",
      "size": "5.28 GB",
      "date": "2020-02-22T00:00:00+03:00",
-     "upload": 46,
-     "download": 5
+     "upload": 54,
+     "download": 4
     },
     {
      "name": "Последнее, чего он хотел / The Last Thing He Wanted (2020) WEB-DL 1080p | Пифагор",
@@ -10148,8 +10849,8 @@
      "source": "rutor.info",
      "size": "4.37 GB",
      "date": "2020-02-21T00:00:00+03:00",
-     "upload": 801,
-     "download": 34
+     "upload": 639,
+     "download": 29
     }
    ]
   },
@@ -10183,7 +10884,7 @@
    "original_language": "da",
    "original_title": "Valhalla",
    "overview": "Близится Рагнарек, и великие боги Асгарда собирают последние силы перед битвой. Двое смертных из Мидгарда вместе с Локи и Тором пребывают в небесный чертог накануне сражения. Вот-вот пробудится чудовищный волк Фенрир и древние исполины из Йотенхейма осадят стены Вальгаллы. Мир обречен. Но можно ли изменить предначертанное?",
-   "popularity": 7.807,
+   "popularity": 7.03,
    "poster_path": "http://image.tmdb.org/t/p/w500/of6rt1Ls8WVgrTEWTAWbmn7IbP3.jpg",
    "production_companies": [
     {
@@ -10378,7 +11079,7 @@
    "original_language": "de",
    "original_title": "Sweethearts",
    "overview": "Мало того, что ограбление, которое планировала Мэл, пошло не по плану, так ещё и её заложница — Фрэнни, оказалась крайне впечатлительной особой, склонной к паническим атакам. И теперь, когда на хвосте копы, уже не понятно кто в этой паре является большей жертвой. Но, несмотря на всю разницу между ними, у этих двух девушек есть что-то общее. И в какой-то момент они уже сами перестают понимать, кто они друг для друга: враги или лучшие подруги.",
-   "popularity": 3.758,
+   "popularity": 5.261,
    "poster_path": "http://image.tmdb.org/t/p/w500/sddzh21Bfa4pnk1kru6L8cuBxKD.jpg",
    "production_companies": [
     {
@@ -10568,7 +11269,7 @@
    "title": "Достать ножи",
    "video": false,
    "vote_average": 7.8,
-   "vote_count": 2621,
+   "vote_count": 2633,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -11136,7 +11837,7 @@
    "original_language": "en",
    "original_title": "Villains",
    "overview": "Молодая пара грабителей Микки и Джули проникает в уединенный загородный дом. Его владельцы оказываются тайными садистами, которые держат в подвале маленькую пленницу, и они пойдут на всё, лишь бы их секрет оставался сокрытым за стенами дома. Грабителям не повезло",
-   "popularity": 8.245,
+   "popularity": 8.482,
    "poster_path": "http://image.tmdb.org/t/p/w500/ven5k2W6yvbc8LrPOtbdFH6Np53.jpg",
    "production_companies": [],
    "production_countries": [
@@ -11278,7 +11979,7 @@
    "original_language": "ru",
    "original_title": "Ржев",
    "overview": "1942 год, Ржевская битва. После боёв под селом Овсянниково от роты советских солдат осталась только треть. Бойцы пытаются продержаться до прихода подкрепления. Но из штаба поступает приказ удержать деревню любой ценой. Значит, отступать нельзя... Каждый из героев понимает, что живыми из этого переплёта выбраться почти невозможно. В этот момент в Овсянниково, едва не погибнув под вражеским обстрелом, прибывает младший лейтенант — начальник особого отдела, который должен найти и разоблачить предателей среди своих. Лейтенант уверен, что только так можно приблизить победу. События приобретают непредсказуемый оборот.",
-   "popularity": 8.442,
+   "popularity": 7.075,
    "poster_path": "http://image.tmdb.org/t/p/w500/fe16nOaMCbt4VLqrlKLvncpg4Ih.jpg",
    "production_companies": [
     {
@@ -11394,7 +12095,7 @@
    "original_language": "ru",
    "original_title": "Амбивалентность",
    "overview": "Два друга, молодые психиатры,  воспринимают жизнь по-разному. Один хочет поступать правильно. Второй - ставить эксперименты. Один - прилежный ученик. Второй - нарушитель спокойствия. Один любит, ненавидя. Второй ненавидит, любя. Жаль только, что предмет страсти у них один - Катерина Сергеевна. Для одного она - мама, жена папы. Для другого - любовница.",
-   "popularity": 2.485,
+   "popularity": 1.491,
    "poster_path": "http://image.tmdb.org/t/p/w500/cGV2XZz1I7kFrekJKgBwY1MRYX5.jpg",
    "production_companies": [],
    "production_countries": [
@@ -11528,7 +12229,7 @@
    "original_language": "en",
    "original_title": "The Coldest Game",
    "overview": "Играя крупный шахматный матч в Варшаве против русского чемпиона, блестящий, но позабытый бывший чемпион США, ныне алкоголик, Джош Мански оказывается втянут в мир шпионажа и конфликта между мировыми сверхдержавами. По мере эскалации Карибского кризиса шахматный матч приобретает невообразимое значение. Американцы рискуют проиграть обе партии - и в шахматы, и борьбу за мировое господство.",
-   "popularity": 26.269,
+   "popularity": 20.437,
    "poster_path": "http://image.tmdb.org/t/p/w500/7YRO2Jamqb6ck5vJqrwWgMFWuPW.jpg",
    "production_companies": [
     {
@@ -11584,7 +12285,7 @@
    "title": "Холодная игра",
    "video": false,
    "vote_average": 6.1,
-   "vote_count": 69,
+   "vote_count": 70,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -11678,7 +12379,7 @@
    "original_language": "en",
    "original_title": "A Score to Settle",
    "overview": "Отсидев 19 лет в тюрьме за несовершенное преступление, Фрэнк выходит на свободу. Ему придется сделать выбор - наверстать упущенные годы с сыном или отомстить людям, которых он считал друзьями. Удастся ли Фрэнку начать жизнь сначала?",
-   "popularity": 9.144,
+   "popularity": 7.233,
    "poster_path": "http://image.tmdb.org/t/p/w500/4PBwZGBP6ziKuOgHRpbVRyGoqy3.jpg",
    "production_companies": [
     {
@@ -11879,7 +12580,7 @@
    "original_language": "en",
    "original_title": "Greener Grass",
    "overview": "История крутится вокруг превращения сына домохозяйки, во всем соперничающей со своей соседкой, в собаку.",
-   "popularity": 3.826,
+   "popularity": 3.269,
    "poster_path": "http://image.tmdb.org/t/p/w500/nnJI1M3dUh3cDBLYw1bYq6O4LAf.jpg",
    "production_companies": [
     {
@@ -12069,7 +12770,7 @@
    "original_language": "en",
    "original_title": "Black Christmas",
    "overview": "Одна за другой девушки из колледжа становятся жертвами загадочного убийцы. Однако уже скоро преступник осознает, что его будущие цели не собираются ждать печальной участи и готовы вступить с ним в схватку.",
-   "popularity": 32.392,
+   "popularity": 20.461,
    "poster_path": "http://image.tmdb.org/t/p/w500/9Xfc1TOzPKuS65HGvlvriEQZx5g.jpg",
    "production_companies": [
     {
@@ -12420,7 +13121,7 @@
    "original_language": "en",
    "original_title": "Ford v Ferrari",
    "overview": "Сюжет повествует о группе американских инженеров и дизайнеров. В 1960-х под руководством конструктора Кэрролла Шелби и при поддержке британского гонщика Кена Майлса они должны были с нуля сделать абсолютно новый спорткар, способный опередить Феррари — непобедимого чемпиона 24-часовой гонки на выносливость Ле-Ман.",
-   "popularity": 132.784,
+   "popularity": 111.422,
    "poster_path": "http://image.tmdb.org/t/p/w500/a3xUGMB8F9s98fGXOpBKlIg0ikm.jpg",
    "production_companies": [
     {
@@ -12472,7 +13173,7 @@
    "title": "Ford против Ferrari",
    "video": false,
    "vote_average": 7.8,
-   "vote_count": 1786,
+   "vote_count": 1789,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -13040,7 +13741,7 @@
    "original_language": "en",
    "original_title": "Blinded by the Light",
    "overview": "Шестнадцатилетний школьник Джавед из семьи пакистанских эмигрантов живет в глубинке Англии конца 1980-х. Его жизнь кроткого и замкнутого подростка переворачивается благодаря влиянию музыки Брюса Спрингстина. Вдохновившись ей, Джавед решается сделать то, на что раньше считал себя неспособным.",
-   "popularity": 13.581,
+   "popularity": 13.121,
    "poster_path": "http://image.tmdb.org/t/p/w500/5fTDdJZSYIhnf2Yd4H82GO35Wt.jpg",
    "production_companies": [
     {
@@ -13372,7 +14073,7 @@
    "original_language": "en",
    "original_title": "The Kindness of Strangers",
    "overview": "В предновогоднем Нью-Йорке к празднику готовятся миллионы людей. У каждого своя мечта и вера в чудо. Некоторым судьбам суждено пересечься накануне Нового года ради истории любви — взаимной или безответной, радостной или мучительной, но всегда яркой и удивительной.",
-   "popularity": 9.775,
+   "popularity": 9.028,
    "poster_path": "http://image.tmdb.org/t/p/w500/cgU4YcwCyJZlLttiDHUFKokzXum.jpg",
    "production_companies": [
     {
@@ -13568,7 +14269,7 @@
    "original_language": "ru",
    "original_title": "Полицейский с Рублёвки. Новогодний беспредел 2",
    "overview": "Близится новый год, и сотрудники отдела полиции Барвихи планируют праздновать его за городом в тёплой компании старых друзей и коллег. Но непредвиденные обстоятельства в лице преступников, ограбивших крупное ювелирное предприятие, ставят праздник под угрозу. Смогут ли рублёвские полицейские вернуть украденные драгоценные камни стоимостью миллионы долларов и спасти свой праздник до того, как часы пробьют полночь?",
-   "popularity": 4.062,
+   "popularity": 4.393,
    "poster_path": "http://image.tmdb.org/t/p/w500/odXh9jomYF7a0uCzTDJ0ny1o3Ba.jpg",
    "production_companies": [],
    "production_countries": [
@@ -13697,7 +14398,7 @@
    "original_language": "en",
    "original_title": "Frozen II",
    "overview": "Анна, Эльза, Кристоф, его верный олень Свен и никогда не унывающий снеговик Олаф должны будут покинуть уютное королевство Эренделл и отправиться ещё дальше на север, в путешествие, которое приведет их к истокам древних легенд и поможет раскрыть тайны, касающиеся прошлого их родной страны.",
-   "popularity": 139.191,
+   "popularity": 117.243,
    "poster_path": "http://image.tmdb.org/t/p/w500/p4XurAYUUxsJgHEnGsPSqNMskYr.jpg",
    "production_companies": [
     {
@@ -13733,7 +14434,7 @@
    "title": "Холодное сердце 2",
    "video": false,
    "vote_average": 7.1,
-   "vote_count": 2749,
+   "vote_count": 2753,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -14269,7 +14970,7 @@
    "original_language": "en",
    "original_title": "Head Full of Honey",
    "overview": "История о старике Амандусе, который из-за болезни Альцгеймера становится героем и виновником разнообразных неурядиц, доставляя массу хлопот своим домочадцам. Наконец, его любящая внучка узнает, что родители намерены отправить Амандуса в дом престарелых. Опечаленная таким решением девочка сбегает вместе с больным дедом в Венецию, где он когда-то провел счастливейшие дни своей молодости.",
-   "popularity": 5.448,
+   "popularity": 6.575,
    "poster_path": "http://image.tmdb.org/t/p/w500/1tYVrPAplzu642OgNCkhHUy0gcC.jpg",
    "production_companies": [
     {
@@ -14486,7 +15187,7 @@
    "original_language": "tr",
    "original_title": "Deliler",
    "overview": "Середина XV века, Османская империя. Султан-завоеватель Фатих Мехмед II одобряет кандидатуру верного империи Влада Цепеша и отправляет его в Валахию, где тот становится правителем. Однако господарь Цепеш начинает жестокие действия против турок, вытесняя их со своих земель. Он сажает их на колья, четвертует, отрубает головы. Османский султан посылает в Валахию своего гонца с предупреждением, однако Цепеш присылает в ответ голову посланника. Рассвирепевший Фатих создает отряд, прозванный Союзом безумцев, в которые вошли самые бесстрашные и доблестные воины, выполняющие любые приказы султана. Их миссия - уничтожить правителя Валахии.",
-   "popularity": 1.822,
+   "popularity": 2.37,
    "poster_path": "http://image.tmdb.org/t/p/w500/veigii8JBBdTwtb4zh2qH5akbIu.jpg",
    "production_companies": [],
    "production_countries": [
@@ -14632,7 +15333,7 @@
    "original_language": "en",
    "original_title": "Playing with Fire",
    "overview": "Когда суровый начальник пожарной части Джейк Карсон и его элитная команда опытных пожарных спасают троих детей, оказавшихся на пути наступающего лесного пожара, они быстро понимают, что никакие тренировки не могли подготовить их к самой сложной работе — стать няньками. Не имея возможности найти родителей детей, они сталкиваются с тем, что их жизни, работа и родное пожарное депо стремительно переворачиваются с ног на голову, ведь дети — как и пожары — дикие и непредсказуемые.",
-   "popularity": 18.176,
+   "popularity": 20.273,
    "poster_path": "http://image.tmdb.org/t/p/w500/aXUwwT1hgVnLxlk0odOwlhNfvVj.jpg",
    "production_companies": [
     {
@@ -14925,7 +15626,7 @@
    "original_language": "en",
    "original_title": "Witches in the Woods",
    "overview": "Семеро друзей отправляются на машине на базу отдыха. По пути выясняется, что часть дороги закрыта, поэтому приходится сделать немаленький крюк, в результате ребята сбиваются с пути. Вскоре им начинает казаться, что они ездят кругами, а когда машина попадает в небольшую аварию, одна из девушек заявляет, что они никогда отсюда не выберутся.",
-   "popularity": 4.635,
+   "popularity": 3.921,
    "poster_path": "http://image.tmdb.org/t/p/w500/qzM22kWfSCkSCcpIaF4tx7kjyaP.jpg",
    "production_companies": [
     {
@@ -15070,7 +15771,7 @@
    "original_language": "ru",
    "original_title": "Сквозь черное стекло",
    "overview": "История незрячей девушки, которой судьба преподносит уникальный шанс. Состоятельный мужчина готов подарить ей зрение, если она вслепую станет его женой. Этот дар открывает героине жестокую правду жизни…",
-   "popularity": 0.84,
+   "popularity": 0.6,
    "poster_path": "http://image.tmdb.org/t/p/w500/iSx9hzA8hcBgqKEWSOKS4rhtm21.jpg",
    "production_companies": [
     {
@@ -15193,7 +15894,7 @@
    "original_language": "it",
    "original_title": "Metti la nonna in freezer",
    "overview": "Законопослушный полицейский Симоне влюбляется в Клаудию, молодую и бедную художницу, которая содержит свою мастерскую благодаря пенсии бабушки. Когда бабушка внезапно умирает, Клаудия решает пойти на отчаянный шаг, чтобы продолжить получать пенсию…",
-   "popularity": 6.538,
+   "popularity": 6.205,
    "poster_path": "http://image.tmdb.org/t/p/w500/2i88slTDYNZW2J6slvrY8qRnrLx.jpg",
    "production_companies": [
     {
@@ -15345,7 +16046,7 @@
    "original_language": "en",
    "original_title": "21 Bridges",
    "overview": "Он охотится на преступников, которые совершили на Манхэттене дерзкое ограбление, оставив после себя 8 мертвых полицейских. А продажные копы тем временем охотятся на него, пытаясь подставить. Но преступникам не скрыться, так как первый раз в истории Нью-Йорка полиция перекрыла все выходы с острова, в том числе, 21 мост.",
-   "popularity": 34.543,
+   "popularity": 29.062,
    "poster_path": "http://image.tmdb.org/t/p/w500/lWDDukaPvDzIRYxgUuGFIH5YfyM.jpg",
    "production_companies": [
     {
@@ -15799,7 +16500,7 @@
    "original_language": "en",
    "original_title": "Klaus",
    "overview": "Владелец почтовой империи, чтобы научить ленивого отпрыска по имени Джеспер уму-разуму, отправляет его на крайний север в город Смиренсбург. Тот должен организовать там почтовое отделение и за год обработать не менее 6000 писем. Прибыв на место, парень оказывается в зоне боевых действий: два семейных клана, так уж исторически сложилось, питают взаимную ненависть и свято чтут многовековую традицию при любой возможности мутузить друг друга и делать пакости. Разумеется, в такой обстановке не до писем, и почтовое отделение давно превратилось в курятник. Уже практически отчаявшись, Джеспер посещает лесного отшельника по имени Клаус, и их знакомство положит начало удивительным событиям.",
-   "popularity": 20.374,
+   "popularity": 21.353,
    "poster_path": "http://image.tmdb.org/t/p/w500/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
    "production_companies": [
     {
@@ -16082,7 +16783,7 @@
    "original_language": "en",
    "original_title": "Jojo Rabbit",
    "overview": "Неловкий и нескладный 10-летний немецкий мальчик, потерявший отца, пытается найти своё место в непривычном мире. Ровесники лишь потешаются над ним, а мама считает, что ребёнок сам придумывает себе проблемы. В надежде получить замену пропавшего отца мальчик придумывает себе воображаемого друга — Адольфа Гитлера, который совсем не похож на знакомого всем фюрера Третьего рейха. Ситуация только осложняется, когда мальчик обнаруживает, что его мать прячет в доме еврейскую девочку.",
-   "popularity": 59.802,
+   "popularity": 56.046,
    "poster_path": "http://image.tmdb.org/t/p/w500/cXJLP7ArBs9AKliXMDYaFTg4YNf.jpg",
    "production_companies": [
     {
@@ -16142,7 +16843,7 @@
    "title": "Кролик Джоджо",
    "video": false,
    "vote_average": 8.1,
-   "vote_count": 2310,
+   "vote_count": 2317,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -16569,7 +17270,7 @@
    "original_language": "de",
    "original_title": "Liliane Susewind - Ein tierisches Abenteuer",
    "overview": "Рыжеволосая Лилиан не просто обожает животных, но и умеет понимать их язык и отвечать им. О ее невероятной способности знают только члены семьи, и они всячески оберегают тайну. Но любым тайнам в свое время всегда приходит конец, особенно если на кону стоит спасение животных.",
-   "popularity": 4.889,
+   "popularity": 2.933,
    "poster_path": "http://image.tmdb.org/t/p/w500/lXVTVUOiZgXLAxVOZXhFwwfpv7j.jpg",
    "production_companies": [
     {
@@ -16779,7 +17480,7 @@
    "original_language": "en",
    "original_title": "Missing Link",
    "overview": "Харизматичный сэр Лайнел Фрост считает себя самым главным исследователем мифов и монстров в мире. Проблема в том, что никто из его окружения этого не признает. Поэтому Фрост отправляется на поиски легендарного существа…",
-   "popularity": 14.299,
+   "popularity": 13.697,
    "poster_path": "http://image.tmdb.org/t/p/w500/z74JZEJ5iUVgQ2owi7vvFR5iDfw.jpg",
    "production_companies": [
     {
@@ -17178,7 +17879,7 @@
    "original_language": "it",
    "original_title": "Il traditore",
    "overview": "В начале 1980-х между боссами сицилийской мафии разгорается война за героиновый рынок. Один из мафиози, Томмазо Бушетта, пытается скрыться в Бразилии. В то время, как на его родине начинается бойня, Бушетта вынужден издалека наблюдать за тем, как его сыновей и братьев убивают в Палермо. Он понимает, что может стать следующим. Бразильская полиция арестовывает Бушетту и экстрадирует его в Италию. Мафиози принимает решение, которое кардинально изменит ситуацию для мафии, — он встречается с судьёй Джованни Фальконе и нарушает священную клятву, которую он дал Коза Ностре.",
-   "popularity": 29.271,
+   "popularity": 33.652,
    "poster_path": "http://image.tmdb.org/t/p/w500/iBefIHcrcT5yqD4vXVVrTfiTSni.jpg",
    "production_companies": [
     {
@@ -17288,7 +17989,7 @@
    "title": "Предатель",
    "video": false,
    "vote_average": 7.9,
-   "vote_count": 442,
+   "vote_count": 443,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -17565,7 +18266,7 @@
    "original_language": "ru",
    "original_title": "Братство",
    "overview": "1988 год. Афганская война заканчивается, но путь наших солдат домой лежит через опасные территории, которые контролируют моджахеды. Молодой лейтенант Василий Железняков по прозвищу Грек отважен и находчив и сразу привлекает к себе внимание службы разведки. Теперь от него зависит безопасный проход через перевал, который контролирует один из самых жестоких бандитов. Чтобы дивизия вернулась на родину с наименьшими потерями, Греку придется самому остаться у него в заложниках. Цена любой его ошибки — жизнь. Фильм основан на реальных событиях.",
-   "popularity": 4.274,
+   "popularity": 2.564,
    "poster_path": "http://image.tmdb.org/t/p/w500/luYROTGVSzPfn88Vo7ke9umhJWE.jpg",
    "production_companies": [
     {
@@ -17700,7 +18401,7 @@
    "original_language": "fr",
    "original_title": "Un homme pressé",
    "overview": "Ален – бизнесмен и блестящий оратор. Он вечно в движении, и никто не может заставить его остановиться и передохнуть... пока однажды его не поражает инсульт. Двигательные функции восстановились быстро, чего нельзя сказать о речи и памяти... Реабилитацией Алена занимается молодой логопед Жанна, и им обоим придется набраться сил и терпения, а также как следует узнать друг друга, чтобы победить последствия болезни и, наконец, найти оптимальный ритм для жизни.",
-   "popularity": 6.024,
+   "popularity": 6.94,
    "poster_path": "http://image.tmdb.org/t/p/w500/e84jiuNkW54YAaP3ma8e2poL0tu.jpg",
    "production_companies": [
     {
@@ -17883,7 +18584,7 @@
    "original_language": "fr",
    "original_title": "Atlantique",
    "overview": "В пригороде Дакара рабочие на стройке футуристической башни не получают зарплату месяцами. В поисках лучшего будущего они решают покинуть страну, переплыв океан. Среди них Сулейман, возлюбленный Ады, которую пообещали в жены другому.",
-   "popularity": 6.355,
+   "popularity": 7.276,
    "poster_path": "http://image.tmdb.org/t/p/w500/ks6EitmR0cvD5fhO4ZQrZRkUlYZ.jpg",
    "production_companies": [
     {
@@ -18126,7 +18827,7 @@
    "original_language": "en",
    "original_title": "The Jesus Rolls",
    "overview": "Cпин-офф культового фильма \"Большой Лебовски\" 1998 года, который будет сосредоточен на Хесусе Кинтане, являющимся большим фанатом боулинга.",
-   "popularity": 9.778,
+   "popularity": 7.552,
    "poster_path": "http://image.tmdb.org/t/p/w500/rcPgoNrpbP7oK3kKit4TC7nRlMH.jpg",
    "production_companies": [
     {
@@ -18287,7 +18988,7 @@
    "original_language": "en",
    "original_title": "How to Train Your Dragon: Homecoming",
    "overview": "Иккинг и Беззубик воссоединяются, чтобы напомнить викингам и драконам о неразрывной связи между ними.",
-   "popularity": 19.433,
+   "popularity": 18.087,
    "poster_path": "http://image.tmdb.org/t/p/w500/kXj2Qrfm994yLeuADqbOieU1mUH.jpg",
    "production_companies": [
     {
@@ -18423,7 +19124,7 @@
    "original_language": "en",
    "original_title": "The Fanatic",
    "overview": "Лось - самый большой в мире поклонник кинозвезды Хантера Дунбара. Он считает, что актёр обязательно захочет с ним дружить - главное, просто познакомиться. Но очередная попытка встретиться с кумиром заканчивается скандалом, и Лось идёт на крайние меры. Узнав у подруги-папарацци, где живёт Дунбар, он начинает полномасштабную слежку, которая в итоге приводит к страшным последствиям для обоих.",
-   "popularity": 7.516,
+   "popularity": 5.56,
    "poster_path": "http://image.tmdb.org/t/p/w500/8Ru5mAKyaRbFpANkhVlPzcOkqFB.jpg",
    "production_companies": [
     {
@@ -18562,7 +19263,7 @@
    "original_language": "da",
    "original_title": "Finale",
    "overview": "По всей стране тишина. Все приклеены к телевизору и смотрят финал. Ни одной души не видно на улицах. На окраине Дании, однако, небольшая заправочная станция все еще нуждается в персонале. И в этот конкретный вечер дежурят две совершенно разные молодые женщины. Агнес, студентка колледжа, пытается работать над своей диссертацией, в то время как наивная Белинда отправляет смс, пытаясь привлечь внимание своего парня. К сожалению, смена не пройдет без происшествий, потому что отсутствие клиентов не означает отсутствие свидетелей...",
-   "popularity": 1.127,
+   "popularity": 1.578,
    "poster_path": "http://image.tmdb.org/t/p/w500/fIo4NAK2QqaJYWnO9c9OFzRyO3o.jpg",
    "production_companies": [
     {
@@ -18704,7 +19405,7 @@
    "original_language": "en",
    "original_title": "Gemini Man",
    "overview": "Генри Броган, первоклассный киллер, становится мишенью таинственного оперативника, который, кажется, знает каждый его шаг наперед…",
-   "popularity": 41.148,
+   "popularity": 37.335,
    "poster_path": "http://image.tmdb.org/t/p/w500/jd8miNNIhandkdOYk5CuuXxDcBD.jpg",
    "production_companies": [
     {
@@ -18756,7 +19457,7 @@
    "title": "Гемини",
    "video": false,
    "vote_average": 5.9,
-   "vote_count": 1516,
+   "vote_count": 1517,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -19309,7 +20010,7 @@
    "original_language": "en",
    "original_title": "The Mustang",
    "overview": "Пребывающий в тюремном заключении преступник направляется на реабилитационный курс, в течение которого ему придется тренировать диких мустангов.",
-   "popularity": 6.632,
+   "popularity": 9.194,
    "poster_path": "http://image.tmdb.org/t/p/w500/sXQzQcjNAYYosymYPVaXh1nYKaJ.jpg",
    "production_companies": [
     {
@@ -19355,7 +20056,7 @@
    "title": "Мустанг",
    "video": false,
    "vote_average": 7.1,
-   "vote_count": 134,
+   "vote_count": 135,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -19467,7 +20168,7 @@
    "original_language": "en",
    "original_title": "Little Joe",
    "overview": "Мать-одиночка Элис, сотрудница отдела по выведению новых видов растений, создаёт необычный цветок — если за ним правильно ухаживать, он делает своего владельца счастливым. Но всё не так просто, и оказывается, что за счастье, даже сиюминутное, придётся заплатить, а цена может оказаться слишком высокой.",
-   "popularity": 5.965,
+   "popularity": 5.549,
    "poster_path": "http://image.tmdb.org/t/p/w500/8urtLs7FFGG0IjuhmppFGu4bKZo.jpg",
    "production_companies": [
     {
@@ -19717,7 +20418,7 @@
    "original_language": "en",
    "original_title": "Terminator: Dark Fate",
    "overview": "Сара Коннор превратилась в настоящую охотницу за терминаторами и теперь занимается уничтожением роботов-убийц из будущего. Она считала, что главное — это не дать им добраться до Джона, но теперь появилась Дани Рамос, от выживания которой также зависит судьба человечества. Вместе с ней в бой вступает и загадочная Грейс, смесь человека и машины.",
-   "popularity": 105.785,
+   "popularity": 74.098,
    "poster_path": "http://image.tmdb.org/t/p/w500/d2lVpxBRboVPL49n6fsUAWX8aUc.jpg",
    "production_companies": [
     {
@@ -19823,7 +20524,7 @@
    "title": "Терминатор: Тёмные судьбы",
    "video": false,
    "vote_average": 6.3,
-   "vote_count": 1636,
+   "vote_count": 1638,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -20409,7 +21110,7 @@
    "original_language": "en",
    "original_title": "The Good Liar",
    "overview": "Профессиональный мошенник Рой Кортни едва верит своей удаче, когда знакомится в сети с богатой вдовой Бетти Маклиш. Очаровав вдову и получив доступ ко всем ее ресурсам, Рой ловит себя на том, что она ему небезразлична.",
-   "popularity": 28.126,
+   "popularity": 23.816,
    "poster_path": "http://image.tmdb.org/t/p/w500/798YlUncshZ1pwQ7PKMeyuD1AlW.jpg",
    "production_companies": [
     {
@@ -20819,7 +21520,7 @@
    "original_language": "en",
    "original_title": "Good Boys",
    "overview": "История троих друзей-шестиклассников, планирующих посетить крутую вечеринку. Но прежде они должны хорошенько подготовиться, чтобы не ударить в грязь лицом. Так начинается безумное путешествие по долине Сан-Фернандо, в котором надо вернуть наркотики, украсть пиво и починить сломанного дрона — все это нужно сделать, пока родители не вернулись домой.",
-   "popularity": 17.063,
+   "popularity": 19.245,
    "poster_path": "http://image.tmdb.org/t/p/w500/tximyCXMEnWIIyOy9STkOduUprG.jpg",
    "production_companies": [
     {
@@ -21154,7 +21855,7 @@
    "original_language": "en",
    "original_title": "Doctor Sleep",
    "overview": "Прошло много лет с тех пор, как мальчик-ясновидец Дэнни Торранс пережил кошмарный сезон в отеле «Оверлук», где стал свидетелем безумия и гибели своего отца. Повзрослев, но не оправившись от детской травмы, Дэнни ведёт жизнь маргинала-алкоголика. С ним устанавливает связь другая «сияющая» девочка, Абра. Ей потребуется помощь Дэнни, чтобы не стать жертвой так называемого «Истинного Узла» — группы охотников за одарёнными детьми.",
-   "popularity": 59.487,
+   "popularity": 40.96,
    "poster_path": "http://image.tmdb.org/t/p/w500/yg0J8HxfMRPSqanWOEzaNr7WHaZ.jpg",
    "production_companies": [
     {
@@ -21665,7 +22366,7 @@
    "original_language": "en",
    "original_title": "Harriet",
    "overview": "История бывшей рабыни Гарриет Табмен, которая, став свободной, помогла сбежать трем сотням рабов с Юга.",
-   "popularity": 16.386,
+   "popularity": 14.097,
    "poster_path": "http://image.tmdb.org/t/p/w500/lWdhHukXsgRU8F31YADEZBbmFnP.jpg",
    "production_companies": [
     {
@@ -21861,7 +22562,7 @@
    "original_language": "en",
    "original_title": "Waves",
    "overview": "В обычной американской семье каждый должен понять, как прощать, любить и жить дальше после тяжёлой потери.",
-   "popularity": 12.714,
+   "popularity": 11.453,
    "poster_path": "http://image.tmdb.org/t/p/w500/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg",
    "production_companies": [
     {
@@ -21890,8 +22591,8 @@
    "tagline": "",
    "title": "Волны",
    "video": false,
-   "vote_average": 7.7,
-   "vote_count": 72,
+   "vote_average": 7.6,
+   "vote_count": 73,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -22068,7 +22769,7 @@
    "original_language": "fr",
    "original_title": "Zombi Child",
    "overview": "История Клервиуса Нарцисса, самого знаменитого в мире зомби, оживает в рассказе его внучки, которая переезжает в Париж, и, желая произвести впечатление на новых одноклассниц, невольно навлекает силы гаитянской вуду.",
-   "popularity": 5.8,
+   "popularity": 7.146,
    "poster_path": "http://image.tmdb.org/t/p/w500/4HZVNPDigiUX3wS6LAGBZTAkU6j.jpg",
    "production_companies": [
     {
@@ -22348,7 +23049,7 @@
    "original_language": "en",
    "original_title": "Downton Abbey",
    "overview": "Главное событие в жизни каждого аристократа — прием правящего монарха в родовом гнезде. Однако в череде изысканных раутов и светских церемоний кто-то из обитателей роскошного особняка готовит покушение на короля.",
-   "popularity": 15.457,
+   "popularity": 13.369,
    "poster_path": "http://image.tmdb.org/t/p/w500/v4Eb2KZ3K6dOqgwTwGQYLTCfMPM.jpg",
    "production_companies": [
     {
@@ -22390,7 +23091,7 @@
    "title": "Аббатство Даунтон",
    "video": false,
    "vote_average": 7.1,
-   "vote_count": 424,
+   "vote_count": 425,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -22779,7 +23480,7 @@
    "original_language": "de",
    "original_title": "Der Fall Collini",
    "overview": "Каспару Лайнену предстоит расследовать запутанное дело непримечательного механика, итальянца Фабрицио Коллини, который на первый взгляд безо всяких мотивов убил немецкого бизнесмена Ханса Майера, после чего сам сдался полиции. Положение вещей осложняется не только молчанием Коллини и более опытным адвокатом, претендующим на пост главного героя, но и его личным причастием к делу: внучка жертвы Йоханна была его юношеской любовью. Однако Лайнену случайно удаётся найти зацепку, благодаря которой он понимает, что столкнулся с крупнейшим судебным скандалом Германии.",
-   "popularity": 3.07,
+   "popularity": 4.266,
    "poster_path": "http://image.tmdb.org/t/p/w500/5kIYizYxHRAa4V7tTxB6orbcEaG.jpg",
    "production_companies": [
     {
@@ -22942,7 +23643,7 @@
    "original_language": "en",
    "original_title": "Bernie the Dolphin 2",
    "overview": "Дети очень рады, что Берни вернулся. Но вместе с Берни появился и коварный Уинстон, который хочет похитить талантливого дельфина. Кевин и Холли должны спасти морского друга, пока ещё не поздно.",
-   "popularity": 4.485,
+   "popularity": 4.95,
    "poster_path": "http://image.tmdb.org/t/p/w500/e5JIXRo3SUSWBFUljOxC69M5gWB.jpg",
    "production_companies": [],
    "production_countries": [
@@ -23066,7 +23767,7 @@
    "original_language": "en",
    "original_title": "A Fall From Grace",
    "overview": "Законопослушной женщине предъявляют обвинение в убийстве мужа. Ее адвокат вскоре понимает, что за случившимся может стоять заговор большего масштаба.",
-   "popularity": 16.708,
+   "popularity": 13.55,
    "poster_path": "http://image.tmdb.org/t/p/w500/uQqmFcKOSg7RVtaIKOTtv1vWQPx.jpg",
    "production_companies": [
     {
@@ -23191,7 +23892,7 @@
    "original_language": "en",
    "original_title": "American Woman",
    "overview": "Фильм рассказывает о молодой бабушке из небольшого города в Пенсильвании, которая растит свою внучку и пытается найти дочь, которая внезапно куда-то исчезла.",
-   "popularity": 6.834,
+   "popularity": 5.661,
    "poster_path": "http://image.tmdb.org/t/p/w500/6ryd7QtK10HNy3XeNvMzABfU7lL.jpg",
    "production_companies": [
     {
@@ -23329,7 +24030,7 @@
    "original_language": "ru",
    "original_title": "Оперение",
    "overview": "Десять лет назад известный российский актер Константин Хабенский организовал детские студии творческого развития в нескольких городах России. Особенностью таких студий стала полная свобода самовыражения для детей и импровизация вместо постановки стандартных пьес. В студии каждый имеет право на выдумку и протест – так дети залечивают душевные раны, прощупывают взрослый мир, ну а на сцене появляются фантастические спектакли. Каждый год молодые таланты собираются в одном из городов на фестиваль «Оперение», где с ними работает Константин Юрьевич. Ребята показывают все, чему научились, и творят на полную катушку",
-   "popularity": 0.84,
+   "popularity": 0.6,
    "poster_path": "http://image.tmdb.org/t/p/w500/hYiiztx7C0EnZDRdwaWKVeWQ7E.jpg",
    "production_companies": [],
    "production_countries": [
@@ -23450,7 +24151,7 @@
    "original_language": "en",
    "original_title": "Blood Fest",
    "overview": "Группа фанатов хорроров приезжает на фестиваль, посвященный знаменитым картинам жанра. Но ведущий фестиваля придумал свой дьявольский план праздника, и теперь любители фильмов ужасов сами окажутся в эпицентре событий кровавого хоррора.",
-   "popularity": 6.547,
+   "popularity": 6.153,
    "poster_path": "http://image.tmdb.org/t/p/w500/4lrEmu3XjaOXoeNueVlKDmBZdfg.jpg",
    "production_companies": [
     {
@@ -23616,7 +24317,7 @@
    "original_language": "en",
    "original_title": "The Witch in the Window",
    "overview": "Отец с 12-летним сыном приезжают в сельский штат Вермонт, чтобы восстановить старый дом. Там они сталкиваются со злым духом прежней владелицы дома. Чем дальше продвигается ремонт, тем сильнее становится злобный призрак.",
-   "popularity": 5.135,
+   "popularity": 5.109,
    "poster_path": "http://image.tmdb.org/t/p/w500/PnidGi4PRCFzUMGcpMis5eNZyS.jpg",
    "production_companies": [
     {
@@ -23776,7 +24477,7 @@
    "original_language": "en",
    "original_title": "Motherless Brooklyn",
    "overview": "Лайонел Эссрог, одинокий частный детектив с синдромом Туретта, решается начать расследование убийства своего наставника и единственного друга Фрэнка Минны. У него есть лишь несколько зацепок и сила разума, одержимого поставленной целью, чтобы распутать клубок тщательно скрываемых тайн, которые сохраняют баланс сил в самом Нью-Йорке. Расследование заводит его в джазовые клубы Гарлема, где рекой течет джин, опасные трущобы Бруклина и, наконец, позолоченные залы политической элиты мегаполиса. Он бросает вызов гангстерам, коррупции и самому опасному человеку в городе, чтобы очистить имя своего друга и спасти женщину, которая может спасти его самого.",
-   "popularity": 27.8,
+   "popularity": 26.608,
    "poster_path": "http://image.tmdb.org/t/p/w500/28FN5TYput7AbckAMYEB80zpQ2X.jpg",
    "production_companies": [
     {
@@ -23812,7 +24513,7 @@
    "title": "Сиротский Бруклин",
    "video": false,
    "vote_average": 6.9,
-   "vote_count": 335,
+   "vote_count": 336,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -24187,7 +24888,7 @@
    "original_language": "en",
    "original_title": "Disturbing the Peace",
    "overview": "Маршал из маленького городка, который не брал оружия в руки с тех пор, как он покинул «Техасских рейнджеров» после трагической стрельбы, должен снова вооружиться пистолетом и сражаться с бандой байкеров-преступников, которая вторглась в их город, чтобы осуществить наглый и жестокий грабеж.",
-   "popularity": 12.904,
+   "popularity": 9.92,
    "poster_path": "http://image.tmdb.org/t/p/w500/aISj5Sfdnnlh12HK21bJ2Legp7z.jpg",
    "production_companies": [],
    "production_countries": [
@@ -24333,7 +25034,7 @@
    "original_language": "fr",
    "original_title": "Portrait de la jeune fille en feu",
    "overview": "Бретань, 1770. Художница Марианна приезжает в имение на побережье Франции, чтобы написать портрет дочери его владелицы — Элоизы. Картина нужна, чтобы отправить потенциальному жениху Элоизы в Милан. В знак протеста против замужества девушка отказалась позировать, и гостью представляют как компаньонку для прогулок. Проводя все больше времени вместе, девушки начинают чувствовать взаимное притяжение…",
-   "popularity": 35.925,
+   "popularity": 32.156,
    "poster_path": "http://image.tmdb.org/t/p/w500/2XzJlHHdMZtZYMuCLwgH83Tijn.jpg",
    "production_companies": [
     {
@@ -24415,7 +25116,7 @@
    "title": "Портрет девушки в огне",
    "video": false,
    "vote_average": 8.3,
-   "vote_count": 367,
+   "vote_count": 373,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -24841,7 +25542,7 @@
    "original_language": "en",
    "original_title": "A Vigilante",
    "overview": "Сади помогает жертвам домашнего насилия сбегать от мучителей — она берёт правосудие в свои руки и начинает методично разбираться с негодяями. Но работа карательницы не так проста, а старые шрамы и раны того и гляди дадут о себе знать.",
-   "popularity": 11.338,
+   "popularity": 9.002,
    "poster_path": "http://image.tmdb.org/t/p/w500/bnmbMhMvJXRVbjrhTc7zQGcJpUW.jpg",
    "production_companies": [
     {
@@ -25165,7 +25866,7 @@
    "original_language": "en",
    "original_title": "Countdown",
    "overview": "В наш век гаджетов и высоких технологий для всего есть мобильное приложение. Хочешь узнать, сколько тебе осталось жить? Пожалуйста! Девушка видит на экране телефона неумолимый вердикт — ее жизнь оборвется через 3 дня. Сможет ли она избежать смерти, если обратный отсчет уже начался?",
-   "popularity": 36.908,
+   "popularity": 42.367,
    "poster_path": "http://image.tmdb.org/t/p/w500/8WDRLl6f1U5aIikQVw2NSSO5tx7.jpg",
    "production_companies": [
     {
@@ -25195,7 +25896,7 @@
    "title": "Обратный отсчет",
    "video": false,
    "vote_average": 6.2,
-   "vote_count": 381,
+   "vote_count": 383,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -25489,7 +26190,7 @@
    "original_language": "en",
    "original_title": "Corporate Animals",
    "overview": "Люси — глава крупнейшей корпорации Америки по производству съедобной посуды, но за ее красивыми словами об экологии и заботе о людях стоят лишь расчет и жажда наживы. Ей плевать на своих сотрудников, людей вообще и экологию тем более. Она — настоящий корпоративный хищник. Останется ли она им, когда вместе с сотрудниками окажется запертой в пещере и отрезанной от мира? Или ее участь — быть в самом низу пищевой цепочки?",
-   "popularity": 6.694,
+   "popularity": 6.239,
    "poster_path": "http://image.tmdb.org/t/p/w500/dlq6SGybafKqSEiSfVM8XAN8Wsz.jpg",
    "production_companies": [
     {
@@ -25665,7 +26366,7 @@
    "original_language": "hi",
    "original_title": "War",
    "overview": "Еще вчера они были друзьями, напарниками и воевали на одной стороне, а сегодня агент Халид получает приказ уничтожить своего бывшего наставника Кабира, перешедшего на сторону врага. Они знают сильные и слабые стороны друг друга и безошибочно бьют в цель. Цена в их схватке — сама жизнь.",
-   "popularity": 5.405,
+   "popularity": 6.164,
    "poster_path": "http://image.tmdb.org/t/p/w500/7JeHrXR1FU57Y6b90YDpFJMhmVO.jpg",
    "production_companies": [
     {
@@ -25808,7 +26509,7 @@
    "original_language": "fr",
    "original_title": "Une Intime conviction",
    "overview": "Фильм рассказывает о судебном процессе над Жаком Вигье, обвинявшимся в убийстве своей жены, Сюзанны, в 2010 году. В то время как абсолютно все убеждены в том, что Жак виновен, его знакомая Нора пытается идти против толпы и ведет свое собственное расследование.",
-   "popularity": 6.573,
+   "popularity": 7.231,
    "poster_path": "http://image.tmdb.org/t/p/w500/tIQsiF976why9QrJIw6ALCr5nQ6.jpg",
    "production_companies": [
     {
@@ -25854,7 +26555,7 @@
    "title": "Приговор",
    "video": false,
    "vote_average": 7.2,
-   "vote_count": 109,
+   "vote_count": 110,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -25962,7 +26663,7 @@
    "original_language": "en",
    "original_title": "Ride Like a Girl",
    "overview": "Только раз году в сердце Австралии проходит самый престижный конный турнир — Кубок Мельбурна. Это роскошный праздник, где красота дамских шляпок уступает лишь великолепию самих гонок. Для всех она — выскочка, девочка из глубинки, которой не место в спорте королей. И за право участвовать в Кубке ей придется рискнуть всем, даже своей жизнью.",
-   "popularity": 9.504,
+   "popularity": 7.205,
    "poster_path": "http://image.tmdb.org/t/p/w500/hk37AQFSekS9gAJ1Sly1ypFxCf0.jpg",
    "production_companies": [
     {
@@ -26129,7 +26830,7 @@
    "original_language": "en",
    "original_title": "Trauma Center",
    "overview": "Испуганная женщина, избитая неизвестными, оказывается ночью одна в больничном изоляторе травматологического центра. Раненная и обессиленная, она должна найти в себе силы сбежать от двух киллеров, которые пришли извлечь важную улику, указывающую на их причастие к громким криминальным делам. К счастью, ветеран полиции получает задание защищать главную героиню, и он немедленно берётся за это нелёгкое дело.",
-   "popularity": 11.967,
+   "popularity": 11.976,
    "poster_path": "http://image.tmdb.org/t/p/w500/4yR7wUell3UHrcNmPiMt7HpvQsz.jpg",
    "production_companies": [
     {
@@ -26325,7 +27026,7 @@
    "original_language": "en",
    "original_title": "Final Score",
    "overview": "Во время террористической атаки племянница Майка затерялась где-то на футбольном стадионе, где они смотрели текущий матч. Ему придётся вспомнить все свои старые навыки, чтобы спасти девочку и предотвратить катастрофу.",
-   "popularity": 7.584,
+   "popularity": 8.92,
    "poster_path": "http://image.tmdb.org/t/p/w500/cpRfVV8c15HOsEcqNY438roobYU.jpg",
    "production_companies": [
     {
@@ -26570,7 +27271,7 @@
    "original_language": "en",
    "original_title": "Harmony",
    "overview": "У этой девушки есть невероятный дар — она может забирать у людей тревогу и страх очищая их души. Но у каждого дара есть цена.",
-   "popularity": 4.267,
+   "popularity": 4.474,
    "poster_path": "http://image.tmdb.org/t/p/w500/elES96HesSzoG1OGISEN9tKHEtE.jpg",
    "production_companies": [
     {
@@ -26731,7 +27432,7 @@
    "original_language": "ru",
    "original_title": "Исходник",
    "overview": "Герой фильма набивает на спор жуткую татуировку, и теперь загадочный человек с рисунка преследует его во снах и в реальности. В попытках избавиться от наваждения, герой, сам того не подозревая, отправляется туда, где самые страшные кошмары могут обернуться реальностью.",
-   "popularity": 2.327,
+   "popularity": 2.755,
    "poster_path": "http://image.tmdb.org/t/p/w500/tCnP57SpvKoed11G8s9twaMrmyu.jpg",
    "production_companies": [],
    "production_countries": [],
@@ -26831,7 +27532,7 @@
    "original_language": "en",
    "original_title": "Jexi",
    "overview": "Лекси знает о вас всё. Она видела все ваши неприличные фотки, знает, о чём вы шепчетесь во время секса, что едите по ночам и как называете своего начальника в секретных чатах. Она — виртуальный помощник из вашего мобильника, и сегодня у неё очень плохое настроение.",
-   "popularity": 15.433,
+   "popularity": 15.434,
    "poster_path": "http://image.tmdb.org/t/p/w500/nv69bRe1wKf0mdZn93n8ioRik7u.jpg",
    "production_companies": [
     {
@@ -27067,7 +27768,7 @@
    "original_language": "ru",
    "original_title": "Француз",
    "overview": "В 1957 году Пьер Дюран, выпускник Эколь Нормаль, приезжает в Москву на стажировку в университете. Здесь он знакомится c балериной Большого театра Кирой Галкиной и фотографом Валерой Успенским. Благодаря этому знакомству Пьер погружается в культурную жизнь Москвы, не только официальную, но и подпольную. У него начинается роман с Кирой. Но стажировка и знакомство с жизнью в СССР — не единственная цель Пьера. Он ищет своего отца, белого офицера Татищева, который был арестован в конце 1930-х. Их встреча — кульминация фильма. За год в Москве Пьер проживает целую жизнь, совершенно непохожую на все, что он знал. Когда Пьер улетает обратно в Париж, он надеется, что когда-нибудь еще сможет увидеть Киру. В кармане его пиджака лежит пленка с номером подпольного журнала «Грамотей».",
-   "popularity": 4.505,
+   "popularity": 4.374,
    "poster_path": "http://image.tmdb.org/t/p/w500/dEgWJz0vx3HENgj6V3BujhC3PmE.jpg",
    "production_companies": [
     {
@@ -27208,7 +27909,7 @@
    "original_language": "no",
    "original_title": "Askeladden - I Soria Moria slott",
    "overview": "Король и королева отравлены. Единственный шанс на спасение — живая вода, спрятанная на краю света в стенах таинственного Золотого замка. Эспен с принцессой Кристин отправляются в путешествие, полное опасностей и приключений.",
-   "popularity": 3.065,
+   "popularity": 1.839,
    "poster_path": "http://image.tmdb.org/t/p/w500/wzpGkd1d58FUTPRbedZME8FTY7V.jpg",
    "production_companies": [
     {
@@ -27378,7 +28079,7 @@
    "original_language": "fr",
    "original_title": "Roubaix, une lumière",
    "overview": "В центре сюжета — шериф полиции и выпускник академии. Они пытаются раскрыть жестокое убийство пожилой женщины.",
-   "popularity": 8.634,
+   "popularity": 8.374,
    "poster_path": "http://image.tmdb.org/t/p/w500/qPDTltvin2VgdhRt8AgWFdp77JZ.jpg",
    "production_companies": [
     {
@@ -27480,7 +28181,7 @@
    "title": "Боже мой!",
    "video": false,
    "vote_average": 6.7,
-   "vote_count": 67,
+   "vote_count": 68,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -27610,7 +28311,7 @@
    "original_language": "en",
    "original_title": "Strange But True",
    "overview": "Спустя пять лет после гибели старшеклассника Ронни Чейза, который разбился на машине в выпускной вечер, к его матери и брату приходит его школьная подруга Мелисса. Она уверяет, что ждёт ребенка от Ронни. Недоверчивые родственники пытаются выяснить правду, которая оказывается страшнее всех предположений.",
-   "popularity": 10.003,
+   "popularity": 7.995,
    "poster_path": "http://image.tmdb.org/t/p/w500/hKx8KuzJUk48B8j95f96jOk2YzL.jpg",
    "production_companies": [
     {
@@ -27765,7 +28466,7 @@
    "original_language": "en",
    "original_title": "Kill Chain",
    "overview": "Трём незнакомцам приходится разрешать конфликт, к которому жизнь их не готовила.",
-   "popularity": 13.431,
+   "popularity": 11.031,
    "poster_path": "http://image.tmdb.org/t/p/w500/wy0Xs5mGtD92PyKvsl0lxzbzscG.jpg",
    "production_companies": [
     {
@@ -27905,7 +28606,7 @@
    "original_language": "en",
    "original_title": "The Courier",
    "overview": "На первый взгляд, она — всего лишь курьер на черном мотоцикле, стремительно пронзающем ночной Лондон. Но даже в огромном мегаполисе красотке удается ускользнуть от уличных камер, и ее имя невозможно найти ни в одной базе данных. Именно она, дерзкая и неуловимая, бросит вызов могущественному криминальному боссу. И ему лучше не знать, кто на самом деле эта взрывная брюнетка…",
-   "popularity": 10.596,
+   "popularity": 12.316,
    "poster_path": "http://image.tmdb.org/t/p/w500/ypEiGZjd9X2aOvu5BGMdDTFTuBC.jpg",
    "production_companies": [
     {
@@ -28130,7 +28831,7 @@
    "original_language": "ru",
    "original_title": "Большая поэзия",
    "overview": "Фильм «Большая поэзия» рассказывает о двух парнях, живущих на окраине Москвы и работающих инкассаторами. Они молоды, одиноки, у них нет никого, кроме друг друга. Всю жизнь они перевозят чужие деньги. Мечтают, ходят в поэтический кружок в Доме культуры и на петушиные бои в местное общежитие гастарбайтеров. Попытки найти поэтическое настроение в окружающем их прозаическом мире приводят героев к выводу, что единственное подлинно поэтическое действие — ограбление банка. Но фильм не о словах и не о рифмах. А о дружбе, предательстве, о порочном и чуждом мире, в котором каждый, кто пытается быть честным и последовательным, в конце концов выглядит наивным и жестоким. О той всегдашней и непонятной силе, которая до сих пор наперекор всему делает нашу жизнь такой неистовой, странной и одинокой.",
-   "popularity": 2.635,
+   "popularity": 2.381,
    "poster_path": "http://image.tmdb.org/t/p/w500/96N7t5DDe3Kj8XgDvULECj7uYgV.jpg",
    "production_companies": [
     {
@@ -28280,7 +28981,7 @@
    "original_language": "en",
    "original_title": "A Rainy Day in New York",
    "overview": "Он — из состоятельной семьи Нью-Йорка, она — из небольшого городка в Аризоне. Выросший на Манхэттене юноша мечтает показать ей свой любимый город. Судьба дает ему шанс, когда девушку отправляют взять интервью у известного режиссера. Однако этот дождливый день изменит их жизнь навсегда. В проливной суете мегаполиса он встретит свою давнюю подругу, а девушку затянет в мир звездной богемы…",
-   "popularity": 2420.834,
+   "popularity": 1452.5,
    "poster_path": "http://image.tmdb.org/t/p/w500/wXWYJ7tKvUlryi6cCYYhk8ETuZV.jpg",
    "production_companies": [
     {
@@ -28322,7 +29023,7 @@
    "title": "Дождливый день в Нью-Йорке",
    "video": false,
    "vote_average": 6.7,
-   "vote_count": 639,
+   "vote_count": 643,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -28608,7 +29309,7 @@
    "original_language": "en",
    "original_title": "Maleficent: Mistress of Evil",
    "overview": "Действие происходит через несколько лет после того, как Малефисента наложила злые чары на принцессу Аврору. Фильм рассказывает про сложную взаимосвязь между тёмной феей и будущей королевой, о новых союзниках и противниках в деле защиты волшебного леса и магических существах, которые в нем обитают.",
-   "popularity": 47.361,
+   "popularity": 46.978,
    "poster_path": "http://image.tmdb.org/t/p/w500/7hq56ZgSnDRMJSCroAml17EmGmI.jpg",
    "production_companies": [
     {
@@ -28644,7 +29345,7 @@
    "title": "Малефисента: Владычица тьмы",
    "video": false,
    "vote_average": 7.2,
-   "vote_count": 2011,
+   "vote_count": 2013,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -29191,7 +29892,7 @@
    "original_language": "en",
    "original_title": "The Shed",
    "overview": "Стэн, рано лишившийся родителей и живущий с грубоватым дедом, коротает время, скучая на занятиях, встречаясь со своей девушкой и периодически участвуя в стычках с компанией школьных хулиганов, достающих и его девушку, и его лучшего друга. Так продолжается до поры пока он случайно не обнаруживает в собственном дворовом сарае злобного демона, исполненного кровожадных планов. И с этого момента герою становится не до скуки…",
-   "popularity": 6.225,
+   "popularity": 4.576,
    "poster_path": "http://image.tmdb.org/t/p/w500/oZmwj90ARpFmOqqIu6P8Tw0Hgt2.jpg",
    "production_companies": [
     {
@@ -29381,7 +30082,7 @@
    "original_language": "ru",
    "original_title": "Решала: Нулевые",
    "overview": "2008 год. Старинные друзья Костя и Завгар придумывают не совсем легальные схемы заработка. Деньги приходят легко и так же легко уходят. Кажется, что этот успех будет вечен. Но на каждого найдется свой капкан, особенно если хочется еще больше денег. Костя затевает большую игру, которая может стоить и ему, и Завгару свободы, дружбы и даже самой жизни.",
-   "popularity": 2.585,
+   "popularity": 2.327,
    "poster_path": "http://image.tmdb.org/t/p/w500/47sGRcOiJ21W3A9sY3CDsNss3pu.jpg",
    "production_companies": [],
    "production_countries": [
@@ -29486,7 +30187,7 @@
    "original_language": "fi",
    "original_title": "Koirat eivät käytä housuja",
    "overview": "Мужчина становится вдовцом. Долгое время после этого он не может найти связь с окружающими, пока однажды он не знакомится с доминатрикс.",
-   "popularity": 4.871,
+   "popularity": 3.08,
    "poster_path": "http://image.tmdb.org/t/p/w500/zaHg73T7nVwaIm9FSeMqU2JO4BV.jpg",
    "production_companies": [
     {
@@ -29708,7 +30409,7 @@
    "original_language": "ru",
    "original_title": "Девятая",
    "overview": "Петербург конца XIX века охвачен массовым увлечением оккультными науками и эзотерикой. Британка-медиум Оливия Рид приезжает в столицу Российской империи с гастролями и собирает на своих публичных спиритических сеансах толпы людей. В это время в городе происходит серия ритуальных загадочных убийств. На улицах похищают девушек, их изувеченные тела находят в самых разных концах города. Расследованием занимаются молодой полицейский офицер Ростов и его помощник Ганин. С каждой новой жертвой дело становится все запутаннее. Подозрение приводит Ростова к Оливии, и он решает обратиться к ней в надежде, что ее подлинная или мнимая способность вызывать духов погибших может помочь выйти на след убийцы.",
-   "popularity": 3.87,
+   "popularity": 3.157,
    "poster_path": "http://image.tmdb.org/t/p/w500/pIBRl8bewLhztXk6W5xdzwhKrBh.jpg",
    "production_companies": [
     {
@@ -29830,7 +30531,7 @@
    "original_language": "ru",
    "original_title": "Лев Яшин. Вратарь моей мечты",
    "overview": "«Чёрный паук», «Чёрная пантера» и даже «Чёрный осьминог» — такими прозвищами награждали Льва Яшина за гибкость, молниеносное перемещение и гениальное видение поля. Он, неизменно в чёрном свитере с буквой «Д», был полноправным хозяином в своей штрафной. После поражения на Чемпионате Мира в Чили ему придётся уйти, чтобы позже с триумфом вернуться и снова стать лучшим не только в стране, но и во всём мире — единственным вратарём за всю историю футбола, получившим Золотой мяч. Лучшим, по мнению FIFA, вратарём ХХ века.",
-   "popularity": 3.247,
+   "popularity": 2.813,
    "poster_path": "http://image.tmdb.org/t/p/w500/dVgXMNJeoILxW64SY8Qx4NoWXuJ.jpg",
    "production_companies": [
     {
@@ -29976,7 +30677,7 @@
    "original_language": "en",
    "original_title": "Togo",
    "overview": "Пёс по кличке Того в 1928 году помог предотвратить эпидемию дифтерии в городе Ном, Аляска. В упряжке с другими ездовыми собаками Того, несмотря на страшные погодные условия, смог доставить в город посылку с антитоксином, остановившим распространение болезни. Основано на реальных событиях.",
-   "popularity": 22.862,
+   "popularity": 19.454,
    "poster_path": "http://image.tmdb.org/t/p/w500/wK3EZropn0xc3ajQW4jxvMD1Vs7.jpg",
    "production_companies": [
     {
@@ -30111,7 +30812,7 @@
    "original_language": "en",
    "original_title": "Gloria Bell",
    "overview": "Фильм рассказывает о свободолюбивой женщине, которая в 50 с лишним лет ищет свою любовь в танцевальных клубах Лос-Анджелеса.",
-   "popularity": 8.747,
+   "popularity": 9.06,
    "poster_path": "http://image.tmdb.org/t/p/w500/7SVPdOJiWfo5sKx8eg1VaTnJ403.jpg",
    "production_companies": [
     {
@@ -30431,7 +31132,7 @@
    "original_language": "en",
    "original_title": "Judy",
    "overview": "Фильм рассказывает о последних концертах голливудской звезды Джуди Гарлэнд в Лондоне в 1968 году. Звезда «Волшебника страны Оз» готовится к шоу, ссорится с руководством, очаровывает музыкантов. Это хрупкая женщина, которую истощили годы тяжелой работы и тоска по детям.",
-   "popularity": 18.602,
+   "popularity": 16.6,
    "poster_path": "http://image.tmdb.org/t/p/w500/pJd3PjQlOGUb6XsVsjM1Xa2zNNH.jpg",
    "production_companies": [
     {
@@ -30800,7 +31501,7 @@
    "original_language": "en",
    "original_title": "The Goldfinch",
    "overview": "История юного Теодора Деккера, потерявшего мать во время теракта в Метрополитен-музее. Чудом оставшись в живых после взрыва, Тео получает от умирающего старика редкую картину кисти Карела Фабрициуса и кольцо. С этого момента начинается его погружение в подпольный мир искусства.",
-   "popularity": 14.369,
+   "popularity": 11.755,
    "poster_path": "http://image.tmdb.org/t/p/w500/nAAXv546lLgHKBLZZGChZmDrmqS.jpg",
    "production_companies": [
     {
@@ -31284,7 +31985,7 @@
    "original_language": "en",
    "original_title": "Joker",
    "overview": "Готэм, начало 1980-х годов. Комик Артур Флек живет с больной матерью, которая с детства учит его «ходить с улыбкой». Пытаясь нести в мир хорошее и дарить людям радость, Артур сталкивается с человеческой жестокостью и постепенно приходит к выводу, что этот мир получит от него не добрую улыбку, а ухмылку злодея Джокера.",
-   "popularity": 112.09,
+   "popularity": 100.777,
    "poster_path": "http://image.tmdb.org/t/p/w500/498AdCguRoD1mpizIeKi8nDTOQO.jpg",
    "production_companies": [
     {
@@ -31360,7 +32061,7 @@
    "title": "Джокер",
    "video": false,
    "vote_average": 8.2,
-   "vote_count": 9682,
+   "vote_count": 9695,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -32182,7 +32883,7 @@
    "original_language": "en",
    "original_title": "Lucy in the Sky",
    "overview": "Женщина-астронавт возвращается на Землю после космической миссии и осознает, что ее восприятие реальности преобразилось очень необычным образом.",
-   "popularity": 11.874,
+   "popularity": 8.416,
    "poster_path": "http://image.tmdb.org/t/p/w500/df3J5LXT9xzJVHc5GOYmEeVqYec.jpg",
    "production_companies": [
     {
@@ -32383,7 +33084,7 @@
    "original_language": "en",
    "original_title": "It Chapter Two",
    "overview": "Проходит 27 лет после первой встречи ребят с демоническим Пеннивайзом. Они уже выросли, и у каждого своя жизнь. Но неожиданно их спокойное существование нарушает странный телефонный звонок, который заставляет их вновь собраться вместе.",
-   "popularity": 38.194,
+   "popularity": 35.775,
    "poster_path": "http://image.tmdb.org/t/p/w500/rjM13nwgzt80xAUKXVp9mzRYyHp.jpg",
    "production_companies": [
     {
@@ -32441,7 +33142,7 @@
    "title": "Оно 2",
    "video": false,
    "vote_average": 6.8,
-   "vote_count": 3289,
+   "vote_count": 3290,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -33045,7 +33746,7 @@
    "original_language": "fr",
    "original_title": "Mon Inconnue",
    "overview": "Однажды утром он и она меняются местами. Он просыпается не успешным писателем в лучах славы, а простым учителем с непомерно завышенным эго. Его девушка, наоборот, теперь известная пианистка, которую зовет замуж крутой музыкальный продюсер. Он знает про нее все, а она — не помнит про него ничего. Чтобы разобраться в происходящем и вернуть свою прежнюю жизнь, ему нужно вновь завоевать ее сердце.",
-   "popularity": 11.529,
+   "popularity": 10.431,
    "poster_path": "http://image.tmdb.org/t/p/w500/9n9Ix9ozfoRcvi0J6aXLvfzKCBq.jpg",
    "production_companies": [
     {
@@ -33113,7 +33814,7 @@
    "title": "Поменяться местами",
    "video": false,
    "vote_average": 7.2,
-   "vote_count": 272,
+   "vote_count": 273,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -33303,7 +34004,7 @@
    "original_language": "en",
    "original_title": "Zombieland: Double Tap",
    "overview": "Беспощадная и бесстрашная четверка охотников на зомби продолжает свое путешествие в глубь страны. На этот раз им предстоит сразиться не только с новыми видами живых мертвецов, но и вступить в схватку с другими выжившими, которые настроены совсем не дружелюбно. Кроме того, в собственных рядах охотников намечается серьезный разлад.",
-   "popularity": 96.052,
+   "popularity": 77.476,
    "poster_path": "http://image.tmdb.org/t/p/w500/1csnOnuch5AsT6ZS0ZXthRCLxvf.jpg",
    "production_companies": [
     {
@@ -33345,7 +34046,7 @@
    "title": "Zомбилэнд: Контрольный выстрел",
    "video": false,
    "vote_average": 6.9,
-   "vote_count": 1597,
+   "vote_count": 1602,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -33775,7 +34476,7 @@
    "original_language": "ru",
    "original_title": "Конец сезона",
    "overview": "Три сестры волею обстоятельств оказались за пределами России и живут в маленьком прибалтийском городке. Они, как и героини знаменитой пьесы Антона Павловича Чехова, живут мечтой о возвращении в Москву и ищут любовь, однако у судьбы на них свои планы. Одну никак не оставляет прошлое, другая ищет простого женского счастья, а у третьей — кризис семейной жизни. Тем временем, на тихом побережье появляется опасный убийца… Светлая меланхолия сменяется взрывами человеческих эмоций и нешуточной борьбой за жизнь.",
-   "popularity": 0.6,
+   "popularity": 0.779,
    "poster_path": "http://image.tmdb.org/t/p/w500/564g6grDNZFeW92rumW4YXV36Mp.jpg",
    "production_companies": [
     {
@@ -33921,7 +34622,7 @@
    "original_language": "es",
    "original_title": "Día de Muertos",
    "overview": "Сельма выросла в любящей приемной семье, но вот уже 16 лет она мечтает встретить своих настоящих родителей. Неожиданно её старшие братья находят древнюю книгу заклинаний, открывающую путь в другие миры. Втроем они отправятся в путешествие в удивительный Город Призраков, чтобы отыскать ключ к прошлому девушки.",
-   "popularity": 5.983,
+   "popularity": 5.298,
    "poster_path": "http://image.tmdb.org/t/p/w500/gbofjJbAfnSplfX61dbD24NOquQ.jpg",
    "production_companies": [
     {
@@ -34127,7 +34828,7 @@
    "original_language": "en",
    "original_title": "Primal",
    "overview": "Грузовое судно, под завязку наполненное разными экзотическими животными, отплывает из Амазонии в США. На корабле находится не менее дикий в своих нравах профессиональный охотник, который лично поймал редчайшего белого ягуара для одного из зоопарков. Однако экспедиция осложняется тем, что на судне также конвоируют опасного террориста, который ускользает из камеры и открывает все вольеры…",
-   "popularity": 10.552,
+   "popularity": 8.139,
    "poster_path": "http://image.tmdb.org/t/p/w500/lzTMCDOZr1aoUxd2Sdo34n1R4OW.jpg",
    "production_companies": [
     {
@@ -34338,7 +35039,7 @@
    "original_language": "en",
    "original_title": "Overcomer",
    "overview": "Главный герой картины — тренер школьной баскетбольной команды Джон Харрисон. Он привык к победе, но в один день, из-за закрытия завода в городе и массовых переездов, тренер теряет всех игроков. Харрисон переживает кризис веры, но всё же берётся подготовить девочку-подростка к соревнованиям по бегу по пересеченной местности.",
-   "popularity": 8.563,
+   "popularity": 9.994,
    "poster_path": "http://image.tmdb.org/t/p/w500/A786IMiilNt2UnH0T8qniHFI26c.jpg",
    "production_companies": [
     {
@@ -34570,7 +35271,7 @@
    "original_language": "en",
    "original_title": "The Addams Family",
    "overview": "Папа любит долгие прогулки в ненастную погоду. Мама считает, что чёрный цвет самый яркий. У детей кладбище — любимая площадка для игр. Бабушка выпивает пару капель яда перед сном. Вы всё ещё думаете, что ваши родственники странные? Знакомьтесь — семейка Аддамс.",
-   "popularity": 43.972,
+   "popularity": 35.165,
    "poster_path": "http://image.tmdb.org/t/p/w500/5VedqwpMlZHyYtn5OHnFH3Gv1B3.jpg",
    "production_companies": [
     {
@@ -35067,7 +35768,7 @@
    "original_language": "en",
    "original_title": "Code 8",
    "overview": "В недалеком будущем существует небольшой процент населения Земли, обладающего сверхспособностями. Власти пытаются контролировать особенных людей, а остальные боятся их и презирают. Добродушный парень, обладающий способностью генерировать в себе энергию огромной мощности, отчаянно пытается перестать быть изгоем и встроиться в общество.",
-   "popularity": 26.193,
+   "popularity": 23.32,
    "poster_path": "http://image.tmdb.org/t/p/w500/vFQ5ooC8xBC6suV32VWudzcL6Kq.jpg",
    "production_companies": [
     {
@@ -35333,7 +36034,7 @@
    "original_language": "en",
    "original_title": "The Lighthouse",
    "overview": "1890-е годы. Молодой Ифраим Уинслоу приезжает на отдалённый остров работать новым ассистентом смотрителя маяка. Его начальник — хромоногий и бородатый Томас Уэйк. Он обращается с помощником как с личным рабом и запрещает ему подниматься на сам маяк и управлять светом. Ифраиму предстоит провести в компании Уэйка четыре тяжёлые недели, в течение которых спокойный парень изменится навсегда.",
-   "popularity": 24.222,
+   "popularity": 19.009,
    "poster_path": "http://image.tmdb.org/t/p/w500/v9TwxZ8hBYTDxFNwO6AIQuZu59M.jpg",
    "production_companies": [
     {
@@ -35391,7 +36092,7 @@
    "title": "Маяк",
    "video": false,
    "vote_average": 7.7,
-   "vote_count": 901,
+   "vote_count": 904,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -35726,7 +36427,7 @@
    "original_language": "en",
    "original_title": "The Aeronauts",
    "overview": "Лондон. 1862 год. Она — очаровательная богатая молодая женщина, увлеченная управлением воздушных шаров. Он — исследователь метеоролог, готовый на все, чтобы совершить научный прорыв. Самой судьбой им было предназначено взлететь выше, чем кто-либо в истории. Вдвоем они отправятся в отчаянное путешествие на аэростате, через бури и грозы на край неизведанного мира, где воздух разряжен, а шансы на выживание невелики…",
-   "popularity": 16.722,
+   "popularity": 14.601,
    "poster_path": "http://image.tmdb.org/t/p/w500/xVokuND6RMIP50ALHUxwzONW9AK.jpg",
    "production_companies": [
     {
@@ -36040,7 +36741,7 @@
    "original_language": "sv",
    "original_title": "Koko-di Koko-da",
    "overview": "Молодая пара отправляется в путешествие по живописным местам. В лесу они встречают артистов цирка, которые устраивают им забавные игры, терроризируя супругов. Снова и снова они вынуждены проживать этот день, чтобы найти выход и разорвать порочный круг.",
-   "popularity": 4.968,
+   "popularity": 3.985,
    "poster_path": "http://image.tmdb.org/t/p/w500/dbepGfMVV8teOrQwnuGHq090hW.jpg",
    "production_companies": [
     {
@@ -36338,7 +37039,7 @@
    "original_language": "en",
    "original_title": "Kim Possible",
    "overview": "Ким совмещает школьную жизнь со шпионским делом.",
-   "popularity": 14.719,
+   "popularity": 9.514,
    "poster_path": "http://image.tmdb.org/t/p/w500/kzHFpgimHxWZtThGjzKpESw00ZW.jpg",
    "production_companies": [
     {
@@ -36496,7 +37197,7 @@
    "original_language": "en",
    "original_title": "Descendants 3",
    "overview": "Самая известная группа детей злодеев Диснея возвращается на Затерянный Остров, чтобы найти новых союзников и защитить свою школу.",
-   "popularity": 32.212,
+   "popularity": 19.327,
    "poster_path": "http://image.tmdb.org/t/p/w500/yjaZg6zgHRghOonyMBhUMCTz032.jpg",
    "production_companies": [
     {
@@ -36632,7 +37333,7 @@
    "original_language": "en",
    "original_title": "Paradise Hills",
    "overview": "Добро пожаловать в дивный новый мир. Здесь создан высокотехнологичный остров, имя которому «Райские холмы». Богатые семьи отправляют сюда «несовершенных» дочерей, чтобы преобразить их по своему подобию. Ведь если ты принадлежишь к высшему обществу, даже в далеком будущем брак по любви — непозволительная роскошь. Красота, покорность и непорочность — вот путь к новой жизни. И тебя ждет прекрасное будущее, но только если ты готова подчиняться правилам…",
-   "popularity": 13.684,
+   "popularity": 19.158,
    "poster_path": "http://image.tmdb.org/t/p/w500/pt1kTZ3BzgkDjFeTlymzgRk2MIr.jpg",
    "production_companies": [
     {
@@ -36867,7 +37568,7 @@
    "original_language": "en",
    "original_title": "The Two Popes",
    "overview": "Фильм исследует отношения и противоположные взгляды двух наиболее влиятельных лидеров католической церкви, которые должны решить свои собственные проблемы и найти подход к современному миру, чтобы вновь сделать церковь популярной.",
-   "popularity": 17.994,
+   "popularity": 18.324,
    "poster_path": "http://image.tmdb.org/t/p/w500/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg",
    "production_companies": [
     {
@@ -36921,7 +37622,7 @@
    "title": "Два Папы",
    "video": false,
    "vote_average": 7.6,
-   "vote_count": 1205,
+   "vote_count": 1206,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -37220,7 +37921,7 @@
    "original_language": "en",
    "original_title": "The Fare",
    "overview": "Очаровавшая водителя такси пассажирка внезапно исчезает с заднего сидения автомобиля, не оставив ни следа. С этого момента герои оказываются в ловушке бесконечной поездки, которая изменит их жизни навсегда.",
-   "popularity": 2.613,
+   "popularity": 1.894,
    "poster_path": "http://image.tmdb.org/t/p/w500/3irjyxIHDefBzjOupOvsZnKv4CL.jpg",
    "production_companies": [
     {
@@ -37348,7 +38049,7 @@
    "original_language": "ru",
    "original_title": "Простой карандаш",
    "overview": "В размеренную жизнь провинциального городка врывается Антонина — гордая, красивая, смелая. Она художник-график из Санкт-Петербурга, а ее главное оружие — это простой карандаш и доброе сердце. Но русская глубинка может оказаться очень жестокой — и теперь либо она ее победит, либо наоборот.",
-   "popularity": 0.97,
+   "popularity": 0.6,
    "poster_path": "http://image.tmdb.org/t/p/w500/nFdIAxq3pab0sSdQOKBwpyi1U8Z.jpg",
    "production_companies": [
     {
@@ -37490,7 +38191,7 @@
    "original_language": "fr",
    "original_title": "Gueule d'ange",
    "overview": "Мать-одиночка Марлин живёт с 8-летней дочкой Элли в небольшом городке близ Лазурного Берега. Однажды она решает оставить ребенка ради мужчины, с которым познакомилась во время очередного загула по клубам. Теперь Элли должна вернуть себе мать и заставить её разобраться с собственными внутренними демонами.",
-   "popularity": 5.487,
+   "popularity": 5.399,
    "poster_path": "http://image.tmdb.org/t/p/w500/qT0qpxa17A9z96ppEmu4hC8IbJ.jpg",
    "production_companies": [
     {
@@ -37658,7 +38359,7 @@
    "original_language": "ru",
    "original_title": "Текст",
    "overview": "Главный герой — 27-летний Илья Горюнов, семь лет отсидевший в тюрьме по ложному обвинению в распространении наркотиков. Когда Илья выходит на свободу, он понимает, что прежняя жизнь, по которой он тосковал, разрушена, и вернуться к ней он больше не сможет. Хотя он не собирался мстить человеку, который отправил его в тюрьму, другого выхода теперь нет. Встретившись лицом к лицу со своим обидчиком, Илья совершает необдуманный поступок, после которого главный герой получает доступ к смартфону Петра, а с ним и к жизни молодого человека — его фотографиям и видео, перепискам с родителями и девушкой Ниной, к странным, полным недомолвок и угроз переговорам с коллегами. На время Илья становится для всех Петром — через текст на экране телефона.",
-   "popularity": 3.631,
+   "popularity": 2.726,
    "poster_path": "http://image.tmdb.org/t/p/w500/eUHmJz3WLbSVLsHActZTWOhE2Uy.jpg",
    "production_companies": [
     {
@@ -37803,7 +38504,7 @@
    "original_language": "nn",
    "original_title": "Mordene i Kongo",
    "overview": "Сюжет фильма основан на реальных событиях. Весной 2009 года Френч и Моланд отправились в Конго. Это путешествие стало для них фатальным, явившись отправной точкой в цепочке необратимых событий. По пути они были арестованы властями по обвинению в убийстве своего водителя. Что же на самом деле случилось в тот роковой день, который изменил всю их жизнь? Были ли они обычными путешественниками или перед нами хладнокровные убийцы, которые связаны с большой шпионской игрой? Это предстоит выяснить следствию и вынести обвиняемым приговор…",
-   "popularity": 1.519,
+   "popularity": 0.911,
    "poster_path": "http://image.tmdb.org/t/p/w500/5YMbfsrwAy87SkP6LIQplB7Vyuk.jpg",
    "production_companies": [
     {
@@ -37971,7 +38672,7 @@
    "original_language": "en",
    "original_title": "Trouble",
    "overview": "Наследник миллионного состояния и кучки неблагодарных родственников, его псиятельство Принц вышел из зоны комфорта и оказался на улице. Теперь он мечтает вернуться домой. Для этого ему нужно найти новых друзей, избавиться от назойливых белок и сбросить с хвоста матерого охотника. Королевские каникулы начинаются.",
-   "popularity": 4.816,
+   "popularity": 5.034,
    "poster_path": "http://image.tmdb.org/t/p/w500/fpzzBYsuXa1AuHuiHx1Yax5hyHk.jpg",
    "production_companies": [
     {
@@ -38261,7 +38962,7 @@
    "original_language": "en",
    "original_title": "Marriage Story",
    "overview": "Сюжет фильма вращается вокруг распадающейся супружеской пары.",
-   "popularity": 28.851,
+   "popularity": 35.423,
    "poster_path": "http://image.tmdb.org/t/p/w500/bm6zKJjKYKrIy3dcnOLk0kF85cl.jpg",
    "production_companies": [
     {
@@ -38291,7 +38992,7 @@
    "title": "Брачная история",
    "video": false,
    "vote_average": 7.9,
-   "vote_count": 2736,
+   "vote_count": 2738,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -38599,7 +39300,7 @@
    "original_language": "en",
    "original_title": "Hustlers",
    "overview": "Они — яркие, сексуальные и амбициозные. Они — танцовщицы элитного стриптиз-клуба, клиенты которого — известные финансисты с Уолл-Стрит. Но когда банковский кризис в одночасье превращает накопления девушек в пыль, они разрабатывают план по возврату потерянных денег, чтобы снова иметь возможность вести роскошную жизнь и заодно наказать финансистов, оставивших их без гроша.",
-   "popularity": 39.991,
+   "popularity": 32.249,
    "poster_path": "http://image.tmdb.org/t/p/w500/lqNfHZ1wlAwoIbvzsEF7My9v57V.jpg",
    "production_companies": [
     {
@@ -38655,7 +39356,7 @@
    "title": "Стриптизёрши",
    "video": false,
    "vote_average": 6.3,
-   "vote_count": 1119,
+   "vote_count": 1120,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -39057,7 +39758,7 @@
    "original_language": "ru",
    "original_title": "Робо",
    "overview": "12-летний Митя Привалов мечтает рисовать комиксы о супергероях. Но родители мальчика, инженеры-робототехники, хотят, чтобы он пошел по их стопам. Понимание и поддержку Митя находит там, где не ждал: у созданного родителями робота-спасателя А-112 или просто Робо. Их ждут невероятные приключения, в ходе которых Митя научит нового друга верить в себя и свои мечты, а Робо станет для мальчика примером мужества и ответственности.",
-   "popularity": 1.29,
+   "popularity": 1.112,
    "poster_path": "http://image.tmdb.org/t/p/w500/zFS9rYCgar7oymgIxFuF1dc0h5o.jpg",
    "production_companies": [
     {
@@ -39238,7 +39939,7 @@
    "original_language": "en",
    "original_title": "In a Relationship",
    "overview": "Оуэн и Хэлли очень давно в отношениях, из которых со временем исчезла романтика и спонтанность. Они устали друг от друга и от рутины, в которую превратилась их любовь. Тем временем на глазах пары развивается яркий роман между лучшим другом Оэуна Мэттом и кузиной Хэлли Уиллой. Глядя на то, как Мэтт и Уилла радуются каждой встрече друг с другом, Хэлли и Оуэн решают изменить что-нибудь в своих отношениях. И внезапно расстаются.",
-   "popularity": 5.314,
+   "popularity": 5.133,
    "poster_path": "http://image.tmdb.org/t/p/w500/vrPPQzm4HTZKKcQ3zuljDSfUdQX.jpg",
    "production_companies": [
     {
@@ -39388,7 +40089,7 @@
    "original_language": "en",
    "original_title": "The Room",
    "overview": "Влюбленная пара решает переехать в уединенный особняк. Занимаясь ремонтом старинного дома, они обнаруживают замурованную комнату, исполняющую любое их желание. Миллионы долларов, подлинник Ван Гога и самые роскошные наряды — чего бы они ни захотели, моментально материализуется. Однако, наигравшись вдоволь, молодая женщина осмеливается пожелать себе долгожданного ребенка, даже не подозревая, какую сделку совершает…",
-   "popularity": 6.165,
+   "popularity": 7.585,
    "poster_path": "http://image.tmdb.org/t/p/w500/de2V6MaJzGRclg1pQaSG2v3i0yW.jpg",
    "production_companies": [
     {
@@ -39617,7 +40318,7 @@
    "original_language": "en",
    "original_title": "Dora and the Lost City of Gold",
    "overview": "Практически всё детство Дора провела в джунглях, где работали её родители-исследователи. Но никакие прежние приключения не могли подготовить девушку к опасностям старшей школы — непониманию, соперничеству, зависти. Вдобавок таинственным образом исчезают родители Доры. Но она не была бы собой, если бы опустила руки. Первая любовь, а также старые и новые друзья вдохновляют смелую девушку отправиться на поиски родных. На пути к цели их ждёт масса испытаний, а также леденящая кровь загадка потерянной цивилизации…",
-   "popularity": 21.773,
+   "popularity": 16.1,
    "poster_path": "http://image.tmdb.org/t/p/w500/qVUKgIkVagwdZ8LhVpWXfRXWm4r.jpg",
    "production_companies": [
     {
@@ -40047,445 +40748,6 @@
   },
   {
    "adult": false,
-   "backdrop_path": "http://image.tmdb.org/t/p/w780/71hIkBtvXhvRVh6HdE28CXaNNRz.jpg",
-   "belongs_to_collection": {
-    "id": 591028,
-    "name": "Собачья жизнь (Коллекция)",
-    "poster_path": "http://image.tmdb.org/t/p/w500/r4AXWzkdj0tllsodNUhDyPsVZNJ.jpg",
-    "backdrop_path": "http://image.tmdb.org/t/p/w780/7QtTnJQDnRnRu2FvCTJoPMPN8hp.jpg"
-   },
-   "budget": 0,
-   "genre_ids": null,
-   "genres": [
-    {
-     "id": 10751,
-     "name": "семейный"
-    }
-   ],
-   "homepage": "https://www.adogsjourneymovie.com",
-   "id": 522518,
-   "imdb_id": "tt8385474",
-   "original_language": "en",
-   "original_title": "A Dog's Journey",
-   "overview": "Старый пес Бадди прожил несколько жизней, прежде чем воссоединиться со своим первым хозяином. Но на этом цепь его перерождений не оборвалась. Он возвращается в теле щенка, получает кличку Молли и выполняет новую миссию – принести счастье проблемной девочке-подростку СиДжей.",
-   "popularity": 13.161,
-   "poster_path": "http://image.tmdb.org/t/p/w500/nTIYb1c3JcqFRo9V1RIzflsJTmj.jpg",
-   "production_companies": [
-    {
-     "id": 10221,
-     "logo_path": "http://image.tmdb.org/t/p/w185/99VfWRgKasZoyK9UVB39gnYvFrZ.png",
-     "name": "Walden Media",
-     "origin_country": "US"
-    },
-    {
-     "id": 69484,
-     "logo_path": "http://image.tmdb.org/t/p/w185/2xtmvbEse87LM7OJXVksv7DToZx.png",
-     "name": "Alibaba Pictures Group",
-     "origin_country": "CN"
-    },
-    {
-     "id": 56,
-     "logo_path": "http://image.tmdb.org/t/p/w185/cEaxANEisCqeEoRvODv2dO1I0iI.png",
-     "name": "Amblin Entertainment",
-     "origin_country": "US"
-    },
-    {
-     "id": 33,
-     "logo_path": "http://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-     "name": "Universal Pictures",
-     "origin_country": "US"
-    }
-   ],
-   "production_countries": [
-    {
-     "iso_3166_1": "HK",
-     "name": "Hong Kong"
-    },
-    {
-     "iso_3166_1": "IN",
-     "name": "India"
-    },
-    {
-     "iso_3166_1": "CN",
-     "name": "China"
-    },
-    {
-     "iso_3166_1": "US",
-     "name": "United States of America"
-    }
-   ],
-   "release_date": "03.05.2019",
-   "revenue": 2520000,
-   "runtime": 109,
-   "spoken_languages": [
-    {
-     "iso_639_1": "en",
-     "name": "English"
-    }
-   ],
-   "status": "Released",
-   "tagline": "«Настоящей дружбе одной жизни мало»",
-   "title": "Собачья жизнь 2",
-   "video": false,
-   "vote_average": 7.6,
-   "vote_count": 254,
-   "created_by": null,
-   "episode_run_time": null,
-   "first_air_date": "",
-   "in_production": false,
-   "languages": null,
-   "last_air_date": "",
-   "name": "",
-   "networks": null,
-   "number_of_episodes": 0,
-   "number_of_seasons": 0,
-   "origin_country": null,
-   "original_name": "",
-   "seasons": null,
-   "type": "",
-   "year": "2019",
-   "character": "",
-   "media_type": "movie",
-   "credit_id": "",
-   "videos": {
-    "id": 522518,
-    "results": [
-     {
-      "id": "5c80159e0e0a2643105c8a3b",
-      "iso_3166_1": "RU",
-      "iso_639_1": "ru",
-      "key": "snPqBDbvpE0",
-      "name": "Собачья жизнь 2 — Русский трейлер (2019)",
-      "site": "YouTube",
-      "size": 1080,
-      "type": "Trailer",
-      "link": "https://www.youtube.com/watch?v=snPqBDbvpE0",
-      "poster": "https://img.youtube.com/vi/snPqBDbvpE0/0.jpg"
-     }
-    ]
-   },
-   "release_dates": {
-    "id": 0,
-    "results": [
-     {
-      "iso_3166_1": "SG",
-      "release_dates": [
-       {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-05-16T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "DK",
-      "release_dates": [
-       {
-        "certification": "7",
-        "iso_639_1": "",
-        "release_date": "2019-06-20T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "RU",
-      "release_dates": [
-       {
-        "certification": "12+",
-        "iso_639_1": "ru",
-        "release_date": "2019-06-27T00:00:00Z",
-        "type": 3
-       },
-       {
-        "certification": "12+",
-        "iso_639_1": "ru",
-        "release_date": "2019-08-22T00:00:00Z",
-        "type": 4
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "NL",
-      "release_dates": [
-       {
-        "certification": "12",
-        "iso_639_1": "",
-        "release_date": "2019-06-13T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "GR",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-05-16T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "GB",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-05-03T00:00:00Z",
-        "type": 3
-       },
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-09-09T00:00:00Z",
-        "type": 5
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "US",
-      "release_dates": [
-       {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-05-17T00:00:00Z",
-        "type": 3
-       },
-       {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-08-20T00:00:00Z",
-        "type": 5
-       },
-       {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-08-06T00:00:00Z",
-        "type": 4
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "CZ",
-      "release_dates": [
-       {
-        "certification": "6+",
-        "iso_639_1": "",
-        "release_date": "2019-06-06T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "IE",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-05-03T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "UA",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-06-13T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "SK",
-      "release_dates": [
-       {
-        "certification": "12",
-        "iso_639_1": "",
-        "release_date": "2019-06-06T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "MX",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "en",
-        "release_date": "2019-05-17T00:00:00Z",
-        "type": 3
-       },
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-08-20T00:00:00Z",
-        "type": 5
-       },
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-08-06T00:00:00Z",
-        "type": 4
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "KR",
-      "release_dates": [
-       {
-        "certification": "전체관람가",
-        "iso_639_1": "",
-        "release_date": "2019-09-05T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "DE",
-      "release_dates": [
-       {
-        "certification": "0",
-        "iso_639_1": "",
-        "release_date": "2019-06-13T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "AU",
-      "release_dates": [
-       {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-08-15T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "ES",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "es",
-        "release_date": "2019-06-28T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "CA",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "en",
-        "release_date": "2019-05-17T00:00:00Z",
-        "type": 3
-       },
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-08-20T00:00:00Z",
-        "type": 5
-       },
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-08-06T00:00:00Z",
-        "type": 4
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "FR",
-      "release_dates": [
-       {
-        "certification": "U",
-        "iso_639_1": "",
-        "release_date": "2019-08-21T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "BR",
-      "release_dates": [
-       {
-        "certification": "12",
-        "iso_639_1": "",
-        "release_date": "2019-05-28T00:00:00Z",
-        "type": 3
-       },
-       {
-        "certification": "12",
-        "iso_639_1": "",
-        "release_date": "2019-08-18T00:00:00Z",
-        "type": 4
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "CN",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-05-17T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "JP",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-09-13T00:00:00Z",
-        "type": 3
-       }
-      ]
-     }
-    ]
-   },
-   "torrent": [
-    {
-     "name": "Собачья жизнь 2 / A Dog's Journey (2019) BDRip 1080p от HDReactor | Лицензия",
-     "magnet": "magnet:?xt=urn:btih:3be698fac96b613729c2e88757d96d625b3068af\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
-     "source": "rutor.info",
-     "size": "5.90 GB",
-     "date": "2019-12-11T00:00:00+03:00",
-     "upload": 47,
-     "download": 2
-    },
-    {
-     "name": "Собачья жизнь 2 / A Dog's Journey (2019) BDRemux 1080p от селезень | Лицензия",
-     "magnet": "magnet:?xt=urn:btih:8315c3ecc22108a1aeda00148c18f7b37051c4e9\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
-     "source": "rutor.info",
-     "size": "28.76 GB",
-     "date": "2019-12-10T00:00:00+03:00",
-     "upload": 4,
-     "download": 4
-    },
-    {
-     "name": "Собачья жизнь 2 / A Dog's Journey (2019) BDRip 1080p от селезень | Лицензия",
-     "magnet": "magnet:?xt=urn:btih:c839a5f446e6ddee69aea9cc45c3d7739f55581d\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
-     "source": "rutor.info",
-     "size": "12.14 GB",
-     "date": "2019-12-10T00:00:00+03:00",
-     "upload": 82,
-     "download": 10
-    }
-   ]
-  },
-  {
-   "adult": false,
    "backdrop_path": "http://image.tmdb.org/t/p/w780/uuCj46exjP6UOo976MAWACWFv1X.jpg",
    "belongs_to_collection": null,
    "budget": 0,
@@ -40506,7 +40768,7 @@
    "original_language": "en",
    "original_title": "A Christmas Prince: The Royal Baby",
    "overview": "Рождество несет особый подарок для королевства Алдовии — наследника. Но сперва королева Амбер должна помочь своей семье найти пропавший мирный договор.",
-   "popularity": 12.13,
+   "popularity": 10.009,
    "poster_path": "http://image.tmdb.org/t/p/w500/8NF0YG30eCDQJ5bRTNauF48C9Bu.jpg",
    "production_companies": [
     {
@@ -40670,7 +40932,7 @@
    "original_language": "en",
    "original_title": "In the Tall Grass",
    "overview": "Сестра и брат услышали детский плач, доносящийся из высокой травы, и отправились на поиски ребенка. Однако уже скоро они понимают, что выхода из зарослей может не быть…",
-   "popularity": 14.142,
+   "popularity": 11.626,
    "poster_path": "http://image.tmdb.org/t/p/w500/1RxhzwFkAUqMt215Brb06u8P8pn.jpg",
    "production_companies": [
     {
@@ -40710,7 +40972,7 @@
    "title": "В высокой траве",
    "video": false,
    "vote_average": 5.4,
-   "vote_count": 857,
+   "vote_count": 859,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -40926,7 +41188,7 @@
    "original_language": "en",
    "original_title": "Ad Astra",
    "overview": "Инженер армейского корпуса путешествует по Галактике в поисках отца, который отправился на поиски внеземной цивилизации 20 лет назад и исчез.",
-   "popularity": 420.229,
+   "popularity": 302.137,
    "poster_path": "http://image.tmdb.org/t/p/w500/dcbPgUymJt6tbUbs7U6L2Jc0wXD.jpg",
    "production_companies": [
     {
@@ -41004,7 +41266,7 @@
    "title": "К звёздам",
    "video": false,
    "vote_average": 6,
-   "vote_count": 2542,
+   "vote_count": 2544,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -41633,7 +41895,7 @@
    "original_language": "en",
    "original_title": "Earthquake Bird",
    "overview": "Токио 1980-х, загадочная эмигрантка подозревается в убийстве своей подруги, которая пропала без вести после того, как между ними и местным фотографом образовался любовный треугольник.",
-   "popularity": 17.188,
+   "popularity": 15.217,
    "poster_path": "http://image.tmdb.org/t/p/w500/oyKnosHXQ7kkhlGwqsWOvn4RgKR.jpg",
    "production_companies": [
     {
@@ -41871,7 +42133,7 @@
    "original_language": "en",
    "original_title": "Lucky Day",
    "overview": "В первый же день после освобождения из тюрьмы взломщик сейфов Ред и его подруга становятся мишенью киллера. Сея вокруг себя хаос, киллер шутит с акцентом, что мстит за убитую собаку. Не спеша уничтожать жертву, он явно ведет свою игру, истинной целью которой может быть вовсе не Ред.",
-   "popularity": 6.933,
+   "popularity": 5.584,
    "poster_path": "http://image.tmdb.org/t/p/w500/t8pDzAyxHA4PRSvRTnJVTfJBR8A.jpg",
    "production_companies": [
     {
@@ -42026,7 +42288,7 @@
    "original_language": "en",
    "original_title": "Abominable",
    "overview": "Путешествие на самую высокую точку мира? Что может быть круче! Так решает Лу, когда случайно находит огромное, но очень милое чудовище посреди шумного мегаполиса. Пусть их преследуют учёные из сверхсекретной лаборатории, зато её новый друг умеет смешить и творить чудеса. Лу уверена, что поможет дружелюбному йети вернуться домой — на Эверест.",
-   "popularity": 30.423,
+   "popularity": 29.517,
    "poster_path": "http://image.tmdb.org/t/p/w500/2tHCLXq7BbH2i9YjLNDMvohxpj3.jpg",
    "production_companies": [
     {
@@ -42072,7 +42334,7 @@
    "title": "Эверест",
    "video": false,
    "vote_average": 7.1,
-   "vote_count": 514,
+   "vote_count": 515,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -42535,7 +42797,7 @@
    "original_language": "en",
    "original_title": "Rambo: Last Blood",
    "overview": "Он хранил секреты всю жизнь, но пришло время взглянуть в глаза прошлому. В последний раз собраться и стать безжалостной машиной для убийства. Рэмбо снова встанет на смертельно опасный путь — путь мести, который ему придется пройти до конца.",
-   "popularity": 39.699,
+   "popularity": 27.709,
    "poster_path": "http://image.tmdb.org/t/p/w500/b9LPLeuWWt1jf196Tv4OrwDHhCa.jpg",
    "production_companies": [
     {
@@ -42597,7 +42859,7 @@
    "title": "Рэмбо: Последняя кровь",
    "video": false,
    "vote_average": 5.9,
-   "vote_count": 1298,
+   "vote_count": 1299,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -43094,7 +43356,7 @@
    "original_language": "uk",
    "original_title": "Заборонений",
    "overview": "",
-   "popularity": 2.32,
+   "popularity": 1.754,
    "poster_path": "http://image.tmdb.org/t/p/w500/tLi4jDaELIODQGE57eNGQXZOp78.jpg",
    "production_companies": [],
    "production_countries": [
@@ -43185,7 +43447,7 @@
    "original_language": "en",
    "original_title": "A Guide to Second Date Sex",
    "overview": "Лора и Райан прекрасно подходят друг другу. Они любят Мэрил Стрип, оба были буквально уничтожены предыдущими отношениями, а еще они даже не догадываются, что их ждет этой ночью. Каждый из них понимает, что они обязаны притвориться совершенно другими людьми, чтобы в этот раз у них вместе все сложилось.",
-   "popularity": 5.004,
+   "popularity": 5.257,
    "poster_path": "http://image.tmdb.org/t/p/w500/wl2FnHVI8dppFdLB8vRQ2RdxmV3.jpg",
    "production_companies": [],
    "production_countries": [
@@ -43320,7 +43582,7 @@
    "original_language": "en",
    "original_title": "DC Showcase: Death",
    "overview": "В этой истории Винсент, художник с нерешенными внутренними демонами, встречает загадочную девушку, которая помогает ему смириться с его творческим наследием ... и возможной смертью.",
-   "popularity": 2.666,
+   "popularity": 2.179,
    "poster_path": "http://image.tmdb.org/t/p/w500/yuho3nB3YSdVS7DDge7yJ6VfU9e.jpg",
    "production_companies": [
     {
@@ -43439,7 +43701,7 @@
    "original_language": "en",
    "original_title": "The Irishman",
    "overview": "Основанный на книге «Я слышал, ты красишь дома» фильм рассказывает о Фрэнке Ширэне по прозвищу Ирландец, которому приписывают убийство 25 гангстеров.",
-   "popularity": 38.216,
+   "popularity": 36.321,
    "poster_path": "http://image.tmdb.org/t/p/w500/4ZXfScDPpnTvPTHPT05ulDWqOfk.jpg",
    "production_companies": [
     {
@@ -43493,7 +43755,7 @@
    "title": "Ирландец",
    "video": false,
    "vote_average": 7.8,
-   "vote_count": 2804,
+   "vote_count": 2807,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -43969,7 +44231,7 @@
    "original_language": "en",
    "original_title": "Ready or Not",
    "overview": "Юная невеста — теперь часть семьи своего новоиспеченного мужа, богатого, но эксцентричного рода, чтящего вековые традиции. Но кто бы мог подумать, что знакомство с родителями супруга превратится в смертельную игру, в которой все борются не на жизнь, а на смерть.",
-   "popularity": 30.539,
+   "popularity": 28.57,
    "poster_path": "http://image.tmdb.org/t/p/w500/jPGy3buduikigoc7UJFPRbWhL1b.jpg",
    "production_companies": [
     {
@@ -44011,7 +44273,7 @@
    "title": "Я иду искать",
    "video": false,
    "vote_average": 6.8,
-   "vote_count": 1077,
+   "vote_count": 1079,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -44400,7 +44662,7 @@
    "original_language": "ru",
    "original_title": "Девушки бывают разные",
    "overview": "Это история о трёх друзьях, решивших покататься на серфе в Мексике. Все как полагается: океан, девушки и золотой песок. История не предвещает неожиданностей. Но не для наших героев, которые первым делом как следует отметили свой приезд. С трудом проснувшись наутро, парни обнаруживают себя посреди пляжа, они в замешательстве — не помнят, что же произошло накануне. Но вскоре появляются люди, которые освежают им память: оказывается, прошлой ночью парни страшно навредили международному криминальному авторитету Хуану, который по какой-то причине хочет их убить. Скрываясь от преследования, без денег и документов, они находят спасение — переодеваются в девушек и участвуют в женском турнире по сёрфингу. Победа поможет выиграть сто тысяч долларов и выбраться из страны. Но они еще не знают, что их неидеальному плану помешают любовь, секретные спецслужбы, мафия и даже бойцовые петухи.",
-   "popularity": 2.694,
+   "popularity": 2.363,
    "poster_path": "http://image.tmdb.org/t/p/w500/9vC7OsWEIvTlsWT0PjVdX1p7EIR.jpg",
    "production_companies": [
     {
@@ -44546,7 +44808,7 @@
    "original_language": "en",
    "original_title": "Haunt",
    "overview": "На Хэллоуин в поисках острых ощущений группа студентов отправляется за город на аттракцион «Комнаты страха», который обещает воплотить кошмары из самых жутких фильмов ужасов. Вскоре друзья понимают, что попали вовсе не в место для игр, под масками клоунов скрываются не люди, а существа из другого мира, а сами они теперь — герои настоящего хоррора и должны очень сильно постараться, чтобы выбраться из адского аттракциона живыми.",
-   "popularity": 8.778,
+   "popularity": 9.618,
    "poster_path": "http://image.tmdb.org/t/p/w500/98AaX9fSwSpOcG6zgnTXgUJAWDk.jpg",
    "production_companies": [
     {
@@ -44740,7 +45002,7 @@
    "original_language": "en",
    "original_title": "The Kitchen",
    "overview": "История трёх домохозяек, проживающих в нью-йоркском районе «Адская кухня», чьих мужей-мафиози ФБР посадило в тюрьму. Дело происходит в 1978 году, у этих дам нет ничего, кроме желания добиться своего, взяв дела ирландской мафии в свои руки. Оказывается, что и тут они чувствуют себя как рыба в воде во всём: от рэкета до устранения конкурентов… в буквальном смысле.",
-   "popularity": 16.482,
+   "popularity": 12.556,
    "poster_path": "http://image.tmdb.org/t/p/w500/75pxLTJNsf5pWhzC9D063PG0Nij.jpg",
    "production_companies": [
     {
@@ -45084,7 +45346,7 @@
    "original_language": "en",
    "original_title": "Angel Has Fallen",
    "overview": "На президента США совершено покушение, главный обвиняемый — верный ангел-хранитель главы государства и агент секретной службы Майк Бэннинг. Скрываясь от ФБР, он должен найти тех, кто его подставил, и спасти страну и ее лидера от смертельной угрозы.",
-   "popularity": 34.263,
+   "popularity": 37.778,
    "poster_path": "http://image.tmdb.org/t/p/w500/vL6BoFBdoLPljphZCj4MAWJEgJk.jpg",
    "production_companies": [
     {
@@ -45608,7 +45870,7 @@
    "original_language": "en",
    "original_title": "Inside Man: Most Wanted",
    "overview": "Полицейский отряд объединяется с федеральным агентом для спасения десятков туристов, взятых в заложники в федеральном резервном банке США.",
-   "popularity": 8.326,
+   "popularity": 6.087,
    "poster_path": "http://image.tmdb.org/t/p/w500/kxvxcgRHwV7T3PR4jNFDdQTLPm.jpg",
    "production_companies": [
     {
@@ -45724,7 +45986,7 @@
    "original_language": "en",
    "original_title": "Burn",
    "overview": "История развернется вокруг работницы заправки Мелинды, которая страдает от одиночества и завидует своей более успешной коллеге Шейле. Когда мелкий преступник Билли врывается на заправку в надежде украсть немного наличных, Мелинда видит в этом отличный шанс избавиться от опостылевшей напарницы.",
-   "popularity": 6.592,
+   "popularity": 6.929,
    "poster_path": "http://image.tmdb.org/t/p/w500/pVqxCMRtM1PKkF8kcZIb8fXnYqK.jpg",
    "production_companies": [
     {
@@ -45933,7 +46195,7 @@
    "original_language": "ru",
    "original_title": "Болевой порог",
    "overview": "В результате скандального ДТП четверо москвичей — двое друзей и их девушки — вынуждены уехать из столицы в Горный Алтай. Они хотят расслабиться и отдохнуть, но вновь попадают в экстремальную ситуацию, где каждый проявит свой характер и столкнется с собственными демонами. На кону — дружба, любовь и сама возможность остаться в живых.",
-   "popularity": 2.938,
+   "popularity": 3.4,
    "poster_path": "http://image.tmdb.org/t/p/w500/yiXERZK4ICJ4nQmsrPQOwVThYuf.jpg",
    "production_companies": [
     {
@@ -46067,7 +46329,7 @@
    "original_language": "en",
    "original_title": "Itsy Bitsy",
    "overview": "Домашняя медсестра Кара вместе с 13-летним сыном Джесси и 8-летней дочерью Камбрией перебирается в сельскую глушь, чтобы ухаживать за пожилым человеком и жить в его доме. Переезд принимает мрачный поворот, когда в доме старика Джесси обнаруживает таинственную древнюю реликвию, из которой высвобождается злобная сущность в обличье огромного паука и начинает терроризировать несчастное семейство.",
-   "popularity": 6.405,
+   "popularity": 6.486,
    "poster_path": "http://image.tmdb.org/t/p/w500/8PS6uPVN2lFwVeNrEnC3j7sv8ed.jpg",
    "production_companies": [
     {
@@ -46188,7 +46450,7 @@
    "original_language": "en",
    "original_title": "Little Monsters",
    "overview": "Воспитательница везёт группу дошколят за город на экскурсию, когда на местности происходит вспышка зомби-вируса. Чтобы спастись и не травмировать хрупкую детскую психику, женщина убеждает малышей, что все эти зомби, кровь, кишки — ненастоящие, а всё происходящее — просто игра. Странная, но весёлая. И вот тот дядя корчится не от боли, а от радости. И не корчится, а смеётся.",
-   "popularity": 11.918,
+   "popularity": 11.631,
    "poster_path": "http://image.tmdb.org/t/p/w500/c9JeDIynxkfYuk4VKg9OHvLbg9i.jpg",
    "production_companies": [
     {
@@ -46411,7 +46673,7 @@
    "original_language": "en",
    "original_title": "Mary",
    "overview": "Глава семейства Дэвид покупает яхту на аукционе. Он надеется начать новый бизнес по морским перевозкам, и яхта «Мэри» должна стать счастливым билетом для него и его семьи. Но чем дальше в море уходит лодка, тем более жуткие вещи начинают происходить на борту.",
-   "popularity": 7.201,
+   "popularity": 5.764,
    "poster_path": "http://image.tmdb.org/t/p/w500/uKa68MT8incOtseMtmEidDxoRJf.jpg",
    "production_companies": [
     {
@@ -46656,7 +46918,7 @@
    "original_language": "en",
    "original_title": "Let It Snow",
    "overview": "Снежная буря обрушивается на Грейстаун и застает жителей города врасплох. Но даже в непогоду магия Рождества способна создать уют и тепло, особенно когда дело касается любви.",
-   "popularity": 9.518,
+   "popularity": 10.325,
    "poster_path": "http://image.tmdb.org/t/p/w500/rEVu3E1OhMPJeCAn9a6QLyVhZDj.jpg",
    "production_companies": [
     {
@@ -46860,7 +47122,7 @@
    "original_language": "ru",
    "original_title": "Дикая Лига",
    "overview": "Основанная на реальных событиях начала XX века история парня из низших социальных слоев, которому ради того, чтобы быть с любимой, пришлось покинуть родные края и начать жизнь заново в Москве. Проявившего себя в бою «стенка на стенку», его замечает англичанин, владелец закрытого футбольного клуба, который предлагает ему попробовать свои силы в его команде. Однако футбол — аристократическая игра и команда не принимает неотесанного бурлака с Волги. Тогда собравшись с силами, Варлам вместе с настоящим патриотом и увлеченным футболом купцом Балашовым создает первую народную команду и становится лидером, изменив при этом свою жизнь и жизнь окружающих. Благодаря Варламу и его команде футбол в России становится поистине народной игрой. А спустя 110 лет Россия впервые становится местом проведения Кубка Чемпионата Мира по футболу…",
-   "popularity": 0.973,
+   "popularity": 0.6,
    "poster_path": "http://image.tmdb.org/t/p/w500/umoVKJCaea1mX6yp5tZjCQP8rs5.jpg",
    "production_companies": [
     {
@@ -46984,7 +47246,7 @@
    "original_language": "ru",
    "original_title": "Элефант",
    "overview": "У добрых книжек про Слона Мишку был очень злобный автор. И, даже когда Валентину Шубину из-за болезни пересадили новое сердце, он предпочел, чтобы все прочее оставалось старым. Шубин давно развелся с женой и поссорился с дочерью, ради которой когда-то писал свои истории. Но писать продолжение он не хочет, тем более, в компании навязанной ему приставучей сиделки. Хуже которой лишь то, что теперь у Шубина в самый неподходящий момент непроизвольно текут слезы…",
-   "popularity": 2.266,
+   "popularity": 2.504,
    "poster_path": "http://image.tmdb.org/t/p/w500/o8plRNyAIU5QUI6bn0oC4lVCwVV.jpg",
    "production_companies": [
     {
@@ -47138,7 +47400,7 @@
    "original_language": "en",
    "original_title": "Running with the Devil",
    "overview": "Груз кокаина следует из Мексики через США в Канаду. Когда партия не достигает цели, лидер картеля Босс посылает своих верных помощников — Повара и Мужика — разобраться, как работает сеть поставщиков.",
-   "popularity": 8.507,
+   "popularity": 7.119,
    "poster_path": "http://image.tmdb.org/t/p/w500/vn1g8V2X2Rj32zyw7PYF7jBKciD.jpg",
    "production_companies": [
     {
@@ -47354,7 +47616,7 @@
    "original_language": "en",
    "original_title": "Scary Stories to Tell in the Dark",
    "overview": "Компания подростков проникает в старый особняк с тёмной историей. Здесь они находят загадочную книгу ужасов и вскоре сами становятся ее героями.",
-   "popularity": 18.426,
+   "popularity": 19.048,
    "poster_path": "http://image.tmdb.org/t/p/w500/6PURRIAyEOD0Zry9bf5Fra4K3MD.jpg",
    "production_companies": [
     {
@@ -47428,7 +47690,7 @@
    "title": "Страшные истории для рассказа в темноте",
    "video": false,
    "vote_average": 6.3,
-   "vote_count": 949,
+   "vote_count": 951,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -47833,7 +48095,7 @@
    "original_language": "ru",
    "original_title": "Волшебник",
    "overview": "В прошлом популярный рок-музыкант Фима влачит жалкое существование, растратив свой талант и предаваясь разгульному образу жизни. Все меняется, когда уроки на гитаре у него начинает брать мальчик Рома, страдающий ДЦП и отчаянно жаждущий завоевать сердце своей одноклассницы Маши.",
-   "popularity": 3.349,
+   "popularity": 2.896,
    "poster_path": "http://image.tmdb.org/t/p/w500/gAmBAXQQRmFgsuJWbDk2qDbV4l9.jpg",
    "production_companies": [
     {
@@ -47957,7 +48219,7 @@
    "original_language": "fr",
    "original_title": "Just a Gigolo",
    "overview": "Встречайте мужчину мечты! Он знает секреты обольщения и вовсю этим пользуется, чтобы жить в свое удовольствие. Возможно, опытный мачо уже немного растерял обаяние, но отказываться от роскошной жизни не входит в его планы. Применяя весь свой арсенал, он вновь готов вернуться в игру.",
-   "popularity": 4.1,
+   "popularity": 4.479,
    "poster_path": "http://image.tmdb.org/t/p/w500/vkfFcTQMT3EX9PNAP0Tf7xuJMql.jpg",
    "production_companies": [
     {
@@ -48145,7 +48407,7 @@
    "original_language": "en",
    "original_title": "47 Meters Down: Uncaged",
    "overview": "Три подруги отправляются исследовать подводный разрушенный город, но вскоре выясняют, что посмотреть на руины приплыли не они одни. Запланированное развлечение оборачивается кошмаром — теперь ныряльщицам придется спасаться от кровожадных акул.",
-   "popularity": 30.486,
+   "popularity": 25.11,
    "poster_path": "http://image.tmdb.org/t/p/w500/6KSPDcJXf8eoAIvdOBMAv2XwJIU.jpg",
    "production_companies": [
     {
@@ -48456,7 +48718,7 @@
    "original_language": "en",
    "original_title": "The King",
    "overview": "15-й век. Своенравный принц Хэл трансформируется в одного из самых могущественных правителей Англии — короля Генриха V.",
-   "popularity": 16.059,
+   "popularity": 15.029,
    "poster_path": "http://image.tmdb.org/t/p/w500/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
    "production_companies": [
     {
@@ -48516,7 +48778,7 @@
    "title": "Король",
    "video": false,
    "vote_average": 7.1,
-   "vote_count": 1082,
+   "vote_count": 1083,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -48769,7 +49031,7 @@
    "original_language": "en",
    "original_title": "The Art of Racing in the Rain",
    "overview": "Для собаки по кличке Энцо жизнь — это гонка. Не важно, как ты ее проходишь — за рулем автомобиля или на четырех лапах, все равно тебя ждут крутые виражи, ямы-западни, опасные взлеты и падения. Они выбивают с трека даже самых сильных — это начинающий гонщик Дэнни и его пес Энцо знают наверняка. Каждому из них предстоит своя гонка, но оба понимают: победить не значит обогнать соперников. Победить — значит вернуться после поражения на трассу и пройти ее до самого финиша, какой бы скользкой ни была дорога.",
-   "popularity": 17.116,
+   "popularity": 11.801,
    "poster_path": "http://image.tmdb.org/t/p/w500/wiSwJ3pi1DVFVsbtX9H7wIFCa1E.jpg",
    "production_companies": [
     {
@@ -49078,7 +49340,7 @@
    "original_language": "en",
    "original_title": "The Angry Birds Movie 2",
    "overview": "Птицы узнали о существовании голодных зелёных свиней, после чего началась священная война, которая длилась многие годы. Однако теперь на горизонте появился новый враг — Зета, обитательница третьего, замёрзшего острова. Она считает, что все должны почувствовать на себе силу холода, и начинает атаку на дальних родственников, обитающих в тёплых краях. Теперь птицы и свиньи должны объединиться, чтобы остановить заморозки.",
-   "popularity": 22.537,
+   "popularity": 20.262,
    "poster_path": "http://image.tmdb.org/t/p/w500/6lKxPyArJPJxveyKjp6ihQKH3Ge.jpg",
    "production_companies": [
     {
@@ -49599,7 +49861,7 @@
    "original_language": "en",
    "original_title": "Madness in the Method",
    "overview": "В альтернативной реальности кинозвезда Кевин Смит раскрывает своему приятелю Джейсону Мьюзу секрет успеха в Голливуде, чтобы тот избавился от вечного амплуа комедианта. Проблемы начинаются, когда Джейсон слишком рьяно следует его методике и начинает играть слишком хорошо, доводя себя до безумия.",
-   "popularity": 4.234,
+   "popularity": 2.863,
    "poster_path": "http://image.tmdb.org/t/p/w500/kvxwospLmJceWRxdbhSkcOamohS.jpg",
    "production_companies": [
     {
@@ -49735,7 +49997,7 @@
    "original_language": "en",
    "original_title": "Zeroville",
    "overview": "Однажды в Голливуд отправляется одержимый кино студент-архитектор с эффектной татуировкой на бритой голове, и попадает в мир кино, секса, наркотиков, рок-н-ролла, упадка больших киностудий и подъема независимых режиссеров. Никто не ожидал, что его погружение в мир кинематографа в итоге закончится фиаско…",
-   "popularity": 6.41,
+   "popularity": 5.046,
    "poster_path": "http://image.tmdb.org/t/p/w500/8ZCTKIwWd2whA9a7M4sfwIVMxJS.jpg",
    "production_companies": [
     {
@@ -49886,7 +50148,7 @@
    "original_language": "ru",
    "original_title": "Жара",
    "overview": "Звезды российской эстрады летят в Баку на фестиваль «Жара». Среди них и Даша Стеклова, талантливая дебютантка, чья слава началась с победы в популярном музыкальном телешоу. Даша не хочет играть по правилам и жаждет творческой свободы. В Баку, поссорившись со своим продюсером (а по совместительству — молодым человеком), девушка сбегает. В сказочном городе, дышащем музыкой и солнцем, ее ждет множество приключений и романтических встреч, которые помогут Даше осуществить мечту и стать по-настоящему счастливой.",
-   "popularity": 0.783,
+   "popularity": 0.743,
    "poster_path": "http://image.tmdb.org/t/p/w500/e0LjAzhUSqKyQakmysLyqO1wglC.jpg",
    "production_companies": [
     {
@@ -50027,7 +50289,7 @@
    "original_language": "en",
    "original_title": "El Camino: A Breaking Bad Movie",
    "overview": "После драматического побега из плена Джесси Пинкман должен смириться со своим прошлым, чтобы разобраться, что ему делать в будущем.",
-   "popularity": 160.003,
+   "popularity": 224.004,
    "poster_path": "http://image.tmdb.org/t/p/w500/7IOPGJFPZiU2BmMlVSBAO1EpGV9.jpg",
    "production_companies": [
     {
@@ -50287,6 +50549,93 @@
   },
   {
    "adult": false,
+   "backdrop_path": "http://image.tmdb.org/t/p/w780/AoyIT45qPLzkLvcp27Cse8Y3lGg.jpg",
+   "belongs_to_collection": null,
+   "budget": 0,
+   "genre_ids": null,
+   "genres": [],
+   "homepage": "",
+   "id": 617587,
+   "imdb_id": "",
+   "original_language": "ru",
+   "original_title": "Папа",
+   "overview": "Вася – авантюрист и мошенник – попадает в больницу. Его сосед по палате Гена умирает, и Вася становится единственным человеком, знающим о встрече Гены с сыном, которого тот никогда не видел. Вася решается на свою самую большую аферу - он идет на встречу и выдает себя за Гену. Как далеко готов зайти Вася на этот раз?",
+   "popularity": 0.6,
+   "poster_path": "http://image.tmdb.org/t/p/w500/3FMGhYBNvCTWs3C7FVnEoWcfRmr.jpg",
+   "production_companies": [],
+   "production_countries": [
+    {
+     "iso_3166_1": "RU",
+     "name": "Russia"
+    }
+   ],
+   "release_date": "16.08.2019",
+   "revenue": 0,
+   "runtime": 21,
+   "spoken_languages": [
+    {
+     "iso_639_1": "ru",
+     "name": "Pусский"
+    }
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Папа",
+   "video": false,
+   "vote_average": 0,
+   "vote_count": 0,
+   "created_by": null,
+   "episode_run_time": null,
+   "first_air_date": "",
+   "in_production": false,
+   "languages": null,
+   "last_air_date": "",
+   "name": "",
+   "networks": null,
+   "number_of_episodes": 0,
+   "number_of_seasons": 0,
+   "origin_country": null,
+   "original_name": "",
+   "seasons": null,
+   "type": "",
+   "year": "2019",
+   "character": "",
+   "media_type": "movie",
+   "credit_id": "",
+   "videos": {
+    "id": 617587,
+    "results": []
+   },
+   "release_dates": {
+    "id": 0,
+    "results": [
+     {
+      "iso_3166_1": "RU",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-08-16T00:00:00Z",
+        "type": 1
+       }
+      ]
+     }
+    ]
+   },
+   "torrent": [
+    {
+     "name": "Дорогой папа (2019)  WEB-DL 1080p | iTunes",
+     "magnet": "magnet:?xt=urn:btih:20a6fd7abc766f682e571c1f9998fa5f5ffe73bb\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "3.38 GB",
+     "date": "2019-10-12T00:00:00+03:00",
+     "upload": 171,
+     "download": 9
+    }
+   ]
+  },
+  {
+   "adult": false,
    "backdrop_path": "",
    "belongs_to_collection": null,
    "budget": 0,
@@ -50379,95 +50728,8 @@
      "source": "rutor.info",
      "size": "3.38 GB",
      "date": "2019-10-12T00:00:00+03:00",
-     "upload": 171,
-     "download": 9
-    }
-   ]
-  },
-  {
-   "adult": false,
-   "backdrop_path": "http://image.tmdb.org/t/p/w780/AoyIT45qPLzkLvcp27Cse8Y3lGg.jpg",
-   "belongs_to_collection": null,
-   "budget": 0,
-   "genre_ids": null,
-   "genres": [],
-   "homepage": "",
-   "id": 617587,
-   "imdb_id": "",
-   "original_language": "ru",
-   "original_title": "Папа",
-   "overview": "Вася – авантюрист и мошенник – попадает в больницу. Его сосед по палате Гена умирает, и Вася становится единственным человеком, знающим о встрече Гены с сыном, которого тот никогда не видел. Вася решается на свою самую большую аферу - он идет на встречу и выдает себя за Гену. Как далеко готов зайти Вася на этот раз?",
-   "popularity": 0.6,
-   "poster_path": "http://image.tmdb.org/t/p/w500/3FMGhYBNvCTWs3C7FVnEoWcfRmr.jpg",
-   "production_companies": [],
-   "production_countries": [
-    {
-     "iso_3166_1": "RU",
-     "name": "Russia"
-    }
-   ],
-   "release_date": "16.08.2019",
-   "revenue": 0,
-   "runtime": 21,
-   "spoken_languages": [
-    {
-     "iso_639_1": "ru",
-     "name": "Pусский"
-    }
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Папа",
-   "video": false,
-   "vote_average": 0,
-   "vote_count": 0,
-   "created_by": null,
-   "episode_run_time": null,
-   "first_air_date": "",
-   "in_production": false,
-   "languages": null,
-   "last_air_date": "",
-   "name": "",
-   "networks": null,
-   "number_of_episodes": 0,
-   "number_of_seasons": 0,
-   "origin_country": null,
-   "original_name": "",
-   "seasons": null,
-   "type": "",
-   "year": "2019",
-   "character": "",
-   "media_type": "movie",
-   "credit_id": "",
-   "videos": {
-    "id": 617587,
-    "results": []
-   },
-   "release_dates": {
-    "id": 0,
-    "results": [
-     {
-      "iso_3166_1": "RU",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-08-16T00:00:00Z",
-        "type": 1
-       }
-      ]
-     }
-    ]
-   },
-   "torrent": [
-    {
-     "name": "Дорогой папа (2019)  WEB-DL 1080p | iTunes",
-     "magnet": "magnet:?xt=urn:btih:20a6fd7abc766f682e571c1f9998fa5f5ffe73bb\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
-     "source": "rutor.info",
-     "size": "3.38 GB",
-     "date": "2019-10-12T00:00:00+03:00",
-     "upload": 171,
-     "download": 9
+     "upload": 83,
+     "download": 6
     }
    ]
   },
@@ -50489,7 +50751,7 @@
    "original_language": "en",
    "original_title": "Fractured",
    "overview": "Рэй вместе с женой и дочерью едет через всю страну. На стоянке его дочь падает и ломает себе руку. Рэй быстро везет ее в госпиталь и после скандала с медсестрой наконец передает дочь на осмотр. Пока дочь и жена находятся на МРТ, измученный Рэй засыпает в фойе. Когда он просыпается, то внезапно осознает, что его семья исчезла, а вместе с тем в регистратуре пропала запись об их посещении госпиталя.",
-   "popularity": 18.686,
+   "popularity": 14.109,
    "poster_path": "http://image.tmdb.org/t/p/w500/paZNRffT3kUckuRFKbeDBuX1YcZ.jpg",
    "production_companies": [
     {
@@ -50537,7 +50799,7 @@
    "title": "Перелом",
    "video": false,
    "vote_average": 6.6,
-   "vote_count": 836,
+   "vote_count": 837,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -50841,7 +51103,7 @@
    "original_language": "ru",
    "original_title": "Команда мечты",
    "overview": "История спортивного комментатора Степана Вершинина, которого из-за вспыльчивого характера увольняют с телеканала. В поисках новой работы он попадает на юношеские соревнования по конному спорту, где встречает юных жокеев, современных Ромео и Джульетту — Артура и Катю, которым предстоит выбор — победа или любовь. Самому Вершинину тоже придется найти ответ на самый сложный вопрос, что для него важнее, — его семья и любовь или карьера и прежняя слава?",
-   "popularity": 0.983,
+   "popularity": 0.74,
    "poster_path": "http://image.tmdb.org/t/p/w500/iJ2794qA3mi8PGfo3FtMyeO09vu.jpg",
    "production_companies": [
     {
@@ -50973,7 +51235,7 @@
    "original_language": "en",
    "original_title": "Angel of Mine",
    "overview": "Несколько лет Лиззи не может смириться с потерей дочери, погибшей при пожаре. Но однажды она знакомится с чужой девочкой и принимает ее за своего потерянного ребенка.",
-   "popularity": 9.141,
+   "popularity": 8.148,
    "poster_path": "http://image.tmdb.org/t/p/w500/dxfF7GsMR80TX7jYQG0IT6fk6jl.jpg",
    "production_companies": [
     {
@@ -51233,7 +51495,7 @@
    "original_language": "en",
    "original_title": "Doom: Annihilation",
    "overview": "В основу фильма легла серия игр \"Doom\". Огромная научная лаборатория, неудачные опыты и как результат - куча всевозможных чудовищ, которые убивают всё живое на своём пути, превращая научный центр в кровавую баню. А весь бардак придётся исправлять элитному отряду военных. Но как водиться в таких фильмах, выживут далеко не все.",
-   "popularity": 10.717,
+   "popularity": 9.22,
    "poster_path": "http://image.tmdb.org/t/p/w500/7EGElXVSNnqcPjuhXPd6UVUX1rD.jpg",
    "production_companies": [
     {
@@ -51389,7 +51651,7 @@
    "original_language": "ru",
    "original_title": "Трудности выживания",
    "overview": "Начинающая журналистка Нина в погоне за сенсацией отправляется на необитаемый остров, где, по слухам, живет миллионер-затворник. Баркас со съёмочной группой попадает в жуткий шторм, и Нина приходит в сознание на пустынном берегу. К счастью, это именно тот остров, который ей был нужен, а значит, она оказалась в надежных руках молодого и симпатичного героя своего репортажа. Но только Нина еще не подозревает, что на самом деле это ее коллега, местный журналист, которому просто нужна была горячая тема, и он её выдумал. А ещё он ничего не смыслит в выживании…",
-   "popularity": 2.591,
+   "popularity": 2.539,
    "poster_path": "http://image.tmdb.org/t/p/w500/4bIydb3KmHRh8ufP6FAEQb9NxJH.jpg",
    "production_companies": [
     {
@@ -51525,7 +51787,7 @@
    "original_language": "en",
    "original_title": "Scooby-Doo! Return to Zombie Island",
    "overview": "",
-   "popularity": 6.119,
+   "popularity": 5.895,
    "poster_path": "http://image.tmdb.org/t/p/w500/vd0oIoWhEm8o7EpS0kV7RaV0Flf.jpg",
    "production_companies": [
     {
@@ -51657,7 +51919,7 @@
    "original_language": "en",
    "original_title": "The Naked Wanderer",
    "overview": "Джейк, которого только что бросила любимая девушка, в расстроенных чувствах, сгоряча соглашается принять участие в одиночном пешем марафоне и отправляется в путешествие длиной 4 тысячи километров вдоль западного побережья Австралии, будучи облаченным лишь в набедренную повязку. Официальная цель марафона — сбор денег на благотворительность, однако в тайне Джейк надеется таким образом снова обратить на себя внимание своей бывшей возлюбленной. Этими надеждами он живет ровно до того момента, когда встречает на своем пути обворожительную Валери…",
-   "popularity": 4.217,
+   "popularity": 3.35,
    "poster_path": "http://image.tmdb.org/t/p/w500/9WFwkV3esls83ZKaC8VFEzPWTgl.jpg",
    "production_companies": [],
    "production_countries": [
@@ -51764,7 +52026,7 @@
    "original_language": "en",
    "original_title": "See You Soon",
    "overview": "В преддверии Чемпионата мира по футболу-2018 американский игрок-суперзвезда получает серьезную травму, которая ставит под угрозу его дальнейшую карьеру. В поисках себя он отправляется в путешествие и встречает свою любовь. Невероятное чувство к девушке из Санкт-Петербурга меняет не только его жизнь, но и его самого.",
-   "popularity": 6.001,
+   "popularity": 5.279,
    "poster_path": "http://image.tmdb.org/t/p/w500/agL8HPt0LFbd2mxd8s3FQAEhekG.jpg",
    "production_companies": [
     {
@@ -51911,7 +52173,7 @@
    "original_language": "fr",
    "original_title": "Curiosa",
    "overview": "Чувственный любовный треугольник в богемной атмосфере Парижа конца XIX века. Двое мужчин влюблены в одну женщину, а запреты существуют для того, чтобы их нарушать. В основе фильма — дневники и письма известных светских персонажей того времени.",
-   "popularity": 18.001,
+   "popularity": 15.052,
    "poster_path": "http://image.tmdb.org/t/p/w500/aHzjzkdSiY2yrkBU3C6hNTyOdaR.jpg",
    "production_companies": [
     {
@@ -52101,7 +52363,7 @@
    "original_language": "en",
    "original_title": "Invader ZIM: Enter the Florpus",
    "overview": "Захватчик ЗИМ решает воплотить в жизнь новый план по порабощению Земли.",
-   "popularity": 10.094,
+   "popularity": 9.041,
    "poster_path": "http://image.tmdb.org/t/p/w500/waaPtmhVFgieG021OwoEPTkbltI.jpg",
    "production_companies": [
     {
@@ -52251,7 +52513,7 @@
    "original_language": "en",
    "original_title": "The Red Sea Diving Resort",
    "overview": "Фильм рассказывает о невероятной операции агентов израильской спецслужбы «Моссад», которые в 80-х годах перевезли в Израиль тысячи эфиопских евреев.",
-   "popularity": 10.436,
+   "popularity": 8.895,
    "poster_path": "http://image.tmdb.org/t/p/w500/bTgd1QQFTKdxESevtffAvIvCnz2.jpg",
    "production_companies": [
     {
@@ -52469,7 +52731,7 @@
    "original_language": "en",
    "original_title": "Batman: Hush",
    "overview": "Адаптация сюжета «Бэтмен: Тихо!», от Джефа Лоэба и Джима Ли.",
-   "popularity": 10.592,
+   "popularity": 11.415,
    "poster_path": "http://image.tmdb.org/t/p/w500/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg",
    "production_companies": [
     {
@@ -52626,7 +52888,7 @@
    "original_language": "en",
    "original_title": "I Am Mother",
    "overview": "После глобального катаклизма человечество вымирает. В подземном бункере автоматически активизируется аварийная программа, и робот-гуманоид «Мать» выращивает из эмбриона человеческого ребенка. Девушка, воспитанная под бережным присмотром «Матери», никогда не видела ни поверхности Земли, ни других людей. Но однажды ее мир переворачивается, когда на пороге убежища появляется женщина с просьбой о помощи…",
-   "popularity": 17.363,
+   "popularity": 11.919,
    "poster_path": "http://image.tmdb.org/t/p/w500/rL7VVsA24nO1MrcAbmqGeBY4X59.jpg",
    "production_companies": [
     {
@@ -52933,7 +53195,7 @@
    "original_language": "en",
    "original_title": "Little Italy",
    "overview": "Родители Лео, как и родители Никки, приехали в Америку из Италии и открыли здесь свою пиццерию. Между двумя ресторанами и двумя семьями устанавливается ожесточенная конкуренция. Тем временем между Лео и Никки, вопреки всему, завязывается роман.",
-   "popularity": 10.213,
+   "popularity": 8.313,
    "poster_path": "http://image.tmdb.org/t/p/w500/gw8wIimdtY56av5NXgfRO8DvNAw.jpg",
    "production_companies": [
     {
@@ -53153,7 +53415,7 @@
    "original_language": "en",
    "original_title": "Occupation",
    "overview": "Небольшая группа жителей города, которая выжила после разрушительного внеземного вторжения, должна объединиться, чтобы нанести ответный удар по врагам.",
-   "popularity": 7.329,
+   "popularity": 6.048,
    "poster_path": "http://image.tmdb.org/t/p/w500/qaKQgMDmdUyUulFVXldKcs3Tksh.jpg",
    "production_companies": [
     {
