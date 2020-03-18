@@ -1,6 +1,6 @@
 {
  "Date": "2020-03-18",
- "Time": "18:25:59",
+ "Time": "20:25:36",
  "Items": [
   {
    "adult": false,
@@ -3832,7 +3832,7 @@
    "title": "Сверхъестественное",
    "video": false,
    "vote_average": 7.5,
-   "vote_count": 2328,
+   "vote_count": 2329,
    "created_by": [
     {
      "id": 58321,
@@ -7999,7 +7999,7 @@
    "title": "Симпсоны",
    "video": false,
    "vote_average": 7.2,
-   "vote_count": 2484,
+   "vote_count": 2485,
    "created_by": [
     {
      "id": 5741,
@@ -9448,7 +9448,7 @@
    "title": "Ходячие мертвецы",
    "video": false,
    "vote_average": 7.3,
-   "vote_count": 4653,
+   "vote_count": 4654,
    "created_by": [
     {
      "id": 4027,
@@ -10245,7 +10245,7 @@
    "title": "Чужак",
    "video": false,
    "vote_average": 7.9,
-   "vote_count": 166,
+   "vote_count": 168,
    "created_by": [
     {
      "id": 2989,
@@ -11389,7 +11389,7 @@
    "title": "Бэтвумен",
    "video": false,
    "vote_average": 6.8,
-   "vote_count": 264,
+   "vote_count": 265,
    "created_by": [
     {
      "id": 88967,
@@ -16936,7 +16936,7 @@
    "title": "Анатомия страсти",
    "video": false,
    "vote_average": 6.7,
-   "vote_count": 1344,
+   "vote_count": 1345,
    "created_by": [
     {
      "id": 25539,
@@ -20316,7 +20316,7 @@
    "title": "Ривердэйл",
    "video": false,
    "vote_average": 7.7,
-   "vote_count": 1090,
+   "vote_count": 1091,
    "created_by": [
     {
      "id": 1098032,
@@ -39218,6 +39218,273 @@
   },
   {
    "adult": false,
+   "backdrop_path": "http://image.tmdb.org/t/p/w780/AlwocOSWCdbc5kGgABkZ0M5IoJc.jpg",
+   "belongs_to_collection": null,
+   "budget": 0,
+   "genre_ids": null,
+   "genres": [
+    {
+     "id": 16,
+     "name": "мультфильм"
+    },
+    {
+     "id": 10762,
+     "name": "Детский"
+    },
+    {
+     "id": 10765,
+     "name": "НФ и Фэнтези"
+    }
+   ],
+   "homepage": "https://www.netflix.com/title/80179762",
+   "id": 79732,
+   "imdb_id": "",
+   "original_language": "en",
+   "original_title": "She-Ra and the Princesses of Power",
+   "overview": "В центре сюжета девушка Адора, которая при помощи магического меча становится могущественной воительницей по имени Ши-Ра и возглавляет сопротивление в борьбе со злом.",
+   "popularity": 6.521,
+   "poster_path": "http://image.tmdb.org/t/p/w500/y6YLtlnV5FGh3Mhs5SUc80IQSV5.jpg",
+   "production_companies": [
+    {
+     "id": 42141,
+     "logo_path": "",
+     "name": "DreamWorks Animation Television",
+     "origin_country": "US"
+    }
+   ],
+   "production_countries": null,
+   "release_date": "",
+   "revenue": 0,
+   "runtime": 0,
+   "spoken_languages": null,
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Ши-Ра и непобедимые принцессы",
+   "video": false,
+   "vote_average": 7.4,
+   "vote_count": 29,
+   "created_by": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "13.11.2018",
+   "in_production": true,
+   "languages": [
+    "en"
+   ],
+   "last_air_date": "05.11.2019",
+   "name": "Ши-Ра и непобедимые принцессы",
+   "networks": [
+    {
+     "name": "Netflix",
+     "id": 213,
+     "logo_path": "http://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+     "origin_country": ""
+    }
+   ],
+   "number_of_episodes": 40,
+   "number_of_seasons": 5,
+   "origin_country": [
+    "US"
+   ],
+   "original_name": "She-Ra and the Princesses of Power",
+   "seasons": [
+    {
+     "air_date": "13.11.2018",
+     "episode_count": 13,
+     "id": 104095,
+     "name": "Сезон 1",
+     "overview": "",
+     "poster_path": "http://image.tmdb.org/t/p/w500/52sYJC96SlpiGtkSNDNVkhsV1SC.jpg",
+     "season_number": 1
+    },
+    {
+     "air_date": "26.04.2019",
+     "episode_count": 7,
+     "id": 122454,
+     "name": "Сезон 2",
+     "overview": "",
+     "poster_path": "http://image.tmdb.org/t/p/w500/5x980KzPV9DiQflNEOJrOa3Nm8o.jpg",
+     "season_number": 2
+    },
+    {
+     "air_date": "02.08.2019",
+     "episode_count": 6,
+     "id": 128785,
+     "name": "Сезон 3",
+     "overview": "",
+     "poster_path": "http://image.tmdb.org/t/p/w500/AdsAn6aw2StXIgYhUNLRrP4c7nk.jpg",
+     "season_number": 3
+    },
+    {
+     "air_date": "05.11.2019",
+     "episode_count": 13,
+     "id": 134602,
+     "name": "Сезон 4",
+     "overview": "",
+     "poster_path": "http://image.tmdb.org/t/p/w500/bGyAsnXutQ1EpDzsdKgajfRWDxd.jpg",
+     "season_number": 4
+    },
+    {
+     "air_date": "15.05.2020",
+     "episode_count": 1,
+     "id": 145503,
+     "name": "Сезон 5",
+     "overview": "",
+     "poster_path": "http://image.tmdb.org/t/p/w500/96cL21QLkCUJSNnsVE2HNjrldOd.jpg",
+     "season_number": 5
+    }
+   ],
+   "type": "Scripted",
+   "year": "2018",
+   "character": "",
+   "media_type": "tv",
+   "credit_id": "",
+   "videos": {
+    "id": 79732,
+    "results": []
+   },
+   "release_dates": null,
+   "torrent": [
+    {
+     "name": "Ши-Ра и непобедимые принцессы / She-Ra and the Princesses of Power [S04] (2019) WEBRip 1080p | NewStation",
+     "magnet": "magnet:?xt=urn:btih:3b82503dff424e80a3ca32b9ddd33eadd3b68ec2\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "10.70 GB",
+     "date": "2020-02-19T00:00:00+03:00",
+     "upload": 2,
+     "download": 3
+    },
+    {
+     "name": "Ши-Ра и непобедимые принцессы / She-Ra and the Princesses of Power [S04] (2019) WEBRip 720p | NewStation",
+     "magnet": "magnet:?xt=urn:btih:077e4c50f729807af462fce66f8599222f255aa7\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "5.93 GB",
+     "date": "2020-02-19T00:00:00+03:00",
+     "upload": 4,
+     "download": 3
+    },
+    {
+     "name": "Ши-Ра и непобедимые принцессы / She-Ra and the Princesses of Power [S04] (2019) WEBRip  | NewStation",
+     "magnet": "magnet:?xt=urn:btih:623edd33755ba62d65b7beead3140d9cc76048a4\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "2.90 GB",
+     "date": "2020-02-19T00:00:00+03:00",
+     "upload": 2,
+     "download": 1
+    },
+    {
+     "name": "Ши-Ра и непобедимые принцессы / She-Ra and the Princesses of Power [S03] (2019) WEBRip  | NewStation",
+     "magnet": "magnet:?xt=urn:btih:fd71021b956a17f1e0794dc529c39e07f68586fb\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "1.34 GB",
+     "date": "2019-09-03T00:00:00+03:00",
+     "upload": 3,
+     "download": 2
+    },
+    {
+     "name": "Ши-Ра и непобедимые принцессы / She-Ra and the Princesses of Power [S03] (2019) WEBRip 720p | NewStation",
+     "magnet": "magnet:?xt=urn:btih:d68eaeea2315a66dac7aa02446e30c00f792023e\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "3.19 GB",
+     "date": "2019-09-03T00:00:00+03:00",
+     "upload": 3,
+     "download": 0
+    },
+    {
+     "name": "Ши-Ра и непобедимые принцессы / She-Ra and the Princesses of Power [S03] (2019) WEBRip 1080p | NewStation",
+     "magnet": "magnet:?xt=urn:btih:986fd52c3b99d958af3511f062f365d468b6cf60\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.40 GB",
+     "date": "2019-09-03T00:00:00+03:00",
+     "upload": 3,
+     "download": 2
+    },
+    {
+     "name": "Ши-Ра и непобедимые принцессы / She-Ra and the Princesses of Power [S02] (2019) WEBRip 1080p | NewStation",
+     "magnet": "magnet:?xt=urn:btih:a1cb452cec4d1cb330008a79d902bffe58cda47b\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "5.94 GB",
+     "date": "2019-06-27T00:00:00+03:00",
+     "upload": 3,
+     "download": 2
+    },
+    {
+     "name": "Ши-Ра и непобедимые принцессы / She-Ra and the Princesses of Power [S02] (2019) WEBRip 720p | NewStation",
+     "magnet": "magnet:?xt=urn:btih:4ad037c273af4d2575c8c9ee9108a44f5b7b2308\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.15 GB",
+     "date": "2019-06-27T00:00:00+03:00",
+     "upload": 6,
+     "download": 2
+    },
+    {
+     "name": "Ши-Ра и непобедимые принцессы / She-Ra and the Princesses of Power [S02] (2019) WEBRip  | NewStation",
+     "magnet": "magnet:?xt=urn:btih:9607e5b3a02368528396d1addfbf8179ac01f9ad\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "1.56 GB",
+     "date": "2019-06-27T00:00:00+03:00",
+     "upload": 3,
+     "download": 3
+    },
+    {
+     "name": "Ши-Ра и непобедимые принцессы / She-Ra and the Princesses of Power [S01] (2018) WEBRip  | NewStation",
+     "magnet": "magnet:?xt=urn:btih:2e5cd15d83714a774d1b664ceda91d2ef422ac1e\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "3.73 GB",
+     "date": "2019-06-01T00:00:00+03:00",
+     "upload": 2,
+     "download": 2
+    },
+    {
+     "name": "Ши-Ра и непобедимые принцессы / She-Ra and the Princesses of Power [S01] (2018) WEBRip 720p | NewStation",
+     "magnet": "magnet:?xt=urn:btih:e1a5b0f8e27d3292a382bc6aa56dd5c368db8d9e\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "6.19 GB",
+     "date": "2019-06-01T00:00:00+03:00",
+     "upload": 2,
+     "download": 2
+    },
+    {
+     "name": "Ши-Ра и непобедимые принцессы / She-Ra and the Princesses of Power [S01] (2018) WEBRip 1080p | NewStation",
+     "magnet": "magnet:?xt=urn:btih:e18e220c92c7b88d5873a04297fcb8e37c35f322\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "9.25 GB",
+     "date": "2019-06-01T00:00:00+03:00",
+     "upload": 2,
+     "download": 0
+    },
+    {
+     "name": "Ши-Ра и непобедимые принцессы / She-Ra and the Princesses of Power [S01] (2018) WEBRip 1080p | IdeaFilm",
+     "magnet": "magnet:?xt=urn:btih:a39971e8ad0a22d227831574f342c6f640cc7542\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "16.96 GB",
+     "date": "2018-11-24T00:00:00+03:00",
+     "upload": 1,
+     "download": 0
+    },
+    {
+     "name": "Ши-Ра и непобедимые принцессы / She-Ra and the Princesses of Power [S01] (2018) WEBRip 720p | IdeaFilm",
+     "magnet": "magnet:?xt=urn:btih:effd208c4958ebe2157167b0afc8b155e7153c5b\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "10.62 GB",
+     "date": "2018-11-24T00:00:00+03:00",
+     "upload": 0,
+     "download": 1
+    },
+    {
+     "name": "Ши-Ра и непобедимые принцессы / She-Ra and the Princesses of Power [S01] (2018) WEBRip | IdeaFilm",
+     "magnet": "magnet:?xt=urn:btih:00996ee522db1766d9bb91c1fa2103fc3d6e76bb\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.65 GB",
+     "date": "2018-11-24T00:00:00+03:00",
+     "upload": 4,
+     "download": 0
+    }
+   ]
+  },
+  {
+   "adult": false,
    "backdrop_path": "http://image.tmdb.org/t/p/w780/jM7LHr811U4A6EnY9iMyKhUVsMN.jpg",
    "belongs_to_collection": null,
    "budget": 0,
@@ -39425,7 +39692,7 @@
    "title": "Викинги",
    "video": false,
    "vote_average": 7.6,
-   "vote_count": 2087,
+   "vote_count": 2089,
    "created_by": [
     {
      "id": 37631,
@@ -46925,7 +47192,7 @@
    "title": "Элита",
    "video": false,
    "vote_average": 8.7,
-   "vote_count": 797,
+   "vote_count": 798,
    "created_by": [
     {
      "id": 1371775,
@@ -52367,7 +52634,7 @@
      "id": 145454,
      "name": "Сезон 6",
      "overview": "",
-     "poster_path": "",
+     "poster_path": "http://image.tmdb.org/t/p/w500/fmBAmAyR6aMo1HAutV0oZ8Y7emb.jpg",
      "season_number": 6
     }
    ],
@@ -53550,7 +53817,7 @@
      "origin_country": ""
     }
    ],
-   "number_of_episodes": 39,
+   "number_of_episodes": 37,
    "number_of_seasons": 3,
    "origin_country": [
     "US"
@@ -53577,7 +53844,7 @@
     },
     {
      "air_date": "16.03.2020",
-     "episode_count": 13,
+     "episode_count": 11,
      "id": 144510,
      "name": "Сезон 3",
      "overview": "",
@@ -58770,7 +59037,7 @@
    "title": "Когда зовет сердце",
    "video": false,
    "vote_average": 8.4,
-   "vote_count": 44,
+   "vote_count": 45,
    "created_by": [
     {
      "id": 60438,
