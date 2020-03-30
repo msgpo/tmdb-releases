@@ -1,6 +1,6 @@
 {
  "Date": "2020-03-30",
- "Time": "18:20:04",
+ "Time": "20:17:01",
  "Items": [
   {
    "adult": false,
@@ -62,7 +62,7 @@
    "title": "Вне игры",
    "video": false,
    "vote_average": 6.6,
-   "vote_count": 59,
+   "vote_count": 62,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -799,8 +799,8 @@
    "tagline": "",
    "title": "Джентльмены",
    "video": false,
-   "vote_average": 7.9,
-   "vote_count": 575,
+   "vote_average": 7.8,
+   "vote_count": 576,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -933,28 +933,6 @@
       ]
      },
      {
-      "iso_3166_1": "NL",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2020-02-20T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "RU",
-      "release_dates": [
-       {
-        "certification": "18+",
-        "iso_639_1": "",
-        "release_date": "2020-02-13T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
       "iso_3166_1": "DE",
       "release_dates": [
        {
@@ -1050,6 +1028,23 @@
       ]
      },
      {
+      "iso_3166_1": "GB",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-12-04T00:00:00Z",
+        "type": 1
+       },
+       {
+        "certification": "18",
+        "iso_639_1": "",
+        "release_date": "2020-01-01T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
       "iso_3166_1": "KR",
       "release_dates": [
        {
@@ -1139,18 +1134,23 @@
       ]
      },
      {
-      "iso_3166_1": "GB",
+      "iso_3166_1": "NL",
       "release_dates": [
        {
-        "certification": "",
+        "certification": "16",
         "iso_639_1": "",
-        "release_date": "2019-12-04T00:00:00Z",
-        "type": 1
-       },
+        "release_date": "2020-02-20T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "RU",
+      "release_dates": [
        {
-        "certification": "18",
+        "certification": "18+",
         "iso_639_1": "",
-        "release_date": "2020-01-01T00:00:00Z",
+        "release_date": "2020-02-13T00:00:00Z",
         "type": 3
        }
       ]
@@ -1317,7 +1317,7 @@
    "title": "Бладшот",
    "video": false,
    "vote_average": 7.3,
-   "vote_count": 960,
+   "vote_count": 965,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -1485,28 +1485,6 @@
       ]
      },
      {
-      "iso_3166_1": "NL",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2020-03-12T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "AR",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2020-02-21T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
       "iso_3166_1": "HU",
       "release_dates": [
        {
@@ -1579,17 +1557,6 @@
       ]
      },
      {
-      "iso_3166_1": "TR",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2020-02-21T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
       "iso_3166_1": "SG",
       "release_dates": [
        {
@@ -1607,6 +1574,17 @@
         "certification": "",
         "iso_639_1": "",
         "release_date": "2020-03-19T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "TR",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-02-21T00:00:00Z",
         "type": 3
        }
       ]
@@ -1673,6 +1651,28 @@
         "certification": "15",
         "iso_639_1": "",
         "release_date": "2020-03-13T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "AR",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-02-21T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "12",
+        "iso_639_1": "",
+        "release_date": "2020-03-12T00:00:00Z",
         "type": 3
        }
       ]
@@ -1892,7 +1892,7 @@
    "title": "Маленькие женщины",
    "video": false,
    "vote_average": 8,
-   "vote_count": 1559,
+   "vote_count": 1561,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -2750,12 +2750,16 @@
      "name": "семейный"
     },
     {
-     "id": 18,
-     "name": "драма"
+     "id": 12,
+     "name": "приключения"
     },
     {
-     "id": 10749,
-     "name": "мелодрама"
+     "id": 35,
+     "name": "комедия"
+    },
+    {
+     "id": 14,
+     "name": "фэнтези"
     }
    ],
    "homepage": "",
@@ -2800,7 +2804,7 @@
    "title": "Вперёд",
    "video": false,
    "vote_average": 7.9,
-   "vote_count": 545,
+   "vote_count": 566,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -2893,6 +2897,39 @@
        {
         "certification": "U",
         "iso_639_1": "sk",
+        "release_date": "2020-03-05T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "GB",
+      "release_dates": [
+       {
+        "certification": "U",
+        "iso_639_1": "",
+        "release_date": "2020-03-06T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "6",
+        "iso_639_1": "",
+        "release_date": "2020-03-06T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "RU",
+      "release_dates": [
+       {
+        "certification": "6+",
+        "iso_639_1": "",
         "release_date": "2020-03-05T00:00:00Z",
         "type": 3
        }
@@ -3038,17 +3075,6 @@
       ]
      },
      {
-      "iso_3166_1": "RU",
-      "release_dates": [
-       {
-        "certification": "6+",
-        "iso_639_1": "",
-        "release_date": "2020-03-05T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
       "iso_3166_1": "CZ",
       "release_dates": [
        {
@@ -3174,17 +3200,6 @@
         "type": 3
        }
       ]
-     },
-     {
-      "iso_3166_1": "GB",
-      "release_dates": [
-       {
-        "certification": "U",
-        "iso_639_1": "",
-        "release_date": "2020-03-06T00:00:00Z",
-        "type": 3
-       }
-      ]
      }
     ]
    },
@@ -3282,7 +3297,7 @@
    "title": "Прощание",
    "video": false,
    "vote_average": 7.7,
-   "vote_count": 466,
+   "vote_count": 467,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -3508,8 +3523,8 @@
      "source": "rutor.info",
      "size": "10.30 GB",
      "date": "2020-03-27T00:00:00+03:00",
-     "upload": 47,
-     "download": 14
+     "upload": 57,
+     "download": 10
     },
     {
      "name": "Прощание / The Farewell (2019) BDRip 1080p | P",
@@ -3517,7 +3532,7 @@
      "source": "rutor.info",
      "size": "9.23 GB",
      "date": "2020-03-06T00:00:00+03:00",
-     "upload": 38,
+     "upload": 39,
      "download": 1
     }
    ]
@@ -3725,8 +3740,8 @@
      "source": "rutor.info",
      "size": "7.29 GB",
      "date": "2020-03-27T00:00:00+03:00",
-     "upload": 41,
-     "download": 6
+     "upload": 61,
+     "download": 5
     },
     {
      "name": "Угоняя лошадей / Ut og stjæle hester (2019) BDRemux 1080i от селезень | iTunes",
@@ -3734,8 +3749,8 @@
      "source": "rutor.info",
      "size": "16.22 GB",
      "date": "2020-03-27T00:00:00+03:00",
-     "upload": 26,
-     "download": 7
+     "upload": 23,
+     "download": 5
     }
    ]
   },
@@ -3811,7 +3826,7 @@
    "title": "Человек-невидимка",
    "video": false,
    "vote_average": 7.1,
-   "vote_count": 970,
+   "vote_count": 977,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -3884,28 +3899,6 @@
       ]
      },
      {
-      "iso_3166_1": "NL",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2020-03-03T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "RU",
-      "release_dates": [
-       {
-        "certification": "18+",
-        "iso_639_1": "",
-        "release_date": "2020-03-05T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
       "iso_3166_1": "VN",
       "release_dates": [
        {
@@ -3950,6 +3943,45 @@
       ]
      },
      {
+      "iso_3166_1": "US",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "en",
+        "release_date": "2020-03-20T00:00:00Z",
+        "type": 4
+       },
+       {
+        "certification": "R",
+        "iso_639_1": "",
+        "release_date": "2020-02-28T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "CZ",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-03-05T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "IE",
+      "release_dates": [
+       {
+        "certification": "16",
+        "iso_639_1": "",
+        "release_date": "2020-02-28T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
       "iso_3166_1": "SE",
       "release_dates": [
        {
@@ -3978,45 +4010,6 @@
         "certification": "M/16",
         "iso_639_1": "",
         "release_date": "2020-03-05T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "CZ",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2020-03-05T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "US",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "en",
-        "release_date": "2020-03-20T00:00:00Z",
-        "type": 4
-       },
-       {
-        "certification": "R",
-        "iso_639_1": "",
-        "release_date": "2020-02-28T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "IE",
-      "release_dates": [
-       {
-        "certification": "16",
-        "iso_639_1": "",
-        "release_date": "2020-02-28T00:00:00Z",
         "type": 3
        }
       ]
@@ -4089,6 +4082,28 @@
         "certification": "",
         "iso_639_1": "",
         "release_date": "2020-03-06T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "12",
+        "iso_639_1": "",
+        "release_date": "2020-03-03T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "RU",
+      "release_dates": [
+       {
+        "certification": "18+",
+        "iso_639_1": "",
+        "release_date": "2020-03-05T00:00:00Z",
         "type": 3
        }
       ]
@@ -4307,7 +4322,7 @@
    "title": "1917",
    "video": false,
    "vote_average": 7.9,
-   "vote_count": 3783,
+   "vote_count": 3792,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -4779,8 +4794,8 @@
      "source": "rutor.info",
      "size": "5.20 GB",
      "date": "2020-03-29T00:00:00+03:00",
-     "upload": 170,
-     "download": 65
+     "upload": 222,
+     "download": 108
     },
     {
      "name": "1917 / 1917 (2019) UHD BDRemux 2160p от селезень | 4K | HDR | Dolby Vision | iTunes",
@@ -4788,8 +4803,8 @@
      "source": "rutor.info",
      "size": "72.21 GB",
      "date": "2020-03-25T00:00:00+03:00",
-     "upload": 38,
-     "download": 34
+     "upload": 40,
+     "download": 30
     },
     {
      "name": "1917 / 1917 (2019) UHD BDRemux 2160p от селезень | 4K | HDR | Dolby Vision TV | iTunes",
@@ -4797,8 +4812,8 @@
      "source": "rutor.info",
      "size": "64.64 GB",
      "date": "2020-03-24T00:00:00+03:00",
-     "upload": 60,
-     "download": 25
+     "upload": 55,
+     "download": 21
     },
     {
      "name": "1917 / 1917 (2019) UHD BDRemux 2160p от селезень | 4K | HDR | iTunes",
@@ -4806,8 +4821,8 @@
      "source": "rutor.info",
      "size": "62.19 GB",
      "date": "2020-03-24T00:00:00+03:00",
-     "upload": 103,
-     "download": 62
+     "upload": 123,
+     "download": 70
     },
     {
      "name": "1917 / 1917 (2019) BDRemux 1080p от селезень | iTunes",
@@ -4815,8 +4830,8 @@
      "source": "rutor.info",
      "size": "31.54 GB",
      "date": "2020-03-24T00:00:00+03:00",
-     "upload": 214,
-     "download": 36
+     "upload": 205,
+     "download": 52
     },
     {
      "name": "1917 / 1917 (2019) BDRip 1080p от селезень | iTunes",
@@ -4824,7 +4839,7 @@
      "source": "rutor.info",
      "size": "12.29 GB",
      "date": "2020-03-24T00:00:00+03:00",
-     "upload": 1907,
+     "upload": 2012,
      "download": 266
     },
     {
@@ -4833,7 +4848,7 @@
      "source": "rutor.info",
      "size": "66.03 GB",
      "date": "2020-03-14T00:00:00+03:00",
-     "upload": 73,
+     "upload": 80,
      "download": 19
     },
     {
@@ -4842,8 +4857,8 @@
      "source": "rutor.info",
      "size": "12.83 GB",
      "date": "2020-03-14T00:00:00+03:00",
-     "upload": 182,
-     "download": 12
+     "upload": 191,
+     "download": 11
     },
     {
      "name": "1917 / 1917 (2019) BDRip 1080p | A",
@@ -4851,8 +4866,8 @@
      "source": "rutor.info",
      "size": "7.65 GB",
      "date": "2020-03-12T00:00:00+03:00",
-     "upload": 21,
-     "download": 4
+     "upload": 24,
+     "download": 3
     }
    ]
   },
@@ -4944,7 +4959,7 @@
    "title": "Маяк",
    "video": false,
    "vote_average": 7.7,
-   "vote_count": 1037,
+   "vote_count": 1040,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -5215,8 +5230,8 @@
      "source": "rutor.info",
      "size": "25.19 GB",
      "date": "2020-03-24T00:00:00+03:00",
-     "upload": 47,
-     "download": 12
+     "upload": 46,
+     "download": 4
     },
     {
      "name": "Маяк / The Lighthouse (2019) BDRip 1080p от селезень | Лицензия",
@@ -5224,8 +5239,8 @@
      "source": "rutor.info",
      "size": "14.99 GB",
      "date": "2020-03-24T00:00:00+03:00",
-     "upload": 391,
-     "download": 55
+     "upload": 404,
+     "download": 52
     },
     {
      "name": "Маяк / The Lighthouse (2019) BDRip-HEVC 1080p | P, А",
@@ -5233,8 +5248,8 @@
      "source": "rutor.info",
      "size": "5.86 GB",
      "date": "2020-03-19T00:00:00+03:00",
-     "upload": 56,
-     "download": 2
+     "upload": 58,
+     "download": 3
     },
     {
      "name": "Маяк / The Lighthouse (2019) BDRip 1080p | P, А",
@@ -5243,7 +5258,7 @@
      "size": "14.25 GB",
      "date": "2020-01-23T00:00:00+03:00",
      "upload": 90,
-     "download": 6
+     "download": 7
     },
     {
      "name": "Маяк / The Lighthouse (2019) BDRemux 1080p | A, P",
@@ -5251,8 +5266,8 @@
      "source": "rutor.info",
      "size": "32.95 GB",
      "date": "2020-01-22T00:00:00+03:00",
-     "upload": 10,
-     "download": 4
+     "upload": 11,
+     "download": 2
     },
     {
      "name": "Маяк / The Lighthouse (2019) BDRip 1080p | P",
@@ -5260,8 +5275,8 @@
      "source": "rutor.info",
      "size": "13.08 GB",
      "date": "2020-01-07T00:00:00+03:00",
-     "upload": 34,
-     "download": 4
+     "upload": 41,
+     "download": 3
     },
     {
      "name": "Маяк / The Lighthouse (2019) BDRemux 1080p | P",
@@ -5270,7 +5285,7 @@
      "size": "29.70 GB",
      "date": "2020-01-05T00:00:00+03:00",
      "upload": 13,
-     "download": 1
+     "download": 2
     },
     {
      "name": "Маяк / The Lighthouse (2019) WEB-DL 1080p | P | HDRezka Studio",
@@ -5278,8 +5293,8 @@
      "source": "rutor.info",
      "size": "4.15 GB",
      "date": "2019-12-23T00:00:00+03:00",
-     "upload": 126,
-     "download": 3
+     "upload": 133,
+     "download": 11
     },
     {
      "name": "Маяк / The Lighthouse (2019) WEB-DL 1080p | HDRezka Studio",
@@ -5287,8 +5302,8 @@
      "source": "rutor.info",
      "size": "6.95 GB",
      "date": "2019-12-23T00:00:00+03:00",
-     "upload": 157,
-     "download": 4
+     "upload": 152,
+     "download": 5
     }
    ]
   },
@@ -5615,7 +5630,7 @@
    "title": "Рождество на двоих",
    "video": false,
    "vote_average": 7.1,
-   "vote_count": 659,
+   "vote_count": 663,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -5689,6 +5704,17 @@
       ]
      },
      {
+      "iso_3166_1": "DE",
+      "release_dates": [
+       {
+        "certification": "0",
+        "iso_639_1": "",
+        "release_date": "2019-11-14T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
       "iso_3166_1": "VN",
       "release_dates": [
        {
@@ -5733,22 +5759,33 @@
       ]
      },
      {
-      "iso_3166_1": "AT",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-11-14T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
       "iso_3166_1": "UA",
       "release_dates": [
        {
         "certification": "",
         "iso_639_1": "",
+        "release_date": "2019-12-19T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "KR",
+      "release_dates": [
+       {
+        "certification": "12세 이상 관람가",
+        "iso_639_1": "",
+        "release_date": "2019-12-05T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "IT",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "it",
         "release_date": "2019-12-19T00:00:00Z",
         "type": 3
        }
@@ -5828,23 +5865,12 @@
       ]
      },
      {
-      "iso_3166_1": "NL",
+      "iso_3166_1": "AT",
       "release_dates": [
        {
         "certification": "",
         "iso_639_1": "",
-        "release_date": "2019-11-07T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "RU",
-      "release_dates": [
-       {
-        "certification": "16+",
-        "iso_639_1": "",
-        "release_date": "2019-12-05T00:00:00Z",
+        "release_date": "2019-11-14T00:00:00Z",
         "type": 3
        }
       ]
@@ -5867,32 +5893,21 @@
       ]
      },
      {
-      "iso_3166_1": "DE",
+      "iso_3166_1": "GB",
       "release_dates": [
        {
-        "certification": "0",
-        "iso_639_1": "",
-        "release_date": "2019-11-14T00:00:00Z",
+        "certification": "12A",
+        "iso_639_1": "en",
+        "release_date": "2019-11-15T00:00:00Z",
         "type": 3
        }
       ]
      },
      {
-      "iso_3166_1": "IT",
+      "iso_3166_1": "RU",
       "release_dates": [
        {
-        "certification": "",
-        "iso_639_1": "it",
-        "release_date": "2019-12-19T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "KR",
-      "release_dates": [
-       {
-        "certification": "12세 이상 관람가",
+        "certification": "16+",
         "iso_639_1": "",
         "release_date": "2019-12-05T00:00:00Z",
         "type": 3
@@ -5900,12 +5915,12 @@
       ]
      },
      {
-      "iso_3166_1": "GB",
+      "iso_3166_1": "NL",
       "release_dates": [
        {
-        "certification": "12A",
-        "iso_639_1": "en",
-        "release_date": "2019-11-15T00:00:00Z",
+        "certification": "9",
+        "iso_639_1": "",
+        "release_date": "2019-11-07T00:00:00Z",
         "type": 3
        }
       ]
@@ -6064,7 +6079,7 @@
    "title": "Удивительное путешествие доктора Дулиттла",
    "video": false,
    "vote_average": 6.8,
-   "vote_count": 930,
+   "vote_count": 936,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -6231,6 +6246,17 @@
       ]
      },
      {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "6",
+        "iso_639_1": "",
+        "release_date": "2020-01-16T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
       "iso_3166_1": "BR",
       "release_dates": [
        {
@@ -6276,17 +6302,6 @@
         "certification": "",
         "iso_639_1": "",
         "release_date": "2020-03-20T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "BA",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2020-01-30T00:00:00Z",
         "type": 3
        }
       ]
@@ -6458,17 +6473,6 @@
      },
      {
       "iso_3166_1": "AR",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2020-01-16T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "NL",
       "release_dates": [
        {
         "certification": "",
@@ -6879,6 +6883,17 @@
         "type": 3
        }
       ]
+     },
+     {
+      "iso_3166_1": "BA",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-01-30T00:00:00Z",
+        "type": 3
+       }
+      ]
      }
     ]
    },
@@ -7202,7 +7217,7 @@
    "title": "Пропавшие девушки",
    "video": false,
    "vote_average": 6.1,
-   "vote_count": 179,
+   "vote_count": 181,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -7566,8 +7581,8 @@
      "source": "rutor.info",
      "size": "3.00 GB",
      "date": "2020-03-23T00:00:00+03:00",
-     "upload": 244,
-     "download": 19
+     "upload": 258,
+     "download": 23
     }
    ]
   },
@@ -7612,7 +7627,7 @@
    "title": "Ультрас",
    "video": false,
    "vote_average": 6.4,
-   "vote_count": 173,
+   "vote_count": 174,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -7911,7 +7926,7 @@
      "name": "France"
     }
    ],
-   "release_date": "07.08.2019",
+   "release_date": "10.06.2019",
    "revenue": 0,
    "runtime": 99,
    "spoken_languages": [
@@ -8066,17 +8081,6 @@
       ]
      },
      {
-      "iso_3166_1": "RU",
-      "release_dates": [
-       {
-        "certification": "6+",
-        "iso_639_1": "",
-        "release_date": "2020-01-30T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
       "iso_3166_1": "SK",
       "release_dates": [
        {
@@ -8171,6 +8175,28 @@
       ]
      },
      {
+      "iso_3166_1": "RU",
+      "release_dates": [
+       {
+        "certification": "6+",
+        "iso_639_1": "",
+        "release_date": "2020-01-30T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "6",
+        "iso_639_1": "",
+        "release_date": "2019-06-10T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
       "iso_3166_1": "HU",
       "release_dates": [
        {
@@ -8190,7 +8216,7 @@
      "source": "rutor.info",
      "size": "17.08 GB",
      "date": "2020-03-22T00:00:00+03:00",
-     "upload": 7,
+     "upload": 8,
      "download": 3
     },
     {
@@ -8199,8 +8225,8 @@
      "source": "rutor.info",
      "size": "8.93 GB",
      "date": "2020-03-22T00:00:00+03:00",
-     "upload": 75,
-     "download": 14
+     "upload": 81,
+     "download": 10
     }
    ]
   },
@@ -8264,7 +8290,7 @@
    "title": "Банкир",
    "video": false,
    "vote_average": 7.4,
-   "vote_count": 74,
+   "vote_count": 75,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -8321,10 +8347,10 @@
       ]
      },
      {
-      "iso_3166_1": "DE",
+      "iso_3166_1": "SG",
       "release_dates": [
        {
-        "certification": "",
+        "certification": "NC16",
         "iso_639_1": "",
         "release_date": "2020-03-20T00:00:00Z",
         "type": 4
@@ -8343,10 +8369,10 @@
       ]
      },
      {
-      "iso_3166_1": "SK",
+      "iso_3166_1": "DE",
       "release_dates": [
        {
-        "certification": "15",
+        "certification": "",
         "iso_639_1": "",
         "release_date": "2020-03-20T00:00:00Z",
         "type": 4
@@ -8354,10 +8380,21 @@
       ]
      },
      {
-      "iso_3166_1": "SG",
+      "iso_3166_1": "NL",
       "release_dates": [
        {
-        "certification": "NC16",
+        "certification": "12",
+        "iso_639_1": "",
+        "release_date": "2020-03-06T00:00:00Z",
+        "type": 4
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "SK",
+      "release_dates": [
+       {
+        "certification": "15",
         "iso_639_1": "",
         "release_date": "2020-03-20T00:00:00Z",
         "type": 4
@@ -8606,8 +8643,8 @@
      "source": "rutor.info",
      "size": "19.12 GB",
      "date": "2020-03-21T00:00:00+03:00",
-     "upload": 24,
-     "download": 7
+     "upload": 25,
+     "download": 6
     },
     {
      "name": "Потерянные части / The Parts You Lose (2019) BDRip 1080p от селезень | iTunes",
@@ -8615,8 +8652,8 @@
      "source": "rutor.info",
      "size": "9.53 GB",
      "date": "2020-03-21T00:00:00+03:00",
-     "upload": 270,
-     "download": 10
+     "upload": 286,
+     "download": 12
     }
    ]
   },
@@ -8863,7 +8900,7 @@
    "title": "Zомбилэнд: Контрольный выстрел",
    "video": false,
    "vote_average": 7,
-   "vote_count": 1851,
+   "vote_count": 1855,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -9576,7 +9613,7 @@
    "title": "Джуманджи: Новый уровень",
    "video": false,
    "vote_average": 6.8,
-   "vote_count": 2728,
+   "vote_count": 2735,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -9772,78 +9809,6 @@
       ]
      },
      {
-      "iso_3166_1": "PH",
-      "release_dates": [
-       {
-        "certification": "PG",
-        "iso_639_1": "",
-        "release_date": "2019-12-04T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "ES",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-12-13T00:00:00Z",
-        "type": 3
-       },
-       {
-        "certification": "7",
-        "iso_639_1": "es",
-        "release_date": "2020-04-03T00:00:00Z",
-        "type": 5
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "FI",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-12-04T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "AR",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2020-01-02T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "NL",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-12-12T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "RU",
-      "release_dates": [
-       {
-        "certification": "12+",
-        "iso_639_1": "",
-        "release_date": "2019-12-12T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
       "iso_3166_1": "SG",
       "release_dates": [
        {
@@ -9927,6 +9892,45 @@
       ]
      },
      {
+      "iso_3166_1": "PH",
+      "release_dates": [
+       {
+        "certification": "PG",
+        "iso_639_1": "",
+        "release_date": "2019-12-04T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "ES",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-12-13T00:00:00Z",
+        "type": 3
+       },
+       {
+        "certification": "7",
+        "iso_639_1": "es",
+        "release_date": "2020-04-03T00:00:00Z",
+        "type": 5
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "FI",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-12-04T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
       "iso_3166_1": "IL",
       "release_dates": [
        {
@@ -9999,6 +10003,39 @@
         "certification": "11",
         "iso_639_1": "",
         "release_date": "2019-12-06T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "AR",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2020-01-02T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "12",
+        "iso_639_1": "",
+        "release_date": "2019-12-12T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "RU",
+      "release_dates": [
+       {
+        "certification": "12+",
+        "iso_639_1": "",
+        "release_date": "2019-12-12T00:00:00Z",
         "type": 3
        }
       ]
@@ -10228,8 +10265,8 @@
      "source": "rutor.info",
      "size": "12.71 GB",
      "date": "2020-03-20T00:00:00+03:00",
-     "upload": 145,
-     "download": 16
+     "upload": 142,
+     "download": 17
     }
    ]
   },
@@ -10599,8 +10636,8 @@
      "source": "rutor.info",
      "size": "3.66 GB",
      "date": "2020-03-20T00:00:00+03:00",
-     "upload": 555,
-     "download": 18
+     "upload": 593,
+     "download": 26
     }
    ]
   },
@@ -10665,7 +10702,7 @@
    "title": "Проклятие",
    "video": false,
    "vote_average": 5.6,
-   "vote_count": 319,
+   "vote_count": 323,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -11135,8 +11172,8 @@
      "source": "rutor.info",
      "size": "5.29 GB",
      "date": "2020-03-20T00:00:00+03:00",
-     "upload": 70,
-     "download": 3
+     "upload": 78,
+     "download": 6
     }
    ]
   },
@@ -11590,7 +11627,7 @@
      "size": "50.61 GB",
      "date": "2020-03-19T00:00:00+03:00",
      "upload": 30,
-     "download": 15
+     "download": 19
     },
     {
      "name": "Прекрасный день по соседству / A Beautiful Day in the Neighborhood (2019) BDRip 1080p от селезень | P, A | iTunes",
@@ -11598,7 +11635,7 @@
      "source": "rutor.info",
      "size": "13.27 GB",
      "date": "2020-03-19T00:00:00+03:00",
-     "upload": 93,
+     "upload": 103,
      "download": 11
     },
     {
@@ -11607,8 +11644,8 @@
      "source": "rutor.info",
      "size": "13.67 GB",
      "date": "2020-03-18T00:00:00+03:00",
-     "upload": 98,
-     "download": 8
+     "upload": 100,
+     "download": 9
     },
     {
      "name": "Прекрасный день по соседству / A Beautiful Day in the Neighborhood (2019) BDRip 1080p | L2, A",
@@ -11616,8 +11653,8 @@
      "source": "rutor.info",
      "size": "8.28 GB",
      "date": "2020-03-05T00:00:00+03:00",
-     "upload": 25,
-     "download": 2
+     "upload": 28,
+     "download": 3
     }
    ]
   },
@@ -12093,6 +12130,28 @@
       ]
      },
      {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "9",
+        "iso_639_1": "",
+        "release_date": "2020-02-20T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "RU",
+      "release_dates": [
+       {
+        "certification": "16+",
+        "iso_639_1": "",
+        "release_date": "2020-02-06T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
       "iso_3166_1": "GB",
       "release_dates": [
        {
@@ -12154,23 +12213,18 @@
       ]
      },
      {
-      "iso_3166_1": "RU",
-      "release_dates": [
-       {
-        "certification": "16+",
-        "iso_639_1": "",
-        "release_date": "2020-02-06T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "NL",
+      "iso_3166_1": "CH",
       "release_dates": [
        {
         "certification": "",
-        "iso_639_1": "",
-        "release_date": "2020-02-20T00:00:00Z",
+        "iso_639_1": "fr",
+        "release_date": "2020-02-26T00:00:00Z",
+        "type": 3
+       },
+       {
+        "certification": "",
+        "iso_639_1": "it",
+        "release_date": "2020-02-27T00:00:00Z",
         "type": 3
        }
       ]
@@ -12193,23 +12247,6 @@
         "certification": "",
         "iso_639_1": "",
         "release_date": "2020-04-16T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "CH",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "fr",
-        "release_date": "2020-02-26T00:00:00Z",
-        "type": 3
-       },
-       {
-        "certification": "",
-        "iso_639_1": "it",
-        "release_date": "2020-02-27T00:00:00Z",
         "type": 3
        }
       ]
@@ -12473,7 +12510,7 @@
      "source": "rutor.info",
      "size": "28.24 GB",
      "date": "2020-03-17T00:00:00+03:00",
-     "upload": 20,
+     "upload": 23,
      "download": 3
     },
     {
@@ -12482,8 +12519,8 @@
      "source": "rutor.info",
      "size": "11.20 GB",
      "date": "2020-03-16T00:00:00+03:00",
-     "upload": 73,
-     "download": 3
+     "upload": 77,
+     "download": 5
     },
     {
      "name": "Крипто / Crypto (2019) BDRip 1080p | HDRezka Studio",
@@ -12491,7 +12528,7 @@
      "source": "rutor.info",
      "size": "11.03 GB",
      "date": "2019-06-14T00:00:00+03:00",
-     "upload": 14,
+     "upload": 19,
      "download": 0
     }
    ]
@@ -12786,8 +12823,8 @@
    "tagline": "",
    "title": "Иди к папочке",
    "video": false,
-   "vote_average": 5.9,
-   "vote_count": 59,
+   "vote_average": 5.8,
+   "vote_count": 60,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -12928,7 +12965,7 @@
      "source": "rutor.info",
      "size": "9.09 GB",
      "date": "2020-03-14T00:00:00+03:00",
-     "upload": 94,
+     "upload": 104,
      "download": 10
     }
    ]
@@ -13172,7 +13209,7 @@
      "source": "rutor.info",
      "size": "5.81 GB",
      "date": "2020-03-16T00:00:00+03:00",
-     "upload": 67,
+     "upload": 77,
      "download": 7
     },
     {
@@ -13181,8 +13218,8 @@
      "source": "rutor.info",
      "size": "7.77 GB",
      "date": "2020-03-14T00:00:00+03:00",
-     "upload": 218,
-     "download": 19
+     "upload": 244,
+     "download": 16
     },
     {
      "name": "Комната желаний / The Room (2019) BDRemux 1080p от селезень | iTunes",
@@ -13190,8 +13227,8 @@
      "source": "rutor.info",
      "size": "18.95 GB",
      "date": "2020-03-13T00:00:00+03:00",
-     "upload": 45,
-     "download": 9
+     "upload": 35,
+     "download": 10
     }
    ]
   },
@@ -13266,8 +13303,8 @@
    "tagline": "«Агент на птичьих правах»",
    "title": "Камуфляж и шпионаж",
    "video": false,
-   "vote_average": 7.5,
-   "vote_count": 548,
+   "vote_average": 7.4,
+   "vote_count": 550,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -13779,7 +13816,7 @@
    "title": "Правосудие Спенсера",
    "video": false,
    "vote_average": 6.6,
-   "vote_count": 623,
+   "vote_count": 626,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -13981,7 +14018,7 @@
    "title": "Ангелы Чарли",
    "video": false,
    "vote_average": 6.5,
-   "vote_count": 846,
+   "vote_count": 848,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -14734,8 +14771,8 @@
      "source": "rutor.info",
      "size": "27.31 GB",
      "date": "2020-03-11T00:00:00+03:00",
-     "upload": 54,
-     "download": 8
+     "upload": 46,
+     "download": 11
     },
     {
      "name": "Прекрасная эпоха / La Belle Époque (2019) BDRip 1080p от селезень | iTunes",
@@ -14743,8 +14780,8 @@
      "source": "rutor.info",
      "size": "14.50 GB",
      "date": "2020-03-11T00:00:00+03:00",
-     "upload": 352,
-     "download": 40
+     "upload": 375,
+     "download": 46
     }
    ]
   },
@@ -14810,7 +14847,7 @@
    "title": "Сиротский Бруклин",
    "video": false,
    "vote_average": 6.9,
-   "vote_count": 399,
+   "vote_count": 400,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -15311,7 +15348,7 @@
      "size": "8.91 GB",
      "date": "2020-03-10T00:00:00+03:00",
      "upload": 30,
-     "download": 3
+     "download": 1
     },
     {
      "name": "Последний черный в Сан-Франциско / The Last Black Man in San Francisco (2019) BDRemux 1080р от ExKinoRay | P",
@@ -15319,8 +15356,8 @@
      "source": "rutor.info",
      "size": "31.89 GB",
      "date": "2020-03-09T00:00:00+03:00",
-     "upload": 12,
-     "download": 3
+     "upload": 10,
+     "download": 4
     }
    ]
   },
@@ -15478,7 +15515,7 @@
      "source": "rutor.info",
      "size": "8.00 GB",
      "date": "2020-03-09T00:00:00+03:00",
-     "upload": 45,
+     "upload": 44,
      "download": 3
     },
     {
@@ -15488,7 +15525,7 @@
      "size": "17.67 GB",
      "date": "2020-03-08T00:00:00+03:00",
      "upload": 21,
-     "download": 0
+     "download": 2
     }
    ]
   },
@@ -16110,8 +16147,8 @@
      "source": "rutor.info",
      "size": "6.63 GB",
      "date": "2020-03-07T00:00:00+03:00",
-     "upload": 99,
-     "download": 14
+     "upload": 114,
+     "download": 13
     }
    ]
   },
@@ -16440,8 +16477,8 @@
      "source": "rutor.info",
      "size": "10.08 GB",
      "date": "2020-03-07T00:00:00+03:00",
-     "upload": 100,
-     "download": 10
+     "upload": 105,
+     "download": 11
     },
     {
      "name": "Опасные секреты / Official Secrets (2019) BDRemux 1080p от селезень | iTunes",
@@ -16449,7 +16486,7 @@
      "source": "rutor.info",
      "size": "27.64 GB",
      "date": "2020-03-07T00:00:00+03:00",
-     "upload": 24,
+     "upload": 25,
      "download": 5
     }
    ]
@@ -16632,17 +16669,6 @@
       ]
      },
      {
-      "iso_3166_1": "RU",
-      "release_dates": [
-       {
-        "certification": "18+",
-        "iso_639_1": "",
-        "release_date": "2020-02-13T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
       "iso_3166_1": "HU",
       "release_dates": [
        {
@@ -16815,6 +16841,28 @@
         "certification": "12",
         "iso_639_1": "",
         "release_date": "2020-02-13T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "RU",
+      "release_dates": [
+       {
+        "certification": "18+",
+        "iso_639_1": "",
+        "release_date": "2020-02-13T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "12",
+        "iso_639_1": "",
+        "release_date": "2019-12-13T00:00:00Z",
         "type": 3
        }
       ]
@@ -17130,8 +17178,8 @@
      "source": "rutor.info",
      "size": "3.69 GB",
      "date": "2020-03-07T00:00:00+03:00",
-     "upload": 44,
-     "download": 4
+     "upload": 39,
+     "download": 5
     }
    ]
   },
@@ -18293,7 +18341,7 @@
      "source": "rutor.info",
      "size": "3.20 GB",
      "date": "2020-03-05T00:00:00+03:00",
-     "upload": 27,
+     "upload": 25,
      "download": 2
     }
    ]
@@ -18912,7 +18960,7 @@
      "size": "26.61 GB",
      "date": "2020-03-03T00:00:00+03:00",
      "upload": 4,
-     "download": 2
+     "download": 3
     },
     {
      "name": "Извините, мы вас не застали / Sorry We Missed You (2019) BDRip 1080p от селезень | iTunes",
@@ -18920,8 +18968,8 @@
      "source": "rutor.info",
      "size": "15.24 GB",
      "date": "2020-03-03T00:00:00+03:00",
-     "upload": 32,
-     "download": 4
+     "upload": 37,
+     "download": 6
     }
    ]
   },
@@ -19098,8 +19146,8 @@
      "source": "rutor.info",
      "size": "6.76 GB",
      "date": "2020-03-03T00:00:00+03:00",
-     "upload": 88,
-     "download": 8
+     "upload": 100,
+     "download": 7
     }
    ]
   },
@@ -19455,7 +19503,7 @@
      "source": "rutor.info",
      "size": "5.57 GB",
      "date": "2020-03-01T00:00:00+03:00",
-     "upload": 46,
+     "upload": 51,
      "download": 4
     }
    ]
@@ -20148,8 +20196,8 @@
      "source": "rutor.info",
      "size": "7.97 GB",
      "date": "2020-02-26T00:00:00+03:00",
-     "upload": 24,
-     "download": 4
+     "upload": 27,
+     "download": 5
     },
     {
      "name": "Коррупционер / The Corrupted (2019) BDRemux 1080p от селезень | iTunes",
@@ -20157,7 +20205,7 @@
      "source": "rutor.info",
      "size": "19.65 GB",
      "date": "2020-02-25T00:00:00+03:00",
-     "upload": 8,
+     "upload": 13,
      "download": 1
     }
    ]
@@ -20964,8 +21012,8 @@
      "source": "rutor.info",
      "size": "3.67 GB",
      "date": "2020-02-24T00:00:00+03:00",
-     "upload": 42,
-     "download": 1
+     "upload": 41,
+     "download": 2
     }
    ]
   },
@@ -21297,8 +21345,8 @@
      "source": "rutor.info",
      "size": "9.36 GB",
      "date": "2020-02-29T00:00:00+03:00",
-     "upload": 74,
-     "download": 6
+     "upload": 67,
+     "download": 10
     },
     {
      "name": "Три секунды / The Informer (2019) BDRemux 1080p от селезень | iTunes",
@@ -21306,8 +21354,8 @@
      "source": "rutor.info",
      "size": "30.13 GB",
      "date": "2020-02-24T00:00:00+03:00",
-     "upload": 28,
-     "download": 4
+     "upload": 26,
+     "download": 5
     },
     {
      "name": "Три секунды / The Informer (2019) BDRip 1080p от селезень | iTunes",
@@ -21315,8 +21363,8 @@
      "source": "rutor.info",
      "size": "16.03 GB",
      "date": "2020-02-24T00:00:00+03:00",
-     "upload": 151,
-     "download": 23
+     "upload": 166,
+     "download": 20
     },
     {
      "name": "Три секунды / The Informer (2019) BDRip 1080p | D",
@@ -21324,8 +21372,8 @@
      "source": "rutor.info",
      "size": "18.76 GB",
      "date": "2019-12-31T00:00:00+03:00",
-     "upload": 73,
-     "download": 4
+     "upload": 79,
+     "download": 3
     }
    ]
   },
@@ -21989,8 +22037,8 @@
      "source": "rutor.info",
      "size": "2.82 GB",
      "date": "2020-02-22T00:00:00+03:00",
-     "upload": 50,
-     "download": 4
+     "upload": 48,
+     "download": 3
     }
    ]
   },
@@ -22226,6 +22274,17 @@
       ]
      },
      {
+      "iso_3166_1": "KR",
+      "release_dates": [
+       {
+        "certification": "15",
+        "iso_639_1": "",
+        "release_date": "2020-02-21T00:00:00Z",
+        "type": 4
+       }
+      ]
+     },
+     {
       "iso_3166_1": "DE",
       "release_dates": [
        {
@@ -22237,10 +22296,10 @@
       ]
      },
      {
-      "iso_3166_1": "KR",
+      "iso_3166_1": "NL",
       "release_dates": [
        {
-        "certification": "15",
+        "certification": "12",
         "iso_639_1": "",
         "release_date": "2020-02-21T00:00:00Z",
         "type": 4
@@ -22644,8 +22703,8 @@
      "source": "rutor.info",
      "size": "6.72 GB",
      "date": "2020-02-20T00:00:00+03:00",
-     "upload": 53,
-     "download": 4
+     "upload": 48,
+     "download": 3
     }
    ]
   },
@@ -22727,7 +22786,7 @@
    "title": "Достать ножи",
    "video": false,
    "vote_average": 7.8,
-   "vote_count": 3114,
+   "vote_count": 3119,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -22868,6 +22927,17 @@
       ]
      },
      {
+      "iso_3166_1": "IE",
+      "release_dates": [
+       {
+        "certification": "12A",
+        "iso_639_1": "",
+        "release_date": "2019-11-27T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
       "iso_3166_1": "CZ",
       "release_dates": [
        {
@@ -22895,17 +22965,6 @@
        },
        {
         "certification": "PG-13",
-        "iso_639_1": "",
-        "release_date": "2019-11-27T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "IE",
-      "release_dates": [
-       {
-        "certification": "12A",
         "iso_639_1": "",
         "release_date": "2019-11-27T00:00:00Z",
         "type": 3
@@ -23163,6 +23222,17 @@
         "certification": "12",
         "iso_639_1": "",
         "release_date": "2020-01-02T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "12",
+        "iso_639_1": "",
+        "release_date": "2019-11-27T00:00:00Z",
         "type": 3
        }
       ]
@@ -23429,8 +23499,8 @@
      "source": "rutor.info",
      "size": "7.31 GB",
      "date": "2020-02-19T00:00:00+03:00",
-     "upload": 159,
-     "download": 7
+     "upload": 160,
+     "download": 4
     },
     {
      "name": "Злодеи / Villains (2019) BDRemux 1080p от селезень | iTunes",
@@ -23438,7 +23508,7 @@
      "source": "rutor.info",
      "size": "11.36 GB",
      "date": "2020-02-19T00:00:00+03:00",
-     "upload": 34,
+     "upload": 29,
      "download": 3
     },
     {
@@ -23447,8 +23517,8 @@
      "source": "rutor.info",
      "size": "6.33 GB",
      "date": "2019-12-14T00:00:00+03:00",
-     "upload": 41,
-     "download": 4
+     "upload": 43,
+     "download": 2
     }
    ]
   },
@@ -23641,8 +23711,8 @@
    "tagline": "",
    "title": "Холодная игра",
    "video": false,
-   "vote_average": 6.2,
-   "vote_count": 87,
+   "vote_average": 6.1,
+   "vote_count": 88,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -23905,8 +23975,8 @@
      "source": "rutor.info",
      "size": "17.87 GB",
      "date": "2020-02-17T00:00:00+03:00",
-     "upload": 14,
-     "download": 4
+     "upload": 16,
+     "download": 3
     },
     {
      "name": "Старые счеты / A Score to Settle (2019) BDRip 1080p от селезень | iTunes",
@@ -23915,7 +23985,7 @@
      "size": "11.90 GB",
      "date": "2020-02-17T00:00:00+03:00",
      "upload": 102,
-     "download": 9
+     "download": 11
     }
    ]
   },
@@ -23978,8 +24048,8 @@
    "tagline": "",
    "title": "Зеленее травы",
    "video": false,
-   "vote_average": 5.9,
-   "vote_count": 19,
+   "vote_average": 6,
+   "vote_count": 20,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -24091,7 +24161,7 @@
      "source": "rutor.info",
      "size": "7.68 GB",
      "date": "2020-02-16T00:00:00+03:00",
-     "upload": 32,
+     "upload": 31,
      "download": 2
     },
     {
@@ -24100,7 +24170,7 @@
      "source": "rutor.info",
      "size": "8.97 GB",
      "date": "2020-02-06T00:00:00+03:00",
-     "upload": 17,
+     "upload": 20,
      "download": 2
     }
    ]
@@ -24179,7 +24249,7 @@
    "title": "Ford против Ferrari",
    "video": false,
    "vote_average": 7.8,
-   "vote_count": 2114,
+   "vote_count": 2115,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -25047,7 +25117,7 @@
      "source": "rutor.info",
      "size": "23.54 GB",
      "date": "2020-02-14T00:00:00+03:00",
-     "upload": 1,
+     "upload": 4,
      "download": 0
     },
     {
@@ -25056,8 +25126,8 @@
      "source": "rutor.info",
      "size": "21.55 GB",
      "date": "2020-02-14T00:00:00+03:00",
-     "upload": 1,
-     "download": 3
+     "upload": 5,
+     "download": 1
     },
     {
      "name": "Ослепленный светом / Blinded by the Light (2019) BDRip 1080p от селезень | iTunes",
@@ -25065,8 +25135,8 @@
      "source": "rutor.info",
      "size": "11.90 GB",
      "date": "2020-02-14T00:00:00+03:00",
-     "upload": 23,
-     "download": 3
+     "upload": 25,
+     "download": 4
     }
    ]
   },
@@ -25258,7 +25328,7 @@
      "source": "rutor.info",
      "size": "3.20 GB",
      "date": "2020-02-14T00:00:00+03:00",
-     "upload": 45,
+     "upload": 54,
      "download": 2
     }
    ]
@@ -25449,7 +25519,7 @@
    "title": "Холодное сердце 2",
    "video": false,
    "vote_average": 7.1,
-   "vote_count": 3385,
+   "vote_count": 3390,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -26189,7 +26259,7 @@
      "source": "rutor.info",
      "size": "9.90 GB",
      "date": "2020-02-12T00:00:00+03:00",
-     "upload": 31,
+     "upload": 29,
      "download": 4
     }
    ]
@@ -26350,8 +26420,8 @@
      "source": "rutor.info",
      "size": "4.11 GB",
      "date": "2020-02-10T00:00:00+03:00",
-     "upload": 99,
-     "download": 1
+     "upload": 110,
+     "download": 2
     }
    ]
   },
@@ -26425,7 +26495,7 @@
    "title": "Игры с огнем",
    "video": false,
    "vote_average": 6.6,
-   "vote_count": 188,
+   "vote_count": 189,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -26792,8 +26862,8 @@
      "source": "rutor.info",
      "size": "3.35 GB",
      "date": "2020-02-10T00:00:00+03:00",
-     "upload": 64,
-     "download": 2
+     "upload": 77,
+     "download": 5
     }
    ]
   },
@@ -26915,8 +26985,8 @@
      "source": "rutor.info",
      "size": "5.48 GB",
      "date": "2020-02-10T00:00:00+03:00",
-     "upload": 44,
-     "download": 1
+     "upload": 49,
+     "download": 0
     }
    ]
   },
@@ -26980,7 +27050,7 @@
    "title": "Спрячь бабушку в холодильнике",
    "video": false,
    "vote_average": 6.2,
-   "vote_count": 422,
+   "vote_count": 423,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -27072,7 +27142,7 @@
      "source": "rutor.info",
      "size": "3.67 GB",
      "date": "2020-02-10T00:00:00+03:00",
-     "upload": 95,
+     "upload": 100,
      "download": 1
     }
    ]
@@ -27145,7 +27215,7 @@
    "title": "21 мост",
    "video": false,
    "vote_average": 6.4,
-   "vote_count": 439,
+   "vote_count": 440,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -27904,7 +27974,7 @@
    "title": "Кролик Джоджо",
    "video": false,
    "vote_average": 8.1,
-   "vote_count": 2698,
+   "vote_count": 2699,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -27988,6 +28058,17 @@
       ]
      },
      {
+      "iso_3166_1": "AU",
+      "release_dates": [
+       {
+        "certification": "M",
+        "iso_639_1": "",
+        "release_date": "2019-12-26T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
       "iso_3166_1": "CA",
       "release_dates": [
        {
@@ -28001,17 +28082,6 @@
         "iso_639_1": "fr",
         "release_date": "2019-11-01T00:00:00Z",
         "type": 2
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "AU",
-      "release_dates": [
-       {
-        "certification": "M",
-        "iso_639_1": "",
-        "release_date": "2019-12-26T00:00:00Z",
-        "type": 3
        }
       ]
      },
@@ -28195,6 +28265,17 @@
         "certification": "K-12",
         "iso_639_1": "",
         "release_date": "2020-01-10T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "12",
+        "iso_639_1": "",
+        "release_date": "2019-10-18T00:00:00Z",
         "type": 3
        }
       ]
@@ -28518,7 +28599,7 @@
      "source": "rutor.info",
      "size": "7.75 GB",
      "date": "2020-02-07T00:00:00+03:00",
-     "upload": 24,
+     "upload": 25,
      "download": 2
     },
     {
@@ -28527,8 +28608,8 @@
      "source": "rutor.info",
      "size": "20.05 GB",
      "date": "2020-02-07T00:00:00+03:00",
-     "upload": 3,
-     "download": 0
+     "upload": 4,
+     "download": 2
     },
     {
      "name": "Маленькая мисс Дулиттл / Liliane Susewind - Ein tierisches Abenteuer (2018) WEB-DL 1080p | iTunes",
@@ -28536,8 +28617,8 @@
      "source": "rutor.info",
      "size": "3.44 GB",
      "date": "2020-02-06T00:00:00+03:00",
-     "upload": 18,
-     "download": 1
+     "upload": 19,
+     "download": 2
     }
    ]
   },
@@ -28938,8 +29019,8 @@
      "source": "rutor.info",
      "size": "5.76 GB",
      "date": "2020-02-07T00:00:00+03:00",
-     "upload": 88,
-     "download": 6
+     "upload": 89,
+     "download": 9
     },
     {
      "name": "Потерянное звено / Missing Link (2019) BDRip 1080p от TeamHD | HDRezka Studio",
@@ -28947,7 +29028,7 @@
      "source": "rutor.info",
      "size": "8.58 GB",
      "date": "2019-07-31T00:00:00+03:00",
-     "upload": 49,
+     "upload": 43,
      "download": 4
     }
    ]
@@ -29334,8 +29415,8 @@
      "source": "rutor.info",
      "size": "15.65 GB",
      "date": "2020-02-06T00:00:00+03:00",
-     "upload": 13,
-     "download": 1
+     "upload": 17,
+     "download": 2
     }
    ]
   },
@@ -29460,8 +29541,8 @@
      "source": "rutor.info",
      "size": "28.12 GB",
      "date": "2020-02-06T00:00:00+03:00",
-     "upload": 12,
-     "download": 1
+     "upload": 11,
+     "download": 2
     },
     {
      "name": "Братство (2019) BDRip 1080p | FRA Transfer | Лицензия",
@@ -29469,8 +29550,8 @@
      "source": "rutor.info",
      "size": "9.26 GB",
      "date": "2020-02-05T00:00:00+03:00",
-     "upload": 58,
-     "download": 6
+     "upload": 66,
+     "download": 7
     }
    ]
   },
@@ -29639,8 +29720,8 @@
      "source": "rutor.info",
      "size": "8.12 GB",
      "date": "2020-02-05T00:00:00+03:00",
-     "upload": 15,
-     "download": 1
+     "upload": 16,
+     "download": 2
     },
     {
      "name": "Жизнь на повторе / Un homme pressé (2018) BDRemux 1080p от селезень | iTunes",
@@ -29891,8 +29972,8 @@
      "source": "rutor.info",
      "size": "3.11 GB",
      "date": "2020-02-04T00:00:00+03:00",
-     "upload": 38,
-     "download": 0
+     "upload": 42,
+     "download": 3
     }
    ]
   },
@@ -30321,8 +30402,8 @@
      "source": "rutor.info",
      "size": "7.67 GB",
      "date": "2020-02-02T00:00:00+03:00",
-     "upload": 27,
-     "download": 3
+     "upload": 30,
+     "download": 2
     }
    ]
   },
@@ -30463,8 +30544,8 @@
      "source": "rutor.info",
      "size": "3.43 GB",
      "date": "2020-02-02T00:00:00+03:00",
-     "upload": 56,
-     "download": 1
+     "upload": 47,
+     "download": 2
     }
    ]
   },
@@ -30542,7 +30623,7 @@
    "title": "Гемини",
    "video": false,
    "vote_average": 6,
-   "vote_count": 1664,
+   "vote_count": 1665,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -30761,6 +30842,28 @@
       ]
      },
      {
+      "iso_3166_1": "BE",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "en",
+        "release_date": "2019-10-09T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "UA",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-10-10T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
       "iso_3166_1": "ES",
       "release_dates": [
        {
@@ -30850,61 +30953,6 @@
       ]
      },
      {
-      "iso_3166_1": "AR",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-10-10T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "NL",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-10-11T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "RU",
-      "release_dates": [
-       {
-        "certification": "12+",
-        "iso_639_1": "",
-        "release_date": "2019-10-10T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "UA",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-10-10T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "BE",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "en",
-        "release_date": "2019-10-09T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
       "iso_3166_1": "CH",
       "release_dates": [
        {
@@ -30972,6 +31020,39 @@
         "certification": "12세 이상 관람가",
         "iso_639_1": "",
         "release_date": "2019-10-09T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "AR",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-10-10T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "12",
+        "iso_639_1": "",
+        "release_date": "2019-10-11T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "RU",
+      "release_dates": [
+       {
+        "certification": "12+",
+        "iso_639_1": "",
+        "release_date": "2019-10-10T00:00:00Z",
         "type": 3
        }
       ]
@@ -31328,8 +31409,8 @@
      "source": "rutor.info",
      "size": "6.34 GB",
      "date": "2020-01-31T00:00:00+03:00",
-     "upload": 49,
-     "download": 3
+     "upload": 56,
+     "download": 5
     }
    ]
   },
@@ -31466,7 +31547,7 @@
    "title": "Терминатор: Тёмные судьбы",
    "video": false,
    "vote_average": 6.3,
-   "vote_count": 1868,
+   "vote_count": 1871,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -32514,7 +32595,7 @@
    "title": "Хорошие мальчики",
    "video": false,
    "vote_average": 6.6,
-   "vote_count": 720,
+   "vote_count": 722,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -32776,7 +32857,7 @@
      "source": "rutor.info",
      "size": "22.60 GB",
      "date": "2020-01-29T00:00:00+03:00",
-     "upload": 4,
+     "upload": 5,
      "download": 0
     },
     {
@@ -32785,8 +32866,8 @@
      "source": "rutor.info",
      "size": "10.24 GB",
      "date": "2020-01-29T00:00:00+03:00",
-     "upload": 29,
-     "download": 1
+     "upload": 30,
+     "download": 0
     }
    ]
   },
@@ -32867,7 +32948,7 @@
    "title": "Доктор Сон",
    "video": false,
    "vote_average": 7.1,
-   "vote_count": 1359,
+   "vote_count": 1361,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -33796,8 +33877,8 @@
      "source": "rutor.info",
      "size": "5.70 GB",
      "date": "2020-01-22T00:00:00+03:00",
-     "upload": 26,
-     "download": 1
+     "upload": 24,
+     "download": 2
     }
    ]
   },
@@ -33956,8 +34037,8 @@
      "source": "rutor.info",
      "size": "10.12 GB",
      "date": "2020-01-20T00:00:00+03:00",
-     "upload": 333,
-     "download": 23
+     "upload": 331,
+     "download": 25
     },
     {
      "name": "Дело Коллини / Der Fall Collini (2019) BDRemux 1080p от селезень | iTunes",
@@ -33965,8 +34046,8 @@
      "source": "rutor.info",
      "size": "27.56 GB",
      "date": "2020-01-19T00:00:00+03:00",
-     "upload": 32,
-     "download": 4
+     "upload": 31,
+     "download": 2
     }
    ]
   },
@@ -34365,8 +34446,8 @@
      "source": "rutor.info",
      "size": "12.42 GB",
      "date": "2020-01-19T00:00:00+03:00",
-     "upload": 16,
-     "download": 0
+     "upload": 19,
+     "download": 2
     }
    ]
   },
@@ -34531,8 +34612,8 @@
      "source": "rutor.info",
      "size": "14.23 GB",
      "date": "2020-01-18T00:00:00+03:00",
-     "upload": 5,
-     "download": 0
+     "upload": 4,
+     "download": 1
     }
    ]
   },
@@ -34998,7 +35079,7 @@
    "title": "Портрет девушки в огне",
    "video": false,
    "vote_average": 8.3,
-   "vote_count": 437,
+   "vote_count": 438,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -35394,8 +35475,8 @@
      "source": "rutor.info",
      "size": "11.98 GB",
      "date": "2020-02-21T00:00:00+03:00",
-     "upload": 58,
-     "download": 12
+     "upload": 53,
+     "download": 8
     },
     {
      "name": "Портрет девушки в огне / Portrait de la jeune fille en feu (2019) WEB-DL 1080p | iTunes",
@@ -35403,8 +35484,8 @@
      "source": "rutor.info",
      "size": "4.40 GB",
      "date": "2020-01-16T00:00:00+03:00",
-     "upload": 103,
-     "download": 6
+     "upload": 112,
+     "download": 9
     }
    ]
   },
@@ -35900,8 +35981,8 @@
      "source": "rutor.info",
      "size": "6.61 GB",
      "date": "2020-01-13T00:00:00+03:00",
-     "upload": 36,
-     "download": 4
+     "upload": 35,
+     "download": 2
     },
     {
      "name": "Корпоративные животные / Corporate Animals (2019) WEB-DL 1080p | iTunes",
@@ -35909,8 +35990,8 @@
      "source": "rutor.info",
      "size": "3.89 GB",
      "date": "2019-12-26T00:00:00+03:00",
-     "upload": 27,
-     "download": 5
+     "upload": 31,
+     "download": 4
     }
    ]
   },
@@ -36210,8 +36291,8 @@
      "source": "rutor.info",
      "size": "7.71 GB",
      "date": "2020-01-12T00:00:00+03:00",
-     "upload": 23,
-     "download": 4
+     "upload": 19,
+     "download": 5
     }
    ]
   },
@@ -36450,12 +36531,12 @@
    "runtime": 87,
    "spoken_languages": [
     {
-     "iso_639_1": "en",
-     "name": "English"
-    },
-    {
      "iso_639_1": "es",
      "name": "Español"
+    },
+    {
+     "iso_639_1": "en",
+     "name": "English"
     }
    ],
    "status": "Released",
@@ -36807,8 +36888,8 @@
      "source": "rutor.info",
      "size": "19.53 GB",
      "date": "2020-01-10T00:00:00+03:00",
-     "upload": 8,
-     "download": 5
+     "upload": 10,
+     "download": 2
     },
     {
      "name": "Окончательный счёт / Final Score (2018) BDRip 1080p от селезень | D, P | iTunes",
@@ -36816,8 +36897,8 @@
      "source": "rutor.info",
      "size": "9.56 GB",
      "date": "2020-01-10T00:00:00+03:00",
-     "upload": 21,
-     "download": 8
+     "upload": 25,
+     "download": 5
     },
     {
      "name": "Окончательный счёт / Final Score (2018) BDRip 1080p от селезень | HDRezka Studio",
@@ -36825,7 +36906,7 @@
      "source": "rutor.info",
      "size": "9.28 GB",
      "date": "2018-11-07T00:00:00+03:00",
-     "upload": 4,
+     "upload": 7,
      "download": 0
     },
     {
@@ -37003,8 +37084,8 @@
      "source": "rutor.info",
      "size": "7.88 GB",
      "date": "2020-01-09T00:00:00+03:00",
-     "upload": 26,
-     "download": 5
+     "upload": 31,
+     "download": 2
     },
     {
      "name": "Исцеляющая / Harmony (2018) BDRemux 1080p от селезень | iTunes",
@@ -37012,7 +37093,7 @@
      "source": "rutor.info",
      "size": "20.03 GB",
      "date": "2020-01-09T00:00:00+03:00",
-     "upload": 11,
+     "upload": 12,
      "download": 2
     }
    ]
@@ -37166,7 +37247,7 @@
    "title": "Окей, Лекси!",
    "video": false,
    "vote_average": 7,
-   "vote_count": 224,
+   "vote_count": 226,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -37483,8 +37564,8 @@
      "source": "rutor.info",
      "size": "5.00 GB",
      "date": "2020-01-08T00:00:00+03:00",
-     "upload": 79,
-     "download": 6
+     "upload": 74,
+     "download": 4
     }
    ]
   },
@@ -37657,8 +37738,8 @@
      "source": "rutor.info",
      "size": "9.00 GB",
      "date": "2020-01-07T00:00:00+03:00",
-     "upload": 143,
-     "download": 5
+     "upload": 159,
+     "download": 11
     }
    ]
   },
@@ -37888,7 +37969,7 @@
      "source": "rutor.info",
      "size": "14.58 GB",
      "date": "2020-01-05T00:00:00+03:00",
-     "upload": 9,
+     "upload": 8,
      "download": 0
     },
     {
@@ -38043,8 +38124,8 @@
      "source": "rutor.info",
      "size": "18.55 GB",
      "date": "2020-01-05T00:00:00+03:00",
-     "upload": 10,
-     "download": 3
+     "upload": 8,
+     "download": 2
     },
     {
      "name": "Рожденный после смерти / Strange But True (2019) BDRip 1080p | iTunes",
@@ -38052,7 +38133,7 @@
      "source": "rutor.info",
      "size": "7.32 GB",
      "date": "2020-01-04T00:00:00+03:00",
-     "upload": 129,
+     "upload": 123,
      "download": 6
     }
    ]
@@ -38423,8 +38504,8 @@
      "source": "rutor.info",
      "size": "4.28 GB",
      "date": "2020-01-02T00:00:00+03:00",
-     "upload": 67,
-     "download": 7
+     "upload": 80,
+     "download": 9
     }
    ]
   },
@@ -38761,8 +38842,8 @@
      "source": "rutor.info",
      "size": "7.90 GB",
      "date": "2020-01-02T00:00:00+03:00",
-     "upload": 126,
-     "download": 4
+     "upload": 137,
+     "download": 3
     },
     {
      "name": "Дождливый день в Нью-Йорке / A Rainy Day in New York (2019) BDRemux 1080p | iTunes",
@@ -38770,8 +38851,8 @@
      "source": "rutor.info",
      "size": "19.56 GB",
      "date": "2020-01-01T00:00:00+03:00",
-     "upload": 45,
-     "download": 9
+     "upload": 38,
+     "download": 7
     }
    ]
   },
@@ -38842,7 +38923,7 @@
    "title": "Малефисента: Владычица тьмы",
    "video": false,
    "vote_average": 7.3,
-   "vote_count": 2266,
+   "vote_count": 2270,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -39195,39 +39276,6 @@
       ]
      },
      {
-      "iso_3166_1": "AR",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-10-18T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "NL",
-      "release_dates": [
-       {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-10-16T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "RU",
-      "release_dates": [
-       {
-        "certification": "6+",
-        "iso_639_1": "",
-        "release_date": "2019-10-17T00:00:00Z",
-        "type": 3
-       }
-      ]
-     },
-     {
       "iso_3166_1": "AT",
       "release_dates": [
        {
@@ -39265,6 +39313,39 @@
       "release_dates": [
        {
         "certification": "11",
+        "iso_639_1": "",
+        "release_date": "2019-10-17T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "AR",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-10-18T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "12",
+        "iso_639_1": "",
+        "release_date": "2019-10-16T00:00:00Z",
+        "type": 3
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "RU",
+      "release_dates": [
+       {
+        "certification": "6+",
         "iso_639_1": "",
         "release_date": "2019-10-17T00:00:00Z",
         "type": 3
@@ -39882,8 +39963,8 @@
      "source": "rutor.info",
      "size": "3.51 GB",
      "date": "2020-01-02T00:00:00+03:00",
-     "upload": 73,
-     "download": 6
+     "upload": 86,
+     "download": 4
     }
    ]
   },
@@ -40213,7 +40294,7 @@
    "title": "Того",
    "video": false,
    "vote_average": 8.1,
-   "vote_count": 297,
+   "vote_count": 299,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -40627,8 +40708,8 @@
      "source": "rutor.info",
      "size": "10.80 GB",
      "date": "2019-12-31T00:00:00+03:00",
-     "upload": 5,
-     "download": 2
+     "upload": 7,
+     "download": 3
     }
    ]
   },
@@ -41454,8 +41535,8 @@
      "source": "rutor.info",
      "size": "29.80 GB",
      "date": "2020-02-15T00:00:00+03:00",
-     "upload": 13,
-     "download": 0
+     "upload": 17,
+     "download": 1
     },
     {
      "name": "Щегол / The Goldfinch (2019) BDRip 1080p от селезень | Лицензия",
@@ -41463,8 +41544,8 @@
      "source": "rutor.info",
      "size": "14.55 GB",
      "date": "2020-02-15T00:00:00+03:00",
-     "upload": 27,
-     "download": 3
+     "upload": 37,
+     "download": 4
     },
     {
      "name": "Щегол / The Goldfinch (2019) BDRip-HEVC 1080p | D | iTunes",
@@ -41472,8 +41553,8 @@
      "source": "rutor.info",
      "size": "5.42 GB",
      "date": "2019-12-31T00:00:00+03:00",
-     "upload": 63,
-     "download": 0
+     "upload": 62,
+     "download": 2
     }
    ]
   },
@@ -41579,7 +41660,7 @@
    "title": "Джокер",
    "video": false,
    "vote_average": 8.2,
-   "vote_count": 10547,
+   "vote_count": 10554,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -43198,8 +43279,8 @@
      "source": "rutor.info",
      "size": "8.22 GB",
      "date": "2019-12-27T00:00:00+03:00",
-     "upload": 51,
-     "download": 3
+     "upload": 61,
+     "download": 2
     },
     {
      "name": "Оно 2 / It Chapter Two (2019) UHD BDRemux 2160p от селезень | 4K | HDR | D, P | Лицензия",
@@ -43207,8 +43288,8 @@
      "source": "rutor.info",
      "size": "69.53 GB",
      "date": "2019-12-27T00:00:00+03:00",
-     "upload": 19,
-     "download": 5
+     "upload": 17,
+     "download": 6
     },
     {
      "name": "Оно 2 / It Chapter Two (2019) BDRemux 1080p от селезень | D, P | Лицензия",
@@ -43217,7 +43298,7 @@
      "size": "29.57 GB",
      "date": "2019-12-27T00:00:00+03:00",
      "upload": 12,
-     "download": 4
+     "download": 3
     },
     {
      "name": "Оно 2 / It Chapter Two (2019) BDRip 1080p от селезень | D, P | Лицензия",
@@ -43225,8 +43306,8 @@
      "source": "rutor.info",
      "size": "13.94 GB",
      "date": "2019-12-27T00:00:00+03:00",
-     "upload": 123,
-     "download": 17
+     "upload": 136,
+     "download": 20
     },
     {
      "name": "Оно 2 / It Chapter Two (2019) UHD BDRemux 2160p от селезень | 4K | HDR | Dolby Vision | D, P | iTunes",
@@ -43234,8 +43315,8 @@
      "source": "rutor.info",
      "size": "74.06 GB",
      "date": "2019-12-13T00:00:00+03:00",
-     "upload": 1,
-     "download": 1
+     "upload": 3,
+     "download": 0
     },
     {
      "name": "Оно 2 / It Chapter Two (2019) BDRip-HEVC 1080p от селезень | D, P | iTunes",
@@ -43243,8 +43324,8 @@
      "source": "rutor.info",
      "size": "8.85 GB",
      "date": "2019-12-01T00:00:00+03:00",
-     "upload": 44,
-     "download": 7
+     "upload": 38,
+     "download": 2
     },
     {
      "name": "Оно 2 / It Chapter Two (2019) UHD BDRemux 2160p от селезень | 4K | HDR | Dolby Vision TV | D, P | iTunes",
@@ -43252,8 +43333,8 @@
      "source": "rutor.info",
      "size": "63.98 GB",
      "date": "2019-12-01T00:00:00+03:00",
-     "upload": 7,
-     "download": 2
+     "upload": 8,
+     "download": 3
     }
    ]
   },
@@ -43676,7 +43757,7 @@
      "source": "rutor.info",
      "size": "13.58 GB",
      "date": "2019-12-24T00:00:00+03:00",
-     "upload": 8,
+     "upload": 5,
      "download": 0
     },
     {
@@ -43694,7 +43775,7 @@
      "source": "rutor.info",
      "size": "9.07 GB",
      "date": "2019-12-09T00:00:00+03:00",
-     "upload": 3,
+     "upload": 2,
      "download": 1
     }
    ]
@@ -44844,7 +44925,7 @@
    "title": "Два Папы",
    "video": false,
    "vote_average": 7.6,
-   "vote_count": 1349,
+   "vote_count": 1350,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -45737,7 +45818,7 @@
    "title": "Брачная история",
    "video": false,
    "vote_average": 7.9,
-   "vote_count": 2955,
+   "vote_count": 2958,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -45805,6 +45886,17 @@
         "iso_639_1": "",
         "release_date": "2019-12-06T00:00:00Z",
         "type": 4
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "NL",
+      "release_dates": [
+       {
+        "certification": "12",
+        "iso_639_1": "",
+        "release_date": "2019-11-27T00:00:00Z",
+        "type": 3
        }
       ]
      },
@@ -46105,7 +46197,7 @@
    "title": "Стриптизёрши",
    "video": false,
    "vote_average": 6.3,
-   "vote_count": 1224,
+   "vote_count": 1225,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -46449,8 +46541,8 @@
      "source": "rutor.info",
      "size": "5.92 GB",
      "date": "2019-12-13T00:00:00+03:00",
-     "upload": 150,
-     "download": 5
+     "upload": 145,
+     "download": 7
     },
     {
      "name": "Стриптизёрши / Hustlers (2019) UHD BDRemux 2160p от селезень | 4K | HDR | iTunes",
@@ -46458,8 +46550,8 @@
      "source": "rutor.info",
      "size": "55.25 GB",
      "date": "2019-11-30T00:00:00+03:00",
-     "upload": 23,
-     "download": 6
+     "upload": 21,
+     "download": 4
     },
     {
      "name": "Стриптизёрши / Hustlers (2019) BDRemux 1080p от селезень | iTunes",
@@ -46467,8 +46559,8 @@
      "source": "rutor.info",
      "size": "28.54 GB",
      "date": "2019-11-30T00:00:00+03:00",
-     "upload": 14,
-     "download": 3
+     "upload": 13,
+     "download": 4
     },
     {
      "name": "Стриптизёрши / Hustlers (2019) BDRip 1080p от селезень | iTunes",
@@ -46476,8 +46568,8 @@
      "source": "rutor.info",
      "size": "11.98 GB",
      "date": "2019-11-29T00:00:00+03:00",
-     "upload": 92,
-     "download": 7
+     "upload": 94,
+     "download": 11
     }
    ]
   },
@@ -47166,7 +47258,7 @@
    "title": "К звёздам",
    "video": false,
    "vote_average": 6,
-   "vote_count": 2738,
+   "vote_count": 2739,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -47956,7 +48048,7 @@
    "title": "Эверест",
    "video": false,
    "vote_average": 7.2,
-   "vote_count": 617,
+   "vote_count": 619,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -48481,7 +48573,7 @@
    "title": "Рэмбо: Последняя кровь",
    "video": false,
    "vote_average": 6.1,
-   "vote_count": 1417,
+   "vote_count": 1418,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -49065,7 +49157,7 @@
      "source": "rutor.info",
      "size": "3.07 GB",
      "date": "2019-12-02T00:00:00+03:00",
-     "upload": 11,
+     "upload": 14,
      "download": 0
     }
    ]
@@ -49400,7 +49492,7 @@
    "title": "Ирландец",
    "video": false,
    "vote_average": 7.8,
-   "vote_count": 3004,
+   "vote_count": 3006,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -50422,8 +50514,8 @@
      "source": "rutor.info",
      "size": "9.31 GB",
      "date": "2020-01-28T00:00:00+03:00",
-     "upload": 43,
-     "download": 4
+     "upload": 53,
+     "download": 6
     },
     {
      "name": "Падение ангела / Angel Has Fallen (2019) UHD BDRemux 2160p от селезень | 4K | HDR | Dolby Vision | iTunes",
@@ -50431,7 +50523,7 @@
      "source": "rutor.info",
      "size": "70.46 GB",
      "date": "2019-12-14T00:00:00+03:00",
-     "upload": 5,
+     "upload": 9,
      "download": 5
     },
     {
@@ -50441,7 +50533,7 @@
      "size": "11.14 GB",
      "date": "2019-11-18T00:00:00+03:00",
      "upload": 47,
-     "download": 4
+     "download": 3
     },
     {
      "name": "Падение ангела / Angel Has Fallen (2019) UHD BDRemux 2160p от селезень | 4K | HDR | Dolby Vision TV | iTunes",
@@ -50449,7 +50541,7 @@
      "source": "rutor.info",
      "size": "63.46 GB",
      "date": "2019-11-18T00:00:00+03:00",
-     "upload": 15,
+     "upload": 11,
      "download": 2
     },
     {
@@ -50458,8 +50550,8 @@
      "source": "rutor.info",
      "size": "18.74 GB",
      "date": "2019-11-17T00:00:00+03:00",
-     "upload": 17,
-     "download": 1
+     "upload": 22,
+     "download": 0
     },
     {
      "name": "Падение ангела / Angel Has Fallen (2019) BDRemux 1080p от селезень | iTunes",
@@ -50467,8 +50559,8 @@
      "source": "rutor.info",
      "size": "30.01 GB",
      "date": "2019-11-17T00:00:00+03:00",
-     "upload": 9,
-     "download": 1
+     "upload": 8,
+     "download": 2
     },
     {
      "name": "Падение ангела / Angel Has Fallen (2019) BDRip-HEVC 1080p от NNMClub | iTunes",
@@ -50476,8 +50568,8 @@
      "source": "rutor.info",
      "size": "8.81 GB",
      "date": "2019-11-16T00:00:00+03:00",
-     "upload": 174,
-     "download": 8
+     "upload": 170,
+     "download": 6
     },
     {
      "name": "Падение ангела / Angel Has Fallen (2019) UHD BDRemux 2160p от селезень | 4K | HDR | iTunes",
@@ -50485,8 +50577,8 @@
      "source": "rutor.info",
      "size": "59.83 GB",
      "date": "2019-11-15T00:00:00+03:00",
-     "upload": 18,
-     "download": 4
+     "upload": 16,
+     "download": 2
     },
     {
      "name": "Падение ангела / Angel Has Fallen (2019) BDRip 1080p от селезень | iTunes",
@@ -50494,8 +50586,8 @@
      "source": "rutor.info",
      "size": "16.84 GB",
      "date": "2019-11-15T00:00:00+03:00",
-     "upload": 143,
-     "download": 6
+     "upload": 147,
+     "download": 8
     }
    ]
   },
@@ -50822,7 +50914,7 @@
      "source": "rutor.info",
      "size": "7.73 GB",
      "date": "2019-11-13T00:00:00+03:00",
-     "upload": 29,
+     "upload": 31,
      "download": 3
     },
     {
@@ -50831,7 +50923,7 @@
      "source": "rutor.info",
      "size": "19.31 GB",
      "date": "2019-11-13T00:00:00+03:00",
-     "upload": 1,
+     "upload": 3,
      "download": 0
     }
    ]
@@ -51593,8 +51685,8 @@
      "source": "rutor.info",
      "size": "20.19 GB",
      "date": "2020-01-10T00:00:00+03:00",
-     "upload": 13,
-     "download": 1
+     "upload": 21,
+     "download": 2
     },
     {
      "name": "Кокаиновый барон / Running with the Devil (2019) BDRip 1080p от селезень | iTunes",
@@ -51602,8 +51694,8 @@
      "source": "rutor.info",
      "size": "11.11 GB",
      "date": "2020-01-10T00:00:00+03:00",
-     "upload": 76,
-     "download": 9
+     "upload": 72,
+     "download": 6
     },
     {
      "name": "Кокаиновый барон / Running with the Devil (2019) WEB-DL 1080p от селезень | Локализованная версия | iTunes",
@@ -51611,8 +51703,8 @@
      "source": "rutor.info",
      "size": "3.17 GB",
      "date": "2019-11-05T00:00:00+03:00",
-     "upload": 551,
-     "download": 5
+     "upload": 591,
+     "download": 4
     }
    ]
   },
@@ -51785,8 +51877,8 @@
      "source": "rutor.info",
      "size": "7.90 GB",
      "date": "2020-01-08T00:00:00+03:00",
-     "upload": 20,
-     "download": 1
+     "upload": 27,
+     "download": 3
     },
     {
      "name": "Красавчик со стажем / Just a Gigolo (2019) WEB-DL 1080p | D | iTunes",
@@ -51794,8 +51886,8 @@
      "source": "rutor.info",
      "size": "3.49 GB",
      "date": "2019-11-03T00:00:00+03:00",
-     "upload": 101,
-     "download": 4
+     "upload": 104,
+     "download": 3
     }
    ]
   },
@@ -51856,7 +51948,7 @@
    "title": "Синяя бездна 2",
    "video": false,
    "vote_average": 5,
-   "vote_count": 499,
+   "vote_count": 500,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -52084,7 +52176,7 @@
      "source": "rutor.info",
      "size": "7.90 GB",
      "date": "2019-11-04T00:00:00+03:00",
-     "upload": 38,
+     "upload": 36,
      "download": 5
     },
     {
@@ -52093,8 +52185,8 @@
      "source": "rutor.info",
      "size": "7.30 GB",
      "date": "2019-11-03T00:00:00+03:00",
-     "upload": 85,
-     "download": 6
+     "upload": 92,
+     "download": 9
     },
     {
      "name": "Синяя бездна 2 / 47 Meters Down: Uncaged (2019) BDRemux 1080p от селезень | iTunes",
@@ -52102,8 +52194,8 @@
      "source": "rutor.info",
      "size": "18.00 GB",
      "date": "2019-11-03T00:00:00+03:00",
-     "upload": 9,
-     "download": 3
+     "upload": 13,
+     "download": 4
     }
    ]
   },
@@ -52773,7 +52865,7 @@
    "title": "Doom: Аннигиляция",
    "video": false,
    "vote_average": 4.3,
-   "vote_count": 128,
+   "vote_count": 130,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -52979,8 +53071,8 @@
      "source": "rutor.info",
      "size": "3.39 GB",
      "date": "2019-10-17T00:00:00+03:00",
-     "upload": 80,
-     "download": 3
+     "upload": 65,
+     "download": 2
     }
    ]
   },
@@ -53144,6 +53236,28 @@
       ]
      },
      {
+      "iso_3166_1": "AR",
+      "release_dates": [
+       {
+        "certification": "16+",
+        "iso_639_1": "",
+        "release_date": "2019-10-11T00:00:00Z",
+        "type": 4
+       }
+      ]
+     },
+     {
+      "iso_3166_1": "FI",
+      "release_dates": [
+       {
+        "certification": "",
+        "iso_639_1": "",
+        "release_date": "2019-10-11T00:00:00Z",
+        "type": 4
+       }
+      ]
+     },
+     {
       "iso_3166_1": "KR",
       "release_dates": [
        {
@@ -53166,21 +53280,10 @@
       ]
      },
      {
-      "iso_3166_1": "FI",
+      "iso_3166_1": "NL",
       "release_dates": [
        {
-        "certification": "",
-        "iso_639_1": "",
-        "release_date": "2019-10-11T00:00:00Z",
-        "type": 4
-       }
-      ]
-     },
-     {
-      "iso_3166_1": "AR",
-      "release_dates": [
-       {
-        "certification": "16+",
+        "certification": "16",
         "iso_639_1": "",
         "release_date": "2019-10-11T00:00:00Z",
         "type": 4
@@ -53354,8 +53457,8 @@
      "source": "rutor.info",
      "size": "3.38 GB",
      "date": "2019-10-12T00:00:00+03:00",
-     "upload": 160,
-     "download": 12
+     "upload": 163,
+     "download": 16
     }
    ]
   },
@@ -53425,7 +53528,7 @@
    "title": "Перелом",
    "video": false,
    "vote_average": 6.6,
-   "vote_count": 897,
+   "vote_count": 899,
    "created_by": null,
    "episode_run_time": null,
    "first_air_date": "",
@@ -53694,7 +53797,7 @@
      "source": "rutor.info",
      "size": "2.94 GB",
      "date": "2019-10-10T00:00:00+03:00",
-     "upload": 90,
+     "upload": 82,
      "download": 13
     }
    ]
@@ -53936,7 +54039,7 @@
      "source": "rutor.info",
      "size": "23.41 GB",
      "date": "2019-10-09T00:00:00+03:00",
-     "upload": 3,
+     "upload": 4,
      "download": 0
     },
     {
@@ -53945,8 +54048,8 @@
      "source": "rutor.info",
      "size": "8.19 GB",
      "date": "2019-10-09T00:00:00+03:00",
-     "upload": 21,
-     "download": 2
+     "upload": 28,
+     "download": 4
     }
    ]
   },
@@ -54052,8 +54155,8 @@
      "source": "rutor.info",
      "size": "3.58 GB",
      "date": "2019-09-19T00:00:00+03:00",
-     "upload": 32,
-     "download": 2
+     "upload": 31,
+     "download": 3
     }
    ]
   },
@@ -54232,8 +54335,8 @@
      "source": "rutor.info",
      "size": "16.20 GB",
      "date": "2020-03-24T00:00:00+03:00",
-     "upload": 8,
-     "download": 0
+     "upload": 9,
+     "download": 1
     },
     {
      "name": "Куриоса / Curiosa (2019) BDRip 1080p | iTunes",
@@ -54241,8 +54344,8 @@
      "source": "rutor.info",
      "size": "8.22 GB",
      "date": "2020-02-29T00:00:00+03:00",
-     "upload": 92,
-     "download": 12
+     "upload": 97,
+     "download": 15
     },
     {
      "name": "Куриоса / Curiosa (2019) WEB-DL 1080p | iTunes",
@@ -54250,8 +54353,8 @@
      "source": "rutor.info",
      "size": "3.86 GB",
      "date": "2019-08-21T00:00:00+03:00",
-     "upload": 124,
-     "download": 5
+     "upload": 131,
+     "download": 4
     }
    ]
   },
@@ -54392,8 +54495,8 @@
      "source": "rutor.info",
      "size": "4.70 GB",
      "date": "2020-03-13T00:00:00+03:00",
-     "upload": 32,
-     "download": 2
+     "upload": 28,
+     "download": 4
     },
     {
      "name": "Игра престолов: Последний дозор / Game of Thrones: The Last Watch (2019) WEB-DL 1080p | P",
@@ -54401,8 +54504,8 @@
      "source": "rutor.info",
      "size": "8.09 GB",
      "date": "2019-05-28T00:00:00+03:00",
-     "upload": 50,
-     "download": 0
+     "upload": 45,
+     "download": 1
     }
    ]
   },
@@ -54586,8 +54689,8 @@
      "source": "rutor.info",
      "size": "7.45 GB",
      "date": "2020-03-29T00:00:00+03:00",
-     "upload": 156,
-     "download": 65
+     "upload": 186,
+     "download": 63
     },
     {
      "name": "Папа, сдохни (2018) BDRemux 1080p | GER Transfer | Лицензия",
@@ -54595,8 +54698,8 @@
      "source": "rutor.info",
      "size": "10.32 GB",
      "date": "2020-03-28T00:00:00+03:00",
-     "upload": 117,
-     "download": 23
+     "upload": 110,
+     "download": 24
     },
     {
      "name": "Папа, сдохни (2018) WEB-DL 1080p | iTunes",
@@ -54604,8 +54707,8 @@
      "source": "rutor.info",
      "size": "3.24 GB",
      "date": "2019-04-26T00:00:00+03:00",
-     "upload": 204,
-     "download": 11
+     "upload": 202,
+     "download": 5
     }
    ]
   },
