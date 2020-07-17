@@ -1,6 +1,6 @@
 {
  "Date": "2020-07-17",
- "Time": "18:14:41",
+ "Time": "20:14:52",
  "Items": [
   {
    "adult": false,
@@ -3193,7 +3193,7 @@
    "title": "Сотня",
    "video": false,
    "vote_average": 7.6,
-   "vote_count": 3490,
+   "vote_count": 3491,
    "created_by": [
     {
      "id": 1258670,
@@ -4079,7 +4079,7 @@
    "title": "Старгёрл",
    "video": false,
    "vote_average": 7.9,
-   "vote_count": 434,
+   "vote_count": 435,
    "created_by": [
     {
      "id": 211962,
@@ -4286,7 +4286,7 @@
    "title": "Тьма",
    "video": false,
    "vote_average": 8.5,
-   "vote_count": 2656,
+   "vote_count": 2658,
    "created_by": [
     {
      "id": 232959,
@@ -7725,7 +7725,7 @@
    "title": "Монахиня-воин",
    "video": false,
    "vote_average": 8.1,
-   "vote_count": 210,
+   "vote_count": 211,
    "created_by": [
     {
      "id": 69211,
@@ -11490,7 +11490,7 @@
    "title": "Тайный орден",
    "video": false,
    "vote_average": 8,
-   "vote_count": 356,
+   "vote_count": 357,
    "created_by": [
     {
      "id": 64762,
@@ -12688,7 +12688,7 @@
    "title": "Банды Лондона",
    "video": false,
    "vote_average": 8.8,
-   "vote_count": 36,
+   "vote_count": 37,
    "created_by": [
     {
      "id": 142013,
@@ -14230,6 +14230,234 @@
      "date": "2017-04-01T00:00:00+03:00",
      "upload": 1,
      "download": 0
+    }
+   ]
+  },
+  {
+   "adult": false,
+   "backdrop_path": "https://image.tmdb.org/t/p/w780/qlL1M4wGWjFTm5IdX3Vb581tOPY.jpg",
+   "belongs_to_collection": null,
+   "budget": 0,
+   "genre_ids": null,
+   "genres": [
+    {
+     "id": 18,
+     "name": "драма"
+    }
+   ],
+   "homepage": "https://www.netflix.com/title/80094728",
+   "id": 66023,
+   "imdb_id": "",
+   "original_language": "en",
+   "original_title": "Marcella",
+   "overview": "Ранее Марселла успешно занималась расследованием преступлений в особом отделении полиции, но теперь всецело поглощена собственным бракоразводным процессом, который доводит ее до сумасшествия. Женщина чувствует себя опустошенной внутри. Ее организм истощен постоянными конфликтами с бывшим супругом. К тому же совсем скоро ей предстоит прощание с дочерью, которая отправляется на учебу в школу-интернат. Главная героиня с трудом возвращается к привычной жизни. Ей доверяют расследование серии взаимосвязанных убийств. Немного поработав над делом, женщина понимает, что это события как-то связанными с делами прошлых лет, которые она так и не смогла расследовать до конца.",
+   "popularity": 12.641,
+   "poster_path": "https://image.tmdb.org/t/p/w500/yyEjwLzlfso0V5qwAwcQRbuE31R.jpg",
+   "production_companies": [
+    {
+     "id": 67602,
+     "logo_path": "",
+     "name": "Buccaneer Media",
+     "origin_country": ""
+    }
+   ],
+   "production_countries": null,
+   "release_date": "",
+   "revenue": 0,
+   "runtime": 0,
+   "spoken_languages": null,
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Марчелла",
+   "video": false,
+   "vote_average": 7.2,
+   "vote_count": 81,
+   "created_by": [
+    {
+     "id": 1256484,
+     "credit_id": "56f3ff3c9251411a94002a88",
+     "name": "Hans Rosenfeldt",
+     "gender": 2,
+     "profile_path": "https://image.tmdb.org/t/p/h632/iukYdvbOhae1twOXB7lYcp84M12.jpg"
+    }
+   ],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "04.04.2016",
+   "in_production": true,
+   "languages": [
+    "en"
+   ],
+   "last_air_date": "14.06.2020",
+   "name": "Марчелла",
+   "networks": [
+    {
+     "name": "ITV",
+     "id": 9,
+     "logo_path": "https://image.tmdb.org/t/p/w185/5Rmw4ViYcjW14PCdOyjsue9eK99.png",
+     "origin_country": "GB"
+    },
+    {
+     "name": "Netflix",
+     "id": 213,
+     "logo_path": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+     "origin_country": ""
+    }
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "GB"
+   ],
+   "original_name": "Marcella",
+   "seasons": [
+    {
+     "air_date": "04.04.2016",
+     "episode_count": 8,
+     "id": 75652,
+     "name": "Сезон 1",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/gNTCkoF3U9IRzw21VRr8MnP8cLj.jpg",
+     "season_number": 1
+    },
+    {
+     "air_date": "19.02.2018",
+     "episode_count": 8,
+     "id": 99594,
+     "name": "Сезон 2",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/rVabcWOhvJGEOesweLJfoZ5LxSv.jpg",
+     "season_number": 2
+    },
+    {
+     "air_date": "14.06.2020",
+     "episode_count": 8,
+     "id": 152436,
+     "name": "Сезон 3",
+     "overview": "",
+     "poster_path": "",
+     "season_number": 3
+    }
+   ],
+   "type": "Scripted",
+   "year": "2016",
+   "character": "",
+   "media_type": "tv",
+   "credit_id": "",
+   "videos": {
+    "id": 66023,
+    "results": []
+   },
+   "release_dates": null,
+   "torrent": [
+    {
+     "name": "Марчелла / Marcella [S03] (2020) WEB-DLRip | IdeaFilm",
+     "magnet": "magnet:?xt=urn:btih:5d0d85bd504510500a80620598a15749cc2a5c82\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.87 GB",
+     "date": "2020-06-14T00:00:00+03:00",
+     "upload": 9,
+     "download": 1
+    },
+    {
+     "name": "Марчелла / Marcella [S03] (2020) WEB-DLRip 720p | IdeaFilm",
+     "magnet": "magnet:?xt=urn:btih:cad566fc3d034202dc3f556932ae20e06ab61a21\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "8.93 GB",
+     "date": "2020-06-14T00:00:00+03:00",
+     "upload": 7,
+     "download": 0
+    },
+    {
+     "name": "Марчелла / Marcella [S03] (2020) WEB-DLRip 1080p | IdeaFilm",
+     "magnet": "magnet:?xt=urn:btih:7dab3dc8b42cb15f833ca28ebcfae761ee776d77\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "17.73 GB",
+     "date": "2020-06-14T00:00:00+03:00",
+     "upload": 6,
+     "download": 2
+    },
+    {
+     "name": "Марчелла / Marcella [S02] (2017) WEBRip 1080p | Jaskier",
+     "magnet": "magnet:?xt=urn:btih:b469cd724db63a91819db6e52f10f3304ba63e1f\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "16.92 GB",
+     "date": "2018-04-20T00:00:00+03:00",
+     "upload": 0,
+     "download": 0
+    },
+    {
+     "name": "Марчелла / Marcella [S02] (2017) WEBRip | Jaskier",
+     "magnet": "magnet:?xt=urn:btih:4b6ecbf4770e9325e39173f375fbcffe73608add\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.58 GB",
+     "date": "2018-04-20T00:00:00+03:00",
+     "upload": 8,
+     "download": 3
+    },
+    {
+     "name": "Марчелла / Marcella [S02] (2017) WEBRip 720p | Jaskier",
+     "magnet": "magnet:?xt=urn:btih:36d694d366e9466b581b8296e407d2af9ad3e604\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "9.84 GB",
+     "date": "2018-04-20T00:00:00+03:00",
+     "upload": 3,
+     "download": 2
+    },
+    {
+     "name": "Марчелла / Marcella [S02] (2018) HDTVRip  720p | ColdFilm",
+     "magnet": "magnet:?xt=urn:btih:73fe64f03f547becd855b735ec03db878ef78c24\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "9.68 GB",
+     "date": "2018-04-10T00:00:00+03:00",
+     "upload": 0,
+     "download": 1
+    },
+    {
+     "name": "Марчелла / Marcella [S02] (2018) HDTVRip | ColdFilm",
+     "magnet": "magnet:?xt=urn:btih:b454e449500f282f56cbfa746f4ba4a0fc356585\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "3.73 GB",
+     "date": "2018-04-10T00:00:00+03:00",
+     "upload": 0,
+     "download": 1
+    },
+    {
+     "name": "Марчелла / Marcella [S01] (2016) HDTVRip | Sunshine Studio",
+     "magnet": "magnet:?xt=urn:btih:992e16be108d339ecbb32c75412767adfb79e532\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "3.50 GB",
+     "date": "2016-05-26T00:00:00+03:00",
+     "upload": 2,
+     "download": 0
+    },
+    {
+     "name": "Марчелла / Marcella [S01] (2016) HDTV 720р | Sunshine Studio",
+     "magnet": "magnet:?xt=urn:btih:c7e367702e8d6c980c60cc6aa305f0c71e9b011c\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "9.69 GB",
+     "date": "2016-05-26T00:00:00+03:00",
+     "upload": 1,
+     "download": 0
+    },
+    {
+     "name": "Марчелла / Marcella [S01] (2016) HDTVRip | Jaskier",
+     "magnet": "magnet:?xt=urn:btih:de8004453c631744b9f4dfb7aa009bef2e5b584e\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.32 GB",
+     "date": "2016-05-26T00:00:00+03:00",
+     "upload": 12,
+     "download": 2
+    },
+    {
+     "name": "Марчелла / Marcella [S01] (2016) HDTVRip 720p | Jaskier",
+     "magnet": "magnet:?xt=urn:btih:2af59e0a6042e6e4de4765b635b1a0dff009f422\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "7.11 GB",
+     "date": "2016-05-21T00:00:00+03:00",
+     "upload": 3,
+     "download": 2
     }
    ]
   },
@@ -16895,7 +17123,7 @@
    "title": "Губка Боб Квадратные Штаны",
    "video": false,
    "vote_average": 7.5,
-   "vote_count": 957,
+   "vote_count": 958,
    "created_by": [
     {
      "id": 70651,
@@ -19553,6 +19781,1180 @@
      "date": "2020-05-23T00:00:00+03:00",
      "upload": 8,
      "download": 16
+    }
+   ]
+  },
+  {
+   "adult": false,
+   "backdrop_path": "https://image.tmdb.org/t/p/w780/adZ9ldSlkGfLfsHNbh37ZThCcgU.jpg",
+   "belongs_to_collection": null,
+   "budget": 0,
+   "genre_ids": null,
+   "genres": [
+    {
+     "id": 16,
+     "name": "мультфильм"
+    },
+    {
+     "id": 35,
+     "name": "комедия"
+    }
+   ],
+   "homepage": "http://www.thesimpsons.com/",
+   "id": 456,
+   "imdb_id": "",
+   "original_language": "en",
+   "original_title": "The Simpsons",
+   "overview": "Мультфильм — пародия на американский уклад жизни. Cемейство Симпсонов состоит из пяти членов: папаша Гомер, мать семейства Мардж, их дочери Лиза и Мэгги и несносный подросток Барт.",
+   "popularity": 113.255,
+   "poster_path": "https://image.tmdb.org/t/p/w500/171yRAHGCziNjtO53sEil1PH64v.jpg",
+   "production_companies": [
+    {
+     "id": 29500,
+     "logo_path": "https://image.tmdb.org/t/p/w185/a3ltwX7b1opYeG7MxaxxswDmkeg.png",
+     "name": "The Curiosity Company",
+     "origin_country": "US"
+    },
+    {
+     "id": 18,
+     "logo_path": "https://image.tmdb.org/t/p/w185/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
+     "name": "Gracie Films",
+     "origin_country": "US"
+    },
+    {
+     "id": 1556,
+     "logo_path": "https://image.tmdb.org/t/p/w185/31h94rG9hzjprXoYNy3L1ErUya2.png",
+     "name": "20th Century Fox Television",
+     "origin_country": "US"
+    }
+   ],
+   "production_countries": null,
+   "release_date": "",
+   "revenue": 0,
+   "runtime": 0,
+   "spoken_languages": null,
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Симпсоны",
+   "video": false,
+   "vote_average": 7.5,
+   "vote_count": 3962,
+   "created_by": [
+    {
+     "id": 5741,
+     "credit_id": "5256bdc619c2956ff6001be4",
+     "name": "Matt Groening",
+     "gender": 2,
+     "profile_path": "https://image.tmdb.org/t/p/h632/2HmAw3AN93DGESPi3ibLZgBa8cT.jpg"
+    }
+   ],
+   "episode_run_time": [
+    22
+   ],
+   "first_air_date": "17.12.1989",
+   "in_production": true,
+   "languages": [
+    "en"
+   ],
+   "last_air_date": "17.05.2020",
+   "name": "Симпсоны",
+   "networks": [
+    {
+     "name": "FOX",
+     "id": 19,
+     "logo_path": "https://image.tmdb.org/t/p/w185/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+     "origin_country": "US"
+    }
+   ],
+   "number_of_episodes": 685,
+   "number_of_seasons": 32,
+   "origin_country": [
+    "US"
+   ],
+   "original_name": "The Simpsons",
+   "seasons": [
+    {
+     "air_date": "19.04.1987",
+     "episode_count": 63,
+     "id": 3581,
+     "name": "Спецматериалы",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/lzN0CllVFXtGtSl15r59Kb52DdT.jpg",
+     "season_number": 0
+    },
+    {
+     "air_date": "17.12.1989",
+     "episode_count": 13,
+     "id": 3582,
+     "name": "Сезон 1",
+     "overview": "Первый сезон был показан в период с декабря 1989 г. по май 1990 г. Контролировали создание сезона Мэтт Грейнинг, Джеймс Брукс и Сэм Саймон. Сезон был выпущен на DVD 25 сентября 2001 г. Это единственный сезон без Хэллоуинских эпизодов.\n\nПервоначально первой серией этого сезона должна была стать «Один из чудных вечеров», которая должна была познакомить зрителей с главными героями, Однако, после первого просмотра эпизода, продюсеры обнаружили, что анимация была настолько плохой, что 70 % всей серии надо заново переделывать. Они решили отодвинуть премьеру, если следующая серия окажется так же анимирована, как и первая, однако это оказалось не так. В итоге, продюсеры уговорили канал FOX отодвинуть премьеру сериала до 17 декабря и выпустили эпизод «Симпсоны готовят на открытом огне» первым.\n\nПервый сезон выиграл 1 премию Эмми и номинировался на 4 премии. Хотя различные телепрограммы ограничивались одним эпизодом в категории «Симпсоны готовят на открытом огне» считается специальным эпизодом и номинировался помимо остальных эпизодов сезона. Этот эпизод выиграл премию «Life of Fast Lane» в номинации Выдающиеся анимационные сериалы. Также эпизод был номинирован на премию «Выдающееся редактирование специальных серий или короткометражек», а эпизод «Зов Симпсонов» был номинирован на премию «Выдающиеся личные достижения в создании музыки для специальных или комедийных серий». Основная музыкальная тема сериала была сочинена Дэниелом Эльфманом была номинирована на премию «Выдающиеся достижения в главной музыкальной теме».\n\nDVD диск был выпущен 25 сентября 2001 в США и Канаде и 24 сентября 2001 в Южной Америке, Европе, ЮАР, Японии, Австралии и на Ближнем Востоке",
+     "poster_path": "https://image.tmdb.org/t/p/w500/u3U4aGwSTpvbULPHTsm7XhadynO.jpg",
+     "season_number": 1
+    },
+    {
+     "air_date": "11.10.1990",
+     "episode_count": 22,
+     "id": 3583,
+     "name": "Сезон 2",
+     "overview": "Второй сезон был показан на телеканале Fox в период с 11 октября 1990 по 9 мая 1991 года и содержит 22 эпизода. Начался сезон эпизодом «Барт получает двойку». Ещё одна серия «Кровавая месть» была показана летом, после официального окончания сезона. Контролировали создание сезона Мэтт Грейнинг, Джеймс Брукс и Сэм Саймон.",
+     "poster_path": "https://image.tmdb.org/t/p/w500/78320WYaATUuEESTvO4x0mBdndA.jpg",
+     "season_number": 2
+    },
+    {
+     "air_date": "18.09.1991",
+     "episode_count": 24,
+     "id": 3584,
+     "name": "Сезон 3",
+     "overview": "Третий сезон был показан на телеканале Fox в период с 19 сентября 1991 по 27 августа 1992 года.",
+     "poster_path": "https://image.tmdb.org/t/p/w500/sEmfyUy9mts03y6KoI782gi2fVd.jpg",
+     "season_number": 3
+    },
+    {
+     "air_date": "23.09.1992",
+     "episode_count": 22,
+     "id": 3585,
+     "name": "Сезон 4",
+     "overview": "Четвёртый сезон был показан на телеканале FOX в период с 24 сентября 1992 по 13 мая 1993 года и содержит 22 эпизода. Сезон начался с серии «Лагерь Красти» и закончился серией «Сокращение Красти».",
+     "poster_path": "https://image.tmdb.org/t/p/w500/eraNNGEdCn29cTyzjwfBgBdTetF.jpg",
+     "season_number": 4
+    },
+    {
+     "air_date": "29.09.1993",
+     "episode_count": 22,
+     "id": 3586,
+     "name": "Сезон 5",
+     "overview": "Пятый сезон был показан на телеканале Fox в период с 30 сентября 1993 по 19 мая 1994 года и состоит из 22 эпизодов. Сезон начался серией «Квартет Гомера» и завершился серией «Секреты успешного брака».",
+     "poster_path": "https://image.tmdb.org/t/p/w500/sTIcXTOctWM3YxEfj1MtViW2E11.jpg",
+     "season_number": 5
+    },
+    {
+     "air_date": "04.09.1994",
+     "episode_count": 25,
+     "id": 3587,
+     "name": "Сезон 6",
+     "overview": "Шестой сезон был показан на телеканале Fox в период с 4 сентября 1994 по 21 мая 1995 года и содержит 25 эпизодов. Сезон начался серией «Барт тьмы» и завершился серией «Кто стрелял в Мистера Бернса? Часть 1».",
+     "poster_path": "https://image.tmdb.org/t/p/w500/dJS8Xpp14LHHxuF22Vcm5XDm1wE.jpg",
+     "season_number": 6
+    },
+    {
+     "air_date": "17.09.1995",
+     "episode_count": 25,
+     "id": 3588,
+     "name": "Сезон 7",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/wzCXbdklRedEihsCVASmeDs49ml.jpg",
+     "season_number": 7
+    },
+    {
+     "air_date": "27.10.1996",
+     "episode_count": 25,
+     "id": 3589,
+     "name": "Сезон 8",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/fOygI0yr07mjlqqVNvWLI1tYXoW.jpg",
+     "season_number": 8
+    },
+    {
+     "air_date": "21.09.1997",
+     "episode_count": 25,
+     "id": 3590,
+     "name": "Сезон 9",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/cjZ0HnuMVi8SOTA0L2JnHbFZKms.jpg",
+     "season_number": 9
+    },
+    {
+     "air_date": "23.08.1998",
+     "episode_count": 23,
+     "id": 3591,
+     "name": "Сезон 10",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/t4wiOGBgoSRgofYxQvRL5WZe6Aj.jpg",
+     "season_number": 10
+    },
+    {
+     "air_date": "26.09.1999",
+     "episode_count": 22,
+     "id": 3592,
+     "name": "Сезон 11",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/4Rq5t85B4bt8TYvmhCVhDmk7qMN.jpg",
+     "season_number": 11
+    },
+    {
+     "air_date": "01.11.2000",
+     "episode_count": 21,
+     "id": 3593,
+     "name": "Сезон 12",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/oHBBoAlXX32ROwWCQ0SJrzORCAE.jpg",
+     "season_number": 12
+    },
+    {
+     "air_date": "06.11.2001",
+     "episode_count": 22,
+     "id": 3594,
+     "name": "Сезон 13",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/wQTdRc2sWgAKFHS1BTHdIzVRmwU.jpg",
+     "season_number": 13
+    },
+    {
+     "air_date": "03.11.2002",
+     "episode_count": 22,
+     "id": 3595,
+     "name": "Сезон 14",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/mgGrn5FiofW2bqpJC9PPcwEc84p.jpg",
+     "season_number": 14
+    },
+    {
+     "air_date": "02.11.2003",
+     "episode_count": 22,
+     "id": 3596,
+     "name": "Сезон 15",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/gSgRvuqI4cWOLONTBl6qW2y2Cih.jpg",
+     "season_number": 15
+    },
+    {
+     "air_date": "07.11.2004",
+     "episode_count": 21,
+     "id": 3597,
+     "name": "Сезон 16",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/rdsBcs6VPJHnQgeLg8YinKyvnjO.jpg",
+     "season_number": 16
+    },
+    {
+     "air_date": "11.09.2005",
+     "episode_count": 22,
+     "id": 3598,
+     "name": "Сезон 17",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/vfcmgPqoFmb0hOe6V0DI5qf3y83.jpg",
+     "season_number": 17
+    },
+    {
+     "air_date": "10.09.2006",
+     "episode_count": 22,
+     "id": 3599,
+     "name": "Сезон 18",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/sFG5v9zFZL0RKb1lStwwvgIc76a.jpg",
+     "season_number": 18
+    },
+    {
+     "air_date": "23.09.2007",
+     "episode_count": 20,
+     "id": 3600,
+     "name": "Сезон 19",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/8SkD4jvPIPkugszVeWoAa0gLxW.jpg",
+     "season_number": 19
+    },
+    {
+     "air_date": "28.09.2008",
+     "episode_count": 21,
+     "id": 3601,
+     "name": "Сезон 20",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/eAdllHJ9ZSN7vMjwzIbcVqMSV6t.jpg",
+     "season_number": 20
+    },
+    {
+     "air_date": "27.09.2009",
+     "episode_count": 23,
+     "id": 3602,
+     "name": "Сезон 21",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/vT5OgXM5rMKzzF4rrSjFxI3USCg.jpg",
+     "season_number": 21
+    },
+    {
+     "air_date": "26.09.2010",
+     "episode_count": 22,
+     "id": 3603,
+     "name": "Сезон 22",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/dfYWKwINJ5DaJHxdkHtaVJQfBZI.jpg",
+     "season_number": 22
+    },
+    {
+     "air_date": "25.09.2011",
+     "episode_count": 22,
+     "id": 3604,
+     "name": "Сезон 23",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/leehbIbn1loBlEndV7WibzyRtuV.jpg",
+     "season_number": 23
+    },
+    {
+     "air_date": "30.09.2012",
+     "episode_count": 22,
+     "id": 3605,
+     "name": "Сезон 24",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/axPkSiHeVa9NO3tZktvrFDIQAQC.jpg",
+     "season_number": 24
+    },
+    {
+     "air_date": "29.09.2013",
+     "episode_count": 22,
+     "id": 3606,
+     "name": "Сезон 25",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/fJ9uH8sRykLxC2a5RUPmcP2JFEo.jpg",
+     "season_number": 25
+    },
+    {
+     "air_date": "28.09.2014",
+     "episode_count": 22,
+     "id": 62103,
+     "name": "Сезон 26",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/nvEHDDK3dkOKwawXiUp9YIJkVZb.jpg",
+     "season_number": 26
+    },
+    {
+     "air_date": "27.09.2015",
+     "episode_count": 22,
+     "id": 68067,
+     "name": "Сезон 27",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/nA66JicHMj2BecHggMSvGkeEbN5.jpg",
+     "season_number": 27
+    },
+    {
+     "air_date": "25.09.2016",
+     "episode_count": 22,
+     "id": 80361,
+     "name": "Сезон 28",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/h65SjhdaQ100fXb1JA4EbIsLwgL.jpg",
+     "season_number": 28
+    },
+    {
+     "air_date": "01.10.2017",
+     "episode_count": 21,
+     "id": 91255,
+     "name": "Сезон 29",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/s1iNPNxaqdv7a9LoRWJ4Xrrb501.jpg",
+     "season_number": 29
+    },
+    {
+     "air_date": "30.09.2018",
+     "episode_count": 23,
+     "id": 110088,
+     "name": "Сезон 30",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/sj24nG5NSTiz8kR7YstmTR3h1AQ.jpg",
+     "season_number": 30
+    },
+    {
+     "air_date": "29.09.2019",
+     "episode_count": 22,
+     "id": 131143,
+     "name": "Сезон 31",
+     "overview": "",
+     "poster_path": "https://image.tmdb.org/t/p/w500/tAqaCYauV6TGaU4Q9ALipgFl20V.jpg",
+     "season_number": 31
+    },
+    {
+     "air_date": "27.09.2020",
+     "episode_count": 1,
+     "id": 156684,
+     "name": "Сезон 32",
+     "overview": "",
+     "poster_path": "",
+     "season_number": 32
+    }
+   ],
+   "type": "Scripted",
+   "year": "1989",
+   "character": "",
+   "media_type": "tv",
+   "credit_id": "",
+   "videos": {
+    "id": 456,
+    "results": []
+   },
+   "release_dates": null,
+   "torrent": [
+    {
+     "name": "Симпсоны / The Simpsons [S31] (2019) WEBRip 1080p | OMSKBIRD",
+     "magnet": "magnet:?xt=urn:btih:9693c60ea6ec3579167287d579de88a39a726532\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "10.72 GB",
+     "date": "2020-05-19T00:00:00+03:00",
+     "upload": 17,
+     "download": 9
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S31] (2019) WEBRip 720p | OMSKBIRD",
+     "magnet": "magnet:?xt=urn:btih:df5f284f6a89069c6ca73f069e3add258abd41a3\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "10.62 GB",
+     "date": "2020-05-19T00:00:00+03:00",
+     "upload": 10,
+     "download": 11
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S31] (2019) WEBRip | OMSKBIRD",
+     "magnet": "magnet:?xt=urn:btih:83b15c7ca5dcb6826c64398552c17bbb89221f15\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "5.89 GB",
+     "date": "2020-05-19T00:00:00+03:00",
+     "upload": 31,
+     "download": 13
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S31] (2019) WEBRip 720p от Kerob | L2",
+     "magnet": "magnet:?xt=urn:btih:ced92157941442dfa5fbdc5e620f3aab752c38f3\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "14.66 GB",
+     "date": "2020-05-18T00:00:00+03:00",
+     "upload": 5,
+     "download": 3
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S18] (2006-2007) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:24f44ac1b6c113aac83adf32e12b4b9f36837494\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "6.41 GB",
+     "date": "2020-04-12T00:00:00+03:00",
+     "upload": 10,
+     "download": 5
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S03] (1991-1992) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:3b391e910a2602fc807a3fd25ed0ad26759d5a79\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "8.11 GB",
+     "date": "2020-04-07T00:00:00+03:00",
+     "upload": 6,
+     "download": 3
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S10] (1998-1999) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:424b66fb4eb69a84d9b195317bbd349117f09be0\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "7.57 GB",
+     "date": "2020-02-27T00:00:00+03:00",
+     "upload": 5,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S04] (1992-1993) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:0366b078070cafbb1550b17cbf1e956b67721cd4\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "7.03 GB",
+     "date": "2020-02-23T00:00:00+03:00",
+     "upload": 3,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S05] (1993-1994) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:d79c623c4eda284b7c8454769c3c7581f57e864b\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "8.41 GB",
+     "date": "2019-10-08T00:00:00+03:00",
+     "upload": 5,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S06] (1994-1995) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:97f007fc202dce65ce3c4b02a6732737eeb3532f\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "9.19 GB",
+     "date": "2019-10-04T00:00:00+03:00",
+     "upload": 4,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S07] (1995-1996) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:58d9f5bbdd02c623ff3de614c3322388eb76f4df\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "9.23 GB",
+     "date": "2019-10-01T00:00:00+03:00",
+     "upload": 4,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S12] (2000-2001) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:cff8b2119a04afd72fe89cb315bd46e4a12542df\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "7.70 GB",
+     "date": "2019-09-28T00:00:00+03:00",
+     "upload": 7,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S18] (2006) WEBRip-HEVC 720p | 2х2",
+     "magnet": "magnet:?xt=urn:btih:b47bcf734650451aeeed855cf621f474d7eebe3a\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "2.82 GB",
+     "date": "2019-09-28T00:00:00+03:00",
+     "upload": 5,
+     "download": 3
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S19] (2007) WEBRip-HEVC 720p | 2х2",
+     "magnet": "magnet:?xt=urn:btih:fd0f3b485c4c896ecfc14adbb73a92759e411eba\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "2.58 GB",
+     "date": "2019-09-28T00:00:00+03:00",
+     "upload": 7,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S11] (1999-2000) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:0393f23e94f266317e90cff636ce2505260d252e\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "7.77 GB",
+     "date": "2019-09-26T00:00:00+03:00",
+     "upload": 9,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S08] (1996-1997) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:50431e1c885aa3d47d075612fe4e29a4e7a2c550\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "8.86 GB",
+     "date": "2019-09-23T00:00:00+03:00",
+     "upload": 7,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S09] (1997-1998) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:e3471ad02df9e4c6b4c026ff83d337fa6cf0edda\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "7.43 GB",
+     "date": "2019-09-21T00:00:00+03:00",
+     "upload": 6,
+     "download": 3
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S30] (2018) WEBRip 1080p | Good People",
+     "magnet": "magnet:?xt=urn:btih:752b5ab3f7476e6973502b30c5af983cb79af273\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "14.98 GB",
+     "date": "2019-05-27T00:00:00+03:00",
+     "upload": 2,
+     "download": 3
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S30] (2018) WEB-DLRip | Good People",
+     "magnet": "magnet:?xt=urn:btih:3acfadbc9ba18b56537bfab5e23d80c5c0c7b89e\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "5.72 GB",
+     "date": "2019-05-25T00:00:00+03:00",
+     "upload": 7,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S01] (1989-1990) WEBRip-HEVC 1080p | Open Matte | 2х2",
+     "magnet": "magnet:?xt=urn:btih:378c548b87f45f7038240aa9db7c0a5a0912e152\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "3.43 GB",
+     "date": "2019-05-24T00:00:00+03:00",
+     "upload": 7,
+     "download": 3
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S30] (2018) WEBRip 1080p | VO-production",
+     "magnet": "magnet:?xt=urn:btih:beaebca6d946fe88f479aae64af1ac94f1d64f2c\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "13.65 GB",
+     "date": "2019-05-24T00:00:00+03:00",
+     "upload": 10,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S29] (2017-2018) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:85bc6c7c2429acbf9c58c4f37b168109eee944d6\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.96 GB",
+     "date": "2019-05-23T00:00:00+03:00",
+     "upload": 11,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S30] (2018) WEBRip 1080p | OMSKBIRD",
+     "magnet": "magnet:?xt=urn:btih:fa8aca3836c13c3a9923df3b6668f2500b0b2230\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "16.14 GB",
+     "date": "2019-05-16T00:00:00+03:00",
+     "upload": 0,
+     "download": 0
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S30] (2018) WEBRip 1080p | OMSKBIRD",
+     "magnet": "magnet:?xt=urn:btih:21c617e5e40c4f89f38a65a1c839c74bf26d7ccd\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "16.13 GB",
+     "date": "2019-05-14T00:00:00+03:00",
+     "upload": 5,
+     "download": 3
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S30] (2018) WEBRip 720p | OMSKBIRD",
+     "magnet": "magnet:?xt=urn:btih:2a4e73fec3a24807326f924bbf3a33b3f26bee86\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "10.72 GB",
+     "date": "2019-05-14T00:00:00+03:00",
+     "upload": 7,
+     "download": 3
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S30] (2018) WEBRip | OMSKBIRD",
+     "magnet": "magnet:?xt=urn:btih:82c4620f09ff83a944db7fc6357cd74ae1eadd63\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "6.73 GB",
+     "date": "2019-05-14T00:00:00+03:00",
+     "upload": 32,
+     "download": 5
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S26] (2014-2015) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:d996781fba0b463cd115cba87fd9213d6525484a\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.60 GB",
+     "date": "2019-04-18T00:00:00+03:00",
+     "upload": 6,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S25] (2013-2014) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:7b72499ede86be276fea89a334facad1b6e0846c\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.60 GB",
+     "date": "2019-04-18T00:00:00+03:00",
+     "upload": 4,
+     "download": 5
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S24] (2012-2013) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:3296ddee753cfe11954666d6b3c3cee7a869b4a0\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.80 GB",
+     "date": "2019-04-17T00:00:00+03:00",
+     "upload": 7,
+     "download": 3
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S23] (2011-2012) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:6b9796ca971037df4dff161199a8a42900993269\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.62 GB",
+     "date": "2019-04-17T00:00:00+03:00",
+     "upload": 4,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S22] (2010-2011) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:062e573babed9584e2611dd51953eb90735bc472\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.65 GB",
+     "date": "2019-04-17T00:00:00+03:00",
+     "upload": 2,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S21] (2009-2010) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:29677ae5e6f7ee9ca5df73b0973fb698433197cf\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.85 GB",
+     "date": "2019-04-17T00:00:00+03:00",
+     "upload": 6,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S20] (2008-2009) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:775b3a7475e62a4bba969c69feef59a0ec84629b\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.43 GB",
+     "date": "2019-04-16T00:00:00+03:00",
+     "upload": 1,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S17] (2005-2006) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:8072374070bed10838e781b82c16117c96f942b2\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.69 GB",
+     "date": "2019-04-16T00:00:00+03:00",
+     "upload": 3,
+     "download": 5
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S16] (2004-2005) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:55990e6990eb4b26c780725fdd293fb5b86455e1\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.47 GB",
+     "date": "2019-04-15T00:00:00+03:00",
+     "upload": 3,
+     "download": 0
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S15] (2003-2004) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:4acb604a1d48edf4f39cd8d24f059dcae5612a44\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.68 GB",
+     "date": "2019-04-15T00:00:00+03:00",
+     "upload": 4,
+     "download": 0
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S28] (2016-2017) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:4b128c4c822e1ef6a20ca7368a7006a998afe666\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "5.22 GB",
+     "date": "2019-04-14T00:00:00+03:00",
+     "upload": 4,
+     "download": 3
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S27] (2015-2016) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:2c8bb00b487a81ecafcb785c06332f865073446e\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "5.21 GB",
+     "date": "2019-04-14T00:00:00+03:00",
+     "upload": 4,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S14] (2002-2003) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:bdd1c9750b77c087f10fc6b8675f7b1b4e7b52c0\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.70 GB",
+     "date": "2019-04-13T00:00:00+03:00",
+     "upload": 3,
+     "download": 4
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S13] (2001-2002) WEBRip-HEVC 1080p | 2x2",
+     "magnet": "magnet:?xt=urn:btih:051005b00d7482514bd36651bc1c54e4b8b84288\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.76 GB",
+     "date": "2019-04-13T00:00:00+03:00",
+     "upload": 6,
+     "download": 3
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S02] (1990-1991) WEBRip-HEVC 1080p | Ren-TV",
+     "magnet": "magnet:?xt=urn:btih:c09598b181dc148e72f108943c3a585fb2e94509\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "6.99 GB",
+     "date": "2019-02-15T00:00:00+03:00",
+     "upload": 4,
+     "download": 5
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S01] (1989-1990) WEBRip-HEVC 1080p | Ren-TV, VO-production",
+     "magnet": "magnet:?xt=urn:btih:8782a2ba9416a11d92546c78297a6500fefb1c77\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "5.56 GB",
+     "date": "2019-02-05T00:00:00+03:00",
+     "upload": 1,
+     "download": 4
+    },
+    {
+     "name": "Симпсоны / The Simpsons [30x01-11 из 21] (2018) WEBRip 720p | IdeaFilm",
+     "magnet": "magnet:?xt=urn:btih:efd7e71fdcbf18e9b453e23d8e9d2d077ccf7ace\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "8.76 GB",
+     "date": "2019-02-01T00:00:00+03:00",
+     "upload": 0,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [30x01-11 из 21] (2018) WEBRip 1080p | IdeaFilm",
+     "magnet": "magnet:?xt=urn:btih:ccaa6318c20d5c3a2440fca369bfd8e1f5aedcb0\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "12.64 GB",
+     "date": "2019-02-01T00:00:00+03:00",
+     "upload": 0,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [30x01-11 из 21] (2018) WEBRip | IdeaFilm",
+     "magnet": "magnet:?xt=urn:btih:7af93f23b02b4c9c7756bc1017f4c573913835e8\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "3.26 GB",
+     "date": "2019-02-01T00:00:00+03:00",
+     "upload": 0,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S29] (2017) WEB-DLRip | Good People",
+     "magnet": "magnet:?xt=urn:btih:c274b8c159b7ac6765680e8db2d73d49f84a6187\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "6.18 GB",
+     "date": "2018-08-27T00:00:00+03:00",
+     "upload": 0,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S29] (2017) WEB-DL 1080p | Good People",
+     "magnet": "magnet:?xt=urn:btih:46290c41c5cbb4c7478b482ccd89264c55511481\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "13.70 GB",
+     "date": "2018-08-27T00:00:00+03:00",
+     "upload": 1,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons  [S29] (2017)  WEB-DLRip | VO-production",
+     "magnet": "magnet:?xt=urn:btih:9e243d64c4ca6eacea39f0db959bcc20efc01802\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "6.18 GB",
+     "date": "2018-05-29T00:00:00+03:00",
+     "upload": 4,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons  [S29] (2017)  WEB-DL 1080p | VO-production",
+     "magnet": "magnet:?xt=urn:btih:07385985497fd97e2772f5c81bdba2409bc67c4a\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "11.52 GB",
+     "date": "2018-05-29T00:00:00+03:00",
+     "upload": 1,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S29] (2017) WEBRip 720p | IdeaFilm",
+     "magnet": "magnet:?xt=urn:btih:92351d95246d023b3bff32464703ea084927f621\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "15.67 GB",
+     "date": "2018-05-24T00:00:00+03:00",
+     "upload": 1,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S29] (2017) WEBRip | IdeaFilm",
+     "magnet": "magnet:?xt=urn:btih:d8c9e13bc6dcafcb366f5f67407cefae4ad33520\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "5.98 GB",
+     "date": "2018-05-24T00:00:00+03:00",
+     "upload": 2,
+     "download": 3
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S29] (2017) WEBRip 1080p | IdeaFilm",
+     "magnet": "magnet:?xt=urn:btih:bb6198999a07d80e3079a4e6456e827ba1cf78a6\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "23.35 GB",
+     "date": "2018-05-24T00:00:00+03:00",
+     "upload": 0,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S29] (2017) HDTVRip |  OMSKBIRD",
+     "magnet": "magnet:?xt=urn:btih:bff09dc6eac548c7fe1e7b8426e451db24549528\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "6.56 GB",
+     "date": "2018-05-22T00:00:00+03:00",
+     "upload": 0,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S29] (2017) HDTVRip  720p |  OMSKBIRD",
+     "magnet": "magnet:?xt=urn:btih:1479f2f8e206da2b57b678dfb98a7d66bdad049e\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "9.95 GB",
+     "date": "2018-05-22T00:00:00+03:00",
+     "upload": 0,
+     "download": 0
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S29] (2017) HDTVRip 720p | SunshineStudio",
+     "magnet": "magnet:?xt=urn:btih:ea51d94504f4ae2dcbecff79ba6954acb6aa0337\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "6.47 GB",
+     "date": "2018-05-21T00:00:00+03:00",
+     "upload": 1,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S01-12] (1989-2001) DVDRip-HEVC | REN-TV",
+     "magnet": "magnet:?xt=urn:btih:955426b5b8cdd023559055d46cb2406f11fdc687\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "25.13 GB",
+     "date": "2017-11-01T00:00:00+03:00",
+     "upload": 6,
+     "download": 5
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S28] (2016) WEB-DLRip | VO-production",
+     "magnet": "magnet:?xt=urn:btih:e5a1ec9eaf1c5368acb6b3b95a03df328fc6fd76\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "5.39 GB",
+     "date": "2017-06-01T00:00:00+03:00",
+     "upload": 5,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S28] (2016) WEB-DL 720p | Jaskier",
+     "magnet": "magnet:?xt=urn:btih:a5168bbae39883b5b4eec19af33af57529f05fce\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "16.05 GB",
+     "date": "2017-05-26T00:00:00+03:00",
+     "upload": 1,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S28] (2016) WEB-DLRip | Jaskier",
+     "magnet": "magnet:?xt=urn:btih:e2574ccc686c5ec525d88892079f3c6b3d92aae7\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.57 GB",
+     "date": "2017-05-26T00:00:00+03:00",
+     "upload": 1,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S28] (2016) HDTVRip, WEB-DLRip | IdeaFilm",
+     "magnet": "magnet:?xt=urn:btih:b2216cae428162494669a57e4f56e4af0e0de87a\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "6.41 GB",
+     "date": "2017-05-24T00:00:00+03:00",
+     "upload": 1,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S28] (2016) HDTVRip, WEB-DLRip 720p | IdeaFilm",
+     "magnet": "magnet:?xt=urn:btih:3d9cffe121a9a6f8f0db6ba3efbc08df60723b5f\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "14.86 GB",
+     "date": "2017-05-24T00:00:00+03:00",
+     "upload": 0,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S28] (2016) WEB-DLRip | OMSKBIRD records",
+     "magnet": "magnet:?xt=urn:btih:52bd8485bed845c5ab9b482a1ff4209ab2c208ef\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "9.23 GB",
+     "date": "2017-05-24T00:00:00+03:00",
+     "upload": 0,
+     "download": 5
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S28] (2016) WEB-DL  720p |  OMSKBIRD",
+     "magnet": "magnet:?xt=urn:btih:36d85d22cceb62a93b8bca88c23f50c4e733279a\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "15.97 GB",
+     "date": "2017-05-24T00:00:00+03:00",
+     "upload": 0,
+     "download": 13
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S27] (2015) WEB-DLRip | OMSKBIRD records",
+     "magnet": "magnet:?xt=urn:btih:543260be7a922379446542dc508f60a3a67fb62b\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "8.53 GB",
+     "date": "2016-11-22T00:00:00+03:00",
+     "upload": 14,
+     "download": 5
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S13-26] (2001-2015) BDRip, HDTVRip, WEB-DLRip",
+     "magnet": "magnet:?xt=urn:btih:94b3e87eae8ba06ab7b0f3debfb227655282f3de\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "65.12 GB",
+     "date": "2016-07-02T00:00:00+03:00",
+     "upload": 3,
+     "download": 8
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S27] (2015) WEB-DL 720p |  OMSKBIRD records",
+     "magnet": "magnet:?xt=urn:btih:8f2ffc2cf7d386bfc537b62834d62d2229a8b77a\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "16.28 GB",
+     "date": "2016-06-07T00:00:00+03:00",
+     "upload": 2,
+     "download": 4
+    },
+    {
+     "name": "Симпсоны / The Simpsons [s27] (2015-2016) HDTV 720p | Jetvis Studio",
+     "magnet": "magnet:?xt=urn:btih:4a40fb9970ac48bc8588b01ac837a64ade802b87\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "5.54 GB",
+     "date": "2016-05-26T00:00:00+03:00",
+     "upload": 3,
+     "download": 4
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S07] (1995-1996) DVDRip-AVC от AEZ",
+     "magnet": "magnet:?xt=urn:btih:b385b8cf16376377a792588402fd539a39874f46\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "8.47 GB",
+     "date": "2015-10-03T00:00:00+03:00",
+     "upload": 3,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S06] (1994-1995) DVDRip-AVC от AEZ",
+     "magnet": "magnet:?xt=urn:btih:6edfd57f0ac9c3c71828f2bef53ff6b56591d2bf\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "8.47 GB",
+     "date": "2015-09-28T00:00:00+03:00",
+     "upload": 2,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S26] (2014) WEB-DL 1080p от MediaClub | P",
+     "magnet": "magnet:?xt=urn:btih:7bbe5f8c4ca491506347c2709013ed78ef62a5b2\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "23.12 GB",
+     "date": "2015-09-22T00:00:00+03:00",
+     "upload": 0,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S05] (1993-1994) DVDRip-AVC от AEZ",
+     "magnet": "magnet:?xt=urn:btih:e3108c43b84589022a4e7aa7dd2322e6f28ed13e\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "7.46 GB",
+     "date": "2015-09-19T00:00:00+03:00",
+     "upload": 2,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S04] (1992-1993) DVDRip-AVC от AEZ",
+     "magnet": "magnet:?xt=urn:btih:38192847c05e7e510e92cfdaef289f6aaba86c88\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "7.46 GB",
+     "date": "2015-09-12T00:00:00+03:00",
+     "upload": 2,
+     "download": 3
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S03] (1991-1992) DVDRip-AVC от AEZ",
+     "magnet": "magnet:?xt=urn:btih:2cda6352f26b8d49b2bfdf96269f22ade67e27fe\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "8.13 GB",
+     "date": "2015-08-27T00:00:00+03:00",
+     "upload": 1,
+     "download": 2
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S02] (1990-1991) DVDRip-AVC от AEZ",
+     "magnet": "magnet:?xt=urn:btih:bda427dfbd1ad1d8aeca966b87eb4b68e9651c75\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "7.45 GB",
+     "date": "2015-08-04T00:00:00+03:00",
+     "upload": 2,
+     "download": 3
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S01] (1989-1990) DVDRip-AVC от AEZ",
+     "magnet": "magnet:?xt=urn:btih:768606a153eee3b0e73d386296b946ee14ec17fb\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "4.40 GB",
+     "date": "2015-07-20T00:00:00+03:00",
+     "upload": 7,
+     "download": 4
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S26] (2014) WEB-DL 720p |  OMSKBIRD records",
+     "magnet": "magnet:?xt=urn:btih:e60299487674774eaa769aeb31ab28f26b457899\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "16.70 GB",
+     "date": "2015-06-23T00:00:00+03:00",
+     "upload": 3,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S25] (2013-2014) WEB-DL 720p | 2х2, Nice Media, VO-production",
+     "magnet": "magnet:?xt=urn:btih:1914943f759cb1f5f4ed2566abf395e715bcfc53\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "15.42 GB",
+     "date": "2014-10-05T00:00:00+04:00",
+     "upload": 0,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S25] (2013-2014) WEB-DLRip | 2х2, VO-production",
+     "magnet": "magnet:?xt=urn:btih:1f66e474fd86c9e0aacbc6d7e9b9db80cadc7180\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "7.90 GB",
+     "date": "2014-10-05T00:00:00+04:00",
+     "upload": 0,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S24] (2012-2013) WEB-DLRip |  2х2, VO-production",
+     "magnet": "magnet:?xt=urn:btih:5acf60ef4384a9e1a0a13147286d72010932b7e8\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "7.89 GB",
+     "date": "2014-08-26T00:00:00+04:00",
+     "upload": 0,
+     "download": 0
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S25] (2013-2014) WEB-DL 1080p от MediaClub",
+     "magnet": "magnet:?xt=urn:btih:5011b905ae0587c84407c38dc81619e258ca079c\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "17.80 GB",
+     "date": "2014-06-11T00:00:00+04:00",
+     "upload": 1,
+     "download": 0
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S25] (2013-2014) WEB-DL 720p | Nice-Media",
+     "magnet": "magnet:?xt=urn:btih:588c3a37dfe0c0aec1ec91fa01c2736b8e19714d\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "14.19 GB",
+     "date": "2014-06-08T00:00:00+04:00",
+     "upload": 1,
+     "download": 0
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S25] (2013-2014) WEB-DLRip | Nice-Media",
+     "magnet": "magnet:?xt=urn:btih:79ea055270fe624a37cf9fe52a1deed10ea33767\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "5.85 GB",
+     "date": "2014-06-08T00:00:00+04:00",
+     "upload": 1,
+     "download": 0
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S01-24] (1989-2012) HDRip",
+     "magnet": "magnet:?xt=urn:btih:c490b3a8aa9c996a745c430dedddd76c1654e034\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "133.84 GB",
+     "date": "2014-02-25T00:00:00+04:00",
+     "upload": 4,
+     "download": 9
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S23] (2013) WEB-DLRip 720p | VO-production,2x2",
+     "magnet": "magnet:?xt=urn:btih:d990ed8a7b2f4d2d1dde65fa3f0b5fd5ed9a0cfa\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "15.89 GB",
+     "date": "2014-02-15T00:00:00+04:00",
+     "upload": 0,
+     "download": 1
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S23] (2011) WEB-DLRip |2x2",
+     "magnet": "magnet:?xt=urn:btih:561648736143676c418d8cd1debecdda8d44d8e2\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "6.21 GB",
+     "date": "2013-10-23T00:00:00+04:00",
+     "upload": 1,
+     "download": 0
+    },
+    {
+     "name": "Симпсоны / The Simpsons [S23] (2013) WEB-DLRip 720p | VO-production,2x2",
+     "magnet": "magnet:?xt=urn:btih:e5d8fde9a8dab1fd64b4cf0d4a54374439bb5eb5\u0026dn=rutor.info\u0026tr=udp://opentor.org:2710\u0026tr=udp://opentor.org:2710\u0026tr=http://retracker.local/announce",
+     "source": "rutor.info",
+     "size": "15.72 GB",
+     "date": "2013-10-22T00:00:00+04:00",
+     "upload": 0,
+     "download": 1
     }
    ]
   },
@@ -22727,7 +24129,7 @@
    "title": "Агенты «Щ.И.Т.»",
    "video": false,
    "vote_average": 7.1,
-   "vote_count": 1834,
+   "vote_count": 1835,
    "created_by": [
     {
      "id": 12891,
@@ -24625,7 +26027,7 @@
    "title": "Люцифер",
    "video": false,
    "vote_average": 8.3,
-   "vote_count": 2891,
+   "vote_count": 2892,
    "created_by": [
     {
      "id": 1222585,
